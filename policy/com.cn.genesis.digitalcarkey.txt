@@ -1,0 +1,214 @@
+Privacy Policy (Published on August 8, 2023, Effective from August 15, 2023)
+
+Genesis Motors Sales (Shanghai) Co., Ltd.
+
+Your personal information security is of utmost importance to Genesis Motors Sales (Shanghai) Co., Ltd. ("Genesis" or "we"). In accordance with the laws and regulations, we will protect the security of your personal information and privacy. At the same time, we understand that you may be concerned about how your personal information is handled. Therefore, we have formulated this Privacy Policy ("Policy") to explain how we collect, use, disclose, share, store, and protect your personal information. This Policy applies to Genesis, its affiliates (controlled by or controlling Genesis, or entities jointly controlled by Genesis), and authorized third parties of Genesis and its affiliates. Please note that our official website, official applications, and other official authorized access paths ("Official Service Platforms") may contain links or references to other websites. We do not have control over these third-party websites. The content and policies in this Policy do not apply to services provided by unauthorized third parties through our Official Service Platforms.
+
+This Policy covers the following scenarios in which we may collect and use your personal information and other information related to you: (1) when you browse and use the Genesis mobile application and other software applications ("Genesis APP"), the Genesis Motors Sales (China) Co., Ltd. official website (https://www.genesis.com.cn/ "Genesis official website"), customer service call center, and other internet and mobile internet-based services provided by Genesis, including but not limited to mobile clients, software applications, websites, mini-programs, etc.; (2) when you interact with us through email, social media, or visiting stores online or offline; and (3) when you purchase and use products and services provided by Genesis (including Genesis and its affiliates and authorized parties).
+
+Please read and understand this Policy carefully before using our products or services. By clicking "Agree" or similar options, or using any of our products or services, you are deemed to have agreed that we may legally process your personal information in accordance with this Policy.
+
+Through this Policy, you can learn the following:
+
+Article 1: How we collect your personal information
+Article 2: How we store and protect your personal information
+Article 3: How we use your personal information
+Article 4: How we handle, share, transfer, and disclose your personal information
+Article 5: Third parties collecting personal information through our Official Service Platforms
+Article 6: Your rights
+Article 7: Protection of minors
+Article 8: Notifications and amendments
+Article 9: How to contact us
+
+Article 1: How we collect your personal information
+For the purpose of providing Genesis products and services, we collect and use your personal information based on the principles of legality, legitimacy, and minimal scope specified in this Policy. In this Policy, the information provided by you related to yourself and the information legally and legitimately collected by us are referred to as "Personal Information." If we use personal information for purposes or objectives not specified in this Policy, we will seek your prior consent. The information we collect may include your personal sensitive information (underlined to draw your attention).
+
+The main categories of personal information that we may collect and use regarding you or your use of Genesis products and services include the following:
+
+Personal information and information about your electronic devices that we obtain when you use the Genesis official website, Genesis APP, customer service call center, or other internet/mobile internet services;
+You can browse and use the basic functions of the Genesis official website, Genesis APP, customer service call center, or other internet/mobile internet services without registering an account or providing your name and contact information. However, to order a vehicle through the Genesis official website, use the after-sales service mini-program, and/or register for the Genesis APP, registration is required. When registering an account, you need to provide your real name, mobile phone number, email address, and social media account information associated with our account (such as avatar, nickname, account number).
+Participation in activities: Depending on the situation, you may need to provide your real name, gender, mobile phone number, and relevant information about your city.
+COOKIES: To provide you with personalized and faster services, we may understand your use of the Genesis website and APP (operation records, browsing records, comment posts, sharing records), as well as your IP address, network status, and location information through COOKIES and other technologies. If you do not agree to the use of COOKIES, you can manually disable or change the COOKIES settings.
+When you browse or use our products and services through other online platforms (such as various social media platforms), we may obtain the information you actively provide through forms (including your name, mobile phone number, interested vehicle model, province/city), platform ID (such as Open ID, Lead ID), visit records, browsing records, and device identifiers (Device ID). This information will be used to enhance our personalized services.
+
+Your personal information that we obtain when you inquire about, purchase, and use Genesis automotive products or services;
+Test drive appointment service: Real name, valid ID card number, mobile phone number, driver's license, preferred vehicle model, gender, your location information (such as province/city).
+Vehicle ordering and services: Real name, valid ID card number, mobile phone number, payment account, delivery address (5 types of information). If you choose someone other than yourself to receive the vehicle and invoice, you also need to provide the recipient's real name, contact information, valid ID card number, and address (4 types of personal information). When providing the above personal information, you need to ensure that you have obtained legal authorization.
+Order management: Information about the products and/or services you purchased, order number, order creation time, amount payable, and order status.
+Customer service and dispute resolution: Real name, mobile phone number, vehicle model, license plate number, vehicle identification number (VIN) (5 types of personal information), as well as communication and call records with us, account information, order information, and other information you provide.
+
+In the following cases, we may collect and use personal information without obtaining your authorization:
+
+Involving national security and interests, social public interests;
+Necessary for us to perform our statutory duties or obligations;
+Necessary for the conclusion or performance of a contract at your request;
+Necessary to protect your and others' lives, health, and property safety in the event of a public health emergency or emergency situation;
+Regarding personal information that you voluntarily make public to the public;
+Other circumstances as stipulated by laws and administrative regulations.
+
+Article 2: How we store and protect your personal information
+We will retain your personal information generated during your use of the Genesis official website, Genesis APP, or in other scenarios stipulated in this Policy. If you cancel your account or delete your personal information, we will stop using and delete or anonymize your personal information in accordance with the relevant laws and regulations.
+
+We will adopt security protection measures in accordance with national regulations and industry standards, and take all reasonable and feasible measures to protect the security, accuracy, and timeliness of your personal information. Unless with your consent or based on the purposes of personal information collection listed in this Policy, we promise not to process, tamper with, damage, or use your personal information without authorization.
+
+The personal information collected by us in accordance with this Policy will be stored for the following longest periods: (i) the time necessary for the relevant actions; (ii) the maximum storage period allowed by applicable laws and regulations. After the stipulated storage period expires, we will delete or anonymize your personal data.
+
+Our products and services are controlled and operated by our headquarters in South Korea. Information about you or your use of our products or services may be stored and processed in any country/region where we have institutions or employ service providers. The data protection laws in these countries/regions may differ from those in our country/region. When we transfer information about you or your use of our products or services to other countries/regions, we will protect it in accordance with the provisions of this Policy. You may exercise your statutory rights by contacting us through the contact information provided in this Policy.
+
+You are aware that the above information may be transferred overseas or accessed from overseas. Such cross-border transfers may include the following scenarios:
+
+Serial number	Overseas recipient	Contact information	Personal information types	Transmission purpose	Transmission method
+1
+
+Salesforce
+
+82-2-6353-4528
+
+Name, mobile number, gender, nationality, ID card number, occupation, WeChat account, address, driver's license, vehicle registration certificate
+
+Provide vehicle sales-related services
+
+Automatically transmit and batch process newly created/modified information using the SaaS platform
+
+Article 3: How we use your personal information
+In order to provide you with satisfactory products and services, improve the quality of our services, and optimize your service experience, we will use your personal information in accordance with the laws or with your authorized consent, mainly for the following purposes (referred to as "Personal Information Collection Purposes"):
+
+Provide you with Genesis brand products and services you use, communicate with you in a timely manner about your use of Genesis products or services, respond to your inquiries and requests, and provide after-sales service and support.
+We may combine personal information from a specific product or service with information obtained through other legitimate channels to recommend content that may be of interest to you, and personalize recommendations for the products or services we recommend to you. You have the right to refuse our personalized customization and can disable this operation in the corresponding website, mini-program, official account, or other media platforms. If you want guidance on how to disable this operation, you can contact us via the email address find.us@genesis.com.cn or call our customer interaction center at 400-7080-900.
+We will send you product/important notifications, timely inform you of information about our latest products, services, derivative products and services, recalls and market actions, event previews, lottery, contests, or promotional activities. However, you have the right to unsubscribe from these notifications through the Genesis official website, Genesis APP, customer service call center, or the unsubscribe methods/mechanisms provided in these notifications.
+Use your personal information for data analysis and research for internal purposes, in order to improve our products, services, and communication with you.
+Handle, manage, and track your inquiries, purchases, and use of Genesis automotive products and services, process, manage, and track your product browsing, orders, delivery, and after-sales service-related information.
+Manage and improve the Genesis official website, Genesis APP, or other internet/mobile internet services.
+If your personal information is used beyond the scope of this Policy, we will obtain your consent before such use.
+
+Article 4: How we handle, share, transfer, and disclose your personal information
+Commission processing
+Certain specific modules or functions of Genesis products and services may be provided by external suppliers. When companies, organizations, and individuals entrusted by us handle personal information, we will sign strict confidentiality agreements with them and require them to process personal information in accordance with our requirements, this Personal Information Protection Policy, and any other relevant confidentiality and security measures.
+
+For the purpose of product promotion or facilitating service implementation, we may entrust specific media service providers and data analysis service providers to assist us in processing your related information. We will provide or share your personal information with relevant third-party service providers within the necessary scope based on the analysis results to recommend products, services, or other content that you may be interested in.
+
+Sharing
+Without your explicit consent or authorization, we will not provide your personal information to unauthorized third parties. However, since some services need to be provided by authorized partners, we may need to provide your personal information to authorized partners, but we will only share your personal information for legitimate, reasonable, and explicit reasons. You hereby agree that we may provide your personal information to the following partners:
+To verify the authenticity of your identity and ensure the validity of transactions, we may need to securely verify the information you provided (if any). In this case, you agree that we may share the relevant information you provided with qualified third parties for real-name authentication.
+If you choose to receive products through a cooperative experience store, we need to share the information you provide with the cooperative experience store you choose so that they can contact you and confirm the order information.
+If you choose a location for product delivery outside of a cooperative experience store, in order to ensure that the purchased products and/or services can be delivered smoothly, safely, and accurately, we need to disclose order-related delivery information to logistics companies that provide logistics services for Genesis. You understand and agree that the logistics service provider will inevitably obtain and use your delivery information for the purpose of completing the delivery. To keep us informed of and confirm the delivery progress and status in a timely manner, and to provide you with after-sales and dispute resolution services, you agree that we may obtain information related to the delivery progress from the logistics company.
+Since the vehicle test drive service is provided by our cooperative experience stores, we need to share the corresponding information you provide with the cooperative experience store you choose, so that they can contact you to confirm specific matters related to the vehicle test drive.
+In order to provide you with a richer and more convenient service experience, we have provided you with a variety of products or services provided by third-party service providers. Based on the functions you actually choose, we may need to provide or share the following personal information with relevant third-party service providers within the necessary scope:
+Platform name	Third-party name	Contact information	Processing purpose	Personal information types
+Star Charging WeChat mini-program
+
+Wanbang Star Charging Technology Co., Ltd.
+
+400-8280-768
+
+Issuing charging service fee invoices
+
+Individual invoice information: mobile number/email address/mailing address
+Enterprise invoice information: mobile number/email address/mailing address/enterprise information
+
+Gino Rescue WeChat mini-program
+
+Fujian Gino Vehicle Service Co., Ltd.
+
+400-119-9595
+
+Provide towing and charging services
+
+Name, mobile number, pick-up address, vehicle information (license plate, vehicle identification number)
+
+Our Official Service Platforms may include third-party SDKs or similar plugins or code. When you use these services provided by third parties through our service platforms, you agree that these third parties may directly collect and process your information (in the form of embedded code, plugins, etc.). The details are as follows:
+
+Platform name	SDK service provider	SDK type	SDK functions and purposes	SDK privacy policy link
+Udesk omnichannel customer service system
+
+Beijing Wofeng Era Data Technology Co., Ltd.
+
+Statistical analysis type
+
+Online customer service.
+
+https://www.udesk.cn/terms_service.html
+
+Adobe Experience Platform SDK
+
+Adobe Systems Software Ireland Limited
+
+Statistical analysis type
+
+Analyze user behavior such as browsing and clicks within the mini-program to better optimize the user experience of the mini-program.
+
+https://www.adobe.com/cn/privacy/policy.html
+
+Comprehensive collection and growth analysis (Quick Tracking)
+
+Hangzhou Lingyang Intelligent Service Co., Ltd.
+
+Statistical analysis type
+
+Behavior collection and analysis of application terminals to improve user experience.
+
+https://www.lydaas.com/wow/z/lydaas/default/personal-information-protection?spm=a1z24v7z.27090185.6248881200.26.5eb356d2leg49q
+
+In addition, we may share your personal information according to the provisions of laws and regulations, or mandatory requirements from government authorities.
+
+Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following cases:
+Transfer with explicit consent: With your explicit consent, we may transfer your personal information to other parties;
+Involving merger, acquisition, or bankruptcy liquidation, if personal information transfer is involved, we will require the new company or organization holding your personal information to continue to be bound by this Policy. Otherwise, we will require that company or organization to seek your authorization again.
+
+Disclosure
+We will only disclose your personal information in the following circumstances:
+With your explicit consent;
+Based on legal disclosure: In the case of laws, regulations, legal procedures, litigation, or mandatory requirements from government authorities, we may disclose your personal information.
+
+Article 5: Third parties collecting personal information through our Official Service Platforms
+Some of our services allow you to publicly share relevant information with all users, such as information you upload or post in our services or your responses to information uploaded or posted by others. Other users of our services who use the same service may also share information related to you. As long as you do not delete it, the relevant information will remain in the public domain. Even if you delete the relevant information, such information may still be independently cached, copied, or stored by other users or non-affiliated third parties beyond our control, or saved by other users or such third parties in the public domain. Genesis Motors bears no responsibility for this.
+
+You understand and agree that Genesis bears no responsibility for the personal information collected, used, shared, or disclosed by third parties that collect and share or disclose your personal information independently through our website, products, or services.
+
+To ensure a smooth service experience, you may receive content from our partners, such as financial companies/institutions or real-name authentication technical service providers. We have no control over such third parties. We will obtain your explicit consent, and you can choose whether to access links, content, products, and services provided by third parties. We have no control over the personal information protection policies of third parties and such third parties are not bound by the policies stated in this Policy. Before submitting personal information to such third parties, please refer to the personal information protection policies of these third parties.
+
+Article 6: Your rights
+You can access and manage your information through the following methods:
+
+Inquire, correct, and supplement your information
+When you find errors in the personal information we process about you and verify your identity, we will correct or update the incorrect or incomplete information after verifying your identity, without affecting the objectivity and accuracy of the information. You can contact us using the methods listed in the "Contact Us" section below.
+
+Delete your information
+In the following situations, you can request us to delete your personal information:
+If our processing of personal information violates laws and regulations;
+If we collect and use your personal information without obtaining your consent;
+If our processing of personal information violates the agreement with you;
+If the agreed personal information storage period exceeds;
+If we no longer provide products or services to you.
+
+If we decide to respond to your request for deletion, we will also notify the entities that have obtained your personal information from us and request them to delete it in a timely manner, unless otherwise provided by laws and regulations or unless these entities have obtained your separate authorization.
+After you delete information from our system, we may not immediately delete the corresponding information in the backup system, but we will delete this information when the backup is updated.
+
+Change the scope of your authorized consent
+Some business functions require some basic personal information to be completed. For the collection and use of additional personal information, you can give or withdraw your authorized consent at any time. You can contact us using the methods listed in the "Contact Us" section below. After you withdraw your consent, we will no longer process the corresponding personal information. However, the decision to withdraw consent will not affect the processing of personal information carried out based on your previous authorization.
+
+For your requirements
+To ensure security, you may need to provide a written request or other means to prove your identity. We may request you to verify your identity first and then process your request. We will respond or provide a reasonable explanation within 15 days. For your reasonable requests, we generally do not charge fees, but for repeated requests or requests beyond a reasonable limit, we will charge a certain cost. We will not be able to respond to your request in the following situations:
+Related to the performance of obligations by the
+Article 7: Protection of minors
+Protecting the privacy of minors is of utmost importance to us. If you are under the age of 18, please read this Policy together with your legal guardian and obtain his or her prior consent before using our products or services, or providing us with your personal information.
+
+If we find that we have collected personal information from a minor without the prior consent of his or her legal guardian, we will take steps to delete the information as soon as possible.
+
+If you are a guardian of a minor and believe that the minor has provided us with personal information without your consent, please contact us using the contact information provided in this Policy.
+
+Article 8: Notifications and amendments
+We may modify or amend this Policy from time to time. If there are significant changes to this Policy, we will notify you through appropriate means, such as publishing a notice on our official website or sending you a notification. By continuing to use our products or services, you are deemed to have agreed to be bound by the modified or amended Policy.
+
+Article 9: How to contact us
+If you have any questions, comments, or suggestions regarding this Policy or our handling of your personal information, please contact us using the following information:
+
+Customer Interaction Center:
+- Phone: 400-7080-900
+- Working hours: Monday to Sunday, 9:00 - 18:00
+- Email: find.us@genesis.com.cn
+
+We will respond to your inquiries and requests as soon as possible within a reasonable time frame.
+
+Thank you for taking the time to read our Privacy Policy. We value your privacy and will continue to take all necessary measures to protect your personal information.

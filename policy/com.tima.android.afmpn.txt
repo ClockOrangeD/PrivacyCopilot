@@ -1,0 +1,70 @@
+Smart Trumpchi privacy strategy
+Update date: November 11, 2022
+Effective date: November 11, 2022
+In order to fully protect your rights, we have updated "Smart Chuanqi Privacy Strategy", mainly adding "Personal Information Collection List" and "Third -Party SDK Catalog". You can view in the information 1.1 and 1.10 we collected. Essence
+You are welcome to use Wisdom Trumpchi Service (hereinafter referred to as "Smart Trumpchi Service"). In order to experience the smart Chuanqi service happily, please read the smart Chuanqi service privacy strategy (hereinafter referred to as the "privacy strategy") before use. The content of the content is agreed to collect, store, use, and provide relevant information about your privacy strategy.
+Smart Trumpchi is a product developed and operated by GAC Trumpchi owners developed and operated by the Internet Technology Co., Ltd. (hereinafter referred to as "we"). In order to explain how wisdom Trumpchi will collect, store, use, and provide your personal information to the outside world, we will explain related matters to you through this privacy strategy. The points are as follows:
+i. We will explain the types of your personal information and its corresponding uses we collected one by one, so that you can understand the category, use reasons and collection methods we collected for a specific function.
+II. When you use some functions, we will collect some of your sensitive information after obtaining your consent. For example, when you are positioning vehicle positioning, we will collect your location information, unless you must collect it in accordance with the requirements of relevant laws and regulations. Rejecting this information only makes you unable to use relevant features, but does not affect other functions of your normal use of Chuanqi. For personal sensitive information, we will make a significant identification in this privacy strategy, please pay attention to read it carefully.
+III. We will share your vehicle -related information strictly in accordance with the privacy strategy. If it exceeds the scope of this privacy strategy description, we will tell you again and obtain your explicit consent.
+IV. You can query and correct your personal information through the way listed in this privacy strategy. You can also exercise your related rights by withdrawing consent and complaining.
+If you want to know more detailed information, read the corresponding chapter according to the following index:
+1. The information we collect
+2. Storage of information
+3. Information security
+4. How do we use information
+5. Provide outside
+6. Your rights
+7. Change
+8. Minor protection
+9. Contact us
+1. The information we collect
+In the process of using Wisdom Trumpchi's service, Smart Chuanqi will collect information you provide or due to service when using the service as follows, to provide you with services, optimize our services, and guarantee your account safety:
+1.1 When you register for Smart Trumpchi service, we will collect your name, mobile phone number, vehicle VIN code, engine number, certificate type, certificate number, emergency contact number, and car purchase dealer. Smart Chuanqi register to protect your security of Chuanqi account. The mobile phone number is a sensitive information. The collection of such information is to meet the real -name system requirements of relevant laws and regulations. If you do not provide such information, you may not be able to register our services normally.
+Information collection details
+Personal information field of business scenario collection purpose collection method
+Register, log in, and bind to complete the registration, login and vehicle binding users enter avatars, nicknames, mobile phone numbers, gender, certificate type, certificate number, frame number, engine number, emergency contact number, car purchase distribution business
+Positioning is used to provide users with functional information -based functions or service apps to collect mobile phone equipment location information and vehicle location information
+Reading device information is used to determine the status of the user's telephone, ensure that the phone priority and the software of the software running the app collecting equipment call status and recognition code
+When reading media files, users need to visit user photos and media file app collecting photos and media files when replacing avatar
+1.2 When you use Smart Chuanqi service, to ensure your normal use of our services, maintain the normal operation of our service, improve and optimize our service experience, and ensure your account security, we will collect your device model, operating system system, operating system system , The unique device identifier, device identifier (Android, such as IMEI, Androidid, Meid, hardware serial number), network device hardware address (MAC address), acquisition of installed app information, login IP address, smart Trumpchi software version number, connection The way to enter the network, type and status, network quality and data, operation logs, service log information (such as information such as searching, checking information, service failure information and other information such as Smart Chuanqi), this kind of information is necessary for providing services. Basic information collected.
+1.3 When you use the remote control function of Smart Trumpchi, your operation records and operation time will be stored in our server because storage is necessary to implement this function. Unless you choose or comply with relevant laws and regulations, we will not provide the above remote control operation information, or use it for other purposes other than this function.
+1.4 When you use Wisdom Trumpchi's vehicle positioning and car search function, we will record your geographical location information after obtaining your autonomous choice, the purpose is to provide you with the service. This information is a sensitive information. Rejecting to provide this information will only make you unable to use the above features, but it does not affect other functions of your normal use of Chuanqi.
+1.5 When you use Wisdom Trumpchi to interoperate with other software or hardware, other software or hardware providers can obtain relevant information that you take the initiative to open or transmit in Smart Chuanqi after you consent. Product function and information protection strategies of other software or hardware.
+1.6 Third -party services in Smart Trumpchi Service are provided by the external third -party subject. Wisdom Chuanqi cannot get information generated by your third -party service when using this type of third -party service. However, if you have explicitly agreed that the third party will get your geographical location information, the third party will obtain your terminal geographical location information through your terminal device. This information is a sensitive information. Rejecting to provide this information will only make you unable to use the above third -party services, but it does not affect your normal use of Wisdom Trumpchi.
+Geographical location, driving historical trajectory), vehicle status information, vehicle accident related information, automatic vehicle automatic driving function, vehicle driving behavior data, and other information about vehicle safety and availability information and road traffic conditions. Provide you with normal car network services. If you do not provide the aforementioned authority and related information, you may not be able to use the connected function of the car, but it will not affect your normal use of other functions.
+1.8 In addition, according to relevant laws and regulations and national standards, in the following situations, we may collect and use your relevant personal information without soliciting your authorization consent:
+1) Directly related to national interests such as national security and national defense security; directly related to public safety, public health, public knowledge and other major public interests;
+2) Directly related to criminal investigation, prosecution, trial, and judgment execution;
+3) For major legitimate rights and interests such as the life, property, and reputation of you or other individuals, it is difficult to get my consent;
+4) The collected personal information is made by your own public;
+5) Collect personal information from the information disclosed by legal and publicly disclosed, such as legal news reports, government information disclosure and other channels;
+6) Signing and fulfilling the contract according to your requirements;
+7) The necessary and stable operation of the products or services provided by the product provided, such as the failure of discovering and disposing of products or services;
+8) It is necessary to carry out legal news reports;
+9) For the need to carry out statistics or academic research in public interests, and the results of academic research or descriptions, the personal information contained in the result is identified by
+10) Other circumstances stipulated in laws and regulations.
+Please understand that the functions and services we provide to you are constantly updated and developed. If a function or service is not in the aforementioned and collected your information, we will use page prompts, interactive processes, website announcements, etc. Explain the content, scope and purpose of information collection to you to obtain your consent.
+1.9 Please note that our third -party partners (such as: third -party service providers, agents, advertising partners, etc.) may have their own privacy protection policies; when you check the web pages created by a third party or use third -party development When applying, these third parties may place their own cookies or network Beacon. These cookies or network beacons are not controlled by us, and their use is not bound by this privacy strategy. We will strive to ask these subjects to take protection measures on your personal information, but we cannot guarantee that these subjects will take protection measures in accordance with our requirements. Please contact them directly to obtain detailed situations about their privacy policy. If you find that these third -party web pages or applications developed by third -party development are risky, it is recommended that you terminate related operations to protect your legitimate rights and interests.
+1.10 third -party SDK directory
+Third -party SDK list
+Aurora push SDK to provide users with message push, execute results push
+Function type message push SDK
+Involved information equipment information
+Official website link https://www.jiguang.cn/
+Gaode Map SDK uses the purpose to provide users with vehicle positioning and equipment positioning
+Function type location Get SDK
+Involved information equipment information
+Official website link https://www.amap.com/
+Friend League SDK uses the purpose of statistical users common functions and use periods
+Function Type Statistics SDK
+Involved in information equipment information, device serial number
+Official website link https://www.umeng.com/
+The purpose of Tencent Bugly SDK is to improve service stability, and facilitate the rapid and accurate positioning of related services after the collapse.
+Function Type Statistics SDK
+Operating system version, operator code, app running status, flashback, stuck, network information, log information, SIM serial number
+Official website link https://bugly.qq.com/v2/
+1.11 About service
+When you use this APP, in order to allow you to receive the operating status of the device in time, we will use the self -starting service to push you to change the message.
+
+5.1 When you use the connected function of the car, we may provide your vehicle VIN code, vehicle operation, performance, status and road conditions information to GAC Trumpchi vehicle manufacturers (including speed information, mileage meter readings, geographical location, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving, driving Historical trajectory), vehicle status information, vehicle accident related information, automatic vehicle automatic driving function, vehicle driving behavior data, and other information and road traffic status information about vehicle safety and availability are used to provide networking services.

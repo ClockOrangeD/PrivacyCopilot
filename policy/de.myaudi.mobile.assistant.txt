@@ -1,0 +1,385 @@
+In this data protection information pursuant to Art. 13 and 14 of the EU's GDPR, we inform you about the processing of your personal data by AUDI AG, Auto-Union-Straße 1, 85057 Ingolstadt ("us" or "we") in connection with the website www.audi.com.
+
+ 
+
+On our website www.audi.com, you will find information that is relevant to the company AUDI AG.
+
+ 
+
+Personal data is all information that relates to an identified or identifiable natural person. An identifiable natural person is anyone who can be identified directly or indirectly, in particular, by means of reference to an identifier such as a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Processing means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, reading, retrieval, use, disclosure by transmission, dissemination or another form of making the data available, reconciliation or combination, restriction, erasure or destruction.
+
+ 
+
+This Privacy Policy outlines how AUDI AG processes your personal data within the context of the website www.audi.com and the applications offered within it. Other websites or other data processing by AUDI AG may be subject to separate privacy policies (e.g., www.audi.com/connect).
+
+ 
+
+ 
+
+1. Who is responsible for the data processing (the data controller) and who can I contact?
+
+ 
+
+The data controller who is responsible for the processing of your personal data is:
+
+ 
+
+AUDI AG, Auto-Union-Straße 1, 85057 Ingolstadt.
+
+ 
+
+If you have any concerns about data protection, you can also contact our company data protection officer:
+
+ 
+
+AUDI AG, Data Protection Officer, 85045 Ingolstadt.
+
+Email: datenschutz@audi.de
+
+ 
+
+If you want to assert your data protection rights, please use the contact options available at
+
+ 
+
+https://betroffenenrechte.audi.de/
+
+ 
+
+There, you will find further information on how you can assert your data protection rights.
+
+ 
+
+You can also contact the following address by post:
+
+AUDI AG, GDPR Data Subject Rights, 85045 Ingolstadt
+
+ 
+
+If you have general questions about this Privacy Policy or the processing of your personal data by AUDI AG, please use the following contact options:
+
+ 
+
+Audi Customer Care Germany, Postfach 10 04 57, 85045 Ingolstadt
+
+Email: websupport@audi.de
+
+ 
+
+ 
+
+2. What data do we process, and what sources does it come from?
+
+ 
+
+2.1 Access to the website
+
+ 
+
+In principle, you can use the website without providing any personal data. Each time you use the website, your internet browser automatically transmits certain information and saves it in so-called log files.
+
+ 
+
+In particular, the following information is transmitted automatically:
+
+IP address (internet protocol address) of the end device from which the online offering is accessed
+Internet address of the website from which the online offering was accessed (so-called origin or referrer URL)
+Name of the service provider through whom the online offer is accessed
+Name of the files or information accessed
+Date and time as well as duration of the accessing
+Data volume transferred
+Operating system and information about the internet browser used, including installed add-ons (e.g., for the Flash Player)
+HTTP status code (e.g., "Request successful" or "Requested file not found")
+In the log files, the above data is stored without your full IP address, which means that no conclusions can be drawn about your IP address.
+ 
+
+2.2 Content delivery network
+
+ 
+
+We use a so-called content delivery network to deliver our website content and to increase the delivery speed and security of our website.
+
+ 
+
+The following data is processed by the content delivery network in log files:
+
+IT usage data, such as the IP address (Internet protocol address) of the end device from which the online offering is accessed
+The URLs of the visited website
+The date and time of access; the location based on the IP address
+The location of the content delivery server
+ 
+
+Further information about the recipients and any third country transfers can be found in Section 4 and Section 5.
+
+ 
+
+ 
+
+2.3 Use of the website/data provided by you
+
+ 
+
+The use of certain services requires the registration or the provision of personal data. In addition, we process particular personal data of yours when you contact us via the website. We process the data that you provide when using the following functionalities:
+
+ 
+
+Career and survey chatbot: This website uses the chatbot to provide answers to users' questions regarding their career at Audi as well as to carry out surveys anonymously. The chatbot does not collect or process any personal data for behavioural analysis. Usage data such as chat duration, timestamps of the messages, number of dialogues and approximate location of the users are stored anonymously for statistical purposes only. In addition, customer queries are stored and processed for a maximum of 7 days in order to process their matter and for internal purposes, e.g., to control and improve our business and service processes (Art. 6 para.1. (b), Art 6 para. 1. (f) GDPR).
+
+ 
+
+Email address vulnerability@audi.de: You can use this email address to send us information about cyber security vulnerabilities/incidents or hacker attacks. We process the information provided in your email and your provided contact details in order to process your message, and we use them for further queries if necessary. Insofar as is necessary to deal with your concern, we transmit the information to other corporate brands of the VW Group and/or service providers as well as suppliers of hardware and software, e.g., control units. We only pass on information that does not allow the recipient to draw any conclusions about the person who sent the message. If we also pass on the vehicle identification number in order to deal with the message, we ensure compliance with data protection regulations by means of corresponding data protection agreements.
+
+ 
+
+ 
+
+3. For what purposes do we process your data and on what legal basis?
+
+ 
+
+We process your personal data for various purposes in accordance with the provisions of the General Data Protection Regulation (GDPR) and the Federal Data Protection Act (BDSG).
+
+ 
+
+The processing of your personal data must be based on one of the following legal bases:
+
+You have given your consent (Art. 6 para. 1. (a) GDPR)
+The processing is necessary in order to fulfil a contract with you or to fulfil pre-contractual measures taking place at your request (Art. 6 para. 1. (b) GDPR)
+The processing is necessary to fulfil a legal obligation under EU law or the law of an EU Member State to which we are subject (Art. 6 para. 1. (c) GDPR)
+The processing is necessary to protect your vital interests or those of another person (Art. 6 para. 1. (d) GDPR)
+The processing is necessary in order to perform a task assigned to us that is carried out in the public interest or in the exercise of official authority (Art. 6 para. 1. (e) GDPR)
+The processing is necessary in order to safeguard the legitimate interests of AUDI AG or a third party, except where such interests are overridden by your interests or fundamental rights and freedoms which require protection of personal data, in particular when pertaining to a child (Art. 6 para. 1. (f) GDPR)
+ 
+
+If, in exceptional cases, we process special categories of personal data (data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership, as well as the processing of genetic data, biometric data to uniquely identify a person, health data or data concerning sexual life or sexual orientation) about you, one of the following legal bases must also apply:
+
+You have given your express consent (Art. 9 para. 2. (a) GDPR)
+The processing is necessary in order to protect your vital interests or those of another person, and the data subject is unable to give his or her consent for physical or legal reasons (Art. 9 para. 2. (c) GDPR)
+The processing refers to personal data that you have manifestly made public (Art. 9 para. 2. (e) GDPR)
+The processing is necessary to assert, exercise, or defend legal claims (Art. 9 para. 2. (f) GDPR)
+The processing is necessary for reasons of substantial public interest on the basis of Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject (Art. 9 para. 2. (g) GDPR)
+ 
+
+Building on the above remarks, we process your personal data on the basis of the following legal bases for the following purposes:
+Purposes	Legal basis	Legitimate interest in balancing interests
+Provision of the website to the general public and for the purpose of making contact possible for customers and interested parties
+Performance of contract or balancing of interests
+We have a legitimate interest in also providing an internet presence for non-registered users, in order to provide general information about our company.
+Collection of statistical information about the use of the website (so-called web analysis)
+Balancing of Interests
+We have a legitimate interest in receiving information about the use of the website, in particular, to improve our offering.
+Determining malfunctions and ensuring system security, including detecting and tracking unauthorised access attempts and accessing of our web servers
+Fulfilment of our legal obligations in the field of data security and balancing of interests
+We have a legitimate interest in eliminating malfunctions, ensuring system security and detecting and tracking unauthorised access or attempted access.
+Delivery of website content and increasing the delivery speed and security of our website.
+Balancing of Interests
+We have a legitimate interest in delivering our website content and increasing the delivery speed and security of our website.
+Safeguarding and defending our rights
+Balancing of Interests
+We have a legitimate interest in asserting and defending our rights.
+Processing your enquiries, matters and feedback
+Fulfilment of a contract or balancing of interests
+We have a legitimate interest in processing and considering your comments and feedback.
+3.1 Is there an obligation to provide personal data?
+
+ 
+
+In the context of our business relationship, you must provide those items of personal data that are necessary to establish and implement a business relationship or which we are legally obliged to collect. Without these items of data, we will usually have to refuse to conclude the contract or to execute the order, or we will no longer be able to execute an existing contract and may have to terminate it.
+
+ 
+
+ 
+
+4. Who will receive my data?
+
+ 
+
+Due to the extent and complexity of the data processing by AUDI AG, it is not possible to list each recipient of your personal data individually in this Privacy Policy, which is why only categories of recipients are usually specified.
+
+ 
+
+Within AUDI AG, those entities that need your data in order to fulfil our contractual and legal obligations as well as to pursue legitimate interests (e.g.: IT, sales) receive your data.
+
+ 
+
+Service providers deployed by us and acting on our behalf (so-called processors) who assist with data processing on our behalf also receive data for these purposes. Service providers can also be commissioned to provide server capacity. Specifically, this includes companies in the following categories:
+
+Tracking service providers
+Web agencies
+Hosting providers and IT service providers
+Content delivery network providers
+Customer support (Audi Interaction GmbH)
+ 
+
+In principle, we will only transfer your personal data to third parties if this is necessary to fulfil a contract, if we or the third party have a legitimate interest in it being passed on, or if you have given your consent to this. In addition, we may pass on your personal data to the following recipients or categories of recipients who act as controllers under data protection law, insofar as this is necessary to achieve the purposes described above:
+
+External consultants of AUDI AG (e.g., law firms, tax consulting firms, auditing firms)
+Insurance providers
+Government authorities within the scope of their jurisdiction (e.g., the tax authorities, police, public prosecutor's office, courts)
+Other third parties, insofar as you instruct us to pass on data or give your consent.
+ 
+
+ 
+
+5. Will data be transferred to a third country?
+
+ 
+
+The transfer of data to third countries (i.e., countries that are not members of the European Union or the European Economic Area) may take place insofar as this is necessary to execute services with respect to you, where this is required by law, or where you have given us your consent. In addition, there is the possibility that we may also pass on your personal data to processors in third countries. This includes your IP address.
+
+ 
+
+Please note that not all third countries have a level of data protection that is recognised as adequate by the European Commission. AUDI AG will only transfer your personal data to third countries insofar as this is permissible under Articles 44 – 49 GDPR. Insofar as AUDI AG is entitled to appropriate guarantees for transfer of data to third countries in accordance with Article 46 para. 2. GDPR (e.g., standard contractual clauses or binding corporate rules), AUDI AG will take additional technical and/or organisational measures to the extent necessary to maintain adequate protection of your personal data.
+
+ 
+
+You can obtain a copy of the specifically applicable or agreed regulations for ensuring the appropriate level of data protection from us.
+
+ 
+
+Please use the information in the contact section for this.
+
+ 
+
+ 
+
+5.1 Content delivery network
+
+ 
+
+In the context of the use of the content delivery network, your data will be routed to the nearest server in order for the website content to be delivered. If you access the website from the EU, your data will first be transmitted to a server within the EU. Your data will not be saved during this process.
+
+ 
+
+Furthermore, your data will be transferred by our content delivery network service provider to the following countries: the USA and India.
+
+ 
+
+Please note that not all third countries have a level of data protection that is recognised as adequate by the European Commission. Our content delivery network service provider secures data transfers to third countries in which no adequate level of data protection exists as follows: standard contractual clauses.
+
+ 
+
+In order to maintain adequate protection of your personal data, the content delivery network service provider has taken additional technical and/or organisational measures.
+
+ 
+
+ 
+
+6. How long will my data be stored for?
+
+ 
+
+We store your data for as long as this is necessary to provide our services to you or for as long as we have a legitimate interest in its further storage.
+
+ 
+
+In addition, we are subject to various retention and documentation obligations resulting from the German Commercial Code (HGB) or the Tax Code (AO), among other things. The period for retention and documentation specified in these regulations can range from two to ten years. Finally, the retention period is also determined based on the statutory limitation periods, which, according to §§ 195 et seq. of the German Civil Code (BGB), for example, may be up to thirty years, though the standard limitation period is three years.
+
+ 
+
+Under certain circumstances, your data must also be kept for longer, e.g., if a so-called legal hold or litigation hold is ordered in connection with official or legal proceedings (i.e., a ban on deleting data for the duration of the proceedings).
+
+ 
+
+ 
+
+7. What rights do I have?
+
+ 
+
+As a data subject, you generally have the following data protection rights:
+
+ 
+
+Right of access: You have the right to request information about the data stored about you by AUDI AG and the scope of the data processing and transfer carried out by AUDI AG and to receive a copy of the personal data stored about you.
+
+ 
+
+Right to rectification: You have the right to demand the immediate rectification of incorrect personal data concerning you as well as the completion of incomplete personal data stored by AUDI AG about you.
+
+ 
+
+Right to erasure: You have the right to request the immediate erasure of the personal data stored about you by AUDI AG if the legal requirements are met.
+
+ 
+
+This applies, in particular, if:
+
+your personal data is no longer needed for the purposes for which it was collected;
+the legal basis for the processing was exclusively your consent, and you have revoked it;
+you have objected to processing on the legal basis of balancing of interests for personal reasons and we cannot demonstrate that there are overriding legitimate grounds for processing;
+your personal data has been processed unlawfully; or
+your personal data must be erased in order to comply with legal requirements.
+ 
+
+If we have passed your data on to third parties, we will inform them of its erasure, insofar as this is legally required.
+
+ 
+
+Please note that your right to erasure is subject to restrictions. For example, we may not have to, or are not allowed to, erase any data that we have to keep for longer due to legal retention periods. Data that we need in order to assert, exercise or defend legal claims is also excluded from your right to erasure.
+
+ 
+
+Right to restriction of processing: You have the right, under certain conditions, to request the restriction of processing (i.e., the marking of stored personal data with the aim of restricting its future processing). The preconditions for this are:
+
+You dispute the accuracy of the personal data, and AUDI AG must check the accuracy of the personal data
+The processing is unlawful, yet you do not wish to have the personal data erased and instead demand the restriction of its use
+AUDI AG no longer needs your personal data for the purposes of the processing, but you need the data to assert, exercise or defend legal claims
+You have objected to the processing and it is not yet clear whether the legitimate interests of AUDI AG outweigh yours
+ 
+
+In the event of a restriction of processing, the data is marked accordingly and, apart from its storage, is processed only with your consent or to assert, exercise or defend legal claims, or to protect the rights of another natural or legal person or for reasons of an important public interest of the EU or an EU Member State.
+
+ 
+
+Right to data portability: Insofar as we process personal data about you that you have provided to us automatically on the basis of your consent or a contract with you (including your employment contract), you have the right to receive the data in a structured, common and machine-readable format and to transmit this data to another controller without hindrance by AUDI AG. You also have the right to have the personal data transmitted to another controller directly by AUDI AG, insofar as this is technically feasible and provided that the rights and freedoms of other persons are not affected by this.
+
+ 
+
+Right to object: If we process your personal data for legitimate interests or in the public interest, you have the right to object to the processing of your data for personal reasons. Furthermore, you have an unlimited right to object if we process your data for our direct marketing. Please note our separate note in the section "Information about your right to object".
+
+ 
+
+Right to revoke consent: If you have given your consent to the processing of your personal data, you can revoke it at any time. Please note that such revocation will only be effective for the future. Processing that took place before the revocation will not be affected by it.
+
+ 
+
+Right to lodge a complaint: In addition, you have the right to lodge a complaint with a supervisory authority for data protection if you believe that your personal data is not being processed lawfully. This right to lodge a complaint exists without prejudice to any other administrative or judicial legal remedy. The address of the data protection supervisory authority responsible for AUDI AG is:
+
+ 
+
+Bayerisches Landesamt für Datenschutzaufsicht (Bavarian State Office for Data Protection)
+
+Promenade 18
+
+91522 Ansbach
+
+Germany
+7.1 Information about your right to object
+
+ 
+
+Right to object for personal reasons
+
+You have the right, for reasons arising from your specific situation, to object to the processing of your personal data. A prerequisite for this is that the data processing must be in the public interest or have taken place following a balancing of interests of the parties involved. This also applies to profiling.
+
+ 
+
+Insofar as we base the processing of your personal data on a balancing of interests, we generally assume that we can prove compelling reasons worthy of protection, but will, of course, examine each individual case.
+
+ 
+
+In the event of an objection, we will no longer process your personal data, unless:
+
+we can prove compelling grounds for the processing of this data that are worthy of protection and which outweigh your interests, rights and freedoms;
+or
+
+your personal data serves to assert, exercise or defend legal claims.
+ 
+
+ 
+
+Exercising of the right to object
+
+Objections can be lodged in a non-formal manner and should, if possible, be sent to the contact details listed in this Privacy Policy.
+

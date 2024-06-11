@@ -1,0 +1,934 @@
+
+    ul.lst-kix_62kqt2fioyp3-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_62kqt2fioyp3-6 {
+        list-style-type: none
+    }
+
+    .lst-kix_67i6yqco8haa-7>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_67i6yqco8haa-8>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_62kqt2fioyp3-5 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_62kqt2fioyp3-8 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_62kqt2fioyp3-7 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_62kqt2fioyp3-2 {
+        list-style-type: none
+    }
+
+    .lst-kix_67i6yqco8haa-5>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_62kqt2fioyp3-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_62kqt2fioyp3-4 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_62kqt2fioyp3-3 {
+        list-style-type: none
+    }
+
+    .lst-kix_67i6yqco8haa-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_krv8z268clv-8>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_krv8z268clv-0 {
+        list-style-type: none
+    }
+
+    .lst-kix_67i6yqco8haa-0>li:before {
+        content: "\0025cf  "
+    }
+
+    ul.lst-kix_krv8z268clv-2 {
+        list-style-type: none
+    }
+
+    .lst-kix_7dugnqv1rou6-8>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_krv8z268clv-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_krv8z268clv-4 {
+        list-style-type: none
+    }
+
+    .lst-kix_67i6yqco8haa-1>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_krv8z268clv-3 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_krv8z268clv-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_krv8z268clv-5 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_krv8z268clv-8 {
+        list-style-type: none
+    }
+
+    .lst-kix_67i6yqco8haa-3>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_67i6yqco8haa-4>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_krv8z268clv-7 {
+        list-style-type: none
+    }
+
+    .lst-kix_7dugnqv1rou6-4>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-7>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_67i6yqco8haa-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_7dugnqv1rou6-3>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-8>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_62kqt2fioyp3-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_7dugnqv1rou6-5>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_62kqt2fioyp3-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_7dugnqv1rou6-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_62kqt2fioyp3-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_7dugnqv1rou6-7>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_2262e5uyo4lu-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_2262e5uyo4lu-5>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_2262e5uyo4lu-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_2262e5uyo4lu-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_2262e5uyo4lu-7>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_2262e5uyo4lu-8>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_7dugnqv1rou6-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_7dugnqv1rou6-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-3>li:before {
+        content: "\0025cf  "
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-8 {
+        list-style-type: none
+    }
+
+    .lst-kix_7dugnqv1rou6-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_mgf2pd5oc7h2-6>li:before {
+        content: "\0025cf  "
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-7 {
+        list-style-type: none
+    }
+
+    .lst-kix_2262e5uyo4lu-2>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_7dugnqv1rou6-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_7dugnqv1rou6-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-5 {
+        list-style-type: none
+    }
+
+    .lst-kix_2262e5uyo4lu-3>li:before {
+        content: "\0025cf  "
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-4 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-3 {
+        list-style-type: none
+    }
+
+    .lst-kix_mgf2pd5oc7h2-5>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_2262e5uyo4lu-4>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_7dugnqv1rou6-5 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-2 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_7dugnqv1rou6-4 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_7dugnqv1rou6-3 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_mgf2pd5oc7h2-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_7dugnqv1rou6-2 {
+        list-style-type: none
+    }
+
+    .lst-kix_mgf2pd5oc7h2-4>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_7dugnqv1rou6-8 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_7dugnqv1rou6-7 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_7dugnqv1rou6-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-2 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-5 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-4 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-3 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-8 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_67i6yqco8haa-7 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-7 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-8 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-5 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-3 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-4 {
+        list-style-type: none
+    }
+
+    .lst-kix_15qbrhidd8on-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_15qbrhidd8on-7>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_15qbrhidd8on-8>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_15qbrhidd8on-4 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-5 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-7 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-2 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-3 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_15qbrhidd8on-8 {
+        list-style-type: none
+    }
+
+    .lst-kix_15qbrhidd8on-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_15qbrhidd8on-5>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_15qbrhidd8on-4>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_2262e5uyo4lu-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_2262e5uyo4lu-2 {
+        list-style-type: none
+    }
+
+    .lst-kix_15qbrhidd8on-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_15qbrhidd8on-3>li:before {
+        content: "\0025cf  "
+    }
+
+    ul.lst-kix_2262e5uyo4lu-0 {
+        list-style-type: none
+    }
+
+    .lst-kix_15qbrhidd8on-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_o39oha3oi5gw-8>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_62kqt2fioyp3-3>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_62kqt2fioyp3-5>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_62kqt2fioyp3-4>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_62kqt2fioyp3-8>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_o39oha3oi5gw-4>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_62kqt2fioyp3-7>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_o39oha3oi5gw-3>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_62kqt2fioyp3-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_o39oha3oi5gw-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_o39oha3oi5gw-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_o39oha3oi5gw-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_krv8z268clv-5>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_krv8z268clv-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_krv8z268clv-3>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_krv8z268clv-7>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_o39oha3oi5gw-6 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_o39oha3oi5gw-7 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_o39oha3oi5gw-8 {
+        list-style-type: none
+    }
+
+    .lst-kix_krv8z268clv-4>li:before {
+        content: "\0025cb  "
+    }
+
+    ul.lst-kix_o39oha3oi5gw-0 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_o39oha3oi5gw-1 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_o39oha3oi5gw-2 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_o39oha3oi5gw-3 {
+        list-style-type: none
+    }
+
+    ul.lst-kix_o39oha3oi5gw-4 {
+        list-style-type: none
+    }
+
+    .lst-kix_o39oha3oi5gw-5>li:before {
+        content: "\0025a0  "
+    }
+
+    ul.lst-kix_o39oha3oi5gw-5 {
+        list-style-type: none
+    }
+
+    .lst-kix_krv8z268clv-1>li:before {
+        content: "\0025cb  "
+    }
+
+    .lst-kix_krv8z268clv-2>li:before {
+        content: "\0025a0  "
+    }
+
+    .lst-kix_o39oha3oi5gw-6>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_krv8z268clv-0>li:before {
+        content: "\0025cf  "
+    }
+
+    .lst-kix_o39oha3oi5gw-7>li:before {
+        content: "\0025cb  "
+    }
+
+    ol {
+        margin: 0;
+        padding: 0
+    }
+
+    table td,
+    table th {
+        padding: 0
+    }
+
+    .c0 {
+        color: #000000;
+        font-weight: 400;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-size: 11pt;
+        font-family: "Arial";
+        font-style: normal
+    }
+
+    .c1 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.15;
+        orphans: 2;
+        widows: 2;
+        text-align: left;
+        height: 11pt
+    }
+
+    .c7 {
+        color: #000000;
+        text-decoration: none;
+        vertical-align: baseline;
+        font-size: 11pt;
+        font-family: "Arial";
+        font-style: normal
+    }
+
+    .c2 {
+        padding-top: 0pt;
+        padding-bottom: 0pt;
+        line-height: 1.15;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    .c10 {
+        text-decoration-skip-ink: none;
+        -webkit-text-decoration-skip: none;
+        color: #1155cc;
+        text-decoration: underline
+    }
+
+    .c9 {
+        background-color: #ffffff;
+        max-width: 100%;
+        padding: 20px;
+    }
+
+    .c8 {
+        color: inherit;
+        text-decoration: inherit
+    }
+
+    .c5 {
+        padding: 0;
+        margin: 0
+    }
+
+    .c3 {
+        margin-left: 36pt;
+        padding-left: 0pt
+    }
+
+    .c6 {
+        font-style: italic
+    }
+
+    .c4 {
+        font-weight: 700
+    }
+
+    .title {
+        padding-top: 0pt;
+        color: #000000;
+        font-size: 26pt;
+        padding-bottom: 3pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    .subtitle {
+        padding-top: 0pt;
+        color: #666666;
+        font-size: 15pt;
+        padding-bottom: 16pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    li {
+        color: #000000;
+        font-size: 8pt;
+        font-family: "Arial"
+    }
+
+    p {
+        margin: 0;
+        color: #000000;
+        font-size: 11pt;
+        font-family: "Arial"
+    }
+
+    h1 {
+        padding-top: 20pt;
+        color: #000000;
+        font-size: 20pt;
+        padding-bottom: 6pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h2 {
+        padding-top: 18pt;
+        color: #000000;
+        font-size: 16pt;
+        padding-bottom: 6pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h3 {
+        padding-top: 16pt;
+        color: #434343;
+        font-size: 14pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h4 {
+        padding-top: 14pt;
+        color: #666666;
+        font-size: 12pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h5 {
+        padding-top: 12pt;
+        color: #666666;
+        font-size: 11pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+
+    h6 {
+        padding-top: 12pt;
+        color: #666666;
+        font-size: 11pt;
+        padding-bottom: 4pt;
+        font-family: "Arial";
+        line-height: 1.15;
+        page-break-after: avoid;
+        font-style: italic;
+        orphans: 2;
+        widows: 2;
+        text-align: left
+    }
+     
+ Power Mobile Life, LLC – Roav Privacy Policy 
+ 
+ Effective date: May 25, 2018 
+ 
+ This Privacy Policy applies to information that Power Mobile Life, LLC, a Washington limited liability company (“ Roav ,” “our,” “we” or “us”) collects through www.goroav.com, the Roav DashCam, the Roav Viva, the Roav SmartCharge Series and all other domains, products, applications (both mobile and desktop), services and content provided by Roav. (collectively, the “ Services ”).   
+ 
+ Your privacy is important to us.  Please read this Privacy Policy to learn about the information that ROAV collects from you and how ROAV uses that information . 
+ 
+ BY USING THE SERVICES OR CLICKING THE ACCEPT BUTTON YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL DATA AS DESCRIBED IN THIS PRIVACY POLICY.  IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE SERVICES . 
+ 
+ PLEASE BE AWARE THAT ALL ASSOCIATED SERVICES AND SYSTEMS MAY BE HOUSED ON SERVERS IN THE UNITED STATES. IF YOU ARE LOCATED OUTSIDE OF THE UNITED STATES, INFORMATION WE COLLECT (INCLUDING COOKIES) ARE PROCESSED AND STORED IN THE UNITED STATES, WHICH MAY NOT OFFER THE SAME LEVEL OF PRIVACY PROTECTION AS THE COUNTRY WHERE YOU RESIDE OR ARE A CITIZEN. BY USING THE SERVICES AND PROVIDING INFORMATION TO US, YOU CONSENT TO THE TRANSFER TO AND PROCESSING OF THE INFORMATION IN THE UNITED STATES. 
+ 
+ Roav reserves the right to revise and update this policy from time to time. All changes are effective immediately when we post them and apply to te Services thereafter. If you are a registered User, we will usually notify you of any changes via email and/or by asking you to review the changes to this Privacy Policy or our Standard Terms & Conditions the next time you log in to the Services. Your continued use of the Services after the time the changes are communicated will indicate your acceptance of those revised changes, so please check the policy periodically for updates.  
+ 
+ Email Communications with Us 
+ 
+ If you contact us, we may keep a record of that correspondence and never share information we receive from you via email unless: 
+ 
+ we have your permission to share that information; or 
+ we have given you prior notice that the information will be shared, and with whom; or 
+ that information is aggregate information or other information that does not identify you. 
+ 
+ Occasionally, we may need to email you. We may need to send you administrative information, tell you something important about your account or changes to the Services, or update you on new policies. These administrative communications are considered part of the Services, which you may not be able to opt-out from receiving. Note that we will never email you to ask for your password or other Account information; if you receive such an email, contact us so we can investigate and take any appropriate action.  
+ 
+ What Kinds of Information do we Collect? 
+ 
+ When you use the Services we use the following methods to access your mobile phone information to provide the Services to you and optimize our security to protect your account and personal information. 
+ 
+ Information Provided by Users and Other People 
+ 
+ Your account information . You may provide your email to create a Roav account or log into the Services through a  third-party account.  If you refuse to provide such information, you may not be able to use the Services properly. 
+ Customer Support.  You can provide us with information about your use of the Services, including your product information and how to contact you, so that we can provide customer support. For example, you can use the “feedback” feature or send an email that contains information about our device performance, application performance, and other issues. 
+ Usage by the user.  We collect user information about how our products are used, such as: features used; operations performed; and time, frequency, and duration of users' online activities. For example, we collect the time the user connected to the device in the application and the time of the last connection, as well as the operations of accounts, voice, video, settings, and other functions in our products. We also collect relevant parameters for product setup by users. 
+ 
+ 
+ Device information 
+ 
+ Device properties : Information such as the operating system, hardware and software versions, battery power, signal strength, available storage space, applications, file names and types, and plug-ins. 
+ Device operations:  Information about the actions and behaviors the user performs on the device, such as when, how many times, and how long the user activated a feature. 
+ Identity information:  unique identifiers, device numbers, and other identifying information (such as information obtained by users logging into Roav with other application accounts), home device numbers (or other information unique to Roav’s products associated with the same device or account, and identification information). 
+ 
+ 
+ Device signals:  Information about Bluetooth signals and surrounding Wi-Fi access points, beacons, and cell towers . 
+ Information from the device settings : The user sets the information that the user allows via our enabled device settings, such as the user's GPS position, camera, or photo. 
+ 
+ 
+ Network and connection:  For example, the user's mobile operator or ISP name, language, time zone, mobile phone number, IP address, connection speed, and other information. In some cases, it also includes information about other devices on or near the user's network, which enables us to perform various operations, such as helping users to cast audio on their mobile phones to other devices or download files on hardware devices to your phone. 
+ Location information:  When you use the car search function, driving record function, and automatic radio search function, we will record your location information with your consent. The purpose is to provide you with appropriate services. The location information is sensitive information. Rejecting this information will prevent you from using the above functions normally, but it will not affect you use other functions of ROAV normally. 
+ Web Beacons : A web beacon (also called a pixel tag or clear GIF) is computer code that communicates information from your device to a server.  Some of Roav’s content and emails may contain embedded web beacons that allow a server to read certain types of information from your Device, allow us to count the number of people who have viewed content, to know when you opened an email message and the IP address of your Device.   Web beacons help Roav develop statistical information to provide better and more personalized content.  
+ Cookies : Cookies are small text files that are sent to or accessed from your web browser or your computer’s hard drive. A cookie typically contains the name of the domain (internet location) from which the cookie originated, the “lifetime” of the cookie (i.e., when it expires) and a randomly generated unique number or similar identifier. A cookie also may contain information about your computer, such as user settings, browsing history and activities conducted while using the Services. 
+ 
+ 
+ The Services use the following cookies: 
+ 
+ Strictly necessary cookies, which are required for the operation of the Services.  Without them, for example, you would not be able to register or log in for the Services that Roav offers. 
+ Analytical/performance cookies, which allow Roav to recognize and count the number of visitors, learn how visitors navigate the Services and improve the Services. 
+ Functionality cookies, which Roav uses to recognize you when you return to the Services. 
+ 
+ To learn more about cookies and web beacons, visit www.allaboutcookies.org. 
+ 
+ Roav also uses analytics services, such as Google Analytics, to collect Other Information.  Generally analytics services do not identify individual users.  Many analytics services allow you to opt out of data collection.  For example, to learn more about Google Analytics practices and to opt out, visit   www.google.com/settings/ads  or by downloading the Google Analytics opt-out browser add-on at   https://tools.google.com/dlpage/gaoptout .  
+ 
+ Third-Party Information 
+ 
+ The Services may provide access to external, third-party services and Roav cannot obtain the information you generate when using such third-party services. However, if you have expressly consented to the third party obtaining your geographic location, voice commands, etc., the third party will obtain the terminal geographic location information or voice recording interface through the Roav device, and both Roav and the third party will be able to obtain your geographic information, location information, or voice recording information. This is sensitive information and refusing to provide this information will prevent you from using the above third-party services normally, but it will not affect your use of other Roav functions normally. 
+ Roav does not actively obtain your personal information from third parties. If future business development requires indirect access to your personal information from a third party, we will obtain your consent before sharing it. If personal information processing activities required by Roav in the future exceed the scope of your original consent to provide personal information to third parties, we will obtain your consent before sharing it. Ways to obtain your consent includes but is not limited to, updating Roav's privacy policy and obtaining your consent for authorization through the functions related to it. 
+ 
+ 
+ How Do We Use This Information? 
+ 
+ We use all the information we have to help us operate, provide, improve, understand, customize, support, and market the Services. 
+ 
+ Our Services:  We operate and provide the Services, including providing customer support and improving, repairing, and customizing the Services. We understand how people use the Services and analyze and use the information we have to evaluate and improve the Services. Furthermore, we research, develop, test new services and features, and perform troubleshooting activities. We also use your information to respond to you when you contact us. We use cookies to operate, provide, improve, understand, and customize the Services. At your request, we will try to provide your personal data for free within one month. 
+ Security and privacy:  We verify accounts and activities and ensure that the Services are used legally by investigating suspicious activities or violations of our terms. This promotes the security and privacy of the Services. 
+ Communication about the Services:  We will communicate with you about the Services and features and let you know about our terms and policies and other important updates. We may provide you with the marketing of the Services and promote other marketing events of our company. 
+ Advertising and business information:  We may advertise Roav and third-party products based on the products you have installed, accessed, used, and purchased. You may receive marketing information that may contain content that may be of interest to you. As we do not want to spam you, you can manage these communications. We will respect your choices. 
+ 
+ 
+ Children’ Privacy 
+ 
+ The Services are not directed to or intended for use by minors.  Consistent with the requirements of applicable law, if we learn that we have received any information directly from a minor without his or her parent’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the minor that he or she cannot use the Services and subsequently will delete that information. 
+ 
+ If you are a minor under the age of 16 (according to the legal requirements of EU member states, the minimum must not be less than 13 years old), you must obtain written consent from your parent or legal guardian before using this product and its relevant services. This product and the relevant services will protect the personal information of minors in accordance with the relevant EU laws and regulations. 
+ 
+ California Minors:   While the Service is not intended for anyone under the age of 18, if you are a California resident who is under age 18 and you are unable to remove publicly-available content that you have submitted to us, you may request removal by contacting us at: support@goroav.com.  When requesting removal, you must be specific about the information you want removed and provide us with specific information, such as the URL for each page where the information was entered, so that we can find it.  We are not required to remove any content or information that: (1) federal or state law requires us or a third party to maintain; (2) was not posted by you; (3) is anonymized so that you cannot be identified; (4) you don’t follow our instructions for removing or requesting removal; or (5) you received compensation or other consideration for providing the Content or information.  Removal of your content or information from the Service does not ensure complete or comprehensive removal of that content or information from our systems or the systems of our service providers. We are not required to delete the content or information posted by you; our obligations under California law are satisfied so long as we anonymize the content or information or render it invisible to other users and the public. 
+ 
+ 
+ How is This Information Shared? 
+ 
+ Third-party providers: We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market the Services. When we share information with third-party providers, we ask them to use your information in accordance with our instructions and terms or with your explicit permission. 
+ 
+ Third-party services: When you use third-party services that integrate with the Services, they may receive information about what you have shared with them. For example, if you use Alexa Smart Voice Services integrated with the Services, they will receive information about what you have shared with them. If you interact with third-party services through the Services, you may provide information directly to such third parties. Please note that when you use third party services, their own terms and privacy policies will apply to your use of these services. 
+ 
+ How Can You Manage or Delete Information About You? 
+ 
+ We provide users with the ability to manage, change, limit, or delete their data. 
+ We store the data until we no longer need it to provide services and Roav product or until the user's account is deleted, depending on which comes first. This requires specific analysis of the situation and depends on the nature of the data, the reasons for collecting and processing the data, and the related legal or operational retention needs. 
+ 
+ Changing your email, nickname, and more:  You can change your email address, nickname, and other content that we provide to change functions through the Roav product related account management functions. 
+ 
+ Deleting your Roav account:  You can use our in-app “delete account” feature to delete your Roav account at any time (including if you want to withdraw your consent to use your information for us). When you delete your Roav account, we will delete or anonymize the information associated with your account on our server. Please note that if you only remove the Services from your device without using our in-app “delete my account” feature, your information may continue to be stored. 
+ 
+ California Shine the Light Law:   California Civil Code Section 1798.83 permits users who are California residents to obtain from us once a year, free of charge, a list of third parties to whom we have disclosed personal information (if any) for direct marketing purposes in the preceding calendar year.  If you are a California resident and you wish to make such a request, please send an e-mail with “California Privacy Rights” in the subject line to support@goroav.com or write us at: Power Mobile Life, LLC, 400 108th Ave NE, Ste 400, Bellevue, WA 98004. 
+ 
+ Security of Personal Data 
+ 
+ Roav takes precautions intended to help protect information that we process but no system or electronic data transmission is completely secure.  Any transmission of your Personal Data is at your own risk and we expect that you will use appropriate security measures to protect your Personal Data. 
+ 
+ You are responsible for maintaining the security of your account credentials for the Services.  Roav will treat access to the Services through your account credentials as authorized by you.  Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution.  We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security.  If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below. 
+ 
+ If we become aware of a breach that affects the security of your Personal Data, we will provide you with notice as required by applicable law. To the extent permitted by applicable law, Roav will provide any such notice that Roav must provide to you at your account’s email address. By using the Services, you agree to accept notice electronically. 
+ 
+ We retain Personal Data in identifiable form only for as long as necessary to fulfill the purposes for which the Personal Data was provided to Roav or, if longer to comply with law legal obligations, to resolve disputes, to enforce agreements and similar essential purposes. 
+ 
+ 
+ How Do We Respond to Legal Requests or Prevent Harm? 
+ 
+ If there are good reasons to believe that the law requires us to do so, we may visit, retain, and share your information as required by law (such as a search warrant, court order, or subpoena). This may include legal requirements from jurisdictions outside of the United States, provided we are satisfied that the response is required by law in that jurisdiction, affects the users in that jurisdiction, and complies with internationally recognized standards. We may also access, retain, and share information for the following purposes: We have good reason to believe that it is necessary to identify, prevent, and respond to fraud or other illegal activities; to protect ourselves, you, and/or others (including as part of an investigation), or to prevent death and/or imminent personal injury. 
+ We regularly review our products and services for compliance with the Privacy Policy. After we receive a formal written complaint, we will contact the complainant to handle the follow-up. We will work with the appropriate authorities (including the local data protection authority) to resolve any complaints about the transfer of personal data that cannot be directly resolved by us. 
+ 
+ How Will We Notify You of Changes to This Policy? 
+ 
+ We will notify you before we amend this policy so that you can review and comment on the revised policy before continuing to use the Services. 
+ 
+ How Do Our Global Services Operate? 
+ 
+ Roav may share information within its own company or with third parties to achieve the purposes described in this policy. For example, to achieve the purposes described in this policy, information collected in the European Economic Area ("EEA") may be transferred to countries or regions outside the EEA. In order to legally transfer data from the EEA to the United States and other countries or regions, we will follow the terms of the standard contract approved by the European Commission, adopt other measures prescribed by EU law, and will obtain your consent. 
+ 
+ If you have any questions or concerns, you can contact us using the information provided below. 
+ 
+ How Can You Contact Roav with Questions? 
+ 
+ If you have any questions or concerns, there are a few ways you can contact us. 
+ Email us at: support@goroav.com 
+ 
+ Call us: 
+ United States+1 (800) 988 7973Mon-Fri 9AM-5PM (PT) 
+ United Kingdom+44 (0) 1604 936 200Mon-Fri 6AM-11AM (GMT) 
+ Germany+49 (0) 69 9579 7960Mon-Fri 6:00-11:00 
+ Japan+81 03 4455 7823Mon-Fri 9:00-17:00 
+ China+86 400 0550 036Mon-Fri 9:00-17:30 
+ 
+ 
+ Definitions 
+ Here are some definitions of capitalized words we use in this Privacy Policy: 
+ “Content” means any information, text, graphics, photographs, images, illustrations, logos, tools, written posts, executable files, scripts, software, interactive features, creative expression, data or other information materials generated, provided, uploaded, downloaded, appearing or otherwise accessible on or through Roav.  
+  “Standard Terms & Conditions” means the standard terms & conditions of Roav. 
+ “User” means any person or entity using a Roav product or service. 
+ “You” means you, whether you are a person or someone acting on behalf of an entity you are authorized to represent, and whether you are a registered user or not.  
+ “User Content” means all Content posted or otherwise provided or transferred to Roav by a user, including you.  
+ 
+ April 2018         Privacy Policy 
+ 
+ 
+ 

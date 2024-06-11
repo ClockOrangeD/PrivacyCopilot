@@ -1,0 +1,229 @@
+Privacy Policy of Zhidao Internet
+
+Update Date: July 3, 2023
+
+Effective Date: July 3, 2023
+
+The "Privacy Policy of Zhidao Internet" (hereinafter referred to as "this Privacy Policy") applies only to the Honda CONNECT Zhidao Internet APP service (hereinafter referred to as "this Service"). As for this Service:
+
+Beijing Jiuyi Zhijia Information Technology Co., Ltd. (hereinafter referred to as "Jiuyi Zhijia") is the operator and provider of this Service;
+Haina Xinsi Zhixing Service Co., Ltd. (hereinafter referred to as "Haina Xinsi" or "we") is the intellectual property owner and technical scheme designer of this Service;
+Dongfeng Honda Automobile Co., Ltd. (hereinafter referred to as "Vehicle Manufacturer") is the automotive manufacturer that carries this Service and a co-provider of this Service;
+Dongfeng Honda Automobile Sales Co., Ltd. (hereinafter referred to as "Vehicle Seller") is the automotive sales company that carries this Service and a co-provider of this Service;
+All of the above are referred to as "we".
+
+We are well aware of the importance of protecting the security of your personal information, so we have formulated this Privacy Policy in accordance with the relevant laws and regulations on personal information protection. As the basic policy for the protection of personal information, we strive to protect personal information. Through this Privacy Policy, we hope to explain to you how we collect, use, store, share, and transfer your personal information when you use this Service, as well as how we provide access, update, delete, and protect your personal information.
+
+Please read and understand this Privacy Policy carefully before using our products or services. If you have any questions about the terms of this Privacy Policy, please inquire through customer service, and we will explain the relevant content of this Privacy Policy to you. Once you or anyone authorized by you starts to use our products or services for vehicles, it means that you have understood and fully agreed to this Privacy Policy. This Privacy Policy constitutes a legal document with legal binding force between you and us, and you should not claim that this Privacy Policy is invalid or request the revocation or amendment of this Privacy Policy on the grounds of not reading the content of this Privacy Policy or not obtaining our answers to your inquiries.
+
+This Privacy Policy will help you understand the following:
+
+I. What personal information do we collect from you?
+
+II. How do we use your personal information?
+
+III. How do we entrust the processing, sharing, transfer, and public disclosure of your personal information?
+
+IV. How do we store and protect your personal information?
+
+V. Your rights
+
+VI. How do we handle personal information of minors?
+
+VII. How is your personal information shared and transferred worldwide?
+
+VIII. How is this Privacy Policy updated?
+
+IX. How to contact us
+
+What personal information do we collect from you
+Personal information refers to various information recorded by electronic or other means that is related to identified or identifiable natural persons, excluding anonymized information. The personal information mentioned in this Privacy Policy includes: your name, title, mobile phone number, electronic invoice billing information, age, date of birth, gender, personal image, identity card information, passport information, permit for residents of Hong Kong and Macau, permit for residents of Taiwan, driving license information, vehicle purchase invoice information, transaction and consumption records, browsing history, mobile device information, geographical location information, voice, calendar information.
+
+Personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, cause harm to personal reputation and physical and mental health, or discriminatory treatment, etc. The personal sensitive information collected in this Privacy Policy includes: property information (such as transaction and consumption records), identity card information, passport information, permit for residents of Hong Kong and Macau, permit for residents of Taiwan, driving license information, geographical location information, browsing history, heart rate information.
+
+By default, we do not collect personal sensitive information. If it is necessary to collect, we will obtain your separate authorization consent at the time of collection, and you can set the authorization period independently through the customer service phone number reserved on the mobile APP.
+
+When you register an account in the Zhidao Internet APP, Haina Xinsi will collect, store, and share your personal information, including your name, title, mobile phone number, identity card information, passport information, driving license information, permit for residents of Hong Kong and Macau, permit for residents of Taiwan, vehicle purchase invoice information, in conjunction with the vehicle manufacturer and vehicle seller. The above-mentioned information you provide will be obtained once when you register and will continue to be authorized for use by us during your use of this Service. We will keep your information until you cancel your account. When you cancel your account, we will stop using and delete the above information.
+
+When you use the Zhidao Internet APP products or services, Haina Xinsi will collect, store, and share your personal information in conjunction with the vehicle manufacturer and vehicle seller, including your name, title, mobile phone number, age, date of birth, gender, personal image, voice, transaction and consumption records, browsing history, geographical location information, calendar information, and electronic invoice billing information.
+
+When you use products or services such as driving behavior reports and travel services, Haina Xinsi will collect, store, and share your personal information in conjunction with the vehicle manufacturer and vehicle seller, including geographical location information, voice, heart rate information, browsing history, Wi-Fi list, currently connected Wi-Fi information, device sensor information, and screenshots.
+
+In order to ensure the safe operation of software products and services, and provide you with a safe and reliable product and user environment, Haina Xinsi may collect your device information, including device model, unique device identifier (such as IMEI / Android ID / IDFA / OPENUDID / GUID / IMSI information), device serial number, device MAC address, operating system type and model, screen resolution, telecommunications operator, SIM card status, SIM card serial number, SIM card country code, phone type, installed software list, software version number, system language, device model, screen size, network type, current running processes, device screen width, device screen height, device screen pixels, network identity information (IP address). In order to prevent malicious programs and ensure secure operation, we collect information about installed applications or running processes, overall operation and installation usage, usage and frequency, application crash information, application source, and performance data. To ensure a timely response when using the Bluetooth key, we will regularly start this APP to ensure communication between the Bluetooth key and the vehicle.
+
+Purposes of obtaining phone permissions
+Obtained content
+
+Purposes
+
+Obtain location permission (Android & ios)
+
+Used to determine your location when using travel services
+
+Obtain Bluetooth permission (Android & ios)
+
+Used for near-field control of the vehicle using the Bluetooth key
+
+Obtain read and write photo permissions
+
+(Android & ios)
+
+Used for changing your avatar, scanning QR codes to add devices
+
+Obtain camera permission (Android & ios)
+
+Used for scanning QR codes to bind the vehicle, taking photos
+
+Obtain notification permission (Android & ios)
+
+Used to timely remind you of messages in the APP
+
+Microphone permission (Android & ios)
+
+Used to enable control of the vehicle through voice commands on the mobile device
+
+Storage permission (Android)
+
+Used to enable control of the vehicle through voice commands on the mobile device or remote control of the vehicle through a smartwatch
+
+Read external storage permission (Android)
+
+Used to access and upload photos from the device's album when changing your avatar
+
+Call permission (Android & ios)
+
+Used for making customer service calls through this APP
+
+View WLAN connections (Android)
+
+Used to determine the connection status when using the cabin control feature
+
+Obtain device information permission (Android)
+
+Used for application crash statistics and analysis
+
+Network access permission (Android & ios)
+
+Used for normal network access by the APP
+
+Display content on top of other applications permission (Android)
+
+Used for APP notification function
+
+Allow application to request installation of packages permission (Android)
+
+Used for quick update installation of APP
+
+Access additional location commands (Android)
+
+Used to provide more accurate location for travel services
+
+Retrieve running applications (Android)
+
+Used to send messages when the APP has not been opened and needs to receive APP push notifications
+
+Near-field communication operation (Android)
+
+Used for near-field control of the vehicle using the Bluetooth key
+
+Startup at boot (Android)
+
+Used to send emergency push notifications for vehicle theft reminders when the APP is not started
+
+Physical activity recognition permission (Android)
+
+Used for easy and accurate identification of your location when using travel services and to locate the vehicle more accurately
+
+Read clipboard permission (Android)
+
+Used for convenient pasting of invoice information when using the APP for invoice generation
+
+Heart rate (ios)
+
+Used for viewing heart rate information while driving in the health report feature
+
+Calendar (Android & ios)
+
+Used to manage and synchronize your schedule set on your phone with the vehicle
+
+Auto-start (Android)
+
+Used to maintain communication between the Bluetooth key and the vehicle when you use the Bluetooth key
+
+In addition to the information you provide actively and that we actively collect, we may also obtain your personal information from business partners and/or suppliers, dealers, financial companies, and other third parties, including the information you provide to obtain our offline services, the information you provide when following us on social media, the information you provide when using our network, the information collected by surveillance cameras at dealerships, and the information collected when providing maintenance and repair services.
+If you do not provide the above personal (sensitive) information or provide inaccurate information, you may be unable to obtain the relevant services or functions or achieve the intended effects of the relevant services. The above-mentioned information you provide, except for personal sensitive information, will be continuously authorized for our use during your use of our services.
+
+How do we use your personal information
+
+We will abide by the principles of legality, legitimacy, and necessity, and use your personal information based on the specific purpose and scope of collection. The main purposes of using your personal information are as follows:
+
+1. To provide services to you: We use your personal information to provide you with the services you requested, such as vehicle-related functions, driver support functions, maintenance and repair services, emergency assistance services, and other related services.
+
+2. Verification and identity authentication: We may use your personal information to verify your identity and ensure the security of your account and personal information.
+
+3. Communication and customer support: We may use your personal information to communicate with you, respond to your inquiries, provide customer support, and send you service-related notifications.
+
+4. Improve our services: We may use your personal information to analyze and improve our products and services, including conducting research and analysis on user behavior, preferences, and trends, and conducting quality control and risk management.
+
+5. Personalized recommendations and marketing: With your consent, we may use your personal information to provide personalized recommendations, promotions, and advertisements based on your interests and preferences.
+
+6. Ensure the security of our services: We may use your personal information to monitor and prevent fraud, unauthorized access, and other illegal activities, and to ensure the security and integrity of our services.
+
+7. Legal compliance: We may use your personal information to comply with applicable laws, regulations, legal proceedings, and government requests, and to protect the rights, property, and safety of us, our users, and the public.
+
+How do we entrust the processing, sharing, transfer, and public disclosure of your personal information
+
+We will strictly follow the laws and regulations and the requirements of this Privacy Policy to ensure the security of your personal information. We will only share, transfer or publicly disclose your personal information under the following circumstances:
+
+1. With your consent: We may share your personal information with third parties with your consent. For example, when you use third-party services through our platform or interact with third-party applications or websites, we may share your personal information as necessary to provide the services you requested.
+
+2. Sharing with authorized partners: We may share your personal information with our authorized partners, such as vehicle manufacturers, vehicle sellers, service providers, and business partners, to provide you with our services and improve our services.
+
+3. Sharing for legal compliance: We may share your personal information as required by law, regulations, legal proceedings, or government requests. For example, we may disclose your personal information to respond to a subpoena, court order, or other legal process, or to cooperate with law enforcement agencies or government investigations.
+
+4. Sharing for corporate transactions: In the event of a merger, acquisition, reorganization, or sale of assets, your personal information may be transferred as part of the transaction. We will ensure the security and confidentiality of your information in the event of such a transaction.
+
+5. Other sharing with your consent: In addition to the above circumstances, we may share your personal information with third parties with your consent.
+
+How do we store and protect your personal information
+
+We have implemented reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction. These measures include encryption, access controls, and information security management systems. We also require our employees and service providers to comply with strict confidentiality obligations and take appropriate security measures to protect your personal information.
+
+Your rights
+
+According to laws and regulations, you have the following rights regarding your personal information:
+
+1. Access and update: You have the right to access and update your personal information. If you need to access or update your personal information, please contact us through the contact information provided at the end of this Privacy Policy.
+
+2. Delete: You have the right to request the deletion of your personal information. If you need to delete your personal information, please contact us through the contact information provided at the end of this Privacy Policy. Please note that we may need to retain certain information for legal or legitimate business purposes.
+
+3. Withdraw consent: If you have previously provided consent for the collection, use, or sharing of your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent by contacting us through the contact information provided at the end of this Privacy Policy. Please note that withdrawing consent may result in the inability to provide certain services to you.
+
+4. Restrict processing: In certain circumstances, you have the right to request the restriction of the processing of your personal information. If you need to restrict the processing of your personal information, please contact us through the contact information provided at the end of this Privacy Policy.
+
+5. Portability: In certain circumstances, you have the right to receive a copy of your personal information in a structured, commonly used, and machine-readable format. If you need to request the portability of your personal information, please contact us through the contact information provided at the end of this Privacy Policy.
+
+6. Objection: You have the right to object to the processing of your personal information for certain purposes. If you need to object to the processing of your personal information, please contact us through the contact information provided at the end of this Privacy Policy.
+
+How do we handle personal information of minors
+
+We attach great importance to the protection of personal information of minors. If you are a minor under the age of 18, please do not provide your personal information to us without the consent of your parent or guardian. If we discover that we have collected personal information from a minor without parental consent, we will take reasonable measures to delete the information as soon as possible.
+
+How is your personal information shared and transferred worldwide
+
+In the course of providing services, your personal information may be shared or transferred to entities located in different countries or regions. We will strictly comply with laws and regulations and take appropriate measures to ensure the security of your personal information during the sharing or transfer process.
+
+How is this Privacy Policy updated
+
+We may update this Privacy Policy from time to time. The updated version will be effective upon publication. We will notify you of any material changes to this Privacy Policy by posting a notice on our website or through other appropriate means. We encourage you to review this Privacy Policy periodically to understand how we collect, use, and protect your personal information.
+
+How to contact us
+
+If you have any questions, comments, or concerns about this Privacy Policy or our privacy practices, please contact us through the following contact information:
+
+Customer Service Hotline: 12345678
+Email: privacy@zhidao.com
+
+We will do our best to address your inquiries and concerns in a timely manner.
+
+Thank you for taking the time to read our Privacy Policy.

@@ -1,0 +1,412 @@
+
+Release date of this version: December 1, 2022
+
+Effective date: December 1, 2022
+
+summary
+
+Thank you for your attention to Geely Auto and your friendly visit to Geely Auto APP!
+Geely Auto APP (hereinafter referred to as "the APP") is composed of [Zhejiang Geely Auto Sales Co., Ltd.] (registered address: Room 298, No. 9, Office Building, Meishan Yanchang, Beilun District, Tel: 0574-26853704) [Zhejiang Geely Holding Group Co., Ltd.] (registered address: No. 1760, Jiangling Road, Binjiang District, Hangzhou, contact number: 400-88-69-888) and [Zhejiang Geely Holding Group Automobile Sales Co., Ltd.] (registered address: Building 1, No. 1782, Jiangling Road, Binjiang District, Hangzhou, contact number: 0571-87762929) jointly operate (hereinafter referred to as "we" or "Geely"), and Geely will provide you with the products and/or services of this App. [Hangzhou Geely Yiyun Technology Co., Ltd.] (registered address/common office address: Room 401, Floor 4, Building 1, 1760 Jiangling Road, Binjiang District, Hangzhou City, contact number: 0571-28098335, hereinafter referred to as "Yiyun Technology") is the technology developer and software copyright owner of this APP. We fully respect and protect your personal privacy and have formulated this privacy policy (hereinafter referred to as "this policy") to remind you to read it carefully. While providing you with high-quality products and services, we will collect, use, share, store and protect your personal information according to this policy.
+This policy will help you understand how we handle your personal information and provide you with access to and control of your personal information. This policy applies to personal information we collect through this APP or directly provided by users, but this policy does not apply to:
+
+Products and services provided to you by any third party;
+There are separate privacy policies and these policies are not included in the specific products and services of this policy.
+Please read and fully understand this policy before accessing this APP and choose whether to agree with this privacy policy. When you continue to browse this APP or choose to purchase and use our products/services through this APP, you have agreed to use and protect your personal information in accordance with this policy. If you have any questions about this policy, or have any complaints or suggestions, please contact us through the contact information shown in this policy.
+
+The purpose of this policy is to explain the following to you:
+
+How do we collect and use your personal information
+How do we use cookies and similar technologies
+How do we share, transfer and disclose your personal information
+Information processing using third-party services
+How do we protect your personal information
+How to access and control your personal information
+Processing of children's personal information
+How your personal information flows around the world
+contact us
+Update of privacy policy
+1. How do we collect and use your personal information
+
+For the purpose of this policy, "personal information" refers to all kinds of information related to identified or identifiable natural persons recorded by electronic or other means, excluding information after anonymization. "Sensitive personal information" refers to personal information that, once leaked or illegally used, is likely to cause the human dignity of natural persons to be infringed or the personal and property safety to be jeopardized, including biometric identification, religious belief, specific identity, medical health, financial account, track and other information; Personal information of minors under the age of 14. We will collect and use your personal information in the following scenarios. You can also view the Personal Information Collection List in "My" - "Settings" of Geely Auto App.
+
+1.1 Guarantee the operation and safe operation of this APP
+
+When you visit this APP, our server will automatically record the browsing records you use, the page records when you visit our APP, and the date and time length of your visit. Please understand that this information is the basic information that must be collected in order to maintain the normal and stable operation of the products or services we provide and protect the safety and legitimate interests of you or other users or the public.
+
+When you use our services, our system may automatically collect the following information through SDK or other methods:
+
+(1) Equipment and log information
+
+In order to make your access experience easier, when you use our service, the system may automatically collect technical information, including:
+
+A. Equipment or software information, such as your hardware device model, screen width and height, software version information you use, your operating system and version, your IP address, mobile network information, your device ID, device manufacturer, device model, operator, IMEI/IMSI/android ID/IDFA/OPENUID/GUID information;
+
+B. The information you search, click and browse when using our service, such as the search keywords you use, access pages, and other information you browse or request to provide when using our service;
+
+Each time you search, click and browse information, we will collect the above information.
+
+(2) Location information
+
+In order to protect your account security as much as possible and make you gain a more secure access experience, when you turn on the device location function and use our location-based services, we may collect your location information. For example, when you use our services through mobile devices with location function, we may collect your geographic location information through GPS or WiFi/4G/5G and other network types. Every time you open the Geely Auto APP, we will collect the above information. You can stop our collection of your location information at any time by turning off the location permission in your mobile device.
+
+1.2 Registration and login
+
+When you register and log in to this APP and use related functions/services, you may need to provide us with your mobile number, mobile dynamic verification code and password to complete the registration and login of Geely Auto account. If you refuse to provide these information to complete registration and login, we may not be able to provide you with the relevant functions or services of this APP.
+
+Based on our cooperation with the communication operator, when you use the one-button login function, with your consent, we will use the function provided by the operator to use the mobile phone number in your device as your registration and login account and exempt from password or dynamic verification code verification, providing you with fast registration and login services. If you do not want to use the one-button login function, you can register and log in to our APP through other ways.
+
+If you forget your password, you can use the forget password function to retrieve and modify your password. In order to ensure the security of your account, we may need to obtain a dynamic verification code from your mobile phone number to verify your identity.
+
+1.3 Owner certification
+
+If you purchase Geely, in order to use the car control function, service reservation and owner related services, you can verify your owner's identity through [My] - [Owner Certification]. If you are an individual user, in this process, you may need to provide or allow us to collect information including: name, vehicle frame number (VIN code), ID card number, driving license, ID card, mobile phone number, dynamic verification code and face recognition information to help you complete the owner certification. Please know that the face recognition information belongs to your sensitive personal information. We will use a third-party service to complete the face recognition comparison. We only collect your comparison results. We will not directly collect your face recognition information and will ensure the security of your personal information. For the processing rules of face recognition information, please carefully check the third-party privacy policy.
+
+Please understand that if you do not complete the owner's identity authentication and provide the above information, you may not be able to obtain the certified owner's rights and interests related to the maintenance certificate and commodity certificate, but it will not affect your use of other services we provide for you.
+
+1.4 Appointment for test drive
+
+When you use the appointment test drive service, you may need to provide us with or allow us to collect the necessary information, including your name, gender, mobile phone number, location and intended model information. Please know that we collect this information to provide you with free appointment test drive service. If you do not provide this information, you may not be able to use the relevant functions/services, However, it does not affect the normal use of other functions/services under this privacy policy.
+
+Before you use the test drive for a formal test drive, you may need to provide us with or allow us to collect the necessary information, including your motor vehicle license information, test drive vehicle location information, vehicle status and your behavior information during the test drive. We are used to ensure the safety of the test drive and provide high-quality test drive experience services.
+
+1.5 Dealer inquiry
+
+When you use the dealer inquiry function, you need to provide us with or allow us to collect the necessary information including your region, so that we can show you the distribution of dealers in the corresponding region.
+
+1.6 Ordering cars
+
+When you use the order car function in this APP, according to your choice, we will generate a purchase order for you through the system. In the process of placing an order, you may be required to provide us with or allow us to collect necessary information, including:
+
+Your basic personal information. It includes your name, ID card number, driving license information, contact address/zip code, contact phone number, personal e-mail address and member account information. We are used to sign a car order agreement with you and handle vehicle transfer. These information includes your personal sensitive information. If you refuse to provide it, we will not be able to provide you with this service.
+Information generated in the process of ordering and purchasing your car. This includes the relevant information and records generated during your visit to Geely Automobile Store, participation in our activities, registration for test drive, telephone order, or contact with our customer service or sales department, your vehicle order information, loan agreement, insurance policy agreement and subsidy application. We are used to verify your vehicle order information, loan information, insurance purchase information or subsidy application information.
+Basic information of your vehicle. Including your license plate number, engine number, vehicle identification number and battery number, we are used to provide you with after-sales, warranty and other related services.
+1.7 Community communication function
+
+When you use services or functions such as user community communication and content sharing. You can publish Q&A, dynamic, pictures, videos, text and other contents in the [We] [Information] [Q&A] section of this APP. It can also interact with other users and evaluate the content of other users, including likes and comments. When you use these services, you may upload avatars, share photos, audio and video and other information. When you use the function of uploading pictures and publishing audio and video, we may ask you to authorize the camera, album or microphone permissions. If you refuse to provide such authorization, you will not be able to use this corresponding service, but it will not affect your normal use of other business functions of Geely.
+
+Please be aware that the information you publish may involve your or others' personal information or even sensitive personal information. For example, you are uploading pictures or text information containing personal information using social communication, content sharing, and functions or services related to album permissions. Please carefully consider whether to share and disclose the information you share when using our services before publishing. If the information you publish publicly involves the personal information of others, you need to obtain the consent of others before publishing, and the risks arising from not obtaining the consent of others will be borne by you.
+
+1.8 "Our partner" user stores
+
+If you are a Geely owner user, when you apply for "our partner" user store entry, you may need to provide or allow us to collect the following necessary information to help you complete the user store entry.
+
+Your identity information. It includes your name, gender, contact information, the Geely model you own, the dealer name of the vehicle you purchased, the frame number of your vehicle, the name of the car club you joined and your personal information. We are used to judge whether you meet the identity requirements of the user store.
+Business information of the settled stores. It includes the store's registered name, unified social credit code, legal representative's name, business term information, store name, your position in the store, industry type of the store, detailed address of the store, store photo, product introduction, store business hours, store introduction information and preferential rights and interests information. We use it to verify your store information and may use it for registration, publicity and other purposes that we clearly inform.
+Please know that in order to make your store successfully settled, please ensure the authenticity and completeness of the above information. The above personal information is necessary for you to enter the store. If you refuse to provide it, we will not be able to provide you with the functions/services related to the store entry.
+1.9 Car section
+
+In order to enable you to view your vehicle status or use the relevant functions of the car section in this APP, we may obtain vehicle-related information from your car terminal. We will explain to you the situation of our collection and processing of your personal information through this APP privacy policy and the Geely car terminal privacy policy (the access path of the car terminal is: security and privacy - the car terminal privacy policy, which is subject to the access path of each model). Specifically, the following scenarios are included:
+
+(1) Vehicle safety reminder/vehicle remote management
+
+In order to facilitate you to timely view and check the safety status of your vehicle and remotely control your vehicle, this APP provides you with remote view and control of vehicle-related vehicle networking functions. After you bind your vehicle to this APP and turn on vehicle-related functions, we may collect the following vehicle record information according to different scenarios:
+
+The locking/unlocking status information of the vehicle's doors and windows is used to judge the safety status of your vehicle for your remote control.
+The system function status (engine, air conditioning, seat heating, flashing horn, information flow) is used to help you judge the opening status of the vehicle system or check the use of information flow;
+Vehicle driving record information (vehicle speed, driving mileage, fuel consumption, energy consumption, power consumption, driving log) is used to help you check the working condition of the vehicle and timely troubleshoot the vehicle fault;
+Location information (vehicle location) is used to help you find the location of the vehicle;
+Environmental information (vehicle external temperature) is used to help you monitor the temperature status of the vehicle and give early warning of vehicle problems in a timely manner.
+When you use the above functions or other specific functions, we will also record and save your use behavior information and log information. Please know that these behavior information and log information are necessary for realizing the above functions or other specific functions.
+
+(2) Monthly report/annual report
+
+When you use the "monthly report" function in the car section, we may collect the following information about you and your vehicle, including: vehicle mileage, vehicle driving time, vehicle fuel consumption, starting and ending time of vehicle driving process, general location of vehicle starting point and ending point, so that we can provide you with monthly report service.
+
+If you use the "one-click screenshot" function in the monthly report, we need to obtain your album and storage permissions so that you can capture pictures and save them in the album. If you no longer continue to use this service, you can turn off this service function through the "My Settings Monthly Report" path of this APP. After you turn off, we will not continue to process your personal information based on this service function.
+
+When you use the "annual report" function in the car section, we may collect the following information about you and your vehicle: vehicle operation days, vehicle mileage, vehicle operation time, vehicle energy consumption, start and end time of vehicle operation process, vehicle operation city, vehicle operation speed, so that we can provide you with annual report service. If you use the "Save and Share" function in the annual report, we need to obtain your photo album permissions so that you can save pictures and save them in the album.
+
+(3) Digital key
+
+When you choose to use the digital key function, you need to provide us with or allow us to collect the necessary information, including: vehicle identification code, on-board and mobile equipment information and network identification information, which is used for wireless communication between the vehicle end and external equipment to realize keyless vehicle control for you. At the same time, in order to provide you with a better use experience, so that you can enter the vehicle without keys and start the vehicle engine, we need to obtain the Bluetooth permission of your mobile device to connect your vehicle. Please know that after you turn on the Bluetooth permission, every time you approach the vehicle, we will use your Bluetooth status information to realize the automatic unlocking and keyless start of the vehicle for you. If you need to turn off this function, you can stop using this function by turning off Bluetooth permission.
+
+(4) Car sharing
+
+When you choose to use the car sharing function, you need to provide us with or allow us to collect the necessary information, including your mobile phone number, vehicle identification number, the shared person's mobile phone number and sharing settings, for us to confirm the identity of the shared person and provide you with sharing services. At the same time, during your sharing process, we need to access your address book permissions, so that you can more accurately and conveniently share the vehicle to your designated contact.
+
+(5) Software Mall
+
+When you purchase our functional products in the software mall, in order to complete the payment, you need to provide us with the bank account information and vehicle identification code of the payment to complete the purchase of the software products. After you complete the payment, in order to complete the delivery, we will send the OTA upgrade software package to the vehicle corresponding to the vehicle identification code provided when you pay for it, which is used to activate the software upgrade or realize the functions described in the software upgrade.
+
+(6) Geofencing
+
+When you choose to use the geofence function, you need to provide us with or allow us to collect the necessary information, including: vehicle identification number, vehicle location information, fence range coordinates and fence alarm setting information, which is used to send you a reminder when you exceed the range you set.
+
+(7) Stolen vehicle tracking
+
+When you use the stolen vehicle tracking function, you first need to provide us with or allow us to use your mobile phone number to complete the authentication. After the authentication is completed, in order to help you track the stolen vehicle, you need to provide us with or allow us to collect the necessary information, including your vehicle's identification number (VIN), vehicle GPS positioning information and vehicle status data, which we use to track the vehicle's running track and provide to you.
+
+(8) First/last kilometer
+
+When you use the first/last kilometer service function, we need to collect your vehicle location information, your current navigation information, and send it to your designated Geely Mobile App to complete the navigation service for you.
+
+(9) Vehicle remote diagnosis
+
+When you use the remote diagnosis function, you need to provide us with or allow us to collect the necessary information, including: vehicle identification number (VIN), vehicle type information, vehicle configuration information, vehicle software and hardware information, vehicle status data and OTA upgrade status, for our remote diagnosis for you.
+
+1.10 Payment function
+
+When you use the payment function, you can have three choices: Jifen payment, WeChat payment and Alipay payment. The necessary information we need to provide or allow us to collect here includes: your Geely account name, registration time, registered mobile phone number, product name, name and ID card number (if any). If you use WeChat payment, you need to bind your WeChat payment account for payment. We will share your Geely account name, order payment related information, order security related equipment information and other necessary information required by anti-money laundering laws with Tencent through WeChat payment embedded in the APP.
+
+1.11 Order Center
+
+When you purchase goods or services, we or the third party providing services will collect your order. At the same time, we will summarize and display your information collected by the above third party. You can query and manage orders in [My] - [My Order].
+
+1.12 Event participation/event sharing
+
+We may carry out various activities and collect your personal information during the activities. When you participate in the raffle, promotion and marketing activities provided by us, you may need to provide us with or allow us to collect the necessary information, including: name, mobile phone number information, which we use for the reward distribution after winning the lottery. If you do not provide the above information, you will not be able to participate in the raffle function. If your prize is in kind, you may also need to provide us with your delivery address information, and we will send the prize to you by express. If you do not provide the above information, you will not be able to obtain the prize.
+
+When you use the activity sharing function provided by this app to share the activity to your designated friends, you may need to provide us with or allow us to collect the necessary information, including your mobile phone number, nickname, and avatar information. We are used to help you generate your exclusive promotion two-dimensional code for your sharing, and identify your identity to prevent fraud.
+
+1.13 Customer service and other user response functions
+
+When you interact with our customer service or use other user response functions (including: service consulting, putting forward after-sales applications for our products and services, exercising your relevant personal information control right, and other customer complaints and demands), for the sake of your account and system security, we may need you to provide account information first and match it with your previous personal information to verify your user identity. When you use customer service or other user response functions, we may also need to collect your following personal information: contact information (the phone number/email you use when contacting us or other contact information you actively provide to us), and your communication information with us (including text/pictures/audio/video/call records). We collect this information to investigate the facts and help you solve the problem. If you refuse to provide it, you may not be able to use our customer service and other user response mechanisms.
+
+You can choose not to provide some information, but this may cause you to be unable to use some services of this APP. Please understand that, out of the necessity of providing you with products or services online, and to ensure that you can enjoy the convenience of purchasing our products or enjoying our services online to the maximum extent, we will collect and use your above personal information. We will also improve our APP and communicate with you based on the information you provide.
+
+1.14 Data analysis
+
+In order to improve and optimize our services, understand the suitability of products, identify account abnormalities, conduct internal audit, fraud monitoring and prevention. We may collect your user account, equipment number, behavior information, browsing records, vehicle order number, vehicle related information, shopping mall order number and actual payment status and other statistical analysis data for product support analysis, so as to better improve service quality, optimize service functions and develop new functions; Please be aware that the information collected above will not identify your identity information, which does not belong to your personal information. At the same time, we will not collect other information that can identify you, such as phone number, address and ID number. We only keep the analysis results, and the analysis results cannot identify your identity information.
+
+1.15 Information push/marketing promotion
+
+In order to let you better understand and use our products and services. When necessary, we may collect and use your name, mobile phone number, e-mail information, and may send you vehicle management, safety or vehicle rescue information, as well as advertising, activities, questionnaire research, promotion and promotion information through SMS, email or telephone. If you do not want to receive the above information or call back from us, you can unsubscribe/reject the prompt operation according to the unsubscribe method provided in the message/call, and we will immediately stop pushing the above message/call to you. At the same time, you will be reminded that after you turn off or unsubscribe from the above functions, you will not be able to get our latest activity information and relevant information in time.
+
+When you use the message push function of this app, in order to ensure the timeliness and accuracy of message push, you can choose to use our self-start service so that we can push important messages and notifications to you in real time after you close the app, so as to avoid you missing or missing important information. If you want to turn off the auto-start function, the message push function may not be reached normally. You can turn off the self-start function in "Settings - Application - Self-start management" of your device.
+
+1.16 Your personal information we obtained from a third party
+
+It refers to the relevant information that Geely authorized by you can collect from Geely's related parties and partners during the use of our services, and that Geely's related parties and partners authorized by you can share relevant information with us. This information includes your identity information, behavior information, transaction information and equipment information. We will summarize this information to help us provide you with better and more accurate services or better prevent Internet fraud.
+
+Specifically, we may involve obtaining your personal information from a third party in the following scenarios:
+
+(1) Account binding
+
+If you set up to bind your third-party platform account with Geely account to achieve authorized login of associated account, we need to collect the user name and user ID of your third-party account for association with Geely account.
+
+(2) Customer service information
+
+In order to provide you with after-sales service and deal with your complaints, suggestions and other demands in a timely manner, we may obtain your contact information from the authorized dealer, including your name, address, telephone number and e-mail, which we use to understand, handle and respond to your needs in a timely manner.
+
+To provide you with fault diagnosis and repair services for vehicles during repair and maintenance, continuously improve our products and/or services, and optimize and enrich your user experience. We may need to collect and use your vehicle record information from the repairer and authorized dealer, including vehicle identification number (VIN), model, purchase date, repair history, customer preferences and settings, purchase history, and Geely user account. We are used to diagnose and repair the faults of your vehicle during repair and maintenance, and Geely's product development, such as improving the quality and safety functions of the vehicle and managing Geely's warranty commitments.
+
+1.17 Access to equipment authority
+
+In order to provide you with convenient and high-quality services, we may call some permissions on your device. The sensitive permissions that may be involved include location, camera and album permissions and will not be opened by default. We will only call or use them within the scope of your consent after obtaining your explicit consent. For those permissions that you have authorized us, you can also view the "Geely Auto App Permission Management" in "My" - "Settings" of the Geely Auto App to query the type of system permissions we have invoked or used and the purpose of use for your convenience.
+
+1.18 Exceptions with your consent
+
+Please know that according to relevant laws and regulations, we do not need to ask your consent when we collect and use your personal information for the following legal reasons:
+
+(1) Necessary for the conclusion and performance of a contract to which an individual is a party;
+(2) It is necessary for us to perform our duties or obligations under laws and regulations;
+(3) It is necessary to respond to public health emergencies or to protect the life, health and property safety of natural persons in emergencies;
+(4) Implement news reporting, public opinion supervision and other acts for the public interest, and handle personal information within a reasonable range;
+(5) Dispose of personal information disclosed by individuals or other legally disclosed personal information within a reasonable scope in accordance with the provisions of the Personal Information Protection Law of the People's Republic of China;
+(6) Other circumstances stipulated by laws and administrative regulations.
+
+2. How do we use cookies and similar technologies
+
+We will use "cookies" when you visit this APP. Cookies are small text files stored on the hard disk of the device by the network server. We may use cookies and similar technologies, including your habit of accessing APP, your browsing information, your login information, and network beacons that store user preferences and settings to prevent fraud, authenticate users, and collect operational information about services. You can reject or manage cookies by changing the settings of the browser add-on. However, please note that if you disable cookies, you may not enjoy the best service experience, and some services may not work properly.
+
+3. How do we share, transfer and disclose your personal information
+
+3.1 Sharing
+
+In principle, we will not share your personal information with any company, organization or individual other than our company, except for the following circumstances:
+
+(1) Obtain your explicit authorization or consent;
+
+(2) It must be provided according to applicable laws and regulations, legal process requirements or mandatory government requirements or judicial decisions;
+
+(3) On the premise of taking effective measures to protect your personal information security (including but not limited to signing relevant confidentiality agreements, etc.), share it with the following subjects and obtain your authorization and consent:
+
+3.1.1 Related companies
+
+We may share your personal information with our affiliates and guarantee that they will handle your personal information according to the purposes and requirements indicated in this policy. If the affiliated company wishes to use your personal information for other purposes than those stated in this policy, we will obtain your consent again.
+
+3.1.2 Share with dealers
+
+Only for the purpose stated in this policy, we will share your personal information with dealers to provide better customer service and user experience. Specifically, we may provide your name, mobile phone number, intended model and location to the car dealer to help you arrange the dealer to provide you with services nearby.
+
+3.1.3 Third-party service providers
+
+In order to realize our business functions, we may cooperate with third-party service providers in specific fields. Please be aware that if the specific functions and scenarios involve the provision of services by our affiliates and third parties, the scope of cooperation includes our affiliates and third parties. Please refer to the Personal Information Sharing List for details about our third-party partners. At present, our cooperation scenarios mainly include:
+
+(1) Mall shopping functions and services: The mall shopping functions and services in Geely Auto App are provided to you by our third-party platform. In the process of your use of relevant services or functions, the third-party platform may need to collect or use your products to browse, purchase goods and/or services. For detailed information collection, please refer to the corresponding privacy policy of the third party.
+
+Please know that for the companies, organizations and individuals with whom we share personal information, we will sign relevant data processing agreements with them, requiring them to process personal information according to our instructions, this privacy policy and any other relevant confidentiality and security measures.
+
+In addition to the above situations, if it is necessary to share your personal information externally for other business needs or reasonable reasons, we will inform you of the purpose of sharing personal information, the type of information receiver, etc., and obtain your authorization and consent through copy confirmation, pop-up prompt, etc.
+
+3.2 Transfer
+
+We will not transfer your personal information to any company, organization or individual, except for the following circumstances:
+
+(1) After obtaining your explicit consent, we will transfer your personal information to other parties;
+
+(2) When it comes to merger, acquisition or bankruptcy liquidation, if it comes to personal information transfer, we will require the new company or organization that holds your personal information to continue to be bound by this personal information protection policy, otherwise we will require the company or organization to ask for authorization from you again.
+
+3.3 Public disclosure
+
+We will only publicly disclose your personal information under the following circumstances:
+
+(1) After obtaining your explicit consent;
+
+(2) We may publicly disclose your personal information under the circumstances of laws, legal proceedings, litigation or mandatory requirements of the competent government departments.
+
+3.4 Exceptions with your authorization and consent
+
+In the following cases, the sharing, transfer and public disclosure of personal information do not require your authorization and consent:
+
+(1) Related to your performance of obligations under laws and regulations;
+
+(2) Directly related to national security and national defense security;
+
+(3) Directly related to public safety, public health and major public interests;
+
+(4) Directly related to criminal investigation, prosecution, trial and execution of judgments;
+
+(5) For the purpose of protecting the life, property and other important legitimate rights and interests of the personal information subject or other individuals, but it is difficult to obtain my authorization and consent;
+
+(6) Personal information that the subject of personal information discloses to the public;
+
+(7) Collect personal information from legally disclosed information, such as legal news reports, government information disclosure and other channels.
+
+Please note that, according to applicable laws, if we take technical measures and other necessary measures to process personal information, so that the information receiver cannot re-identify specific individuals and cannot recover them, the sharing, transfer and public disclosure of such processed information need not be notified to you and your consent.
+
+4. Information processing when using third-party services
+
+We will not provide your personal information to any third party organization or individual without legal procedures or your consent. In order to enable you to accept information push, use payment function and other necessary functional purposes, our APP or in the process of providing services for you will embed the SDK of authorized partners or other similar applications (see the Personal Information Sharing List for details). For the companies, organizations and individuals with whom we share personal information, we will carefully evaluate the purpose of partners' use of information, comprehensively evaluate the safety and security capabilities of these partners, and require them to comply with the cooperation agreement. We strictly monitor the security of SDKs or other similar applications that partners obtain information to protect information security. At the same time, we would like to remind you that when using third-party products or services to obtain your personal information, the collection and use of these personal information will be subject to the privacy policy of the third-party products or services.
+
+5. How do we store and protect your personal information
+
+5.1 Personal information security
+
+We are committed to ensuring the security of your personal information. We have used various possible security technologies and procedures to protect your personal information from unauthorized access, use, modification, damage or disclosure. We have mainly taken the following safety measures:
+
+1. We store your personal information in a computer system located in a controlled place and take general security measures.
+
+2. We only allow specific employees who have to deal with relevant information for the purpose of product and service operation to access personal information, and require them to perform strict confidentiality obligations.
+
+3. We continue to make efforts to ensure the security of your personal information, and take the means of whole-process encryption during the transmission of information to prevent your information from unauthorized access, use, modification, damage or disclosure
+
+4. When we transmit and store your special type of personal information, we will be more cautious and take technical security measures such as encryption to ensure information security.
+
+5. We strictly protect your personal information security. We use various systems, security technologies and procedures to protect your personal information from unauthorized access, tampering, disclosure or destruction. We will ensure the security of information according to the requirements of national laws and regulations.
+
+In the event of a personal information security incident, we will notify you in a timely manner in the form of push notice or announcement according to the requirements of laws and regulations, and inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, the suggestions for you to prevent and reduce the risks independently, and the remedial measures for you. We will promptly deal with security risks such as system vulnerabilities, network attacks, virus attacks and network intrusions.
+
+5.2 Storage period of personal information
+
+We will store your personal information within the necessary period to achieve the purpose of information collection and processing. Beyond the above period, we will delete or anonymize personal information, unless otherwise specified by laws and regulations.
+
+6. How to access and control your personal information
+
+6.1 Access, correction/modification of your personal information
+
+You have the right to access, edit, correct/modify your personal information. If you need to access, correct and modify your personal information collected by us, you can access, correct and modify your personal information through the "My Personal Information" path of this APP client or contact us through the contact method specified in this policy. We will respond to your request within 10 working days.
+
+6.2 Obtain a copy of your personal information
+
+If you need to obtain a copy of your personal information collected by us, you can send an email to geelyauto.privacy@geely.com Contact us, and the relevant personnel will submit a copy of your personal information to you on the premise that it complies with relevant laws and regulations and is technically feasible. If you request to transfer your personal information to the personal information processor designated by you, and meet the conditions specified by the national network information department, we will provide the means of transfer.
+
+6.3 Withdrawal of your consent
+
+If you wish, you can change our authorization for your personal information processing (such as location, camera, photo album). You can modify your hardware equipment or contact us through the contact information specified in this policy to withdraw or change your authorization.
+
+Please note that when you withdraw your consent for certain personal information processing, we may not be able to provide you with certain services normally.
+
+After receiving your withdrawal of consent, we will no longer process your corresponding personal information. Please note that your withdrawal of consent will not affect our collection and processing of your personal information before.
+
+6.4 Rejection of advertisements
+
+You can always choose whether to receive promotional emails, text messages, phone calls and letters from us or third parties. You can also choose not to receive interest-based advertisements by unsubscribing.
+
+After receiving your request to reject the advertisement, we will no longer use your personal information for the above commercial promotion purposes.
+
+6.5 Delete your personal information
+
+You can request us to delete your personal information when:
+
+(1) Your personal information is no longer necessary for the purpose of collection or processing;
+
+(2) You have withdrawn our consent to your personal information processing;
+
+(3) Personal information is illegally processed;
+
+(4) According to the requirements of applicable laws, we are obliged to delete your personal information.
+
+Please note that we will delete your sensitive personal information within 10 working days and general personal information within 15 working days. For technical reasons, we may not be able to delete your personal information immediately. We will delete this information when the system is updated. After receiving your request to delete personal information and during the system update period, we will not do any processing on your personal information that has been collected.
+
+6.6 Cancel your account
+
+You have the right to cancel your Geely car account. You can operate by visiting the "My - Settings - Account and Security - Account Cancellation" path on the App client page or contact us through the contact method specified in this policy. We will respond to your cancellation request within 15 working days after verifying your identity.
+
+Please be aware that once you cancel the Geely Auto account, your third-party account authorization login binding relationship will be automatically unbound, and you will not be able to log in and use the entire line of user products and services related to the Geely Auto account (including but not limited to Geely Auto App, applet, web page and other products and/or services), unless otherwise specified by laws and regulations, Account cancellation may cause all your user data and account information to be cleared and unrecoverable, so please operate with caution. In order to protect the legitimate rights and interests of you or others, we will determine whether to support your cancellation request based on your use of Geely's products and services.
+
+After you cancel your account, we will delete your personal information or anonymize it according to the requirements of applicable laws.
+
+6.7 Respond to your request
+
+When you want to exercise the above rights, you can call 400-88-69-888 or send an email to geelyauto.privacy@geely.com Contact us. After receiving your request, we may first verify your identity and may ask you to provide the necessary information for authentication. Generally, we will respond to your request within 15 working days.
+
+7. Processing of children's personal information
+
+Our products and services are mainly for adults. Although the laws and customs in different regions have different definitions of children, we regard anyone under the age of 14 as a child. We do not allow children under the age of 14 to register accounts or use our products and services, and will not intentionally collect any information about children under the age of 14.
+
+If at any time the guardian has reason to believe that we have collected the personal information of minors, please contact us through the contact information specified in this policy, and we will take measures to delete the relevant information as soon as possible.
+
+8. How your personal information flows around the world
+
+In principle, the personal information we collect and generate in the People's Republic of China will be stored in the People's Republic of China. If we need to transfer your personal information outside the People's Republic of China, we will obtain your consent and implement it in accordance with relevant national laws and regulations and relevant standards.
+
+9. Contact us
+
+If you have any questions or suggestions about this policy, or find any violation of this policy, please contact us at any time. We provide you with various feedback channels and hope to provide you with satisfactory solutions:
+
+Manual customer service channel: you can contact us at 400-88-69-888;
+Dedicated mailbox channel: To better protect your rights and interests, you can send an email to geelyauto.privacy@geely.com Contact us.
+Generally speaking, we will complete the verification, processing or provide reasonable explanation within 15 days. If you are not satisfied with our reply, especially if our personal information processing behavior has damaged your legitimate rights and interests, you can also seek solutions through external channels.
+10. Update of privacy policy
+
+We will change and modify this policy from time to time. If such change or modification will cause substantial impairment of your rights under this policy, we will notify you by means of prompt in a prominent place on the page before the change or modification takes effect. At that time, please read and fully understand the updated or modified privacy policy. If you continue to use Geely products and services, you will be deemed to agree to the updated version of this privacy policy. Without your explicit consent, we will not reduce your rights under this privacy policy.
+
+Major changes referred to in this privacy policy include:
+
+1. Significant changes have taken place in our service model. For example, the purpose of processing personal information, the type of personal information processed, and the use of personal information;
+
+2. The main objects of personal information sharing, transfer or public disclosure have changed;
+
+3. Your right to participate in personal information processing and the way you exercise it have changed significantly;
+
+4. Other changes that may have a significant impact on your personal information rights.
+
+Iteration of privacy policy version:
+
+Privacy agreement version number modification time modification content original privacy agreement link
+Geely Auto Privacy Policy V1.0.0 2021/01 Add privacy agreement, business scenario description and other jump
+Geely Auto Privacy Policy V1.5.0 2021/08/27 added the cancellation processing time limit;
+Add relevant description of monthly report;
+Explicit the business scenario and purpose of personal information collection; Jump
+Geely Automobile Privacy Policy V2.0.0 2022/12/28 supplements the third-party SDK information;
+Supplement personal information and highlight it in bold;
+Optimize the display of historical versions of privacy agreements;
+New owner's annual report function content jump
+Geely Auto Privacy Policy V3.0.0 2022/04/17 adds one-button login function;
+New "our partner" user store entry function;
+More clear about the information and purpose of personal information collection in business scenarios
+Geely Auto Privacy Policy V4.0.0 2022/05/26 adds the function of participating in/sharing activities;
+The APP operation subject is explained more clearly
+Geely Auto Privacy Policy V5.0.0 2022/06/28 optimized logout function
+Optimize some copywriting jump
+Geely Car Privacy Policy V5.1.0 2022/07/29 New owner certification function
+Optimize some copywriting jump
+Geely Car Privacy Policy V5.2.0 2022/09/01 New Car Service Mall
+Adjust some privacy policy documents
+Add double list jump for personal information protection
+Geely Car Privacy Policy V5.3.0 2022/11/10 New car section function description
+Adjust some privacy policy copy jumps
+Geely Auto Privacy Policy V5.4.0 2022/12/01 New self-starting function description
+
+

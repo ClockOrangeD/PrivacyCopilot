@@ -1,0 +1,101 @@
+The collection and processing of personal information in "maintenance service" and "feedback" have been updated;
+In the chapter of the "Equipment Ownership", the "telephone (equipment information) permissions" is deleted, and the explanation of "storage permissions" is updated;
+In the "Advertising and Marketing" chapter, the collection and processing of personal information have been updated.
+1. How do we collect and use your personal information
+We will provide you with the following business functions. In the process of using related business functions, we will process the information necessary for the following functions to establish or fulfill our contract obligations. If you do not provide relevant information, it will affect your related functions using this application.
+
+You can quickly understand the collection and use your personal information through access to collect personal information lists. For details of handling personal information, please refer to the following description.
+
+1.1 Login
+
+We have completed the registration and login function of the account based on Huawei account service. Before using Huawei account, please make sure you have read a statement on Huawei account and privacy and agree to the Huawei account user agreement to understand and agree with the personal information collection, use and sharing of the account. Treatment. Before logging in with Huawei account, you need to authorize us to visit your Huawei account related information. When you log in, we need to collect your Huawei account information, mobile phone number, mailbox, date of birth, real -name authentication status and equipment information (including AndroidID, device types, equipment models), Huawei account registration place to complete identity verification and avoid The security risk brought by the account on multiple devices at the same time, we will collect your account information and device identifier (including Androidid (Android device), device ID (iOS device)) to check your binding vehicle information in order to be for The owner provides exclusive services, and at the same time, we will collect application information for sending information and notification columns in the station. After you log in to the Huawei account, we need to use the nicknames and avatars in your account information to display in the application. Use your mobile phone number to contact you to solve the opinions and help for you. In order to meet the legal conditions for your business. In order to solve your feedback and help, we need to contact you with your mobile phone number.
+
+When you scan the Huawei account authorized login QR code on the car or watch, we will collect your Huawei account information, device information, and Android ID (Android device) to complete the Huawei account license login.
+
+1.2 Vehicle binding
+
+When you bind your vehicle, we need to collect your mobile phone number, SMS verification code, vehicle information, vehicle IoT card information, Huawei account, equipment information to provide binding vehicle services.
+
+1.3 Vehicle Fastener
+
+When you are unbinding in the vehicle, we need to collect your mobile phone number, SMS verification code, the reason for unbinding, and the vehicle ID to provide the corresponding unbinding vehicle service.
+
+1.4 Vehicle authorization
+
+When you authorize users to use vehicles, we need to collect your names of the authorized person, mobile phone number, authorization time/authorization period, scope of authorization, and authorization types of the authorized person, thinking that you provide corresponding services. At the same time, we also need to collect your Huawei account and mobile phone number, in order to determine whether the authorized person is a registered user and age. When the authorization is successful, the authorization modification, the cancellation of the authorization, and the authorization expires, it will send the letter, notification column message, and text messages to the authorized person. The content of the message will use your owner's mobile phone number and license plate number. , You can turn off this kind of message reminder switch in "My"> "Settings"> Notice Settings.
+
+1.5 Vehicle Control
+
+When you control your vehicle, we need to collect your safety codes, vehicle operating status data, vehicle control instructions, vehicle maintenance status, vehicle logo, fingerprint/face check result, thinking that you provide remote control related services. When you are allowed to receive the message of the vehicle status notification, you will receive a SMS and notification column reminder that your vehicle status information, license plate number and mobile phone number will be used in the message content. ">" Settings ">" Notice Settings "Turn off this kind of message reminder switch. When you look at the location of the vehicle, we will collect vehicle location information and peripheral image information. At the same time, in order to show the distance between you and the vehicle in real time, we will periodically update the location of you and the vehicle and calculate your distance from the vehicle. When your car is in maintenance, the remote car control function will be temporarily suspended. In order to present your historical driving behavior and data, we will collect your vehicle driving data (including driving mileage, power consumption, etc.) to generate driving reports, you can view it weekly or monthly. When you have a new driving report, we will inform us by reminding a notification column that the notification content includes vehicle models, license plate numbers, and report information (including the type and cycle of the report).
+
+1.6 Security Code
+
+When you set the security code, we need to collect your security code, mobile phone number, and SMS verification code, thinking that you provide the initialized security code and security code resetting service. If you turn on your fingerprint or face ID verification, we need to collect your terminal device's verification results of fingerprints or facial ID in order to determine whether the security code check is passed.
+
+1.7 Vehicle Software Upgrade
+
+When you operate the vehicle software upgrade through this application, we need to collect your vehicle information (including VIN and parts information) to provide you with software upgrade services. When the vehicle is successfully upgraded, the vehicle upgrade fails, and the vehicle upgrade conditions are not satisfied, you will receive information on the station, notification bar message and text message. The message content will use your license plate number. If you do not want to receive the notification bar reminder, you can be in "I me ">" Settings ">" Notice Settings "Turn off this kind of message reminder switch.
+
+1.8 Digital car key
+
+When you activate the digital car key, we need to collect your device information (including IMEI, MAC, device model, ROM version number, IMSI), SIM card literacy, Huawei wallet version number, and Huawei account information to achieve digital key activation Serve. When you use the digital car key, we need to collect the security code you set for a security check, collect the frame number, digital key data, your WiFi status and terminal model to complete the key -related operation of the vehicle. When the number key is canceled, you will receive information on the station, notification column message, and text messages. The message content will use your owner's mobile phone number and license plate number.
+
+1.9 Maintenance service
+
+When you query maintenance information, we need to collect your mileage and maintenance interval time in order to provide you with insured information inquiry services.
+
+When you make an appointment with your service, we need to collect your model, license plate number, frame number, reservation type, service store, reservation time, contact time, mobile phone number, SMS verification code and service description information in order to create a service appointment for you to make an appointment Order. When you cancel your service appointment order, we will collect the reason for your cancellation; when the service is over, we will invite you to evaluate our services. If you submit the evaluation, we will collect your evaluation information so that you can provide you with better service.
+
+When your car enters the delivery session, we will use the car owner's information, delivery information, order information and service point information to generate the delivery work order. You can check the delivery details in the work order details. After the delivery is completed, we will invite you to right to right. The service is evaluated. If you submit the evaluation, we will collect your evaluation information in order to provide you with better services.
+
+
+
+1.14 third -party service
+
+Discovery, selection, car purchase, charging, and store inquiry in this application are provided by third -party partner Huawei Terminal Co., Ltd., please make sure you have read a statement about discovery, selection, car purchase, charging, and service store business and privacy. And agreed to discover, select, buy car, charge, charge and serve store business user agreements.
+
+2. Equipment rights adjustment
+Communication recording permissions: When you use the "vehicle authorization" function, you can choose to turn on the permissions so that we can get your communication record permissions to directly provide the author's name and mobile phone number. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services.
+
+Position permissions: When you use the "Digital Key" function, you can choose to turn on the permissions and open the mobile phone Bluetooth so that we can get your position to provide the digital key unlock/lock door door function. When you use the "View Vehicle Location" function, you can choose to turn on the permissions so that you can show your distance from the vehicle. When you use the "Service Appointment" function, you can choose to open this permission so that we can recommend and display the nearby service stores according to your location. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services.
+
+Storage permissions: When you use the "Feedback" function and the necessary application log files for storage, you can choose to open the permission so that we can access the content in the memory card to provide you with corresponding services. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services. (Not including iOS)
+
+Camera permissions: When you use the "Feedback" function, you can choose to turn on the permissions so that we can get your camera permissions to provide photo shooting services. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services. (Excluding Android)
+
+Photo permissions: When you upload photos with the "Feedback of Opinions", you can choose to open this permission so that we can access the content in the album to provide you with corresponding services. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services. (Excluding Android)
+
+Fingerprint/Face ID permissions: When you need to verify the security code, you can choose to open the permission for quick verification. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services. (Excluding Android)
+
+Bluetooth permissions: When you use the "Digital Key" function, you can choose to turn on the permissions for the connection and control of peripheral devices. If you don't need such a service, you can turn off the permissions at any time, which will not affect the use of other services. (Excluding Android)
+
+You can access the system at any time to manage your system authority.
+
+
+
+5. Share with third parties
+In order to provide you with some functions, such as the signing and authorization of the agreement, and the binding of the family charging pile, we need to provide your personal information to the third party. In order to ensure your data security and privacy, we signed a data security protection agreement with our partners to clarify the partner's responsibility, obligations and requirements for your data protection. For details, please refer to the third -party sharing information list.
+
+6. Third -party SDK
+Some services need to be provided by partners, such as accounts, car clouds, digital keys, etc. For this reason, we integrate the partner's software tool development package ("SDK") or other similar applications. For more details, please refer to the third -party SDK list.
+
+
+
+Huawei account SDK
+Objectives: Used to provide user registration and login function
+Services), operating system information
+SDK Privacy Statement or Developer Guide: https://consume.huawei.com/minisite/CloudService/id/privacy-statement.htm? Country = zh_hans_cn
+
+Huawei Wallet SDK
+Objective: Used to communicate with Huawei Wallet, provide digital car key functions
+Category involved in personal information: car control instructions, vehicle status
+SDK Privacy Statement or Developer Guide: https://consume.huawei.com/minisite/CloudService/hiwallet-web/privacy.htm? Code = zh_hans_cn
+
+Huawei Wallet Bluetooth SDK
+Objective to use: used to communicate with the Bluetooth module of the vehicle
+Category involved in personal information: car control instructions, vehicle status
+SDK Privacy Statement or Developer Guide: https://consume.huawei.com/minisite/CloudService/hiwallet-web/privacy.htm? Code = zh_hans_cn
+Huawei Cheyun SDK
+Purpose: Used to connect with car clouds
+Category of personal information: Equipment information (including device type, equipment model, equipment identifier), authentication information, personal basic information, vehicle information, mobile phone number, SMS verification code
+SDK Privacy Statement or Developer Guide: Please copy to the browser to open: https://portal.fgaiservice.com/agreements/privacyStatement/accprivacystatement.html

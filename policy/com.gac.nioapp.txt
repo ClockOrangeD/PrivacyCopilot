@@ -1,0 +1,136 @@
+User privacy policy agreement
+
+ 
+
+Update date: April 18, 2023
+Effective date: October 15, 2021
+
+ 
+
+"Hycan Hechuang" is provided by Hechuang Automobile Technology Co., Ltd. (hereinafter or "we", please see the end of the article). We know the importance of personal information to users (hereinafter or "you"). We Respect and protect your privacy. In view of this, we have formulated a privacy policy in accordance with relevant laws and regulations to help you understand how we will collect, store, protect, use, and provide your personal information and explain the rights you enjoy.
+
+ 
+
+Please read and confirm that this privacy policy is fully understood before using this product so that you can make appropriate choices. If you use this product, it means that you have read all the terms of this privacy policy, and agree that we can collect, store, use, process, and protect your personal information in accordance with this privacy policy. If you do not agree with the part of the privacy policy, or have any questions about the content of the privacy policy, you have the right to immediately stop using this product and contact us (see the end of the article for details).
+
+ 
+
+This privacy policy has been marked with the terms that have a significant relationship with your equity or may have a significant relationship with or may have or may be exempted or restricted.
+
+ 
+
+1. How do we collect and use your personal information
+
+Personal information refers to various information that can be recorded alone or with other information with other information. For the above personal sensitive information listed in this privacy policy, in order to facilitate your alertness during reading, we will prompt you to pay attention to the prominent display of the privacy policy, add lines, or point out separately. Essence
+
+When you use this product, we will collect your personal information based on the purpose of achieving the purpose of this scene in the following specific products or service scenarios. You do not have to provide us with personal information, but if you choose not, we may not be able to provide you with corresponding services or cannot respond or solve the problems you encounter.
+
+1. In order to complete the registration of the user account
+
+When you register as our user, you need to provide your mobile phone number and enter the verification code after obtaining the verification code to complete the login. The mobile phone number is a sensitive information. If you do not provide such information, you may not be our user. If you only need to use basic browsing services, you can choose not to register and provide such information.
+
+2. In order to book or purchase products/services
+
+For example, in the process of booking or purchasing our products and services in our online mall through the Hechuang Automobile APP, we will collect your personal identity information, personal account information, and other information required by the exchange according to the needs of the product and service needs. Including but not limited to names, address, gender, contact information, certificate types, documents numbers, banks or third -party payment accounts, member account information, etc.
+
+3. In order to log in more conveniently
+
+In order to allow you to use the login service more secure and conveniently, such as your equipment and versions support fingerprint recognition and face recognition function, you can choose to use fingerprint login or face recognition login service. You need to enter your fingerprint information and face information on your device. When you make a fingerprint login or face recognition login, you need to complete the information verification on your device. We only receive the verification results and do not collect your fingerprint information or face information. If you don't want to use fingerprint verification or face recognition verification, you can still perform account verification and log in in other ways.
+
+4. In order to provide you with customer service and message feedback functions, you need to fill in and submit mailbox and mobile phone number information in order to contact you, help you solve the problem or record the processing schemes and results as soon as possible.
+
+5. In order to verify whether the information and information you submit are accurate and sufficient to avoid unnecessary losses to you because of your identity, you agree and authorize us to submit it by yourself or through the partner or we submit it or us. The collected user information is verified and verified, and the obtained verification and verification results are checked, collected, used, and reserved.
+
+Our [Device Single Login] function needs to obtain the user's IMEI, which is used for mutual kicking to ensure that the same account can only log in in one device to improve security.
+
+Our [APP startup process] function needs to obtain the process during operation to determine whether to start.
+
+Our [charging map and navigation] function requires the software installation list to determine whether there are map software.
+
+Our [TBS Tencent browsing service, Tencent browsing service, Tencent X5 browser, Tencent browser] function needs to obtain user IMEI, for accounting mutual kicking, ensuring that the same account can only log in in one device to improve security.
+
+Our [Desktop Molecular] feature requires you to allow the application to start and start. When you add a module and exit the app, you need to update the desktop component content by awakening applications, so it will produce self -starting behavior. If you do not need to use the desktop component function, you can remove it from the system desktop or cancel itself in the system settings.
+
+We will obtain device serial numbers, Android ID, and IMSI information as needed during use to determine the legality of users.
+
+We will collect your MAC address information in the state of silence/background: the user obtains the user's unique logo, judge the user's participation of the legitimacy, and the third -party message push the logo.
+
+Our com.gacnio.Toolkit, com.gac.commonui, jv.handlemessage, com.bigkoo.kataFoundation to obtain SD card data for chatting data preservation. Baidu Map Android map SDK obtains SD card data for positioning and navigation. AndroidSupportlibraryFRagment, com.growingio.android, com.growingio.eventcenter to obtain shear plates for data buried points. Reactnative, Sentry-Android, IO.SENTRY.REACT obtaining sensors for problem mobile phones, facilitating problem positioning.
+
+com.hycan.map, com.hycan.community, rxjavafx, retrofit2.adapter.rxjava2, IO.ReaCTIVEX, IO.ReaCTIVEX.OBSERVERS takes SD card data, user request network, and data storage.
+
+Tencent Buglysdk obtains ICCID through native ways. The user problem collection corresponds to the mobile phone model to facilitate the positioning of the problem.
+
+Our com.bigkoo.kataFoundation obtains SD card data to save pictures. Baidu map SDK obtain SD card data to read user location information.
+
+We will obtain Android ID and IMSI information as needed during use to judge the legality of users.
+
+We will collect your MAC address information in the state of silence/background: the user obtains the user's unique logo, judge the user's participation of the legitimacy, and the third -party message push the logo.
+
+Our [IO.SENTRY] log collector will collect the corresponding mobile phone model for problem collection to facilitate problem positioning.
+
+6. In order to provide remote vehicle management services
+
+If you bind your vehicle with the Hechuang Automobile APP, you hope to remotely manage your vehicle on your personal mobile phone through Hechuang APP. When you use Hechuang account to activate the vehicle The binding relationship, after the verification is successful, will open the network -related service related services. According to the difference in the configuration of the model, the content of the Internet of the car may be different, mainly including the following content:
+
+(1) Car owner account management: The owner can authorize other users to use the account -related functions of car networking through the account authorization;
+
+(2) Remote vehicle control: remote control of the opening/turnover of the car lock, window, sunroof, front cover, tail door, air conditioning, etc., we will store the car end collection data for subsequent investigation and positioning user doubts;
+
+(3) Remote view of the car condition: the opening/closing status of the door, window, sunroof, front cover, tail door, air conditioning, etc.
+
+(4) Battery management: use the reservation charging, reservation hot car, set up charging upper limit and other functions;
+
+(5) Vehicle traffic query and purchase: you can check and purchase car traffic at the convenience of the Hechuang APP;
+
+(6) View driving report: such as driving mileage, driving energy consumption, charging number, charging degree, etc., we will present the data collected and stored data from the vehicle side to you through the driving data function of the APP to you.
+
+7. In order to provide Bluetooth vehicle management services
+
+If you activate and use the Bluetooth key through the Create APP, we will verify the binding relationship between your mobile phone number and the VIN VIN.
+
+(1) Bluetooth -based function: Before using the Bluetooth key function, you need to allow the Bluetooth permissions to use the system system.
+
+(2) Car owner account management: The owner can authorize other users to use the combined Bluetooth key related functions through the account authorization;
+
+(3) Bluetooth car control: Bluetooth control car locks, windows, sunroofs, tailgates, etc. open/off, Bluetooth parking and other functions. We will store data from the car end for storage for subsequent investigation and positioning user doubts;
+
+(4) Bluetooth View car condition: The opening/closing status of the door, window, sunroof, front cover, tail door, air conditioning, etc. synchronize to the Xichuang APP display;
+
+8. Strive to improve your experience, we may collect and use your personal information in the following additional services provided to you. If you do not provide this information, it will not affect your use of core business functions, but you may not be able to obtain the user experience brought by these additional services to you. These additional services include:
+
+(1) Function based on the camera (camera): You can turn on the camera to take pictures and upload picture operations and use video services;
+
+(2) Album -based function: You can choose pictures upload from the local album. By opening the allowable access album function, you can also use upload avatars and posts on the platform;
+
+(3) Function based on geographical location: You can turn on the positioning service in order to query the charging service site, vehicle positioning and accepting our emergency rescue services near the vehicle;
+
+(4) Function based on microphone: You can choose microphone equipment to perform voice input and communication of specific scenes (voice search, voice information) or video dialogue;
+
+(5) Based on the function of the phone: When you encounter difficult problems in the process of using the service, you can call the customer service phone with one click. Opening this function will avoid you manually fill in the customer service phone;
+
+Please note that when you start the right of power, it means that you authorize us to collect and use relevant personal information to provide you with corresponding services. Once you turn off the right of power, it means that you cancel the authorization. And the use of relevant personal information can not provide you with the service corresponding to the permissions. However, your decision to close permissions will not affect the collection and use of information based on your authorization.
+
+Please understand that the services we provide to you are constantly updated and developed. If you choose to use other services that have not been covered in the aforementioned description, based on the service we need to collect your information, we will explain the scope and purpose of the information collection by page prompts, exchanging and interacting, or agreement. Get your consent.
+
+9. According to relevant laws and regulations, in the following circumstances, we collect or use personal information without requiring your authorization or consent:
+
+(1) Directly related to national security and national defense security;
+
+(2) Directly related to public safety, public health, and major public interests;
+
+(3) Directly related to criminal investigation, prosecution, trial, and judgment execution;
+
+(4) For the purpose of maintaining your life, property, etc., but it is difficult to get your consent;
+
+(5) The personal information collected is made by your own public;
+
+(6) Collect personal information from the information disclosed legal and publicly disclosed;
+
+(7) Signing and fulfilling the contract according to your requirements;
+
+(8) The necessary and stable operation of the service provided by the service provided by the maintenance, such as the failure of the discovery and disposal of the product or service;
+
+(9) Other circumstances stipulated in laws and regulations.
+
+10. You know and agree. After collecting your personal information, we may desewn your personal information through technical means. We have the right to use the information that has been desensitized without disclosure of your personal information.

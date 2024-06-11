@@ -1,0 +1,274 @@
+Chang'an Gravity APP Privacy Policy
+
+This privacy policy is updated and effective on April 15, 2022
+
+introduction:
+
+Chang'an Automobile attaches great importance to the protection of user privacy. We will try our best to take security measures to ensure that your personal information is safe and controllable according to the requirements of laws and regulations. Except for certain specific services, this privacy policy applies to all our services. The specific privacy policy for certain specific services will more specifically describe how we use your information in such services. When you use our service, we may collect and use your relevant information, and limit the scope of processing your personal information to the minimum scope for achieving the service purpose. We hope to explain to you through this privacy policy how we collect, use, store and share this information when using our services. This Privacy Policy is closely related to the Chang'an Auto service you use. I hope you must read and understand this policy carefully, and use the service we provide after confirming that you fully understand and agree. In particular, we should focus on reading the terms marked in bold to ensure that you fully understand and agree before using.
+
+Scope of information we may collect
+
+When we provide services, we may collect, store and use the following information related to you personally. This information will be used in specific functions to provide you with more reliable products, better services and ensure the security of your account.
+
+1、 Collection of personal information
+
+1. The information you provided to us
+
+1.1. When we provide you with account registration, owner certification, shopping mall procurement and other related services, in order to contact you when necessary, carry out risk detection, verify your true identity and provide better authentication and commodity delivery services in accordance with industry regulatory requirements, we will collect the name, mobile phone number, ID card, driver's license, gender, age, e-mail address Home address and other information directly related to you.
+
+1.2. In order to provide you with better services during your use of our services, we will collect your preferences for service types, service improvement opinions and other relevant information.
+
+1.3. Social services, comments, sharing and other information release: We will collect information related to your participation in the activity, and will collect photos, videos and text content, location information, voting information that you upload, as well as information that you can choose to use such functions as follow, collect, comment, like, share, sign in, and other information release functions to share your experience with other users or recommend your favorite content.
+
+1.4 Mall service: You need to provide the recipient's name, contact telephone information, and delivery address so that we can help you successfully complete the transaction. We will collect your purchase record information, mainly including the type of goods purchased, purchase quantity, payment amount, payment time, order message, product evaluation, U currency acquisition and use, and other information to better support the after-sales service of goods.
+
+1.5 When you use the services in APP such as on-site test drive, on-site delivery, on-site pick-up and delivery, exclusive consultant, spare parts inquiry, scheduled maintenance, courtesy car, U-card, etc., in order to provide you with services and resources nearby, with your consent, based on different service needs, we can collect the name, gender, mobile phone number, identity information (including pictures), test drive application records, scheduled maintenance records, conversation records U-share card purchase record, card volume collection and other information.
+
+2. Information we collected
+
+2.1. Device information: In the process of providing you with normal services, in order to provide better adaptation services, we will collect your device model, terminal brand, operating system, operating system version number, app version, mobile phone model, mobile phone brand, network type, unique device identification code, login IP address, software version number Equipment accelerator (such as gravity sensing equipment) and other information, which is the basic information that must be collected to provide services.
+
+2.2. Log information: In the process of providing you with normal services, in order to evaluate the quality of our products and services to provide better adaptive services, we will collect your detailed use of our services and save them as relevant network logs. For example, your search content, IP address, browser type, visit date and time, and web page records you visited.
+
+3. We may need your device permissions
+
+3.1 Camera and photo album permissions: In the process of providing functions such as avatar setting, posting, saving pictures, owner certification, feedback, and event release, in order to enable you to upload, feedback, save clients, and take photos/videos normally, you need to turn on camera and photo album permissions and microphone permissions.
+
+3.2 Address book and telephone call authority: In the process of providing customer service functions, in order to enable you to call and make customer service calls normally, you need to enable telephone call authority.
+
+3.3 Geographic location: We may need to collect your geographic location information through GPS or WiFi to ensure that you can better use the location-based services we provide when providing you with services such as appointment test drive, popular recommendation data display, community geographical data sorting, door-to-door delivery, door-to-door pickup and delivery, shopping mall, etc.
+
+3.4 Bluetooth authorization: When you use the Bluetooth key, you need to turn on the Bluetooth permission to control your car without a key.
+
+3.5 Notification authority: When you use the app for identity authentication, sign-in, participation in activity registration, commodity purchase, positioning and navigation, as well as vehicle after-sales service, disaster care reminder, member rights notification, member activity invitation, attention information notification, etc., we may need to obtain the notification authority of the app for offline and off-site message push reminder.
+
+Most of the above personal information is provided to us by you on your own initiative, and we also obtain it through cookies, SDKs and similar technologies when you use relevant products and services in our APP.
+
+2、 Description of handling method
+
+2.1. During your use of our products and services, in order to ensure your normal use of various services, we will save and use your information and permissions on the premise of ensuring security.
+
+2.2. If we need to use your personal information for purposes not stated in this agreement, or use the information collected for a specific purpose for other purposes, we will seek your consent in advance.
+
+2.3. On the premise of obtaining your consent in advance and meeting your own interests, all kinds of mining, analysis and utilization of your information are carried out on the premise of ensuring your information security.
+
+2.4 You can find the application details through the settings, click the access permissions view to find the status of your above permissions, and you can decide to open or close these permissions at any time. Please note that if you turn on these permissions, you will authorize us to collect and use these personal information to achieve the above functions. If you turn off the permissions, you will cancel these permissions, and we will not continue to collect and use your personal information, nor will we be able to provide you with the above functions corresponding to these permissions. Your decision to close permissions will not affect the previous processing of personal information based on your authorization.
+
+3. Exceptions
+
+In the following cases, the collection of your personal information does not require your authorization and consent:
+
+3.1 It is necessary to conclude and perform the contract to which you are a party;
+
+3.2 Necessary for performing legal duties or obligations;
+
+3.3 It is necessary to respond to public health emergencies or to protect the life, health and property safety of natural persons in emergencies;
+
+3.4 Conduct news reporting and public opinion supervision for the public interest, and handle personal information within a reasonable range;
+
+3.5 Handle personal information disclosed by individuals or other legally disclosed personal information within a reasonable scope according to the law;
+
+3.6 Other circumstances stipulated by laws and administrative regulations.
+
+Basis for legal basic data processing
+
+Our processing of your personal information is based on your personal consent, and is subject to the scope, method, storage time and purpose of personal information processing agreed by you. However, if laws and administrative regulations do not require your personal consent, we will process your personal information based on the legal basis permitted by other laws and administrative regulations.
+
+Direct sales information
+
+From time to time, we will use your name, email address, phone number, and other relevant communication information to provide you with information we think you are interested in, including our products and services, messages and advertisements, evaluation, activities, promotions and promotions.
+
+We will also share your information with our affiliates, companies in which we have significant ownership interests, selected third-party service providers or our partners (for the benefit), so that they can provide you with information, latest news, evaluation, activities, promotion and promotion of their products and services.
+
+If you do not want to receive the marketing information we provide to you in any form, or if you change your mind after giving your authorization consent, you can choose to withdraw your authorization consent. You can unsubscribe through the unsubscribe instructions provided in our email or follow the unsubscribe instructions provided in our SMS. You can also contact us in the way listed in the "Contact Us" section below to withdraw your authorization. Please note that even if you opt out of receiving marketing email, we may send you important management and security messages.
+
+We will authorize financial institutions to transmit your mortgage-related information to auto manufacturers and sales companies through the online system to exchange and exchange information, confirm personal information and discount recognition, improve the auto loan process and improve the auto loan service. We will properly store the relevant mortgage information and will not transfer your personal information to any company, organization or individual.
+
+For the avoidance of doubt, we will use your personal information to make automated decisions only when we meet the following conditions:
+
+A) Obtain your personal consent;
+
+B) You can choose a service mode that is not specific to your personal characteristics. We will not make user portraits and automated decisions for you;
+
+C) We will promote the fairness and rationalization of automated decision-making within the existing technical level and reasonable labor cost
+
+D) If you request, we will provide you with an explanation of the automated decision rules.
+
+Information sharing
+
+We will share or provide your personal information to a third party under the following circumstances:
+
+-In order to provide services to you or achieve the purpose described in the "Method and Scope of Information Use" section of this privacy policy, share your personal information with:
+
+1) Companies we own or control, and companies in which we have significant ownership interests;
+
+2) Third-party service providers or partners of Chang'an Automobile, such as providing vehicle license application service, insurance service, website hosting, data analysis and storage, vehicle control navigation, positioning, map display, application crash bug, login, sharing, manufacturer channel push, upload pictures, AR description, 5G remote support, vehicle ordering and financial products, vehicle control Bluetooth, data buried point, vehicle control, payment processing Service providers of order execution and product installation, wireless connection of Chang'an Automobile, information technology and related infrastructure, customer service, vehicle maintenance or related services, e-mail transmission, credit card processing, audit, marketing, voice command processing, loss assessment and underwriting, and other similar services. In order to achieve the above service purposes, the information we provide to the third-party service provider may include your name, contact information, license plate number, unique vehicle identification code, vehicle location information and other personal information.
+
+3) Provide your information to the court or government authority according to laws and regulations, court orders or other legal procedures, or the requirements of the competent government authority. For example, according to the requirements of laws and regulations, we will carry out necessary remote data dynamic monitoring, and connect the relevant user information, daily use, repair, maintenance and other data of Chang'an automobile products and vehicle dynamic monitoring data to the vehicle data government collection/monitoring platform and the data collection/monitoring platform of Chang'an automobile and its affiliated companies.
+
+4) Share your information to protect the rights, property or safety of our employees, service users or the public from damage within the scope required or permitted by laws and regulations.
+
+5) For the needs of mergers, acquisitions or asset sales, we may transfer your personal information. Before transferring your personal information, we will give you appropriate notice and ensure that your personal information is protected as much as this privacy policy after transfer.
+
+6) According to your authorization, it will be shared with the third-party service providers you choose, the third-party sponsors of the promotional activities you participate in, and the social media service providers you authorize. If we share the relevant content of Chang'an Gravity APP to WeChat according to your requirements, we will provide WeChat with your user name and other personal information.
+
+Third-party advertising network
+
+We may cooperate with network advertisers and other third parties to display ads in our Chang'an gravity, assist us in displaying ads on third-party websites and evaluate whether our advertising is successful. These third parties may display advertisements based on your browsing of our Chang'an Gravity APP and other websites, so as to provide you with more advertisements of related products and services that you may be interested in. The behavior of these third parties is subject to their privacy policy. We may provide these third-party advertisers with information about your use of our Chang'an Gravity APP, as well as other integrated or unrecognizable personal information.
+
+Choosing to quit one or more member networks (many of which will be the same) only means that those members will no longer provide you with content or advertising for you. This does not mean that you will no longer receive any advertisements on our Chang'an Gravity APP or other websites. You can continue to receive advertisements, for example, when you browse certain websites. In addition, if your browser is set to reject cookies, or you use a different computer or change your web browser, your previously selected exit may no longer be valid.
+
+Information storage
+
+We store your personal information on servers and public clouds located in China. Such personal information will not normally be transferred across borders to outside China.
+
+However, for the purpose specified in this privacy policy, after performing the obligation of data exit security assessment under applicable laws and regulations and obtaining your consent (if applicable), we may transmit such information to our affiliates in North America and Europe and other overseas entities.
+
+Shelf life
+
+We will retain your personal information within the period required to achieve the purpose stated in this privacy policy. After the above period, we will delete your personal information or anonymize your personal information.
+
+Your rights and choices
+
+In accordance with applicable data privacy laws, we will take appropriate technical measures to ensure your right to access, update, correct or delete your personal information. When you exercise your rights, we can ask you to provide identification to ensure that we protect the confidential information of customers.
+
+Access
+
+If you want to access your Chang'an website or Chang'an Gravity APP account information, order information, vehicle use data and other information, you can contact us according to the methods listed in the "Contact Us" section below to access your personal information. Based on certain exceptions, we may refuse your request to the extent permitted by applicable laws and regulations. We reserve the right to adjust your above according to applicable laws and regulations.
+
+Right of correction
+
+When you find that there is an error in the personal information we handle about you, you have the right to correct or update the wrong or incomplete information after verifying your identity and the correction does not affect the objectivity and accuracy of the information. You can contact us according to the methods listed in the "Contact Us" section below; Or for personal information collected through Chang'an website and Chang'an Gravity APP, you can submit relevant requirements through the settings  feedback function in Chang'an website or Chang'an Gravity APP.
+
+Delete right
+
+If we collect, use and share your personal information with others in violation of laws and regulations or the agreement with you, you have the right to ask us to delete it. You can contact us according to the methods listed in the "Contact Us" section below; Or for personal information collected through Chang'an website and Chang'an Gravity APP, you can submit relevant requirements through the settings  feedback function in Chang'an website or Chang'an Gravity APP.
+
+Revocation right
+
+Each business function needs some basic personal information to be completed. For the collection and use of additional collected personal information, you can give or withdraw your authorization at any time. You can contact us according to the methods listed in the "Contact Us" section below; Or for personal information collected through Chang'an website and Chang'an Gravity APP, you can submit relevant requirements through the settings  feedback function in Chang'an website or Chang'an Gravity APP.
+
+Cancellation right
+
+You can cancel the accounts of the previously registered Chang'an website and Chang'an Gravity APP, but account cancellation will clear all your user data and account information and cannot be recovered. You can contact us for more details according to the methods listed in the "Contact Us" section below.
+
+However, if we have to collect, process, use or share your information according to applicable laws and regulations, we can refuse your request to the extent permitted by applicable laws and regulations. We have the right to adjust your above rights according to the provisions of applicable laws and regulations.
+
+Unsubscription of marketing information
+
+In accordance with the applicable data privacy law, we will let you choose whether to accept marketing information sent by us, our affiliates or service providers via email, SMS, printed materials, etc. You can unsubscribe from this information through the unsubscribe mechanism provided in this information, or contact us according to the methods listed in the "Contact Us" section below to unsubscribe from this information.
+
+information safety
+
+We will take all appropriate organizational, management and technical measures to protect the security of the personal information you provide in our internal organization, but we cannot guarantee that the system and information are 100% safe. If you think there are any security risks or vulnerabilities in our system, please contact us according to the methods listed in the "Contact Us" section below.
+
+Security event notification
+
+We will develop an emergency plan for network security incidents and deal with security risks such as system vulnerabilities, computer viruses, network attacks and network intrusions in a timely manner. When an incident endangering network security occurs, we will immediately launch the emergency plan, take corresponding remedial measures, and report to the relevant competent authorities in accordance with applicable laws and regulations.
+
+After the occurrence of a security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take, the suggestions on the risks you can prevent and reduce independently, and the remedial measures for you in accordance with the requirements of laws and regulations. We will inform you of the relevant information of the event in a timely manner by SMS notification, telephone, email and other contact information reserved by you. If it is difficult to inform you one by one, we will take a reasonable and effective way to release the announcement.
+
+juveniles
+
+We have always attached great importance to and committed to the protection of personal information of minors. In addition to applicable legal requirements, we will not knowingly collect personal information of minors (under the age of 18 or the age specified by local laws). Minors should not provide personal information to us without the consent of their guardians; And with the consent of your guardian, you need to use our products and services under the guidance of your parents or other guardians to ensure your safety when using our products and services and conducting transactions. We will also implement in strict accordance with relevant national laws and regulations to ensure data security.
+
+link
+
+This privacy policy does not cover the collection, use or sharing of information by any third party. Chang'an website, Chang'an Gravity APP or vehicle-mounted application platform may contain or link to the services provided by a third party (for example, Chang'an website may jump to the service page provided by a third party; when using Chang'an Gravity APP, you may jump to the service page provided by a third party when sharing articles through WeChat circle of friends, WeChat friends or Weibo). The service is provided or operated by a third party. Your use of the third party's services and the information provided to the third party will be subject to the user agreement and privacy terms of the third party, not the privacy policy. We do not assume legal responsibility for the content or security of other websites or applications we link to.
+
+Privacy Policy Update
+
+If we decide to update our privacy policy, before the new privacy policy takes effect, we will publish the updated privacy policy in the form of page notification on Chang'an website and Chang'an Gravity APP, so that you can know what changes are. If you continue to use the service, you will be deemed to have accepted the modified agreement. If you do not accept the modified terms, you should stop using the service.
+
+Jurisdictional requirements
+
+If the relevant provisions of the privacy policy conflict with the laws and regulations of a specific jurisdiction, the provisions of the laws and regulations of that specific jurisdiction shall prevail.
+
+Third-party SDK information
+
+Based on the purpose of providing services for you and with your consent, we will access the following software development kits (SDKs) provided by third parties that are updated from time to time. We will monitor the security of third-party SDKs within the existing technology level and reasonable time and labor costs, and will try to ensure the security of your personal information. However, because the third-party SDK is not under our control, we can only check and urge the third party regularly according to the contract signed with the third party or the industry practice, which can not prevent the third-party SDK from illegally collecting your personal information or infringing your other legitimate rights and interests. Of course, you can refuse to use third-party SDKs at any time, but you will not be able to use the functions related to such third-party SDKs.
+
+Third-party SDK information
+
+1. Gaode Map SDK
+
+Purpose: used to display the map
+
+Data type: equipment identification information, geographic location information
+
+Official website link: https://lbs.amap.com/pages/privacy/
+
+2. Gaode Positioning SDK
+
+Purpose: for positioning
+
+Data type: equipment identification information, geographic location information
+
+Official website link: https://lbs.amap.com/pages/privacy/
+
+3. Gaode Map Search SDK
+
+Purpose of use: used to realize the functions of path planning between two points
+
+Data type: equipment identification information, geographic location information
+
+Official website link: https://lbs.amap.com/pages/privacy/
+
+4. Alipay (Alipay) SDK
+
+Purpose: help users use Alipay in the app
+
+Data type: equipment identification information
+
+Official website link: https://docs.open.alipay.com/54
+
+5. WeChat Open Platform SDK
+
+Purpose of use: access to WeChat open platform SDK, support WeChat authorized login, WeChat sharing and WeChat payment
+
+Data type: equipment identification information
+
+Official website link: https://open.weixin.qq.com/
+
+6. Weibo sharing SDK
+
+Purpose of use: help users share content to third-party applications
+
+Data type: equipment identification information
+
+Official website link: https://open.weibo.com/wiki/Android_SDK%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3
+
+7. QQ Share SDK
+
+Purpose of use: help users share content to third-party applications
+
+Data type: equipment identification information
+
+Official website link: https://open.tencent.com/
+
+8. Aurora push
+
+Purpose of use: help improve the delivery of push messages and ensure the stable operation of the system
+
+Data type: unshared data
+
+Official website link: https://docs.jiguang.cn//jpush/guideline/intro/
+
+9、buglySDK
+
+Purpose of use: provide professional crash tracking, crash analysis and other quality tracking for mobile developers
+
+Data type: unshared data
+
+Official website link: https://bugly.qq.com/docs/
+
+contact us
+
+If you have any questions about the privacy policy, please contact us at 951999 or DPO@changan.com 。
+
+Company name: Chongqing Chang'an Automobile Co., Ltd
+
+Registered address: No. 260, Jianxin East Road, Jiangbei District, Chongqing
+
+Website: www.changan.com.cn
+

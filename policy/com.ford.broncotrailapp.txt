@@ -1,0 +1,261 @@
+A variety of technologies work together to provide connectivity. Your vehicle may be equipped with factory-installed connectivity technology capable of wirelessly transmitting vehicle-originated data to Ford. Your vehicle may also be equipped with features or services that wirelessly transmit vehicle-originated data to Ford as part of their function (“Connected Services”). “Connected Vehicle Information” is the data originating from vehicles with either type of connectivity.
+
+ 
+
+You can check to see if your vehicle is equipped with connectivity technology or Connected Services. Check here for Ford vehicles, and here for Lincoln vehicles, or you can read the vehicle’s owner’s manual or visit your dealer.
+
+ 
+
+This Connected Vehicle Privacy section of our Privacy Notice applies to Ford or Lincoln vehicles that are purchased or leased by individual consumers for personal use in the United States. To return to the top of our main Notice, click here.
+
+ 
+
+Topics relating to Connected Vehicle Information that are not addressed specifically in this section are covered in other sections of our Privacy Notice. For example, for information on use, see the section “Our Use of Personal Information” in the main privacy notice, and for information on our disclosing to others, see the section “Our Disclosures of Personal Information” in the main privacy notice.
+
+ 
+
+Connected Vehicle Information
+ 
+
+Connected Vehicle Information includes the following categories:
+
+ 
+
+Connected Vehicle Information Categories
+
+ 
+
+Examples
+
+Vehicle Data
+
+(may also be referred to as Vehicle Information)
+
+ 
+
+Information about the vehicle, its components and parts, including their status and performance, and diagnostics of vehicle systems (such as VIN, hardware model and part numbers, odometer, tire pressure, fuel and fluid levels, battery and lock status, trouble codes, warning indicators, alerts, and SYNC diagnostics), vehicle charging information (if applicable), and other information about how the vehicle is performing.
+
+Driving Data
+
+(may also be referred to as Driving Characteristics and Behavior)
+
+Information about how the vehicle is operated and used (such as speed, use of accelerator, brakes, steering, seat belts, etc.).
+
+Vehicle Location
+
+ 
+
+Precise location/GPS information about the vehicle, including current location, travel direction, speed, charging locations used (if applicable), and information about the environment where the vehicle is operated (such as weather, road segment data, road surface conditions, traffic signs, and other surroundings).
+
+Audio/Visual
+
+(may also be referred to as Connected Voice Data, Digital Assistant, Ford Assistant, or Lincoln Assistant)
+
+Voice commands and other utterances captured when the vehicle’s voice recognition system is in “active listen” state.
+
+Media Analytics
+
+(may also be referred to as Audio Listening Analytics)
+
+Information about what is listened to in the vehicle (such as radio presets, volume, channels, media sources, title, artist, and genre).
+
+Vehicle Analytics
+
+(may also be referred to as SYNC Analytics or In-Vehicle Services Information)
+
+Information about the usage of vehicle features, services, and technology (such as which features are used).
+
+ 
+
+Collection of Connected Vehicle Information
+ 
+
+Whether your vehicle shares Connected Vehicle Information with us typically depends on how the vehicle is equipped for connectivity; in other words, what connectivity technologies, software version, data sharing settings, and Connected Services are present and what selections have been made for data sharing settings. For information on other situations when we collect Connected Vehicle Information, see the section “Categories and Sources of Personal Information We Collect” in the main privacy notice above.
+
+ 
+
+Select vehicles for model year 2020 and later share Vehicle Data (e.g., diagnostics) to us at delivery and may share other categories of Connected Vehicle Information with us, depending on the connectivity factors described in the preceding paragraph.
+
+ 
+
+When Connected Vehicle Information is collected from the vehicle, it may be associated with a vehicle's identification number (“VIN”) or other identifiers, and the VIN or the other identifiers may be linked to you.
+
+ 
+
+We may also collect Connected Vehicle Information from the vehicle in de-identified form, such that the information cannot reasonably be linked back to you.
+
+ 
+
+Your Disclosure of Information about Your Vehicle to Third Parties
+ 
+
+You may directly share information about your connected vehicle, or cause information about your connected vehicle to be shared, with third parties when you choose to use their applications or services that:
+
+ 
+
+Are made available to you through the vehicle infotainment system;
+Are made available to you through the third party’s app on your mobile device when you connect your mobile device to the vehicle via Bluetooth or tether; or
+Require or permit the account you have with the third party to be linked to a Ford or Lincoln vehicle or mobile application.
+ 
+
+If you choose to share information about your vehicle with third parties, once you have shared it, the third party’s terms and conditions and privacy policies (and not this Notice) apply to the shared information.
+
+ 
+
+Connected Vehicle Controls
+ 
+
+As described below, a variety of technologies work together to provide the ability to access Connected Services and features. Depending on how the vehicle is equipped, different in-vehicle controls may be available to you. Learn more about modems, other connectivity technology, and in-vehicle controls in the owner’s manual or call the Ford Customer Relationship Center (see How to Contact Us in the main privacy notice). Owner’s manuals are available at the following links:
+
+ 
+
+Ford Vehicles
+Lincoln Vehicles
+ 
+
+You can use these controls and take other steps to protect your privacy with respect to Connected Services. For example, we recommend the following:
+
+Read your vehicle owner’s manual and familiarize yourself with how the vehicle you are driving (or riding in) is equipped, for example vehicle connectivity options and data sharing settings.
+Read this Connected Vehicle Privacy section so you are aware of what Connected Vehicle Information may be collected and how it is used.
+Inform passengers and other drivers of the vehicle that Connected Vehicle Information is being collected and used by us and our vendors.
+Prior to selling or transferring ownership of the vehicle, complete a MASTER RESET (see below) to remove imported personal data like contact lists, names of paired devices and/or connected networks to return the vehicle to the default factory settings and:
+          a. For vehicles with modems: this will also disassociate any FordPass/Lincoln Way account(s) connected to the vehicle and stop any account-related data sharing
+          b. For vehicles with a Connectivity Device: you must remove the VIN from your FordPass/Lincoln Way account(s) to disassociate the vehicle from the account and stop any account-related data sharing
+
+Note: Account-related data sharing will continue unless (a) or (b) is performed. Please contact us if you have any questions.
+
+If you purchase or lease a pre-owned Ford or Lincoln vehicle, please check here for Ford vehicles, and here for Lincoln vehicles to see if your vehicle has connectivity technology. Based on how the vehicle is equipped, perform a MASTER RESET and complete the appropriate action detailed in number 4 (above). Please read the “How to Tell If a Vehicle Is Sharing Data” section below to learn more. Connected Services such as FordPass Connect (SYNC Connect) and Lincoln Connect, if equipped and activated, may send us Connected Vehicle Information and may have associated multiple accounts that may allow the account user to access vehicle location and services, such as remote start, lock and unlock, and information about vehicle status, such as fuel level.
+Review the terms and conditions and privacy notices for any third-party services or applications to which you subscribe and/or use while in a Ford or Lincoln vehicle.
+If you rent a connected vehicle, perform a MASTER RESET before you drive the vehicle and before you return the vehicle to the rental company. Please contact the rental company with any questions.
+MASTER RESET
+
+Performing a Master Reset returns the vehicle’s modem to the factory settings and removes any imported personal data like cellular phone contact lists, names of paired devices and/or connected networks. Master Reset also disconnects modem-equipped vehicles from any FordPass / Lincoln Way accounts. See 4 above. Deleting the FordPass/Lincoln Way app from your device will not disable data sharing.
+
+PERFORM A MASTER RESET:
+
+BEFORE SELLING OR TRANSFERRING OWNERSHIP
+
+AFTER PURCHASING OR LEASING A PRE-OWNED VEHICLE
+
+BEFORE AND AFTER RENTING A VEHICLE FROM A RENTAL COMPANY
+
+ 
+
+When you are asked to provide personal information, you may decline (such as not associating a VIN to a FordPass/Lincoln Way account). But, if you choose not to provide or allow information that is necessary for certain products or features, those products or features may not function correctly or be available for use.
+
+ 
+
+Connected Vehicle Services and Technologies
+ 
+
+We work with AT&T as our current cellular network provider for our Connected Services in the United States.
+
+ 
+
+Our Connected Services include:
+
+ 
+
+FordPass Connect (SYNC Connect) / Lincoln Connect (if equipped): FordPass Connect (SYNC Connect) or Lincoln Connect enables access to features through a modem built into the vehicle. The modem allows the vehicle to connect to wireless networks, much like a mobile device with a subscriber identity module (SIM). Like other vehicle parts, the modem is installed at the factory.
+                    - Periodically, the modem sends messages to us, through our cellular network provider to enable Connected Services. The messages could include information that identifies the vehicle, the SIM, and the electronic serial number (ESN) of the FordPass Connect (SYNC Connect) / Lincoln Connect modem. At delivery, select model year 2020 and later vehicles are sharing Vehicle Data with us (e.g., diagnostics).
+
+                    - The cellular network provider may also associate the modem’s SIM to additional information such as cellular network tower identification. Unless the modem is deactivated, the modem will communicate with the cellular network provider.
+
+                    - You may be able to customize your preferences in the in-vehicle connectivity settings menu. Please refer to the owner’s manual or contact the Ford Customer Relationship Center for more information. When connected with the FordPass app (Lincoln Way app), you may be able to access additional features.
+
+Ford Connectivity Devices (if equipped):
+                    - Connectivity Devices (either installed in the vehicle at the factory, installed in the vehicle by a dealer, or plugged into the OBD port in compatible vehicles) enable access to Connectivity Services. Connectivity Devices allow connected vehicles to connect to a wireless network (much like a mobile device with a SIM).
+
+                    - Periodically, the Connectivity Device sends messages to us, through our cellular network provider. These messages contain a unique number which identifies the Connectivity Device’s SIM, the vehicle's VIN, and the electronic serial number (ESN) of the Connectivity Device.
+
+                    - The cellular network provider may also associate the Connectivity Device’s SIM to additional information such as cellular network tower identification. Unless the Connectivity Device is deactivated, the Connectivity Device will communicate with the cellular network provider. Please refer to the owner’s manual or contact the Ford Customer Relationship Center for more information.
+
+                    - When connected with the FordPass app (Lincoln Way app), you may be able to access additional features. Some features require an active FordPass / Lincoln Way account.
+
+Wi-Fi Hotspot (if equipped): Certain vehicles equipped with FordPass Connect (SYNC Connect) or Lincoln Connect can sign-up with AT&T for Wi-Fi Hotspot service in the vehicle. To enable the activation of the Wi-Fi Hotspot, certain information, including the vehicle's VIN and the SIM identifier, is provided to AT&T, who manages the subscription and will use that information according to its own privacy notice, which you can find here. AT&T will inform us when certain data usage thresholds are met. If you have paired FordPass Connect (SYNC Connect) or Lincoln Connect to the FordPass or Lincoln Way app, you can view approximate data plan usage amounts within the app and in your vehicle. For more information about the vehicle Wi-Fi hotspot, please visit the following websites:
+                    - Ford Vehicles
+
+                    - Lincoln Vehicles
+
+Note: If you’re planning to sell your Ford or Lincoln connected vehicle, remember to remove the vehicle from your AT&T account before you sell the vehicle. And, if you purchase or lease a used Ford or Lincoln connected vehicle, you’ll need to contact AT&T to add the new vehicle to your AT&T account.
+
+SYNC Wi-Fi (if equipped): To enhance the SYNC experience, when connected to Wi-Fi (data charges may apply), Vehicle Analytics is shared with us and we periodically release software updates so the vehicle has the latest compatible SYNC version. You can choose to enable Share Media Analytics, Send Failed Voice Commands, and/or Submit Feedback regarding SYNC in the in-vehicle settings menu.
+Note: Please make sure you connect the vehicle to trusted Wi-Fi networks.
+
+AppLink (if equipped): You may be able to use AppLink, to connect your mobile apps with SYNC 3/SYNC 4 (SYNC). Your mobile device provides the data connection (so data charges may apply) and SYNC provides the infotainment integration, including voice controls.
+                    - To enable mobile apps, SYNC requires user consent to send and receive app authorization information and updates, using the data plan associated with the connected device. The connected device sends encrypted data (such as the VIN, SYNC module serial number or other component identifier, odometer, enabled apps, usage statistics and debugging information) to us. SYNC organizes app permissions into groups. When not driving, you may be able to use the settings menu to grant these group permissions individually, change a permission group status, and see the data included in each group, if equipped. When you launch an app using SYNC, the system may ask you to grant certain permissions, for example, information about the vehicle, such as Vehicle Data, Driving Data, Vehicle Location, Convenience Controls, and/or Push Notifications. Please be aware that the permission selections available to you may vary based on which version of SYNC is equipped in your vehicle. You can enable all groups or none of them during the initial app permissions prompts. Please see the owner’s manual for more information. Please note that you are only prompted to grant permissions the first time you use an app with SYNC. We recommend you review the terms and conditions and privacy notices for any third-party app or service to which you subscribe and/or use. We take no responsibility for apps or services provided by any third party, including their use of any data. If you choose to share information about your vehicle through your use of third-party apps or services, once you have shared the information, the third party’s terms and conditions and privacy notices (and not this Notice) apply to the shared information.
+
+ 
+
+If you change your mind about sharing vehicle information with a mobile app or want to stop using it with SYNC, you can change your preferences in SYNC’s Mobile App settings in the vehicle.
+
+911 Assist (if equipped): 911 Assist (if equipped and active) may, through any paired and connected cellular phone, disclose to emergency services that the vehicle has been in a crash involving the deployment of an airbag or, in certain vehicles, the activation of the fuel pump shut-off. Certain versions or updates to 911 Assist may also be capable of being used to electronically or verbally provide the vehicle location (such as latitude and longitude) and/or other details about the vehicle or crash, change in velocity, and possible detection of fastened seatbelts, or personal information about the occupants to 911 operators to assist them in providing the most appropriate emergency services. If you do not want to disclose this information, do not activate the 911 Assist feature. If any user sets 911 Assist to on or off, that setting applies for all paired phones. To switch 911 Assist on and off or for more information, please see your owner’s manual (SYNC and Settings).
+Note: Vehicles equipped with the MyKey feature may be capable of overriding the 911 Assist settings and turning 911 Assist On, even if it was previously set to Off. If you do not want to disclose this information, do not enable MyKey.
+
+Location and Global Positioning System (GPS) (if equipped): Some vehicles contain global positioning system (GPS) capability or, in some instances, may utilize the GPS in connected wireless devices. GPS may be used to determine the vehicle’s physical location, travel direction, and speed, and to record this information over time to provide location-based services.
+Ford Apps: If a vehicle is equipped with connectivity technology, you may be able to connect to the vehicle using the FordPass/Lincoln Way apps. If you associate a vehicle to your FordPass/Lincoln Way account, the vehicle may send Connected Vehicle Information, including location information, to us. To turn off sharing data associated with your FordPass/Lincoln Way account, you must perform a MASTER RESET on the vehicle or remove the VIN from your FordPass / Lincoln Way app garage. Deleting the app from your device will not disable data sharing. For more information, please see the app privacy notice:
+                    - Ford Pass
+
+                    - Lincoln Way
+
+ 
+
+How to Know if a Vehicle is Sharing Data
+
+Select model year vehicles include in-vehicle icons that indicate when Connected Vehicle Information is being shared:
+
+
+
+ 
+
+ 
+
+These icons may be hidden temporarily while you navigate in menus or use certain features and services (such as Android Auto™ or Apple CarPlay®).
+
+ 
+
+You may be able to check the status bar on the screen of the in-vehicle infotainment system, if equipped, for alerts and notifications, including strength of nearby Wi-Fi networks or the strength of the connection coming from your mobile device.
+
+ 
+
+Vehicles equipped with Connectivity Devices include a window etching (or sticker) with an image similar to below, indicating the Connectivity Device may be sharing Connected Vehicle Information, for example vehicle data and location.
+
+Icon showing vehicle data driving data and vehicle location are shared via connectivity device
+Note: To stop the Connectivity Device from sharing this information, see your Connectivity Settings through the FordPass / Lincoln Way app. You may also remove the vehicle from your FordPass / Lincoln Way account.
+
+ 
+
+For other vehicle models, please see the owner’s manual, check the in-vehicle settings (if equipped) or contact your dealer for more information about what connectivity equipment is installed in the vehicle, and how to tell if the vehicle is sharing data. You can also find out how to deactivate vehicle connectivity in the owner’s manual.
+
+ 
+
+Sharing a Vehicle or Driving a Shared Vehicle
+
+ 
+
+If you share a vehicle with others, please tell them about the connectivity and privacy settings for the vehicle. For example, inform passengers within the vehicle and other drivers of the vehicle that Connected Vehicle Information is being shared with us and our vendors. And, let them know where they can find the information needed to connect to the vehicle's Wi-Fi Hotspot (if equipped and activated) and where they can turn off vehicle location and other connected vehicle data sharing settings, if equipped.
+
+ 
+
+Multiple accounts can be created on the FordPass / Lincoln Way apps, and more than one account can be connected to a single vehicle. If you drive a vehicle with more than one account connected to it, the user(s) of each account will have access to:
+
+ 
+
+The vehicle's location;
+Services that allow the vehicle to be remotely started, locked and unlocked; and
+Services that show information about the vehicle's status (for example, its fuel level).
+ 
+
+Similarly, if you drive a vehicle with the FordPass / Lincoln Way app connected to it, the user(s) of the app will have access to the information and services outlined above.
+
+ 
+
+If you want to connect an account on the FordPass / Lincoln Way app to a vehicle that has already been connected to another account, your name and the fact that you have requested this connection will be shared, via the FordPass / Lincoln Way app, with current user(s) who connected to the vehicle before you. The current user or users have the opportunity to allow or refuse your connection to the vehicle.
+
+ 
+
+Additionally, you can turn off sharing data associated with your FordPass / Lincoln Way account by performing a MASTER RESET or by removing the VIN from your FordPass / Lincoln Way app garage. To learn how to perform a MASTER RESET, please see your owner’s manual. Simply deleting the app from your device will not disable data sharing. See Connected Vehicle Controls (above) for more information.
+
+ 
+
+Some vehicles have in-vehicle pop-up notifications to alert drivers and passengers of Connected Vehicle Information sharing settings (see “How to Know if a Vehicle is Sharing Data” above). Drivers with an unrecognized mobile device may see a pop-up displayed in-vehicle informing them of the current vehicle data and/or location sharing settings. A mobile device is “recognized” if it has been paired with an infotainment system, like SYNC. This way if someone is new to the vehicle, or not driving it enough to pair their mobile device, the system will inform them of the vehicle’s current data and/or location sharing settings.

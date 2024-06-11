@@ -1,0 +1,287 @@
+Issue Date: March 2, 2023
+
+Effective Date: March 2, 2023
+
+
+
+
+1 How we collect and use your personal information
+
+In order to provide the Service, we will collect personal information from you to the extent permitted by law and in accordance with the provisions of this Policy. Please note that we may not be able to provide you with some or all of our products or services if you do not provide or do not consent to our collection of your relevant personal information.
+
+Depending on the specific services you wish to access, we may collect and use your personal information as described below in accordance with the following ways, purposes and applicable user terms, which you acknowledge and agree to.
+
+
+1.4 Test Drive
+
+In order to provide you with a test drive, you agree that we may collect your name, identity document and driving license to ensure that you are legally qualified to drive a vehicle.
+
+1.5 Reservation of the vehicle
+
+In order to provide you with vehicle reservation service, you agree that we collect your name, cell phone number, delivery city and intended delivery agent service provider information from you or the purchaser of the vehicle.
+
+When you sign a vehicle purchase contract, you agree that we collect your name, cell phone number and ID card number for the purpose of signing a vehicle purchase contract and issuing an invoice for the purchase of a new vehicle.
+
+If you make a loan application, when signing the loan contract, the third party loan platform will need SAIC Volkswagen to provide your name, ID number and cell phone number for loan review.
+
+
+
+1.8 Vehicle Use
+
+Some of our vehicles have the Netlink attribute. If your vehicle is equipped with internet connection, depending on your vehicle model and the actual functions and services you choose, we need to collect and use your relevant personal information to provide you with more diverse mobile internet functions and services.
+
+Some of the features and services in the use of your vehicle described below are provided to you independently by third party service providers that we access for you, and unless otherwise expressly stated in this Policy and the applicable User Terms, this Policy does not apply to situations where a third party service provider provides products or services to you independently. We recommend that you read the third party service provider's privacy policy or personal information handling rules carefully before using these services to understand how they will handle and protect your personal information and how you can exercise your rights in relation to them.
+
+1.8.1 Activation and Use of Telematics Services
+
+When you activate and use the Telematics Service features, you agree that we may collect your account number and vehicle VIN for the purpose of activating your sim card with your real name and purchasing traffic. Your vehicle VIN will also be used to support vehicle registration, verification, encryption, pairing, OTA online upgrades and to provide you with remote technical support.
+
+1.8.2 Binding with third-party service provider account
+
+If you need to bind your user account when using products or services provided by third-party service providers, we will obtain your third-party account information from the third-party service provider after obtaining your authorization and consent, so that you can directly log in and use our products or services through the third-party account. For example, you can bind your account with online media account and smart home account.
+
+1.8.3 Vehicle Remote Control
+
+When you use the vehicle remote control function, you agree that we can collect the following information through the vehicle network connection device: vehicle VIN, vehicle location, for remote unlocking/locking the vehicle, assisting you to find the vehicle quickly by flashing lights and siren, for remote power management, for remote management of travel plan.
+
+1.8.4 Vehicle Status Inquiry
+
+When you use the vehicle status inquiry function, you agree that we can collect the following information through the vehicle network connection device: vehicle VIN, vehicle fuel level, vehicle power, vehicle central lock status, vehicle door and window status, vehicle front and rear cover status, vehicle parking light status, vehicle health status, vehicle mileage, vehicle speed, which can be used to provide you with remote vehicle status inquiry, vehicle health report, vehicle trip statistics services.
+
+1.8.5 Online vehicle search and geo-fencing
+
+When you use the online vehicle search and geo-fencing service, you agree that we can collect the following information through the vehicle network connection device: vehicle location, vehicle VIN, user location, and use it to provide you with online vehicle search, geo-fencing, and automatic route planning for vehicle search and navigation services.
+
+1.8.6 Maintenance reminders and appointments
+
+When you use the maintenance reminder and appointment service, you agree that we can collect the following information through the vehicle network connection device: vehicle VIN, appointment method, appointment time, appointment contact, partner information, mileage, remaining maintenance mileage, remaining maintenance days. In order to provide you with timely service planning and estimate the scope of maintenance/repair work, we may need to provide your vehicle VIN, mileage to the dealer you have received service from, and then the authorized dealer will contact you by phone or SMS as scheduled.
+
+1.8.7 After-sales service support
+
+In order to provide you with after-sales support services such as repair, maintenance, troubleshooting, custom parts replacement, and after-sales claims, you agree that we collect the following information: Vehicle VIN.
+
+
+1.8.12 Scene Engine
+
+When you use the scene engine function, you agree that we collect the following information about you: nickname, address, vehicle VIN, navigation destination, vehicle location. The nickname is used to welcome the service after getting into the car; the address is used to provide you with service recommendations based on the home location; the vehicle VIN is used for the identification of cloud matching on the AI service side; the navigation destination and vehicle location are used to provide you with service recommendations based on the navigation destination and vehicle positioning location.
+
+1.8.13 Smart Fueling
+
+When you use the Smart Fueling Service, you agree that we collect the following information from you: location information, cell phone number, license plate number, and vehicle VIN, where location information is used to locate your current gas station; license plate number, cell phone number, and vehicle VIN are used to identify your vehicle and generate payment orders.
+
+1.8.14 Smart Car Wash
+
+When you use the Smart Car Wash service, you agree that we collect the following information from you: location information, cell phone number, license plate number, vehicle VIN, where location information is used to locate your current car wash store; license plate number, cell phone number, vehicle VIN are used to identify your vehicle and generate payment orders.
+
+
+
+1.8.18 Annual Data Report
+
+In order to help you better understand your use of the Service and your vehicle, you agree that we will generate personal data reports for you based on your driving and social behaviors on SAIC Volkswagen's digital platforms (including but not limited to, SAIC Volkswagen Super App, official website, WeChat App, Smart Car Link System), such as App Annual User Report. You can view your report yourself or choose to share it with others.
+
+Please note that in the course of providing you with the above mobile connected services, we may collect your vehicle status information, including: vehicle charging information, parking brake status, range, alarm status, repair status, seat belt status, collision status, vehicle travel time, temperature, fuel consumption, energy consumption. Please note that your vehicle status information alone cannot identify you and is not your personal information, and we have the right to use it for any purpose; only when your vehicle status information is used in combination with your other information and can identify you, we will treat your vehicle status information as your personal information and process and protect it in accordance with this policy.
+
+1.9 Charging Maps
+
+When you use the charging map service, you agree that we collect your location information, license plate number, and order information, and that your location information will be used to search for charging stations near you. As the charging map service is provided by a third party charging map service provider, we may need to provide your order information to the corresponding third party. In addition, if you use the parking fee waiver service, we may also need to provide your vehicle license plate number and order information to the corresponding third party to confirm whether you are entitled to the parking fee waiver.
+
+1.10 Charging Trip Planning
+
+When you use the charging trip planning function, you agree that we will collect your location information and vehicle battery level for the purpose of finding and updating charging stations near your navigation path in real time to avoid the current battery level being unreachable.
+
+1.11 Charging statistics
+
+When you use the charging statistics feature, you agree that we collect your vehicle VIN, charging start and end time, charging status, vehicle power, and operating mode (pure/hybrid/fuel), which is used to show you charging history.
+
+1.12 Charging Wall Box Installation
+
+When you use the charging wall box installation service, you agree that we collect the following information: name, phone number, installation address, ID information, vehicle VIN, and the contact person and contact information of the installation you entrust to us. As the charging wall box products are supplied and installed by third party service providers, we may also need to provide the above information to the corresponding third party for providing charging wall box services to you, and you hereby agree that the corresponding third party may contact you or your entrusted installation contact, including but not limited to installation communication, maintenance communication, after-sales problem communication, installation satisfaction return visit, maintenance satisfaction return visit of the charging wall box and after-sales satisfaction visits.
+
+
+
+1.14 Emergency Assistance
+
+Some of our models provide emergency assistance function. When your vehicle has the emergency assistance function and an emergency occurs while you are driving, including but not limited to physical discomfort, a security threat, a security accident, or an emergency response to the vehicle (such as an airbag blowing out). When you manually use/activate the feature or the feature is automatically triggered (e.g., in the event of a vehicle airbag blowout), you agree that we may collect your vehicle VIN, vehicle location, license plate number, reason for the trigger, and cell phone number and provide the above information to local police, hospitals, rescue agencies, and your emergency contacts for the purpose of providing emergency assistance to you. You understand and agree that your vehicle will be automatically connected to our call center to provide you with assistance in the event of the above emergency.
+
+1.15 Roadside Assistance
+
+When you use roadside assistance services, including towing and repair, you agree that we may collect the following information: vehicle VIN, license plate number, name, cell phone number, location of the breakdown, and destination of the tow. As the roadside assistance service is provided by a third party service provider, we may also need to provide the above information to the appropriate third party.
+
+
+Online car search, electronic fence, maintenance and repair, roadside assistance, search for nearby gas stations, charging piles, parking lots, dealers, SVW Link, private message
+
+Get user's current location, search for nearby addresses, dealers, gas stations, charging piles, parking lots based on user's location, as well as navigation services, private messaging
+
+
+
+Verify the authenticity of personal information in the signing of contracts (purchase contract, delivery confirmation) to ensure the authenticity of the signatory's identity
+
+Name, ID number, cell phone number
+
+Car networking service activation and use
+
+CMZ Network Technology Co.
+
+400-110-0868
+
+Used for real name authentication to activate sim card and purchase traffic
+
+Account number, vehicle VIN
+
+Car networking service activation and use
+
+Unicom Smart Network Technology Co.
+
+010-83058987
+
+For real-name authentication activation of sim card and purchase of traffic
+
+Account number, vehicle VIN
+
+
+Maintenance reminder and appointment
+
+Dealers
+
+Dealer list:
+https://mall.svw-volkswagen.com/4s
+
+The date the user expects to need to perform maintenance, used to provide maintenance reminder service
+
+Vehicle VIN, engine number, appointment method, appointment time, appointment contact, partner information, mileage, remaining maintenance mileage, remaining maintenance days
+
+Roadside Assistance
+
+Dealers
+
+List of dealers:
+https://mall.svw-volkswagen.com/4s
+
+Provide roadside assistance service
+
+Vehicle VIN, license plate number, name, cell phone number, breakdown location, towing destination information
+
+Roadside assistance
+
+Shanghai Auto Group Insurance Sales Co.
+
+400-654-3330
+
+Provide roadside assistance service
+
+Vehicle VIN, license plate number, name, cell phone number, breakdown location, towing destination information
+
+Shopping Mall
+
+Shanghai Xianglong E-commerce Co.
+
+021-60888517
+
+Commodity delivery
+
+Delivery address, consignee's name, consignee's cell phone number, order information, membership card number and level
+
+400-083-5999 Provide smart refueling and payment services Mobile phone number, location information, license plate number, vehicle VIN
+Smart Car Wash Hangzhou Big Box Auto Service Co. 400-860-9599 Provide smart car wash and payment services Mobile phone number, license plate number, vehicle VIN, location information
+Charging Map
+
+Wanbang Star Charging Technology Co.
+
+400-8280-768
+
+Charging order record, parking fee reduction
+
+Order number, license plate number
+
+Charging Map
+
+Tesco New Energy Co.
+
+4001-300-001
+
+Charging order record, parking fee waiver
+
+Order number, license plate number
+
+Charging map
+
+Wanma Pentium New Energy Industry Co.
+
+400-085-0006
+
+Charging order record
+
+Order number
+
+Charging Map
+
+Shanghai SAIC Anyue Charging Technology Co.
+
+021-3636363636
+
+Charging Order Record
+
+Order Number
+
+Charging Map
+
+Beijing Lianxing Network Technology Co.
+
+4001-086-086
+
+Charging Order Record
+
+Order Number
+
+Charging Wall Box Installation
+
+Shanghai SAIC Anyue Charging Technology Co.
+
+400-921-9000
+
+Provide charging wall box installation service
+
+Name, phone number, installation address, ID card information, vehicle VIN, and your entrusted installation contact person and contact information
+
+Charging wall box installation
+
+Shanghai Zhi Da Technology Development Co.
+
+400-659-6580
+
+Provide charging wall box installation service
+
+Name, phone number, installation address, ID card information, vehicle VIN, and the contact person you entrusted with the installation and contact information
+
+Charging wall box installation
+
+KU Smart Electric Technology Co.
+
+400-055-1270
+
+Provide charging wall box installation service
+
+Name, phone number, installation address, ID card information, vehicle VIN, and the contact person you entrusted with the installation and contact information
+
+Charging wall box installation
+
+Shanghai Yidian Auto Rental Co.
+
+400-820-1727
+
+Provide charging wall box installation service
+
+Name, phone number, installation address, ID card information, vehicle VIN, and your authorized installation contact person and contact information
+
+Charging wall box installation
+
+Ningbo Junsheng Qunying Intelligent Technology Co.
+
+400-999-7778
+
+Provide charging wall box installation service
+
+Name, phone number, installation address, ID card information, vehicle VIN, and the contact person you entrusted with the installation and contact information
+
+
+

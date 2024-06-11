@@ -1,0 +1,173 @@
+Privacy notice – Polestar App
+v1.0
+27.11.2023
+1. Intro
+This document describes how Polestar processes your personal data when you use the Polestar mobile application (“Polestar app”).
+
+2. When do we process your personal data?
+When you use the Polestar app and connected services your personal data will be processed. This privacy notice covers information processed when you use the Polestar app. You can use the Polestar app to purchase products and services, book services and view your orders or referrals, please see our Customer Privacy Policy for more information on the processing of your personal data in connection with these activities.
+
+Signing in
+Purpose 
+To sign into the Polestar app.
+Categories of personal data
+Polestar ID, selected market, Vehicle Identification Number (VIN), DeviceID, vehicle name selected by you. 
+Legal basis
+Performance of the contract (GDPR, article 6.1 (b)).
+Retention
+Deleted in the app when signing out or when the Polestar app is deleted.
+Controller(s)
+Polestar Performance AB
+Vehicle controls
+Purpose 
+To pair your mobile device with a vehicle to enable Polestar Connect services through the Polestar app, such as the ability to remotely control your vehicle from your mobile device (e.g. unlock/lock doors, remote air conditioning start/stop, and receive theft alarm notifications) and to view the status of your vehicle (e.g. battery level, charging status and door lock status). 
+
+When pairing the Polestar app with your vehicle, you must enable Bluetooth and the location services in your mobile device and select at least “Allow Once” for iOS or ”Ask every time” for Android. 
+
+To see the last parked position of the vehicle and the position of your mobile device in relation to the vehicle on a map. This is only visible locally in the Polestar app and you must have the location services enabled in you r mobile device and select at least ”Always While Using App” for iOS or ”Ask every time” for Android. The car's location can be sent to Apple Maps, Google Maps or Waze (depending on your selection and operating system).
+
+Categories of personal data
+Name, phone number, e-mail address, Polestar ID, Vehicle Identification Number (VIN), vehicle ownership period, subscription services, vehicle model and year and corresponding vehicle specifications.
+Legal basis
+Performance of the contract (GDPR, article 6.1 (b)).
+Retention
+Deleted in the app when signing out or when the Polestar app is deleted.
+Controller(s)
+Polestar Performance AB
+Digital Key
+Purpose 
+To enable the Digital Key for Polestar 2 (the vehicle detects when the connected mobile device is near the vehicle to be able to open it without opening the Polestar app). Location data from the mobile device position is never shared.
+
+When creating or using the Digital Key for Polestar 2, you must enable Bluetooth, movement and fitness permission and the location services in your mobile device needs to be set to ”Always” for iOS or ”All the time” for Android.
+
+Categories of personal data
+Polestar ID, Vehicle Identification Number (VIN), Bluetooth, location data, iBeacons, data about your movement and fitness from your mobile device and number plate (if applicable).
+Legal basis
+Performance of the contract (GDPR, article 6.1 (b)).
+Retention
+Deleted in the app when signing out or when the Polestar app is deleted.
+Controller(s)
+Polestar Performance AB
+Discover
+Purpose 
+To present content from the market and in the language you have selected to be used in the Polestar app.
+Categories of personal data
+Selected market and language.
+Legal basis
+Performance of the contract (GDPR, article 6.1 (b)).
+Retention
+Deleted in the app when signing out or when the Polestar app is deleted.
+Controller(s)
+Polestar Performance AB 
+Customer support
+Purpose 
+To provide customer support, including to communicate with you and respond to your questions and enquiries, resolve the support case and to deliver the services and information you have requested via the chat function or message function in the Polestar App.
+Categories of personal data
+When using the chat: Name, phone number, e-mail address (stored under account details in the app) and your chat message
+
+When sending message: Phone number, e-mail address, Polestar ID, app version, device model name, FCM Token (token for notifications), OS version (if applicable) and Vocmo AppID. 
+
+Legal basis
+Our legitimate interest to provide you with customer support services (GDPR, article 6.1 (f)).
+
+Contact us if you want to learn more about how we balance your interests against ours.
+
+Retention
+Customer support chats and cases are stored In our Customer Relationship Management system up to four (4) years after the customer relationship has ended.
+Controller(s)
+Polestar Performance AB 
+Check-in via QR-code in the Polestar App
+Purpose 
+When checked-in via QR-code in the Polestar app at any of Polestar’s locations or Polestar Spaces, to provide customer support including to communicate with you and respond to your questions, resolve the customer support case and to deliver the services and information you have requested.
+Categories of personal data
+From the Polestar app: Name, e-mail address, phone number, Polestar ID (stored under account details in the app) and you will need to give permission to access the mobile device camera when scanning the QR code.
+
+Other information available to Polestar staff from other Polestar systems at check-in: Address, history of your customer support cases, history of our relationship and previous contacts with you, information about the customer support case and all other personal data that is relevant to the customer support case.
+
+Legal basis
+Performance of the contract (GDPR, article 6.1 (b)).
+Retention
+Deleted in the app when signing out or when the Polestar app is deleted.
+Controller(s)
+Polestar Performance AB 
+Roadside Assistance from the Polestar app
+Purpose 
+To provide the roadside assistance services to you when using the contact feature in the Polestar app, for example in the event of a flat tyre, breakdown, or accident. Polestar Assistance will be able to send appropriate assistance  to you whenever you may need it. 
+
+You can also reach Polestar Assistance by either activating the ‘Connect’ button located in the ceiling of the car, or calling your local Polestar Assistance Centre.
+
+For contact information, check Polestar.com.
+
+Categories of personal data
+From the Polestar app: Vehicle Identification Number (VIN) and your location.
+
+Depending on the nature and scope of the request, we may need to process additional information necessary for the delivery of requested assistance, for example: contact information (home address, e-mail address, phone number), insurance details (policy and claim number), transaction-related data, damage cause and information about the workshop handling the repair.
+
+Legal basis
+Performance of the contract to provide roadside assistance services (GDPR, article 6.1 (b)) and legitimate interest to administer your request (GDPR, article 6.1 (f)).
+
+Contact us if you want to learn more about how we balance your interests against ours.
+
+Retention
+Only shared to the Roadside Assistance provider when you use the service.
+Controller(s)
+Polestar Performance AB 
+Account information and settings
+Purpose 
+To store account information and to provide selected measurement unit, temperature unit and selected region and market in the Polestar app.
+Categories of personal data
+Name, e-mail address, phone number, Polestar ID, selected measurement unit, temperature unite, region and market.
+Legal basis
+Performance of the contract (GDPR, article 6.1 (b)).
+Retention
+Deleted in the app when signing out or when the Polestar app is deleted.
+Controller(s)
+Polestar Performance AB
+Push notifications
+Purpose 
+To send you requested push notifications from the Polestar app, such as reminders that the vehicle is unlocked, or for upcoming maintenance and service reminders for your vehicle.
+Categories of personal data
+Polestar ID, selected market, Vehicle Identification Number (VIN), DeviceID, vehicle name chosen by you and push notification types you requested to receive.
+Legal basis
+Your consent (GDPR, article 6.1 (a))
+Retention
+Push notification settings are stored until you deactivate push notifications in the app.
+Controller(s)
+Polestar Performance AB
+Analytics
+Purpose 
+To measure the usage of the Polestar App and its related services to enhance our understanding of user behavior and to improve the usability, reliability and identify and address any potential malfunctions in the app.
+Categories of personal data
+IP address, geography (city, country, region and continent based on your IP address), device information (such as device type, device category, device language setting, device brand, device model, operating system and version), whether you are logged in or not, vehicle connection status (if you have paired your Polestar App with the vehicle), vehicle model, vehicle year, owner type (fleet, private or guest), order type (fleet, lease or cash) and usage data (such as clicks in the app, features used, pages viewed and potential issues or errors).
+Legal basis
+Our legitimate interest to improve the Polestar app (GDPR, article 6.1 (f)).
+Retention
+Analytics: Up to fifteen (15) months from the time of collection.
+Controller(s)
+Polestar Performance AB
+3. Disclosure of your personal data
+We will disclose your personal data with the following categories of recipients, on a need-to-know basis:
+
+IT providers, e.g. companies that manage the necessary operation, technical support and maintenance of our IT solutions,
+Polestar affiliates,
+Subcontractors: chat and messaging services, providers of analytics services (e.g. Google LCC and Firebase Inc.),
+Authorities, in certain circumstances, we may be legally required to disclose information to government or law enforcement authorities, e.g. the police, the privacy protection authority, public courts, authorities for official registering of the vehicle, or enforcement agencies. This may be in response to valid and lawful requests, such as subpoenas, court orders or other legal processes. We may also disclose information when necessary to protect the rights, property, or safety of you, us, or others. We comply with all applicable laws and regulations regarding the disclosure of information to government authorities. We carefully review each request to ensure its validity and legality, as well as the impact of the data disclosure on the subjects concerned by the request before disclosing any information. We strive to protect your privacy and rights to the extent permitted by law. In the event of a government request for information, we will make reasonable efforts to notify you unless prohibited by law or court order.  If you have any questions or concerns about our practice of disclosing information to authorities, please contact us,
+Business partners, e.g. legal counsels,
+Providers of social media platforms.
+4. Transfer of your personal data
+We strive to process your personal data within the EU/EEA area. However, your personal data will be transferred outside the EU/EEA in some situations, such as when we share your information with a business partner or subcontractor operating outside the EU/EEA. 
+
+We transfer personal data to the following countries outside of the EU/EEA: the United States and the United Kingdom.
+
+We always ensure that the same high level of protection applies to your personal data according to the GDPR, even when the data is transferred outside of the EU/EEA. As regards the United Kingdom, the Commission has decided that it ensures an adequate level of protection (article 45 of the GDPR), but regarding transfers to the United States we have entered into EU Model Clauses with all relevant third parties (article 46 of the GDPR) or they are certified under the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S Data Privacy Framework and/or the Swiss-U.S. Data Privacy Framework with the U.S. Department of Commerce. In addition, we take additional technical and organisational security measures when needed, such as encryption (TLS) and pseudonymisation.
+
+5. Your rights
+You have specific legal rights granted by the General Data Protection Regulation relating to the personal data we process about you. You can withdraw your consent or object to our processing of your data, access the data we hold about you, ask for rectification or restriction of your data, request to have your data ported to another entity, request that we delete your data, and finally you can file a complaint with a data protection supervisory authority. For more information about your rights, see our Customer Privacy Policy. 
+
+In order to exercise your rights, please use this web form. If you have any other questions regarding the subject matter of personal data protection, you can contact us or our Data Protection Officer on the contact details stated on polestar.com/privacy-policy.
+
+6. Contact information
+Polestar Performance AB is a Swedish legal entity with company registration number 556653-3096, with mailing address Assar Gabrielssons Väg 9, 405 31 Gothenburg, Sweden, and visiting address Polestar HQ, Assar Gabrielssons Väg 9, 418 78 Göteborg. 
+
+7. Changes to our Privacy Notice
+We reserve the right to change this privacy notice from time to time. We will inform you of any changes by posting the updated privacy notice on the website. If we make any material changes to our privacy notice, we will send a notification by e-mail. We encourage you to contact us if you have any questions about the privacy notice or about how we process your personal data.

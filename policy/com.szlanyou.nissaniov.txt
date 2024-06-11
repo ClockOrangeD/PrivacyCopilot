@@ -1,0 +1,1833 @@
+东风日产隐私政策
+东风日产隐私政策
+
+Version release date: [2022] month [2] 14
+
+Renewal date: December 2023, 12
+
+Effective date: December 2023, 12
+
+
+
+Your trust is very important to us, we are well aware of the importance of personal information to you, and we will take corresponding security protection measures in accordance with the requirements of laws and regulations to try our best to protect your personal information safe and controllable. In view of this, Dongfeng Motor Co., Ltd. Dongfeng Nissan Passenger Vehicle Co., Ltd. (hereinafter referred to as "we" or "Dongfeng Nissan") has formulated this policy to inform you that we will handle it in accordance with the following content (including but not limited to collection, storage, use, processing, transmission, provision, disclosure, Deletion, etc.) of your personal information
+
+For the purposes of this Policy, Dongfeng Nissan Dongfeng Motor Co., Ltd. and Dongfeng Nissan Passenger Vehicle Co., Ltd. are a broad concept, including but not limited to Dongfeng Nissan Automobile Sales Co., Ltd., Guangzhou Fengshen Automobile Co., Ltd., Fengshen Xiangyang Automobile Co., Ltd., Fengshen Automobile Co., Ltd., Guangzhou Fengshen Automobile Co., Ltd. Zhengzhou Branch, Dongfeng Nissan Dalian Branch, Dongfeng Nissan Changzhou Branch, Dongfeng Nissan Engine Branch, Shenzhen Dongfeng South Industrial Group Co., Ltd.
+
+This policy applies to Dongfeng Nissan's Internet-based and mobile Internet-based websites, mobile clients, applications (APPs), WeChat public platforms, mini programs, and vehicle terminals (vehicle central control systems or DAs). system) or offline and other means, mainly including:
+
+(1) Dongfeng Nissan official website (https://www.dongfeng-nissan.com.cn/), referred to as "official website";
+
+(2) Dongfeng Nissan ARIYA official website (https://ariya.dongfeng-nissan.com.cn/), referred to as "ARIYA official website";
+
+(3) Dongfeng Nissan APP;
+
+(4) Dongfeng Nissan People's Car Life WeChat Mini Program, referred to as "People's Car Life Mini Program";
+
+(5) WeChat public account of Dongfeng Nissan Owners Club, referred to as "Owners Club";
+
+(6) Dongfeng Nissan vehicle terminal, referred to as "DA system";
+
+(7) Dongfeng Nissan online 4S store WeChat applet;
+
+(8) Dongfeng Nissan byte applet;
+
+(9) Miscellaneous.
+
+When you visit any of the above platforms or use the services in other ways, you should fully read this Policy, and you confirm that checking this Policy indicates that you agree to the relevant instructions and tips of this Policy, but does not mean that you agree to the relevant instructions and tips of the Platform that you have not accessed or used. When you log in to other platforms, we will provide the text of this Policy again and remind you to read the instructions and tips related to that platform to protect your personal information.
+
+Certain special features/services have their own specific privacy policies (or privacy terms) that are inconsistent with this policy, and that specific policy (or terms) shall prevail.
+
+For example, our affiliates (meaning any company that controls, is controlled by, or is under common control with us, is or will be in the future). "Control" means that if the product or service is used in a product or service that directly or indirectly affects the management of the mentioned company, whether through ownership, voting shares, contracts or other methods recognized by the people's court, but there is no independent privacy policy, this policy shall also apply to that part of the product or service.
+
+We have a special reminder of the clauses on personal information, personal sensitive information, and the material relationship between your rights and interests in the form of "black", which is the approval of sensitive personal informationThe "black underline" method is specially reminded. Before you use the products and/or services of the corresponding platform, please be sure to read and thoroughly understand this Policy, and confirm that you fully understand and agree to it before using it.
+
+
+
+Part 1 Types of Personal Information Processed
+
+Personal information: refers to all kinds of information related to an identified or identifiable natural person recorded electronically or by other means, excluding anonymized information. For example, please refer to Part II of this Privacy Policy for details about what personal information we process about you, how and for what we process about you, how and for what purposes.
+
+Sensitive personal information: refers to personal information that, once leaked or illegally used, is likely to lead to infringement of a natural person's personal dignity or endangerment of personal or property safety, including information such as biometrics, religious beliefs, specific identities, medical health, financial accounts, whereabouts and tracks, as well as the personal information of minors under the age of 14. For example, your ID number, transaction and order information, address book, itinerary information, location information, personal property information, itinerary information, location information, software usage records, biometric information, etc., please refer to Part II of this Privacy Policy for details of what sensitive personal information we process about you, how and for what purposes we process you.
+
+
+
+Part 2 Privacy Policy
+
+This policy will help you understand the following:
+
+One. How We Collect and Use Your Personal Information
+
+Two. How we use SDKs, cookies, and similar technologies
+
+Three. How we provide, entrust processing, transfer, and publicly disclose your personal information
+
+Four. How we protect and store your personal information
+
+Five. Your Rights
+
+Six. How We Process the Personal Information of Minors
+
+Seven. How your personal information is transferred globally
+
+Eight. How this Policy is Updated
+
+Nine. How to contact us
+
+
+
+One. How We Collect and Use Your Personal Information
+
+When you use the products and/or services of the relevant platform, we need to process your personal information in the following two ways:
+
+(1) In order to realize the basic business functions of providing products and/or services to you, you must authorize us to process the necessary information.
+
+(2) In order to realize the expanded business functions of the products and/or services we provide to you, you may authorize us to process the information. This information is not necessary for the operation of this product and/or service, but it will be used for our purpose of improving the quality of this product and/or service, enhancing user experience, and developing new business functions. If you do not wish to provide it, you will not be able to use the relevant extended functions and functions normallyand/or not to achieve the best results of the service.
+
+We will only process your personal information for the following purposes:
+
+(1) To help you become a user of relevant products and/or services
+
+1. User Registration
+
+When you register your platform service account, you need to provide us with at least your phone number (user verification mobile phone) and password, and we will verify whether your identity is valid by sending an SMS verification code. At the same time, you can choose to provide the following additional information: profile picture, nickname, home address, company address, birthday, which will help us provide you with better services and experience (you can manage the personalized advertising provided by Dongfeng Nissan App), if you do not provide these additional information, It will not affect the basic functions of the products and/or services you use.
+
+2. Real-name authentication is bound to the vehicle
+
+After the registration is completed, you need to perform real-name authentication before you can use Dongfeng NissanThe real-name authentication information of the app includes your name, phone number, ID number, ID card photo or other identity proof. The real-name authentication information will be transmitted to the national real-name authentication platform through the mobile operator for identity verification. The collection of such information complies with the requirements of the online real-name system of relevant laws and regulations. You also need to bind the vehicle to bind the platform you are using to your car machine, if you do not provide these two types of information, you will not be able to use the relevant products andand/or services.
+
+
+3. Marketing and promotion of goods and services
+
+We may contact you (including but not limited to text messages, phone calls, etc.) to provide you with the latest product and service information, and to invite you to participate in market research, promotion, and marketing activities (such as sending you promotional information such as new car launches, product promotions, holiday greetings, etc.). In order to facilitate contact with you, we will collect and record your contact information as follows, including: name, phone number, mailing address, and other necessary personal information provided by you or on your own initiative (the actual personal information collected and processed is subject to the display on the interface of the relevant activity).
+
+If you refuse to provide the above information, we will not be able to follow up on your follow-up needs, push marketing advertisements or send you gifts (if any).
+
+4. Membership Information
+
+When you log in to other platforms, our server may automatically obtain your information for you to log in to the platform to use our products and/or services (including members of the People's and Vehicles Life Mini Program, members of the Car Owner Club, members of Dongfeng Nissan's official website/mall, and Dongfeng NissanApp member, Dongfeng Nissan online 4S store WeChat applet), we will collect your membership type, joining time, and membership points information from relevant membership platforms to display your current membership type or membership level, so as to facilitate your awareness of membership rights and interests and the management of membership attributes.
+
+Among them, for the people-car life applet, the owner club, the official website, and Dongfeng NissanApp, Dongfeng Nissan online 4S store WeChat applet, in order to verify your real identity and vehicle information, we will collect your real identity information, including name, phone number, ID photo, vehicle license photo, vehicle identification number (VIN), license plate number,Location information (if you request location-based services), membership card type, membership card number, winning information, verification code, intended store, verification store, kilometer, points, car series, vehicle type, so that you can enjoy the corresponding membership rights and participate in related activities.
+
+5. Sub-account authorization
+
+For some models, the vehicle can be licensed to other users after real-name authentication. The user who has been granted the right to use the vehicle needs to download the Dongfeng Nissan App, register as a Nissan user (non-car owners need to register an account, and the information collected is shown in 1) to control the vehicle within the scope of authorization. The owner can set the scope and authorization time of the vehicle control authority granted, and the authorization to other users can be canceled at any time after the authorization is successful.
+
+(2) Your use of relevant products and/or services
+
+The following table can be found in the types and purposes of the information we collect in specific service scenarios. Please note that when you choose to accept the services under a certain service scenario, you should provide us or allow us to collect the necessary information to realize such services, otherwise we will not be able to provide you with such services.
+
+
+Service scenarios
+
+Service Platforms Involved
+
+Information Collected/Used
+
+Purpose and purpose of collection/use
+
+Book a test drive
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Name, phone number
+
+Obtain user information to confirm that the user is making the test drive review himself
+
+Name, gender, phone number, intended store, user ID, location, openID, unionID
+
+In order to provide a test drive reservation service, we will arrange the specialty stores in order and check the test drive information
+
+Owners Club
+
+Name, gender, phone number, user ID, user IP information, location, intended store, openID, unionID
+
+Official website
+
+Name, phone number, intended store, intended car series, user IP information, location
+
+Dongfeng Nissan APP
+
+Byte applet
+
+Name, gender, phone number, intended store, user ID, location, openID, unionID
+
+Marketing Campaigns (CAPs).
+
+Official website
+
+Name, phone number, intended store, intended car series, user IP information, location
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Last name, phone number, intended store, intended car series, user ID, location, openID,unionID
+
+Byte applet
+
+Owners Club
+
+Rider dynamics
+
+ARIYA official website
+
+Avatars, nicknames, feeds
+
+Display the dynamic information posted by riders
+
+Look at the car and choose the car
+
+Owners Club
+
+(Chi Heng Test Drive)
+
+First name, gender, phone number, intended store, intended car series, location, user ID, openID, unionID
+
+Browse through your nearest dealerships and ask for pricing
+
+
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Byte applet
+
+Dongfeng Nissan App
+
+User location information
+
+Used to display the nearest specialty store
+
+Official website
+
+Name, gender, phone number, location, user ID, user IP information, intended store, intended car series
+
+Browse the model content and reserve funds to book a test drive
+
+Book a car online
+
+Dongfeng Nissan App
+
+Buyer's name, phone number, location information, intended store, intended model, ID card/passport and other identity proof, face recognition video, face photo, bank card information, personal handwritten signature, original contract, hash value or other written materials, Device information, software information, certain device permissions, service logs, IP addresses, and location information
+
+Check vehicle prices, dealer services, book cars online, and sign electronic contracts
+
+Mini program for people, vehicles, and life
+
+Buyer's name, phone number, ID number, location information, intended store, intended model
+
+Check vehicle prices, dealer services, and book cars online
+
+Find a dealer
+
+Owners Club
+
+Location, user ID
+
+Recommend the right dealer for the dealer to contact you and confirm the information about the visit to the store, navigate to the store
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Official website
+
+Location, user ID, user IP information
+
+Dongfeng Nissan App
+
+Insurance services
+
+Owners Club
+
+VIN code, license plate number, name, ID number, phone number, region, user ID
+
+Insurance appointment purchase, identity verification of the owner
+
+Dongfeng Nissan online 4S store WeChat applet
+
+VIN code, license plate number, name, ID card, phone number, region, user ID
+
+Extended coverage of car insurance
+
+Dongfeng NissanApp
+
+The policyholder's surname, the type of the policyholder's ID, the policyholder's ID number, the mobile phone number, the contact address, the insured's name, the insured's ID type, the insured's ID number, the license plate number, the VIN code, the engine number, the brand model, the number of seats, the fuel type, the date of registration of the driving license, Insurance area, insurance company, policy number, insurance period, insurance type, sum insured, premium, car purchase invoice details, delivery information, personal regional location
+
+It is used to purchase car insurance, view policy information, make car insurance appointments, and obtain electronic policies
+
+Roadside assistance
+
+Owners Club
+
+Location, name, license plate number
+
+The user's current location and vehicle location need to be obtained for rescue
+
+Dongfeng Nissan online 4S store WeChat applet
+
+Mini program for people, vehicles, and life
+
+Name, mobile phone number, car type, license plate, your real-name authentication information, user location, fault cause, and fault description
+
+Roadside assistance services are available
+
+Dongfeng Nissan App
+
+Nickname, mobile phone number, car series, license plate, your real-name authentication information, vehicle location information , user location, fault cause, and fault description
+
+Roadside assistance services are available
+
+Door-to-door pick-up and delivery car
+
+Owners Club
+
+Location, license plate number, VIN code, name, phone number, pick-up and drop-off address, user ID
+
+Realize the door-to-door pick-up and delivery car appointment service
+
+Dongfeng Nissan online 4S store WeChat applet
+
+Dongfeng Nissan App
+
+Internet of Vehicles
+
+DA system
+
+Contacts (after the user is connected to Bluetooth, the mobile phone agrees to synchronize the address book before it will be synchronized to the car terminal).
+
+Contacts are synchronized in order to provide the functionality of the car phone.
+
+VIN code, reversing signal, ILL light signal, ACC signal, IGN signal, gear, SN code, PNcode, vehicle speed, fault code information, diagnostic information, steering wheel corner signal
+
+Information is a necessary field for vehicle diagnosis and quality issue analysis.
+
+The personal center app installed in the DA system
+
+Account login, CPSP account binding authentication information, and DAID
+
+It can be used to log in to your personal account and CPSP account
+
+Only the local FaceID face information and voiceprint information are stored
+
+It is used to log in to the personal center account
+
+System usage information, system logs, application usage information, and application logs
+
+Analyze the cause of the problem
+
+Dongfeng Nissan App
+
+Vehicle mileage, remaining mileage, total average fuel consumption, vehicle location information, vehicle diagnostics, vehicle status
+
+Vehicle-related information is displayed in the system
+
+User real-name authentication status, vehicle information, order information, vehicle identification code, and vehicle connection service package usage data
+
+Connected car service package query provides more accurate traffic usage
+
+Maintenance
+
+maintenance
+
+Owners Club
+
+First name, phone number, VIN code, license plate number, location
+
+Make an appointment for maintenance/repair/sheet metal spraying express
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Official website
+
+Name, phone number, license plate number, mileage
+
+The personal center app installed in the DA system
+
+Vehicle maintenance status, maintenance appointment information
+
+Display vehicle maintenance information and schedule repairs/maintenance
+
+Dongfeng Nissan App
+
+Name, phone number, vehicle location, vehicle mileage information, license plate number, phone number, vehicle model
+
+Displays vehicle maintenance information
+
+Make an appointment for maintenance/repair/sheet metal spraying express/pick-up and delivery car
+
+After-sales service
+
+Dongfeng NissanApp
+
+Maintenance history, vehicle location information, vehicle information
+
+Improve after-sales service, including timely contact with you in case of accident rescue, vehicle failure, tire puncture, battery feeding, etc.; Or predict the health of your vehicle, push after-sales service product information, customized vehicle maintenance suggestions and other content
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Phone, location
+
+Provide after-sales service reviews
+
+Auto Finance Services
+
+Owners Club
+
+Name, gender, phone, location, user ID
+
+Handle loan applications on demand
+
+People and vehicles life applet / Dongfeng Nissan online 4S store WeChat applet
+
+Name, gender, phone number, location, preferred car type, user ID
+
+Calculate your loan on demand and make an appointment for loan service
+
+Dongfeng Nissan App
+
+Your vehicle's location information, vehicle status information (whether it is activated, speed, four-door and locked status, battery voltage).
+
+Retail loan services and post-loan management for financial institutions
+
+Official website
+
+Name, gender, phone number, user IP information, location
+
+Used to contact customers by phone
+
+International students buy cars
+
+Mini program for people, vehicles, and life
+
+Name, gender, phone number, location, preferred car type, user ID
+
+Provide car purchase business for international students on demand
+
+Official website
+
+Name, phone number, user IP information, location
+
+Ni dare to play
+
+Owners Club
+
+Name, phone, location
+
+YesNi dare to play service
+
+Mini program for people, vehicles, and life
+
+shopping centre
+
+Official website
+
+Name, phone number, username ID, shipping address
+
+Direct mail/virtual/installation order delivery/settlement/publishing/displaying reviews
+
+Username, name, phone
+
+Post/present a review
+
+Owners Club
+
+Name, telephone number, consignee address
+
+Completed mall order delivery/settlement required
+
+Mini program for people, vehicles, and life
+
+Dongfeng Nissan APP	
+Nickname, phone number, SMS verification code, VIN code, personal regional location, car model, coupon code, product order records (coupon use, points and cash payment), consignee information (address, name, phone number).
+
+It is used to provide customers with better consulting services, purchase products related to vehicle models, receive coupons, add products to the shopping cart, and purchase and receive products
+
+Register for certification
+
+Supplemental user information
+
+login
+
+Membership binding
+
+Vehicle binding
+
+Personal Center
+
+Owners Club
+
+VIN code, license plate number, name, gender, phone number, delivery address, location, ID number, user ID, My Vehicle, openID,unionID
+
+It is used for user registration, login, vehicle owner authentication, membership enrollment, supplementation/modification of personal information, and vehicle binding
+
+Mini program for people, vehicles, and life
+
+Dongfeng Nissan App	
+Device identification number (phone serial number, Android ID, hardware brand, model, etc.).
+
+Distinguish whether the last login action was performed on the device
+
+Address book, ID card, name, license plate number, VIN code, home address, business address
+
+Select the emergency contact, fill in the personal information to set the security code, ensure the safety of the user's car, and facilitate the user to send the address to the car or quick navigation
+
+Official website
+
+Phone
+
+User registration, login, and member binding
+
+Byte applet
+
+Name, gender, phone, user ID, openID, unionID
+
+It is used for user registration and login
+
+Event registration, voucher collection and participation in the event
+
+Owners Club
+
+Name, phone number, VIN code, verification code, intended store, verification store, winning information
+
+In order to provide you with various activity services, issue and verify coupons, and inquire about winning information
+
+Mini program for people, vehicles, and life
+
+Name, phone, location, user ID
+
+Dongfeng Nissan App	
+Nickname, phone number, SMS authentication code, VIN code, personal regional location, coupon code
+
+Official website
+
+Name, phone number, user IP information, location, intended store, intended car series
+
+Sign up and receive the voucher
+
+Used car valuation
+
+Owners Club
+
+Name, phone number, intended franchise store, and brand information of the valued car
+
+Make an appointment to appraise a used car valuation
+
+Official website
+
+Dongfeng Nissan APP
+
+Buy a used car
+
+Owners Club
+
+Location Information
+
+Buying a used car, user location positioning
+
+Official website
+
+Dongfeng NissanAPP
+
+Great customer service
+
+Official website
+
+Name, phone number, company name
+
+Procurement of vehicles
+
+Network product security vulnerabilities
+
+Official website
+
+Name, phone number
+
+The official website security vulnerability information receiving channel
+
+Guaver Identity Verification
+
+Owners Club
+
+Name, phone number, driving license, ID card
+
+Insured customer replacement financial activities > identity verification of car owners
+
+Navigation services
+
+Dongfeng NissanAPP
+
+Vehicle location information, destination information
+
+Send the destination to the car's central control screen in advance, and you can navigate to the destination with one click after getting into the car
+
+Help Center
+
+Dongfeng Nissan APP
+
+Account information, real-name authentication information, and vehicle information
+
+Faster, more accurate and safer after-sales service to help you solve the problems you face
+
+Illegal service
+
+Dongfeng NissanAPP
+
+Engine number, vehicle identification number, license plate number
+
+Obtain vehicle violation data from the traffic management bureau and display it in the app
+
+Itinerary
+
+Dongfeng Nissan APP
+
+Itinerary information (destination, departure time, reminder time, remarks information)
+
+Plan your trip and remind you before you go
+
+Safe arrival reminders
+
+Dongfeng Nissan APP
+
+Destination, vehicle location information
+
+Provide vehicle arrival reminder service
+
+Dash cam
+
+(Camera)*
+
+Dongfeng Nissan APP
+
+Vehicle dashcam photos*, video data*
+
+*View and export dash cam data to the local mobile phone on the APP
+
+Wisdom come on
+
+Owners Club
+
+User's mobile phone location information, order information, and electronic invoices
+
+Provide smart refueling services
+
+Dongfeng NissanAPP
+
+Fingerprint/facial recognition
+
+Dongfeng Nissan APP
+
+We will verify by calling the fingerprint system and facial recognition system in your mobile phone system, but will not collect your fingerprint information and facial recognition information
+
+Use fingerprint recognition and facial recognition to manage your account and password
+
+In-store reviews
+
+Mini program for people, vehicles, and life
+
+Phone, location, user ID
+
+Get user information for Golden Ten in-store reviews
+
+Online surveys
+
+Dongfeng Nissan APP
+
+Hobbies, marital status, income, family situation, additional information
+
+User and car owner portrait analysis, satisfaction survey, etc
+
+Join Us (Recruitment)
+
+Dongfeng Nissan APP/official website	
+Name, place of origin, height, weight, ethnicity, communication information, kinship information, education information,
+
+Educational background, school practice, Xi experience, awards, family situation, additional information
+
+Provide resume delivery service
+
+community
+
+Dongfeng NissanAPP
+
+Nickname, phone call, SMS verification code, personal regional location, post history, question record, technician name, answer record, PK participation record, discussion record, circle creation record, discussion record, SMS authentication code
+
+Customer content publication and interaction
+
+Byte applet
+
+User ID, openID, unionID
+
+User Comments/Shares/Likes/Favorites
+
+Owners Club
+
+Mini program for people, vehicles, and life
+
+Light up the partners
+
+Dongfeng NissanAPP/People's and Vehicles' Life Mini Program
+
+Signature name, user ID, openID, and unionID
+
+Registration Information
+
+public praise
+
+Dongfeng NissanAPP/People's and Vehicles' Life Mini Program
+
+Weixin, Channels, WeChat public account, Weibo, Douyin, Autohome, Know Chedi, Yiche, Toutiao, Station B, Kuaishou, Zhihu, Xiaohongshu, Baidu, Baijiahao platform accounts
+
+Participate in tasks/user comments/shares/likes/favorites/retweets
+
+recommend
+
+Dongfeng Nissan APP/People's and Vehicles Life Mini Program
+
+Location, name, mobile phone
+
+Obtain user information to recommend car purchases
+
+Notice of Recall
+
+Official website
+
+WINE码
+
+Provide users to check whether their car is within the scope of the recalled vehicle
+
+Order Inquiries
+
+Mini program for people, vehicles, and life
+
+Recipient's name, delivery address, delivery contact phone number, VIN code, license plate number, ID card, goods and/or service information, the specific order number, the payment account, and the time when the order was created
+
+Order goods and/or services, inquire about orders, provide customer or after-sales services
+
+Owners Club
+
+Official website
+
+Dongfeng Nissan APP
+
+Dongfeng Nissan online 4S store WeChat applet
+
+AI recommendation
+
+DA system
+
+(1) Vehicle information: vehicle brand, vehicle location, network status, operator;
+
+(2) Account information: device id (DAID, UUID), UserID, token；
+
+(3) Equipment information: vehicle model;
+
+(4) User operation information: user usage records;
+
+(5) Vehicle status information: vehicle on/off status; vehicle gears; cruising range; average fuel consumption; mileage; Percentage of remaining oil volume; vehicle speed information; vehicle fault information;
+
+(6) Navigation: the remaining mileage, transit point information, destination information, road information, and navigation status information in a single trip planning;
+
+(7) Refueling: user order information, user coupon information;
+
+(8) Road book: user order information, user membership information, user coupon information
+
+Intelligent recommendation function refers to a personalized push service built based on your vehicle behavior data, such as pushing fuel level alarm reminders, long-distance refueling reminders, and road book guide scenic spot recommendation scenarios to help improve the experience in in-vehicle scenarios. If you do not want to receive relevant push content, you can turn it off in [Personal Center - Message Center - Settings - Recommendation Settings].
+
+
+
+You may authorize another person to submit/receive services related to you and your vehicle on your behalf, in which case you will need to provide the name, phone number and location information of the authorized person, and you must ensure that you have obtained legal authorization (if the platform you are visiting has this function).
+
+
+
+(iii) Access to your device
+
+Certain types of personal information collected in the above functions may require us to turn on your device permissions in your mobile/tablet/PC device, including geographic location (location information), camera (camera), photo album (photo gallery), notifications (push notifications), network status, and Wi-FiStatus, task information (currently applied).access rights to enable the processing of the information involved in these functions. For the specific access permissions required for each feature, please refer to the specific descriptions of these features above; We only collect the appropriate categories of permissions required for the personal information mentioned in the specific descriptions, and do not request additional permissions beyond what is necessary for the function. You can do this in your device through "Settings" (e.g. "Settings - Privacy" on iOS and "Settings - App Permissions" on AndroidCheck the status of your above permissions one by one, and you can decide to turn them on or off at any time. Please note that if you choose to turn on these permissions, you expressly agree to authorize us to process these personal information to achieve the above functions, and if you turn off the permissions, it means that you cancel these authorizations, and we will no longer continue to process your personal information, nor will we be able to provide you with the functions corresponding to these authorizations. Your decision to turn off the permission will not affect the processing of personal information previously based on your authorization.
+
+(4) To improve or enhance related products and/or services
+
+In order to improve related products and/or services, we provide you with personalized displays, pushes, and recommended products and services. We will use your operation information (clicks, settings, browsing, search records), log information (IP address, usage time, operation records), vehicle information, device information, location information, Extract your browsing, search preferences, behavioral Xi, and location information, conduct indirect crowd portraits based on feature tags, and display and push product or service information.
+
+(5) Ensuring information security
+
+In order to improve the security of your system when you use relevant products and/or services, more accurately prevent phishing website fraud and protect account security, we may judge the risk of your account by understanding your account information, vehicle information, and device information, and may record some of the risks that we deem to be risky; We will also collect your device information for analysis of corresponding platform problems, statistics on traffic and possible risks, and troubleshoot when you choose to send us abnormal information.
+
+(6) Other urgent or necessary circumstances
+
+In order to provide you with timely rescue services, we may take the initiative to obtain vehicle location information and inform you of the information acquisition in a timely manner in the following situations:
+
+(1) The property owner or registered user of the registered vehicle requests us to provide vehicle location services;
+
+(2) The airbag of the registered vehicle is deployed;
+
+(3) The registered vehicle collided and sent an automatic help signal to the Dongfeng Nissan customer service center;
+
+(4) Provide the location of the vehicle designated by the relevant state agency in response to legal requirements (including court orders that have been in force that may be related to a criminal investigation).
+
+
+
+2. How we use SDKs, cookies, and similar technologies
+
+(1) SDK
+
+In order for you to be able to use the above services and functions, our applications may embed SDKs or other similar applications of authorized partners, as detailed in Appendix 1SDK Inventory. We will work with authorized partners to obtain information about the API (APIs), software tool development kits (SDKs) carry out strict security testing, and agree on strict data protection measures with authorized partners, so that they can process personal information in accordance with our entrusted purpose, service description, this Policy and any other relevant confidentiality and security measures.
+
+(2) Cookies
+
+We use: Cookies and other technologies to ensure the best user experience. Cookies help us keep your account secure. By continuing to use our Services, you consent to the use of cookies and related technologies for the purposes described in this Policy.
+
+1. Purpose of Cookies
+
+Cookies are used for a wide range of purposes, such as recognising users when they use our websites and related applications, saving preferences and personalizing the user experience. When users interact with Dongfeng Nissan's website, cookies improve security and speed. In addition, we can pass: Cookies show you ads on and off the site, while providing a variety of customisation features, including associated plug-ins such as the "Share" button.
+
+(1) Authorization: When you log in to the relevant applications of Dongfeng Nissan, we can provide accurate information through cookies to create a personalized experience for you.
+
+(2) Security measures: We use cookies to enable and support security features and to assist in the detection of malicious behavior and violations of the User Service Agreement.
+
+(3) Preferences, functions and services: Cookies can record your language settings and communication preferences, and can also help you automatically fill in the forms on Dongfeng Nissan's website. The functionality, statistics and customization provided by the plug-in are also provided by cookies.
+
+(4) Advertising: Dongfeng Nissan may use cookies to show you relevant advertisements on and off the Dongfeng Nissan website. We also use cookies to understand whether members will return to advertisements on Dongfeng Nissan and take actions on the advertiser's website (e.g., download a white paper or make a purchase). Advertisers may also use cookies to detect whether Dongfeng Nissan shows you ads, evaluate the effectiveness of ads, and provide us with information about your interaction with ads. We also partner with other websites to show ads to you outside of Dongfeng Nissan stations. This way, you can see our ads even after you use a partner site or program.
+
+(5) Website performance, analytics and research: Cookies help us understand how websites and plug-ins perform in different locations. When you log in to the corresponding platform and related applications from other websites, applications, computers, mobile devices, etc., we can use cookies to understand, improve and research products, functions and services.
+
+We do not use cookies for any purpose other than those described in this policy
+
+You can manage or delete it according to your preferencesCookies。 You can remove all cookies saved when using the website and/or related application by modifying the settings of the website and related applications; Alternatively, you can clear all cookies stored by the website or related app. However, if you do so, you may need to change your user settings every time you visit the website and related applications, and the corresponding information you have previously recorded will be deleted, which may affect the security of the services you use.
+
+
+
+Three. How we provide, entrust processing, transfer, and publicly disclose your personal information
+
+(1) Provision
+
+We will provide your personal information to our affiliates (please refer to Appendix 2 "List of Affiliates") with our service providers and authorized partners in the following circumstances in order to provide the products or services you request
+
+(1) Provision based on your prior separate consent: After obtaining your separate consent, we provide your personal information to a third party, and any such provision shall be subject to confidentiality and security responsibilities.
+
+(2) We may also provide some of your personal information to third-party authorized partners to complete the services you have selected, but we will obtain your separate consent in advance and fulfill other compliance obligations required by laws and regulations.
+
+(2) Entrusted handling
+
+In order to realize the functions of relevant products and services and provide you with a better service experience, we will entrust a third-party service provider to assist us in providing services, which may involve the processing of some of your personal information entrusted by us, mainly including:
+
+(1) Dongfeng Nissan dealers assist in the maintenance of your vehicle, conduct marketing or provide dealer maintenance notices;
+
+(2) wireless telecommunications and data service providers in order to contact you and provide you with information about your wireless communications or data services or for marketing purposes;
+
+(3) third-party advertising companies, which can automatically obtain or receive information about your online behavior through different websites at any time (see Cookies and Other Tracking Technologies for more information);
+
+(4) Entrusting wireless service providers, payment information processing companies, payment platforms or system providers to process relevant information in order to realize the payment function;
+
+(5) other third parties with whom we have entered into cooperation agreements for the purpose of promoting, enhancing, improving, or expanding the relevant products and/or services.
+
+(3) Transfer
+
+We will not transfer your personal information to any company, organization or individual outside of this Policy, except in the following circumstances:
+
+1. After obtaining your consent, we will transfer your personal information to other parties;
+
+2. In the event of the transfer of personal information due to merger, division, dissolution, declaration of bankruptcy or other reasons, we will inform you of the name and contact information of the recipient and require the new company or organization that holds your personal information to continue to be bound by this Policy, otherwise, we will require the company or organization to seek your authorization and consent again.
+
+(4) Public disclosure
+
+We will only publicly disclose your personal information under the following circumstances and on the premise that we take security measures that comply with industry standards:
+
+1. According to your needs, disclose the personal information specified by you under the disclosure method you have expressly consented to, or based on your active choice;
+
+2. If it is necessary to provide your personal information in accordance with the requirements of laws, regulations, mandatory administrative law enforcement or judicial authorities, we may publicly disclose your personal information according to the type of personal information required and the method of disclosure. Subject to laws and regulations, when we receive a request for disclosure of information described above, we will require that we must issue corresponding legal documents, such as subpoenas or investigation letters. We strongly believe that the information requested from us should be as transparent as possible to the extent permitted by law. All requests are carefully reviewed to ensure that they have a lawful basis and are limited to data that they have a legitimate right to obtain for the specific purpose of the investigation. To the extent permitted by laws and regulations, the documents we disclose are protected by encryption keys.
+
+
+
+Four. How we protect and store your personal information
+
+(1) Technical measures for data security
+
+We will adopt security protection measures that comply with industry standards, including the establishment of reasonable systems and specifications and security technologies to prevent your personal information from being accessed and used without authorization, modified, and to avoid data loss or loss.
+
+However, even so, in the process of processing your personal information, in view of the existing technical conditions and the special nature of network services, your information may still be damaged by computer viruses, Trojan horses, malicious programs, hacker attacks, or network vulnerabilities and abnormal fluctuations, and we will do our best to avoid or recover the corresponding losses, and inform you of the relevant situation in accordance with the law.
+
+(2) The ability to store information and ensure security
+
+1. We store your data in Dongfeng Nissan Data Center (Dongfeng Nissan Private Cloud) in China, and the underlying cloud technology where we store your personal data has passed the Level 27001 Security Classified Protection certification of the Ministry of Public Security, and has also obtained the ISO<> certification.
+
+2. We will regularly hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+
+(3) Handling of security incidents
+
+1. In order to deal with possible risks such as leakage, damage, and loss of personal information, we have formulated a number of systems to clarify the classification and grading standards for security incidents and security vulnerabilities and the corresponding handling procedures. We have also established a special emergency response team for security incidents, and in accordance with the requirements of the security incident handling specifications, we have launched security plans for different security incidents, carried out stop loss, analysis, positioning, formulated remedial measures, and worked with relevant departments to trace the source and crack down.
+
+2. In the unfortunate event of a personal information security incident, we will, in accordance with the requirements of laws and regulations, promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, suggestions for you to prevent and reduce risks on your own, and remedial measures for you. At the same time, we will promptly inform you of the relevant circumstances of the incident by email, letter, telephone, push notification, etc., and if it is difficult to inform the Personal Data Subject one by one, we will take reasonable and effective measures to make an announcement. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
+
+(4) The period for retaining information
+
+1. In general, we will retain users' personal information for as long as necessary for the corresponding service, unless it is necessary to extend the retention period in accordance with this policy or as permitted by law. When your personal information is retained beyond the above retention period, we will directly delete or anonymize it.
+
+2. We will keep your information for a long time in accordance with the law when you have the following circumstances:
+
+(1) In order to cooperate with the people's procuratorate, public security organs and state security organs to investigate the criminal acts arising from the user's use of Dongfeng Nissan services, and to better protect the safety of other users' lives and property, when the user voluntarily deletes personal information or cancels the account, we will encrypt and isolate the user's personal information within the statute of limitations for criminal prosecution stipulated in the criminal law.
+
+(2) If you have seriously violated laws and regulations, platform agreements, platform rules, NI+ community code of conduct, and NI+ partner task rules in the process of using Dongfeng Nissan servicesIf you use illegal means to register an account, obtain/transfer/consume points, or steal another person's account, your illegal and breach of contract records and the corresponding platform credit records will be kept in accordance with the requirements of relevant laws and regulations or as agreed by both parties.
+
+(5) Cessation of operations
+
+1. If Dongfeng Nissan ceases operation, we will publish an announcement on the corresponding platform and relevant media at least 30 days in advance, and stop collecting personal information in a timely manner. After the cessation of operations, we will stop the commercial use of personal information and anonymize the collected personal information after meeting the minimum retention period stipulated by laws and regulations.
+
+2. When allowing service providers to use personal information based on the provisions of the preceding paragraph, we shall strive to prevent the loss, destruction, falsification, or omission of personal information by the service provider, and require the service provider to comply with laws, regulations, and other policies related to the protection of personal information.
+
+
+
+Five. Your Rights
+
+In accordance with the relevant laws, regulations and standards of China, as well as the common practices of other countries and regions, we protect you to exercise the following rights in relation to your personal information:
+
+(1) Access to and reproduction of personal information
+
+You can access and copy your personal information, basic vehicle information, license plate information, real-name authentication status information, and account information through the personal center or personal interface of the platform you visit. If the information you need is not displayed on the relevant interface, you can consult and obtain it through the contact information below this policy. However, in order to protect your biometric information (FaceID face and voiceprint information), which have been specially processed and cannot be viewed or copied for technical reasons.
+
+(2) Correction of personal information
+
+When you need to update your personal information, such as vehicle information, license plate information, real-name authentication information, account information, etc., you have the right to update or correct it. You can correct or modify your personal information on the corresponding platform, or contact us through the contact information below this Policy.
+
+(3) Deletion of personal information
+
+If you wish to delete your personal information, according to the interface of different platforms, you can unbind or cancel your account online or delete the information by yourself (unless there are circumstances that require the extension or permanent storage of information as stipulated by laws and regulations or mentioned in this Policy), we will delete or anonymize your personal information, and no longer process your personal information;
+
+When you delete your personal information or cancel your account, we will verify your personal identity, and after your application is approved (among them, the Dongfeng Nissan APP and Dongfeng Nissan Renche Life Mini Program will set a 14-day repudiation period), we will be in the companyComplete the direct deletion or anonymization of your account personal information within 10 working days;
+
+You can delete the information stored separately in the car; If you need to delete other personal information that we have processed in accordance with this Policy or that has been processed by a third party, you can contact us through the contact information below this Policy, and we will process it in accordance with the process of confirming your identity and confirming the status of the corresponding personal information.
+
+(4) Stop the collection of personal information and the methods or channels for information pushing/personalized pushing
+
+1. You can revoke the authorization of the Platform to obtain your personal information by turning off the corresponding device permissions (including location, contacts, photos, cameras, notifications, etc.) and data permissions through the system's settings. You can turn off the notification (information push) permission and stop the platform's message push/personalized push function through the system's settings.
+
+2. Dongfeng Nissan App may push product/service related information (such as vehicle abnormality, community message reminder, car booking message) to you, which you can choose to turn off or enable through the My - Settings - Message Notification setting in the App;
+
+3. You can also withdraw part of your authorization by logging out of your account, unbinding, deleting information, etc.;
+
+4. Among them, you can click [My] → [Settings] → [Service Authorization Management] in the Dongfeng Nissan APP to withdraw the information collection authorization of related services;
+
+5. After you withdraw your consent or authorization, we may not be able to continue to provide you with the services corresponding to the withdrawal of authorization, and we will no longer collect and process your personal information. However, your withdrawal of consent or authorization will not affect the processing of personal information based on your consent before the withdrawal;
+
+6. After you submit your account for cancellation, the Platform will no longer collect your personal information.
+
+(5) Cancellation of account
+
+You can apply for account cancellation through the personal interface of the relevant platform, the customer service contact information at the end of the article, or the online customer service of the relevant platform. Unless otherwise provided by laws and regulations, we will stop providing you with services and delete or anonymize your personal information in a timely manner after canceling your account.
+
+(6) Miscellaneous
+
+1. If you are unable to access, correct, or delete your personal information through the above methods, withdraw your consent, or cancel your account, you can contact our customer service team online or by phone through the "Customer Service" function of the mobile client.
+
+We may need to verify your identity and respond or process you after verifying your identity.
+
+2. Android auto-start and associated boot instructions
+
+(1) Dongfeng Nissan APP supports desktop widget function, and the widget needs to receive the system broadcast android. Appwidget.action.APPWIDGET_UPDATE。 This broadcast is a system refresh desktop widget broadcast, and the refresh is performed by the system.
+
+(2) If you use the desktop widget function, the application must use the (auto-start) capability, There will be a certain frequency of the system to send a broadcast to wake up the application to start automatically or associately start, which is necessary for the realization of functions and services.
+
+(3) To use widgets, users need to drag widgets from the widget interface on the desktop to the desktop to enable this function.
+
+
+
+Six. How We Process the Personal Information of Minors
+
+(18) We attach great importance to the protection of minors' personal information. To be on the safe side, we will refuseMinors under the age of <> authenticate and use the relevant platforms.
+
+(2) For the collection of minors' personal information with the consent of their parents or legal guardians, we will only use or publicly disclose this information as permitted by law, with the explicit consent of parents or guardians, or as necessary for the protection of minors.
+
+(3) We will protect the personal information of minors in accordance with the provisions of relevant national laws and regulations. If we find that we have collected personal information from minors without the prior consent of a verifiable parent or legal guardian, we will try to delete the relevant data as soon as possible.
+
+
+
+Seven. How your personal information is transferred globally
+
+In principle, your personal information collected and generated by us within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. Due to business needs, we may need to provide your data to our overseas business partners (hereinafter referred to as "overseas recipients") in some scenarios.
+
+When your use of relevant products or services involves the transfer of your personal information overseas, we will inform you in advance of the types of personal information involved in the outbound data, the purpose of processing, the method of processing, the name and contact information of the overseas recipient, and the ways for you to exercise your legal rights with the overseas recipient, so as to respond to your inquiries, requests and claims regarding the processing of personal information, and willObtain your separate consent and perform other compliance obligations required by laws and regulations.
+
+Please rest assured that in such cases, we will sign relevant agreements with overseas recipients to take necessary technical and administrative security measures to ensure the security of your information, and your personal information will be protected in the same way as in the territory of the People's Republic of China.
+
+Overseas recipient: Nissan Motor Co., Ltd
+
+Person in charge and contact information: ChinaDataSecurity@mail.nissan.co.jp
+
+
+
+Eight. How this Policy is Updated
+
+As our Services expand or change, or as required by law, we may need to update the privacy policies of all or part of the Platforms from time to time on the corresponding Platforms (e.g., Websites, Websites, etc.). APP, Mini Program, Official Account, Car Terminal) and inform you of such changes through message push or pop-up window will be a reasonable and effective way for us to let you know about such changes. You should check this Policy periodically for updates. If you have any questions or do not agree with our modifications, please contact us. Your refusal to accept our modifications may result in Dongfeng Nissan being unable to provide part or all of the Services.
+
+
+
+Nine. How to contact us
+
+Company name: Dongfeng Motor Co., Ltd. Dongfeng Nissan Passenger Vehicle Company
+
+Company address: No. 8, Fengshen Avenue, Huadu District, Guangzhou City, Guangdong Province
+
+Contact for User Rights Affairs: Information Security Management Office
+
+Phone: 95027
+
+If you have any questions, comments or suggestions about this Privacy Policy or matters related to your personal information, please contact us by calling our customer service number 95027 or sending an email to privacy@dfl.com.cn.
+
+Unless there are special requirements of laws and regulations (such as the response period for deletion of sensitive personal information), we will generally reply within 15 days. If you are not satisfied with our reply, especially if you believe that our processing of personal information has harmed your legitimate rights and interests, you may also file a complaint or report with the regulatory authorities such as telecommunications, internet information, public security and market regulation, or file a lawsuit with the people's court where the defendant is domiciled.
+
+
+
+Appendix 1 SDK List
+
+SDK name
+
+Affiliation
+
+Service Platforms Involved
+
+Type of data collected
+
+Purpose of Collection
+
+Collection method
+
+Tencent Tinker SDK
+
+Shenzhen Tencent Computer System Co., Ltd
+
+Dongfeng Nissan App
+
+Running process information, current application information (application version number), device parameters, and system information (system attributes, device model, and operating system)
+
+In order to implement App hotfixes
+
+SDK native acquisition
+
+WeChat Open SDK
+
+Shenzhen Tencent Computer System Co., Ltd
+
+Dongfeng Nissan App
+
+Users share pictures, application information, application lists, network information, device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), and WeChat account information
+
+In order to realize WeChat sharing and WeChat login
+
+SDK native acquisition
+
+Official website
+
+JavaScript SDK API collection
+
+Dongfeng Nissan online 4S store WeChat applet
+
+WeChat Pay SDK
+
+Shenzhen Tencent Computer System Co., Ltd
+
+Dongfeng Nissan App
+
+Device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), network information, WeChat Pay order identification
+
+In order to realize WeChat Pay service
+
+SDK native acquisition
+
+AutoNavi positioning SDK
+
+AutoNavi Software Co., Ltd
+
+Dongfeng Nissan App
+
+Location information (latitude and longitude, precise location, coarse location) [by IP address, GNSS information, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, base station information, signal strength information, Bluetooth information, sensor information (vector, acceleration, pressure), device signal strength information acquisition, external storage directory], device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), current application information (application name, application version number), device parameters, and system information (system attributes, device model, operating system, and carrier information)
+
+In order to return the user's location information to the application and for the developer to provide corresponding services based on the user's location information; In order to facilitate the provision of real-time traffic conditions and traffic condition prediction services, we will conduct data statistics and analysis of users' location information, and make judgments on traffic congestion based on this; In order to help developers provide users with positioning and auxiliary positioning, and provide developers with more accurate location information of end users; In order to provide the accuracy and success rate of location services, track, troubleshoot, diagnose, and count various problems in the service, and ensure the safe and normal operation of products and services
+
+SDK native acquisition
+
+Official website	Device information, geolocation information	Get the user's geographical location and map display	JavaScript SDK API collection
+AutoNavi Map Search SDK
+
+AutoNavi Software Co., Ltd
+
+Dongfeng Nissan App
+
+Location information (latitude and longitude, precise location, coarse location) [by IP address, GNSS information, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, base station information, signal strength information, Bluetooth information, sensor information (vector, acceleration, pressure), device signal strength information acquisition, external storage directory], device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), current application information (application name, application version number), device parameters, and system information (system attributes, device model, operating system, and carrier information)
+
+In order to return the user's location information to the application, display the user's location on the map surface, and provide corresponding services for the developer based on the user's location information; In order to help developers provide users with positioning and auxiliary positioning, and provide developers with more accurate location information of end users; In order to provide the accuracy and success rate of location services, provide maps and search services, track, troubleshoot, diagnose, and count various problems in the service, and ensure the safe and normal operation of products and services
+
+SDK native acquisition
+
+AutoNavi Map Navigation SDK
+
+AutoNavi Software Co., Ltd
+
+Dongfeng Nissan App
+
+Location information (latitude and longitude, precise location, coarse location) [by IP address, GNSS information, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, base station information, signal strength information, Bluetooth information, sensor information (vector, acceleration, pressure), device signal strength information acquisition, external storage directory], device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), current application information (application name, application version number), device parameters, and system information (system attributes, device model, operating system, and carrier information)
+
+In order to return the user's location information to the application, provide the user with various navigation services based on the user's location, and provide corresponding services for the developer based on the user's location information; In order to facilitate the provision of real-time traffic conditions and traffic condition prediction services, we will conduct data statistics and analysis of users' location information, and make judgments on traffic congestion based on this; In order to meet the navigation services such as route planning and real-time navigation provided by developers to users, we will collect the user's departure and arrival places; In order to help developers provide users with positioning and auxiliary positioning, and provide developers with more accurate location information of end users; In order to provide the accuracy and success rate of location services, provide maps and search services, track, troubleshoot, diagnose, and count various problems in the service, and ensure the safe and normal operation of products and services
+
+SDK native acquisition
+
+Alipay payment SDK
+
+Alipay (China) Network Technology Co., Ltd
+
+Dongfeng Nissan App
+
+IMEI, IMSI, MAC address, device serial number, hardware serial number, SIM card serial number, ICCID, Android ID, OAID, SSID, BSSID; system settings, system attributes, device model, device brand, operating system; IP address, network type, carrier information, Wi-Fi status, Wi-Fi parameters, Wi-Fi list; Software installation list.
+
+1. Ensure the security of user accounts and funds, as well as the safe and stable operation of payment services.
+2. Perform legal obligations such as anti-money laundering, anti-terrorist financing, and anti-telecom network fraud.
+3. Implement network link selection and optimization to improve user experience.
+
+SDK native acquisition
+
+Personal Verification SDK
+
+Daily Interactive Co., Ltd
+
+Dongfeng Nissan App
+
+(1) Device information and mobile phone number
+, (2) Application list information, network information, and location-related information
+
+(1) Device information and mobile phone number: The device identification code and de-identified mobile phone number will be used to generate a unique client ID, i.e., GYUID; Device platform, device manufacturer, device brand, device model and system version, device serial number, and de-identified mobile phone number help us identify unique users, ensure effective identification with one-click authentication, and respond quickly. In order to provide efficient, stable and smooth one-click authentication services, which will improve our anti-fraud capabilities.
+(2) Application list information, network information, and location-related information: We analyze the risk level of the current device through the above information, which can effectively identify various cheating behaviors and risky devices, which can be used to evaluate the quality of channels, identify malicious brushing, malicious programs, protect user account security, etc., and escort your application.
+
+SDK native acquisition
+
+push SDK
+
+Daily Interactive Co., Ltd
+
+Dongfeng Nissan App
+
+1. Device information: device identification code, device platform, device manufacturer, storage authority (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE) and device authority (READ_PHONE_STATE).
+2. Application list information.
+3. Network information and location-related information.
+
+1. Device information: The device identification code, device platform, and device manufacturer are used to generate a unique push target ID (CID) and device ID (GID) to ensure the accurate delivery of message push and the accurate identification of message devices. The device brand, device model, and system version are used to optimize the effectiveness of channel resources and improve the delivery rate and stability of message push. In addition, to ensure the uniqueness of CIDs and improve the stability and accuracy of message pushes, you need to authorize storage permissions (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE) and device permissions (READ_PHONE_STATE).
+2. Application list information: We use merge link technology for technical push, when a device has multiple APP push links active at the same time, we will randomly merge into a link to achieve the purpose of saving power and traffic for you, so you need to obtain application list information; At the same time, we provide an intelligent push function, through which we can recommend push content that is more in line with your needs, and reduce the disturbance of useless push messages.
+3. Network information and location-related information: In order to maintain the stability of the network connection to the greatest extent and establish a long link, we need to understand the network status and changes of the device, so as to achieve stable and continuous push services. We provide the timely push function, and location-related information will help us provide you with refined push of offline scenarios, which can recommend push content that better meets your needs and reduce the disturbance of useless push messages.
+
+SDK native acquisition
+
+Zhuoxin ID SDK
+
+China Academy of Information and Communications Technology
+
+Dongfeng Nissan APP
+
+Weak characteristics of the device (characteristics that do not have uniqueness and stability): device information (device manufacturer, device model, device system information), device network information (device networking mode and status information), device environment information (screen brightness, battery status and country, device application information (installation information such as the version of common device applications)
+
+Provide equipment identification and security risk control services
+
+SDK native acquisition
+
+Weibo SDK
+
+WeDream Network Technology (China) Co., Ltd
+
+Dongfeng Nissan APP
+
+1. Type of personal information: device information (including device model, device identifier (such as IMEI/AndroidID/ IDFA/OPENUDID/ GUID/ OAID), device MAC address, telecom operator and other software and hardware feature information)
+2. Personal information type: When the user shares, obtain the pictures or videos selected by the user
+
+Purpose and use: To ensure the security risk control in the process of user account login and function implementation; It is used to realize the Weibo sharing function, and share the pictures or videos selected by the user to Weibo
+
+SDK native acquisition
+
+Huawei Push SDK
+
+Huawei Software Technologies Co., Ltd
+
+Dongfeng Nissan App
+
+AppID, Push Service and HMS Core application version number, Huawei Push SDK version number, application version number and package name, AAID and push token, device type (such as mobile phone and tablet), device model, system type (such as Android and HarmonyOS), system version, system version, and country code
+
+Implement the basic message push service of Huawei Push
+
+SDK native acquisition
+
+OPPO pushes SDK
+
+Guangdong HeyTap Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Device-related information (such as IMEI or OAID, Serial Number, IMSI, User ID, Android ID, Google Advertising ID, mobile phone region settings, device model, mobile phone battery level, mobile phone operating system version and language), application information using the push service (such as APP package name and version number, running status), push SDK version number, network-related information (such as IP or domain connection results, current network type), message sending result, notification bar status (such as notification bar permissions, user click behavior), and lock screen status (such as whether the screen is locked and whether to allow lock screen notifications).
+
+(1) Push the information related to you in the application services provided by the developer (such as private messages, account changes, attention updates, marketing information, etc.) to your device terminal in a timely manner.
+(2) Providing, processing, maintaining, improving, and developing our products and/or services provided to you, including pushing messages that meet technical standards according to your system, equipment, application information, etc., recording the message sending results and returning them to the developer, and providing functions such as folding unimportant notifications.
+and (3) to analyze and develop statistical information related to the use of our products or services to better improve our products or services.
+(4) Optimize the performance of the product, such as the optimization of the folded message algorithm.
+and (5) to store and maintain information about you for the purpose of operating our business or fulfilling our legal obligations.
+(6) To carry out marketing-related activities, such as providing and updating marketing or promotional content. If you no longer wish to receive certain types of promotional content. Unless otherwise required by applicable law. You can opt out by following the methods provided in the message, such as the unsubscribe link at the bottom of the message.
+
+SDK native acquisition
+
+Mi Push SDK
+
+Xiaomi Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Device identifier OAID and encrypted Android ID, as well as application information such as app package name, version number, and running status using the push service; Device-related information, such as device manufacturer, device model, device memory, operating system version, Mi Push SDK version, device location (country or region), SIM card operator name, and current network type. The current network type and SIM card operator name are only read locally on the device and will not be uploaded to the Xiaomi server
+
+Implement the basic message push service of Xiaomi Push
+
+SDK native acquisition
+
+VIVO PUSH SDK
+
+Vivo Mobile Communications Co., Ltd
+
+Dongfeng Nissan App
+
+Including the operating system version number, application information (including application installation list), device identifier (such as IMEI, ICCID, EMMCID/UFSID, oaid/vaid/aaid, SN code and IMSI, android id, mobile country code and mobile network number of vivo Android device, etc.) during your use of vivo devices and services, MAC address, mobile operator, language, system settings, etc. Device and application data.
+
+Implement the basic message push service of vivo push
+
+SDK native acquisition
+
+HONOR Push SDK
+
+Shenzhen Glory Software Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Device information, basic application information
+
+Push notification messages to users
+
+SDK native acquisition
+
+Meizu push SDK
+
+Zhuhai Meizu Communication Equipment Co., Ltd
+
+Dongfeng Nissan App
+
+(1) Device information. It mainly includes device name, device model, region and language settings, device identification number (IMEI number, etc.), device hardware information and status, usage Xi, IP address, Mac address, operating system version, and device settings information used to access services.
+(2) Application Information. It mainly includes application list, application version, application status record (download, installation, update, deletion), software identifier, and application settings (such as region/language/time zone/font) information.
+
+Implement Meizu's basic message push service
+
+SDK native acquisition
+
+UnionPay SDK
+
+UnionPay Commerce Co., Ltd
+
+Dongfeng Nissan App
+
+Device information (IMEI, IDFA, Android ID, MAC, OAID, Advertising ID, Serial Number, IMSI, UAID, ICCID), network information (IP address, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, network type, carrier information)
+
+UnionPay payment service is supported
+
+SDK native acquisition
+
+Umeng SDK
+
+Umeng Tongxin (Beijing) Technology Co., Ltd., Beijing Ruixun Lingtong Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Device information and rough location:
+IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM cardIMSI/ICCID/IP
+
+1. Provide SDK services based on devices; 2. Based on the coarse location for the application analysis of the regional dimension, provide regional data reports
+
+SDK native acquisition
+
+QQ Connect SDK
+
+Shenzhen Tencent Computer System Co., Ltd
+
+Dongfeng Nissan App
+
+Device identifier (Android such as IMEI, AndroidID, OAID, IMSI, ICCID, MEID, hardware serial number), network device hardware address (MAC address), IP address, WLAN access point (such as SSID, BSSID), system information (system attributes, device model, operating system), clipboard information (only QQ Internet SDK related information), photo album, memory card permissions, application list information.
+
+Provide QQ sharing and QQ login functions
+
+SDK native acquisition
+
+JD SDK
+
+Beijing Jingdong Sanbai Lu Shidu E-commerce Co., Ltd
+
+
+Dongfeng Nissan App
+
+Collect third-party account usernames, user nicknames, and third-party device information (including device and network information, including device identifiers, device hardware information, network connection status, WLAN connection information, device operation status, device control usage records, and device configuration parameters)
+
+Provide JD authorized login, device access, device control, gateway sub-device access and control functions.
+
+SDK native acquisition
+
+PKI SDK
+
+Changchun Jida Zhengyuan Information Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Device information (IMEI, IDFA, Android ID, MAC, OAID, Advertising ID, Serial Number, IMSI, UAID, ICCID), network information (IP address, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, network type, carrier information)
+
+Provide risk control and authentication services for apps
+
+SDK native acquisition
+
+OneNetcom SDK
+
+China Merchants Bank Co., Ltd
+
+Dongfeng Nissan App
+
+Device information (IMEI, IDFA, Android ID, MAC, OAID, Advertising ID, Serial Number, IMSI, UAID, ICCID), network information (IP address, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, network type, carrier information)
+
+Support China Merchants Bank payment service
+
+SDK native acquisition
+
+ICBC SDK
+
+Industrial and Commercial Bank of China
+
+Dongfeng Nissan App
+
+Device information (IMEI, IDFA, Android ID, MAC, OAID, Advertising ID, Serial Number, IMSI, UAID, ICCID), network information (IP address, Wi-Fi status, Wi-Fi parameters, Wi-Fi list, SSID, BSSID, network type, carrier information)
+
+Support ICBC payment services
+
+SDK native acquisition
+
+OCR SDK
+
+Xiamen Yunmai Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Optical information of the user's ID card, driving license, and driver's license
+
+It is used for ID card, driving license, and driver's license recognition
+
+SDK native acquisition
+
+Liveness Recognition SDK
+
+Beijing Yitu Zhixun Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Optical information about the user's face
+
+It is used for liveness identification during real-name authentication
+
+SDK native acquisition
+
+Douyin SDK
+
+Beijing Weibo Vision Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Hardware model, OS version number, device identifier (Android such as IMEI/MEID, AndroidID, OAID, IMSI, SIM card information (such as ICCID), GAID, hardware serial number (SN), iOS such as IDFV, IDFA); Different identifiers will vary in terms of expiration date, whether they can be reset by the user, and how they can be obtained), network device hardware address (device MAC address), hardware serial number, IP address, WLAN access point (e.g., SSID, BSSID), Bluetooth (Bluetooth), base station, software version number, network access mode, type, status, network quality data, operation, usage, service logs, device sensor data (e.g., accelerometers, linear accelerometers, gravity sensors, gyroscope sensors) and other data.
+Installed app information, software list or running process information, overall app operation, usage and frequency, app crashes, overall install usage, performance data, app source.
+Geolocation information (e.g. precise location information, WLAN access points, Bluetooth, and base stations)
+
+Douyin sharing
+
+SDK native acquisition
+
+Tencent Browsing Service SDK
+
+Shenzhen Tencent Computer System Co., Ltd
+
+Dongfeng Nissan App
+
+1. Device information (device model, operating system, CPU type)
+
+2. Application information (host application package name, version number)
+
+3. Wi-Fi status and parameters
+
+4. Location information, nearby Wi-Fi, CellID
+
+1. Browser kernel upgrade and disable fine-grained control
+
+2. Browser kernel upgrade and disabling the need for detailed control
+
+3. Determine whether the Wi-Fi is connected and optimize the network
+
+4. Triggered when the user actively opens the webpage and the webpage itself needs to locate the location
+
+SDK native acquisition
+
+Bugly SDK
+
+Shenzhen Tencent Computer System Co., Ltd
+
+Dongfeng Nissan App
+
+The phone model, phone brand, Android system version, Android system API level, vendor system version, CPU architecture type, whether the device is rooted, disk space occupancy, sdcard space occupancy, memory space occupancy, network type, process name and PID that the application is currently running
+
+1. Troubleshoot crash issues to help improve the stability of the app
+
+2. Determine the ANR status of the current process, troubleshoot crash problems, and help the APP improve stability
+
+SDK native acquisition
+
+Bilibili SDK
+
+Shanghai Phantom Information Technology Co., Ltd
+
+Dongfeng Nissan App
+
+1. Mobile phone number or email address (used to accept verification codes to match personal identity)
+
+2. User ID, nickname, avatar, and authentication information
+
+3. Device model, device name, device identification information, browser type and settings, language settings, operating system and application version, login IP address, network access method, network quality data, mobile network information, product version number, and network log information (operation logs, service logs).
+
+Bilibili login authorization
+
+SDK native acquisition
+
+Kuaishou SDK
+
+Beijing Kuaishou Technology Co., Ltd
+
+Dongfeng Nissan App
+
+Device information: device identifier information (IMEI, MEID, IMSI, Android ID, IDFA, IDFV, UAID (China Mobile UAID, China Unicom UAID and China Telecom UAID, Android devices only), OAID, ICCID, Openudid, GAID and other comprehensive device parameters and system information to form device identifiers. Whether it can be reset by the user and the method of obtaining it will vary depending on the system), the hardware address (MAC address) of the network device, the network-related information (WLAN access point (such as SSID, BSSID), Bluetooth, base station, IP address, network operator, network status, type, access mode, network quality data), device parameter information (device name, device model, device serial number), software and hardware operating system information (application version, operating system, language, resolution), etc.
+
+Log information: a. Personal Internet access records of operation and use, including browsing, playing, searching, liking, following, collecting, commenting, downloading, sharing, trading, etc.; b. Service log information: information about installed applications or running processes, overall operation, usage and frequency of applications, application crashes, overall installation usage, performance data, and application sources.
+
+Kuaishou login authorization and video editing
+
+SDK native acquisition
+
+Tencent Map/Location SDK
+
+Tencent Maps
+
+Dongfeng Nissan online 4S store WeChat applet
+
+Device information, geolocation information
+
+Get the user's geographical location and map display
+
+JavaScript SDK API collection
+
+Mini program for people, vehicles, and life
+
+Baidu Audit API
+
+Baidu
+
+Dongfeng Nissan APP
+
+Avatar, nickname
+
+Review user avatar nicknames
+
+Collected by backend interfaces
+
+China Unicom API
+
+China United Network Communications Group Co., Ltd
+
+Dongfeng Nissan APP
+
+Portrait pictures, ID card pictures
+
+Real-name authentication
+
+Collected by backend interfaces
+
+Mobile API
+
+China Mobile Communications Group Co., Ltd
+
+Dongfeng Nissan APP
+
+Portrait picture, ID picture, ICCID, user phone number
+
+Real-name authentication
+
+Collected by backend interfaces
+
+Alibaba Cloud APIs
+
+Alibaba Cloud Computing Co., Ltd
+
+Dongfeng Nissan APP
+
+Pictures of ID cards, driving licenses, and motor vehicle invoices
+
+It is used for OCR recognition of ID cards, driving licenses, and invoices
+
+Collected by backend interfaces
+
+Mini program for people, vehicles, and life
+
+Jidou Technology API
+
+Pole Bean Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+User ID, DAID, refueling order information, vehicle location, gas station information, invoice information (title, tax number, email address).
+
+Identity verification, order confirmation, station push, invoicing
+
+Collected by backend interfaces
+
+iFLYTEK SDK
+
+iFLYTEK Co., Ltd
+
+Dongfeng Nissan APP
+
+Phone
+
+Authentication, voice processing
+
+SDK native acquisition
+
+Kuwo Music SDK
+
+Beijing Kuwo Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+User account information
+
+Buy Kuwo Music
+
+SDK native acquisition
+
+Mobile Security Alliance OAID
+
+Mobile Security Job Council
+
+Dongfeng Nissan App
+
+Device manufacturer, device model, device brand, device network operator name, and app package name
+
+The device manufacturer, device model, and device brand are used to determine the name of the network operator of the terminal calling interface device, the name of the APP package in the virtual machine environment, and the signature verification
+
+SDK native acquisition
+
+Pony Lixing API
+
+Pony Lixing Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+Account information
+
+User registration, authentication
+
+Collected by backend interfaces
+
+Lazy Listening API
+
+Shenzhen Lazy Online Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+Account information
+
+Authentication
+
+Collected by backend interfaces
+
+Let's Sing API
+
+Beijing Xiaosing Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+Account information
+
+Authentication
+
+Collected by backend interfaces
+
+Kugou API
+
+Guangzhou Kugou Computer Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+Account information
+
+Authentication
+
+Collected by backend interfaces
+
+iQIYI API
+
+Beijing iQiyi Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+Account information
+
+Authentication
+
+Collected by backend interfaces
+
+Dingran Information Technology API
+
+Shenzhen Dingran Information Technology Co., Ltd
+
+Dongfeng Nissan APP
+
+Vehicle VIN code
+
+Check whether the vehicle is connected to the Internet
+
+Collected by backend interfaces
+
+NI Earn
+
+Dongfeng Nissan Data Company
+
+Dongfeng Nissan APP
+
+Account information
+
+Identification of Personal Information
+
+Built-in H5 acquisition
+
+Dongfeng Nissan Financial Leasing SDK
+
+Dongfeng Nissan Financial Leasing Co., Ltd
+
+Dongfeng Nissan APP
+
+Personal information, vehicle information, financing information, bank account information, electronic signature information
+
+It is used for real-name authentication, credit investigation authorization, and contract signing that occur in financial processing
+
+SDK native acquisition
+
+Kitamori H5
+
+Beisen Cloud Computing Co., Ltd
+
+Dongfeng Nissan APP
+
+Name, place of origin, height, weight, ethnicity, communication information, relative information, education information, educational background, school practice, Xi experience, awards, family situation, and additional information
+
+Recruit a complete resume and get to know the candidate
+
+Built-in H5 acquisition
+
+Official website
+
+Kuwo Music
+
+Beijing Kuwo Technology Co., Ltd
+
+DA system
+
+User ID, DAID, App version information, network status, screen size, APP operation records, and member orders
+
+Identity verification, content delivery, personalized recommendation, product improvement, and membership activation
+
+MOT
+
+Kugou Music
+
+Guangzhou Kugou Computer Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, APP operation records, and member orders
+
+Identity verification, content delivery, personalized recommendation, product improvement, and membership activation
+
+MOT
+
+Lazy people listen to books
+
+Shenzhen Lazy Online Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, APP operation records, and member orders
+
+User ID, DAID, App version information, network status, screen size, APP operation records, member order authentication, content delivery, personalized recommendation, product improvement, and member activation
+
+MOT
+
+Sing karaoke
+
+Beijing Sing Bar Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, APP operation records, member orders, and audio when the user sings songs
+
+Identity verification, content delivery, personalized recommendation, product improvement, and membership activation
+
+MOT
+
+Koala FM
+
+Wangle Internet (Beijing) Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, APP operation records, and member orders
+
+Identity verification, content delivery, personalized recommendation, product improvement, and membership activation
+
+MOT
+
+Vehicle-home interconnection
+
+Beijing Jingdong Century Trading Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, operation record, vehicle location, geofence radius, and center point location
+
+Authentication, content delivery, personalized recommendations, product improvements, vehicle geofencing
+
+MOT
+
+Wisdom come on
+
+Shanghai Jidou Technology Co., Ltd
+
+User ID, DAID, refueling order information, vehicle location, gas station information, invoice information (title, tax number, email address)
+
+Identity verification, order confirmation, station push, invoicing
+
+MOT
+
+iQIYI video
+
+Beijing iQiyi Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, APP operation records, and member orders
+
+Identity verification, content delivery, personalized recommendation, product improvement, and membership activation
+
+MOT
+
+GUI Mall
+
+Pony Lixing Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, operation records, skin order information
+
+Identity verification, content delivery, personalized recommendations, product improvement, product authorization
+
+MOT
+
+Himalayan
+
+Shanghai Himalaya Technology Co., Ltd
+
+User ID, DAID, App version information, network status, screen size, APP operation records, and member orders
+
+Identity verification, content delivery, personalized recommendation, product improvement, and membership activation
+
+MOT
+
+Pole Bean Road Book
+
+Pole Bean Technology Co., Ltd
+
+User ID, DAID, App version information, network status, operation records, road book product information, vehicle location
+
+Identity verification, content delivery, personalized recommendations, product improvement, road book order archiving, vehicle route planning
+
+MOT
+
+iFLYTEK input method
+
+iFLYTEK Co., Ltd
+
+The redacted address book
+
+Build hot words
+
+MOT
+
+Inkblot weather
+
+Beijing Ink Fengyun Technology Co., Ltd
+
+Vehicle location information
+
+Content delivery
+
+MOT
+
+iFLYTEK voice assistant
+
+iFLYTEK Co., Ltd
+
+Recording data, DAID, background status of multimedia applications, and recording information of user voice commands
+
+Voice command parsing and content delivery
+
+MOT
+
+Gaode map
+
+AutoNavi Software Co., Ltd
+
+User ID, DAID, vehicle location, historical trip, operation records
+
+Identity Verification, Vehicle Positioning, Route Planning, Product Improvement
+
+MOT
+
+Franchise store applet
+
+Shenzhen Lianyou Technology Co., Ltd
+
+User ID, DAID, app version information, and operation records
+
+Authentication, personalized recommendations, product improvements
+
+MOT
+
+Zephyr weather
+
+QWeather Internet Technology (Beijing) Co., Ltd
+
+Vehicle location information
+
+Content delivery
+
+MOT
+
+
+
+
+
+
+Annex 2 List of Affiliated Companies
+
+Recipient Information
+
+Service Platforms Involved
+
+Contact
+
+Dongfeng Nissan Data Service Co., Ltd
+
+Dongfeng NissanAPP
+
+Contact: 020-37719086
+
+Official website
+
+People's and car life applet/Dongfeng Nissan online 4S store WeChat applet/byte applet
+
+Owners Club
+
+Shenzhen Lianyou Technology Co., Ltd
+
+DA system
+
+Contact: 400-830-5721
+
+Dongfeng NissanAPP
+
+

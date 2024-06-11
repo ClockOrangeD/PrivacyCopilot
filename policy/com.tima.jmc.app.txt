@@ -1,0 +1,629 @@
+Definitions and Interpretations:
+
+Jiangling Intelligent Mobility Service Provider: Jiangling Motors Co., Ltd., hereinafter referred to as "Jiangling", which develops and operates Jiangling Intelligent Mobility products and services.
+
+JMC Intelligent Mobility Service: refers to the basic business services related to the Internet of Vehicles provided to you by the Jiangling Intelligent Mobility service provider based on the JMC Intelligent Mobility client.
+
+Affiliates: refers to companies that are legally affiliated with JMC service providers. "Affiliation" means any subject (including an individual, company, partnership, organization or any other entity) that is directly or indirectly controlled, or directly or indirectly controlled by, or directly or indirectly controlled by the same entity. The aforesaid "control" refers to the possession of the power to give instructions or instruct others to give instructions or instruct others to give instructions or in fact constitute actual control through the holding of voting rights, contracts or other means.
+
+JMC APP Client: refers to the "JMC AI" APP software that you download and install on your terminal device through a legal software download channel or platform authorized by the JMC AI service provider and is compatible with the device, including IOS, Android and other application versions.
+
+Personal information: refers to all kinds of information recorded electronically or otherwise that can identify a natural person, either alone or in combination with other information, including but not limited to name, date of birth, ID number, personal biometric information, address, telephone number. However, anonymized information is not included.
+
+Sensitive personal information: refers to personal information that, once leaked or illegally used, is likely to cause the personal dignity of a natural person to be violated or the safety of their person or property to be endangered, including personal information such as ID numbers, passport information, mobile phone numbers, personal biometric information, bank accounts, transaction and consumption records, whereabouts, credit records, mobile phone location information, driver's license expiration dates, and personal information of minors under the age of 14. **Privacy Policy Body**:
+
+This Privacy Policy will help you understand the following:
+
+1. How JMC collects and uses your personal information
+
+2. How JMC uses cookies and similar technologies
+
+3. How JMC shares, transfers, and publicly discloses your personal information
+
+4. How does JMC protect your personal information?
+
+5. Your Rights
+
+6. How Your Personal Information Is Transferred Globally
+
+7. Protection of Minors
+
+8. How this Privacy Policy is Updated
+
+9. How to contact JMC
+
+Jiangling Motors Co., Ltd. is well aware of the importance of personal information to you and will do its best to protect your personal information safe and secure. We are committed to maintaining your trust in us and abiding by the following principles to protect your personal information: the principle of consistency of rights and responsibilities, the principle of clear purpose, the principle of opt-in and consent, the principle of minimum necessity, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. At the same time, Jiangling Motors Co., Ltd. promises that we will take corresponding security protection measures to protect your personal information in accordance with mature security standards in the industry.
+
+**Before you register as a user or use JMC services, please be sure to carefully read and ensure that you fully understand all the terms of this Privacy Policy, and you should focus on reading the content of the bold font mark and the content involving your important rights and interests, and confirm that you fully understand and agree before starting to use, especially the clauses involving exemption or limitation of liability, which may be in bold or underlined form to remind you to pay attention to such clauses. Once you complete the registration or start using JMC services, it means that you fully understand and agree to this Privacy Policy.**
+
+**One. How JMC collects and uses your personal information**
+
+(1) Collection of personal information
+
+1.1 JMC may store, collect and use your personal information when providing platform services, and if you do not provide relevant personal information, you will not be able to use the relevant services provided by JMC Platform.
+
+1.2 Personal information includes the following information of you, and you agree to authorize JMC to obtain the information as follows:
+
+(1) In the process of login, using and receiving the services of the Platform, you provide user information (including but not limited to your basic information, **user profile picture, name, gender, date of birth, address, telephone number, frame number, license plate number, ID type, ID number, driver's license number expiration date, biometric information and others) as required by JMC Intelligent Mobility Platform**) and SMS verification code;
+
+(2) When you access your mobile device on the JMC Platform, you authorize JMC to access and read the communication information (including but not limited to SMS) on your mobile device;
+
+(3) Personal information voluntarily provided by you by filling in online, answering questionnaires, actively publishing information, and communicating by telephone;
+
+(4) Information you communicate through the JMC Platform, such as communication time, data and duration;
+
+(5) Location information: When you turn on other GPS devices such as terminal devices, positioning functions, and use the JMC AI platform to provide location-based related services, your location information is collected/JMC collects relevant location information from your third party:
+
+a. JMC collects your geographic location information through GPS/WiFi and other means;
+
+b. You/other users provide real-time information including your geographic location, e.g., the account information you provide contains information about your region;
+
+c. You can stop JMC Zhixing's collection of your geographic location information by disabling the location function.
+
+(6) The interaction information between you and JMC that is actively collected by JMC or automatically collected by the system, as well as the information retained by you during the use of JMC AI's software;
+
+(7) You can use a third-party account (such as WeChat, Alipay, etc.) to log in to JMC AI, at this time, you need to authorize the third-party account to provide us with your mobile phone number, nickname and avatar to record your login identity as a JMC ID, and we will create a JMC account for you and bind the third-party account at the same time, and the specific authorization information is subject to the instructions on the login interface.
+
+(8) Other sources: With your consent, JMC may obtain your relevant information from third parties such as affiliates and partners. If the purpose of collecting and using your information is beyond the scope of authorization obtained by the third party, we will process your personal information by ourselves or require the third party to obtain your consent separately.
+
+**Based on the relevant services and functions provided by the above platforms, the platform needs to obtain application permissions as follows:**
+
+**Storage, which allows to read photos, files and media content on the memory card, allows to modify and delete the contents of the memory card, and modifies or deletes the photos, files and media content on the memory card. It is convenient for you to take photos, upload pictures, delete pictures, etc.**
+
+**Location, using GPS or network for positioning, access to your exact location information, for vehicle positioning, convenient for car owners to view vehicle location, and related goods receiving services, etc.; (Allows apps to obtain location information based on network sources such as GPS, base stations, and WiFi).**
+
+**Camera, access the camera, take photos and videos, for the owner to make dynamic releases, problem feedback and vehicle problem picture upload.**
+
+**Phone, make a call, read call status and mobile network information, allow to get the local number, call status and dialed number.**
+
+**Other information, boot up, pair with Bluetooth device, view face recognition, fingerprint hardware, modify system settings.**
+
+(2) Collection and use of personal information
+
+1. Register as a user
+
+When you register with JMC, you need to set or provide your account name, nickname, password, profile picture, **fingerprint**, and ask you to provide your **mobile phone number according to the requirements of the registration process**information so that JMC can authenticate by sending an SMS verification code. Since the above information is necessary to use JMC AI, if you do not provide it, you will not be able to complete the user registration and will not be able to use JMC AI's services.
+
+2. Use JMC services
+
+2.1 In order to provide you with complete JMC services, including roadside assistance, transportation route inquiry, order grabbing, quotation, transportation operation and other functional services, you need to provide you with the following services: **name, gender, address, ID card information, face photo, facial features, personal email address, driver's license information, driving license information, vehicle information, vehicle route information, Vehicle road and bridge turn toll information, vehicle refueling information, geographic location** information.
+
+2.2 In order to understand the adaptability of JMC AI's software to the corresponding hardware terminals, identify the abnormal status of your account, and provide personalized software services, JMC may automatically collect relevant information about your use of JMC AI's software during your use of JMC services, and JMC may associate such information accordingly. Your authorization is required for access to information, including:
+
+Device information: JMC will collect information about the device you use, including device identifiers () according to the permissions you have grantedIMEI, IDFA, Android ID, MAC, OAID, IMSI, OpenUDID, hardware serial number, and other device-related information), application information (application crash information, notification switch status, application installation list, and other application-related information), device parameters and system information (device type, device model, operating system, and hardware-related information)
+
+Log information: the date and time of your visit, search history and content, browsing history and content retained during your use of JMC Zhixing softwareIP address, telecom carrier, language used, status information, etc.
+
+2.3 In the process of providing JMC services to other users, JMC may collect relevant information about you from JMC affiliates or third-party service providers based on the necessity of providing services.
+
+2.4 In order to improve the product and provide you with more personalized services, JMC will collect your browsing information, questionnaire information, customer service communication information, etc. for user profiling.
+
+2.5 In order to improve the security of your use of JMC software, JMC may determine the account risk by understanding your browsing information, usage information, and commonly used device information.
+
+2.6 When JMC uses your personal information for any purpose or purpose not specified in this Privacy Policy, it will seek your authorization and consent in advance, unless otherwise provided by laws and administrative regulations or in case of emergency, you cannot be notified in a timely manner.
+
+2.7 **JMC may use the information you provide or the information it collects to make personalized product marketing recommendations for you, and if you do not wish to receive relevant marketing recommendations, you can choose to turn off the relevant push function**.
+
+2.8 When using the Internet of Vehicles business functions, JMC App will apply to you for the following system permissions related to personal information: **user information (ID card, name), vehicle information (license plate number), real-time data information (vehicle location information, mobile phone location information, vehicle condition information, vehicle fault alarm). information), mobile phone GPS location permission**. If you do not authorize, we will not be able to provide the Internet of Vehicles business functions.
+
+2.9 If you provide services to others through JMC, you need to provide the name, gender, address, ID card information, geographical location and other personal information of others necessary for the third party receiving or providing services. You should ensure that you have obtained the authorization and consent of others before providing the above information. When you provide the above information to JMC, it means that you have obtained the authorization and consent of others.
+
+2.10 If you entrust JMC to issue invoices on your behalf, JMC will collect your name, contact information, ID card information, bank card information, driver's license information, vehicle driving license information, road transport business license information, road transport license information, transaction order information and other information (if any) required by the tax authorities in accordance with the provisions of China's tax laws and the requirements of the tax authorities for verification by the tax authorities and the issuance of VAT invoices.
+
+3．Personal Data Subjects cancel their accounts
+
+3.1 You can cancel your previously registered account at any time, and you can complete the operation through the account cancellation function that comes with the APP.
+
+3.2 Clearly indicate the account (i.e., mobile phone number) that needs to be cancelled;
+
+3.3 On the [Me-Settings-Account Management-Third-Party Account Binding] page, unbind the associated third-party account and provide a screenshot of the unbinding;
+
+3.4 On the [Car - Vehicle Management] page, unbind the bound vehicle and provide a screenshot of the unbinding;
+
+3.5 Confirm that there are no new car orders, points orders, or car orders in progress, and take a screenshot on the [New Car Order List] [Points Order List] [Car Product Order List] page.
+
+3.6 The above screenshots should be sent by email to the mailbox: JMCAPPYY@jmc.com.cn. We will process your cancellation request within 7 working days. If you have any further questions, please call 4008801099. After the account is cancelled, we will stop providing you with products or services, and delete your personal information according to your requirements, unless otherwise provided by laws and regulations.
+
+(3) Circumstances where your authorization and consent are not required for the processing of personal information:
+
+1. Directly related to national security and national defense security;
+
+2. Directly related to public safety, public health, or major public interests;
+
+3. Directly related to criminal investigation, prosecution, trial and enforcement of judgments;
+
+4. For the purpose of protecting the personal information subject's or other individuals' lives, property, or other major public interests, but it is difficult to obtain the consent of the individual;
+
+5. The personal information collected is disclosed to the public by the personal information subject himself/herself;
+
+6. Personal information is collected from legally and publicly disclosed information, such as lawful news reports, government information disclosure, and other channels;
+
+7. Where it is necessary to conclude and perform a contract at the request of the Personal Data Subject;
+
+8. It is necessary to maintain the safe and stable operation of the products or services provided, such as discovering and disposing of faults in products or services;
+
+9. The Personal Data Controller is a news unit, and it is necessary for them to carry out lawful news reporting;
+
+10. When Personal Data Controllers are academic research institutions, and it is necessary to carry out statistical or academic research in the public interest, and the results of academic research or descriptions are provided externally, the personal information contained in the results is de-identified;
+
+11. Where it is related to the Personal Data Controller's performance of obligations provided for by laws and regulations;
+
+12. Other circumstances provided for by laws and regulations.
+
+(4) Rules for the use of your personal information
+
+We will use the personal information we collect in accordance with this Privacy Policy.
+
+After collecting your personal information, we will de-identify the personal information through technical means, and form information and reports without identification content (hereinafter referred to as "anonymous aggregate statistical data") after analysis, statistics and processing. We have the right to use and disclose anonymous aggregated statistical data for research and development, industry analysis, product improvement, compliance with laws and regulations, etc.
+
+Please note that all personal information you provide when using our products and/or services will continue to be authorized for us to collect and use during your use of our products and/or services, unless you withdraw your authorization, delete or refuse our collection and use through system settings. When you cancel your account, we will stop using and delete your personal information.
+
+When we display your personal information, we will desensitize your information by means including content substitution, anonymization, etc., to protect your information security.
+
+**After you agree to this Privacy Policy and relevant authorization, the information provided and obtained by you above may contain your personal sensitive information, such as ID number, personal biometric information, whereabouts and transaction information. The above-mentioned personal sensitive information is used for the service operation of the car owner, such as: personal information, one-click login, vehicle positioning, mall service, problem feedback and suggestions, delivery address, etc. Please be cautious and pay attention to your personal information, and you agree that your personal information can be processed in accordance with the purposes and methods described in this Policy.**
+
+**Two. How JMC uses cookies and similar technologies**
+
+1. In order to ensure the normal operation of JMC Zhixing software and realize the personalized needs of your online experience, JMC will store one or more small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, and some numbers and characters. The main function of cookies is to facilitate your use of JMC software, to help you have an easier access experience, and to help the website count the number of unique visitors. With the help of cookies, JMC software can store your browsing habits and preferences, simplify your repeated login steps, and optimize your advertising interactions.
+
+2. JMC will not use cookies for any purpose other than those described in this Privacy Policy. You can manage or delete cookies according to your preferences. You can erase all cookies saved on your computer, and most web browsers have a function to block cookies. However, if you do so, you will need to change your user settings each time you access JMC Software, but you may not be able to log in or use cookie-based services due to such modifications.
+
+**3. How JMC shares, transfers, publicly discloses, and entrusts the processing of your personal information**
+
+(i) Sharing
+
+JMC will not share your personal information with other companies, organizations and individuals, except in the following circumstances:
+
+1. Sharing with explicit consent: After obtaining your explicit consent, JMC will share your personal information with other parties. We will assess the legality, legitimacy and necessity of the information collected by other parties, and require other parties to take protective measures for your information and strictly comply with relevant laws, regulations and regulatory requirements.
+
+2. JMC may share your personal information externally in accordance with laws and regulations, or in accordance with the mandatory requirements of government authorities.
+
+3. When you are complained by others about infringement of intellectual property rights or other legal rights, it is necessary to disclose your necessary information to the complainant for the purpose of handling the complaint, except for those expressly prohibited by laws and regulations.
+
+4. Sharing with JMC Affiliates: JMC AI may share your personal information with JMC affiliates in order to provide you with services jointly with its affiliates, or to recommend information that may be of interest to you, or to protect the property security of relevant parties from infringement. JMC will only share necessary personal information, and if JMC shares your sensitive personal information or its affiliates change the use and processing purpose of personal information, they will seek your authorization and consent again.
+
+5. JMC shares with authorized partners, third-party credit reference agencies, third-party payment institutions, electronic signature certification agencies, third-party service providers, and contractors: For the purpose stated in this Privacy Policy, some of JMC's services will be jointly provided by its authorized partners, third-party credit reference agencies, third-party payment institutions, electronic signature certification agencies, third-party service providers, and contractors. Therefore, JMC may share certain of your personal information with partners, third-party credit bureaus, third-party payment institutions, electronic signature certification agencies, third-party service providers, and contractors to provide better customer service and user experience for the following purposes:
+
+5.1 To achieve the service purpose agreed in this Privacy Policy;
+
+5.2 Understand, maintain and improve JMC services;
+
+5.3 The third-party credit bureau will use it to verify the authenticity of your information and risk judgment for the purpose of providing credit or risk control services, and provide the above analysis results to the JMC platform and JMC partners;
+
+5.4 JMC may share with third parties the personal information generated during the activities necessary to complete the activities;
+
+5.5 In a transaction created on JMC, if any party to the transaction fulfills the transaction obligations and makes a request for information disclosure, JMC has the right to decide to provide the user with the contact information of the counterparty and other necessary information to facilitate the completion of the transaction or the resolution of the dispute.
+
+5.6 To deal with disputes or controversies between you and others;
+
+5.7 To safeguard the legitimate rights and interests of JMC and other JMC users.
+
+JMC will inform its partners not to use the shared personal information for other purposes unrelated to the product or service.
+
+6. JMC AI software may contain links to other websites, and JMC AI is not responsible for the privacy protection of other websites, except as otherwise provided by law.
+
+(ii) Assignment
+
+JMC will not transfer your personal information to other companies, organizations and individuals, except in the following circumstances:
+
+1. Transfer with explicit consent: After obtaining your explicit consent, JMC will transfer your personal information to other parties;
+
+2. In the event of a merger, acquisition or bankruptcy liquidation, if the transfer of personal information is involved, JMC will require the new company or organization that holds your personal information to continue to be bound by this Privacy Policy, otherwise JMC will require the company, organization or individual to seek your authorization and consent again;
+
+3. Provision in accordance with applicable laws and regulations, legal procedures, mandatory administrative or judicial requirements;
+
+4. Comply with the relevant agreements signed with you (including the electronic agreements signed online and the corresponding user agreements) or other legal documents.
+
+(3) Public disclosure
+
+JMC will only publicly disclose your personal information under the following circumstances:
+
+1. With your explicit consent or based on your active choice, JMC may publicly disclose your personal information;
+
+2. Disclosure based on laws: JMC may publicly disclose your personal information if there are requirements such as laws and regulations, mandatory provisions of government departments, etc.;
+
+3. Reasonable and necessary purposes such as the implementation of the User Agreement or this Privacy Policy, safeguarding national security or social public interests, protecting the personal and property safety or other legitimate rights and interests of our customers, us or our affiliates, other users or employees, etc., but this does not include selling, renting, sharing or otherwise disclosing personal information for profit purposes in violation of the commitments made in this Privacy Policy;
+
+4. For the personal information we obtain from the car you purchase, if you are not the owner or authorized user of the car under applicable law, we may share such personal information with the owner of the car to the extent permitted by laws and regulations.
+
+Under the premise of complying with laws and regulations, when we receive the above-mentioned requests for disclosure of information that are required by laws, regulations, mandatory administrative law enforcement or judicial requirements, we will require the relevant departments to issue corresponding legal documents, such as summons or investigation letters, and carefully review the relevant requests to ensure that they have a lawful basis, and the information we disclose is limited to the data obtained by law enforcement agencies for specific investigation purposes and legal rights.
+
+(4) Entrusted handling
+
+JMC will only entrust the processing of your personal information under the following circumstances:
+
+Some specific modules or functions in this business function are provided by external vendors. For example, we engage service providers to assist us in providing customer support.
+
+We will sign strict confidentiality agreements with companies, organizations and individuals that we entrust to process personal information, requiring them to process personal information in accordance with our requirements, this Personal Information Protection Policy and any other relevant confidentiality and security measures.
+
+(5) Exceptions to obtaining prior authorization and consent when sharing, transferring, or publicly disclosing personal information
+
+In the following circumstances, sharing, transferring, and publicly disclosing your personal information do not require your prior authorization and consent:
+
+1. Related to national security or national defense security;
+
+2. Where it is related to public safety, public health, or major public interests;
+
+3. Related to criminal investigation, prosecution, trial, and enforcement of judgments;
+
+4. For the purpose of protecting the life, property and other major legitimate rights and interests of you or other individuals, but it is difficult to obtain the consent of the individual;
+
+5. Personal information that you disclose to the public;
+
+6. Personal information is collected from lawfully and publicly disclosed information, such as lawful news reports, government information disclosures, and other channels.
+
+**Four. How JMC protects your personal information**
+
+1. JMC has used industry-standard security measures to protect the personal information you provide from unauthorized access, public disclosure, use, modification, damage or loss. JMC will take all reasonable and feasible measures to protect your personal information, including: data backup, security system, response system, and update mechanism.
+
+2. We have obtained the following certifications: "Information Security Management System ISO27000 Certification"
+
+3. Our data security capabilities include:
+
+(1) Switches, routers, and other devices are intranet devices and can only be accessed by authorized personnel;
+
+(2) It is placed inside the computer room and has sufficient security guarantees;
+
+(3) Place it in the communication room or cabinet, and the authorized personnel have the key;
+
+(4) There is redundant backup, which does not affect normal use;
+
+(5) The network structure changes, and the switching equipment needs to be configured in advance;
+
+(6) Implement the company's IT equipment hardware update strategy.
+
+4. JMC will collect, use, store and transmit user information in accordance with the law, and inform you of the purpose and scope of use of relevant information through the user agreement and privacy policy. We will only retain your personal information for as long as necessary to achieve the purposes described in this Privacy Policy, unless it is necessary to extend the retention period or permitted by law.
+
+5. We will regularly update and disclose the relevant contents of the reports on security risks and personal information security impact assessments. You can send an email to serviceapp@jmc.com.cn.
+
+6. JMC reminds you that the Internet environment is not 100% secure, and we will do our best to ensure or guarantee the security of any information you send to us. If our physical, technical, or management protection facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, resulting in damage to your legitimate rights and interests, we will bear corresponding legal responsibilities. When you interact with other users by e-mail, SMS, etc., it is not sure whether the third-party software fully encrypts the transmission of information, please pay attention to ensure the security of your personal information, JMC recommends that you do not send personal information through such methods to avoid personal information leakage. Please use a complex password to help JMC ensure the security of your account and personal information.
+
+7. In the unfortunate event of a personal information security incident, we will, in accordance with the requirements of laws and regulations, promptly inform you of the basic situation and possible impact of the security incident, the measures that JMC has taken or will take to deal with it, and may also inform you of relevant suggestions for self-prevention and risk reduction, and remedial measures for you. We will promptly inform you of the relevant circumstances of the incident by email, letter, telephone, push notification, etc., and if it is difficult to inform the Personal Data Subject one by one, we will take reasonable and effective measures to make an announcement. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
+
+8. In order to protect the security of your personal information, JMC will conduct data security awareness training and security capability training and assessment for employees, and strengthen employees' awareness of the importance of protecting personal information.
+
+**Five. Your Rights**
+
+(1) Access to your personal information
+
+You have the right to access your personal information, subject to exceptions provided by laws and regulations. If you want to exercise your right to access your data, you can do so through the JMC APP.
+
+If you are unable to access this personal information through the above channels, you can always retrieve your password through the system function or send an email to the serviceapp@jmc.com.cn. We will respond to your request for access within 15 days.
+
+We will provide you with other personal information generated during your use of our products or services, as long as we do not need to invest too much. If you would like to exercise your right to access your data, please send an email to serviceapp@jmc.com.cn. We will respond to your request for access within 15 days.
+
+(2) Correct your personal information
+
+You have the right to request that we correct the personal information we process about you when you find that there is an error in it. You may submit a request for correction in the manner listed in "(1) Access to your personal information".
+
+If you are unable to correct this personal information through the link above, you may send an email to serviceapp@jmc.com.cn at any time. We will respond to your correction request within 15 days.
+
+(3) Delete your personal information
+
+You may request us to delete your personal information under the following circumstances:
+
+1. If our processing of personal information violates laws and regulations;
+
+2. If we collect and use your personal information without your consent;
+
+3. If our processing of personal information violates the agreement with you;
+
+4. If you no longer use our products or services, or you cancel your account;
+
+5. If we no longer provide you with products or services, or the retention period of personal information has expired. If we decide to respond to your deletion request, we will also notify the entity that obtained your personal information from us and request it to delete it in a timely manner, unless otherwise provided by laws and regulations, or these entities have obtained your independent authorization.
+
+When you delete information from our Services, we may not immediately delete the information in our backup systems, but we will delete it when the backup is updated.
+
+(4) Change the scope of your authorization and consent
+
+Each business function requires some basic personal information to be completed. For the collection and use of additional personal information, you may give or withdraw your authorization and consent at any time.
+
+You can log inThe APP deletes personal information by itself through the maintenance of user information.
+
+Once you withdraw your consent, we will no longer process the corresponding personal information. However, your decision to withdraw your consent will not affect the processing of personal information previously carried out based on your authorization.
+
+If you do not wish to receive commercial advertisements from us, you can do so at any time by sending an email to serviceapp@jmc.com.cn.
+
+Please understand that each business function requires some basic personal information to be completed (see "I. How JMC collects and uses your personal information" in this Privacy Policy), and after you withdraw your consent or authorization, we will not be able to continue to provide you with the services corresponding to the withdrawal of consent or authorization, and we will no longer process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the processing of personal information previously carried out based on your authorization.
+
+(5) Personal Data Subject's acquisition of a copy of personal information
+
+You have the right to obtain a copy of your personal information, which you can access by: Get the "My" function module in the APP.
+
+(6) Restrain the automatic decision-making of information systems
+
+In some business functions, we may only make decisions based on non-human automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from us, and we will also provide appropriate remedies, which you can make at any time or send an email to JMCAPPYY@jmc.com.cn.
+
+(7) Respond to your above requests
+
+For security purposes, you may be required to provide a written request or otherwise prove your identity. We may ask you to verify your identity before processing your request. We will reply within 15 days. If you are not satisfied, you can also make or send an email to serviceapp@jmc.com.cn complaint at any time.
+
+In principle, we do not charge a fee for your reasonable request, but we will charge a certain cost fee for repeated requests that exceed a reasonable limit. We may reject requests that are unreasonably repetitive, require excessive technical means (e.g., need to develop new systems or fundamentally change current practices), pose a risk to the legitimate rights and interests of others, or are highly impractical (e.g., involving information stored on backup tapes).
+
+We will not be able to respond to your request if:
+
+1. Where it is related to the Personal Data Controller's performance of obligations provided for by laws and regulations;
+
+2. Directly related to national security or national defense security;
+
+3. Directly related to public safety, public health, or major public interests;
+
+4. Directly related to criminal investigations, prosecutions, trials, and enforcement of judgments;
+
+5. Where Personal Data Controllers have sufficient evidence showing that the Personal Data Subject has subjective malice or abuses rights;
+
+6. Where it is necessary to protect the life, property, or other major lawful rights and interests of the Personal Data Subject or other individuals, but it is difficult to obtain the consent of the individual;
+
+7. Responding to Personal Data Subject's request will cause serious harm to the lawful rights and interests of Personal Data Subject or other individuals or organizations;
+
+8. Involving trade secrets.
+
+**6**. **How your personal information is transferred globally**
+
+In principle, the personal information collected and generated by JMC in China will be stored in the People's Republic of China. If it is necessary to transfer your personal information overseas, JMC will strictly comply with the law.
+
+Since we provide products or services through resources and servers all over the world, this means that after obtaining your authorization and consent, your personal information may be transferred to or accessed from the overseas jurisdictions of the country/region where you use the products or services.
+
+Such jurisdictions may have different data protection laws, or may not have such laws at all. In such cases, we will ensure that your personal information receives an adequate level of equal protection within the territory of the People's Republic of China. For example, we may ask for your consent to the cross-border transfer of personal information, or implement security measures such as data de-identification prior to cross-border data transfers.
+
+**Seven. Protection of Minors**
+
+We attach great importance to the protection of minors' personal information. JMC's products and/or services are intended for adults only, and we do not intend to collect personal information from any minors. If we discover that we have collected the personal information of minors without the prior explicit consent of a verifiable guardian, we will try to delete the relevant data as soon as possible. If the guardian finds that we have collected the personal information of minors without the consent of the guardian, please contact us through the contact information in Section 9 below, and we will try to delete the relevant data as soon as possible.
+
+**8**. **How this Privacy Policy is Updated**
+
+1. JMC may change the Privacy Policy from time to time. Without your explicit consent or without justifiable reasons, JMC will not reduce your rights under this Privacy Policy.
+
+2. For major changes, JMC will provide more prominent notices (JMC will change the specific content of the personal information protection policy through including but not limited to email). These material changes include, but are not limited to:
+
+2.1 JMC's service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the way in which personal information is used;
+
+2.2 We have undergone significant changes in our ownership structure, organizational structure, etc. Such as business adjustment, bankruptcy mergers and acquisitions, etc.
+
+2.3 Changes in the main objects of personal information sharing, transfer, public disclosure or entrusted processing;
+
+2.4 There are significant changes in your rights to participate in the processing of personal information and the way in which you exercise them;
+
+2.5 Other changes that may have a significant impact on your personal information rights and interests;
+
+2.6 When there is a change in the department responsible for handling personal information security, contact information and complaint channels;
+
+2.7 When the personal information security impact assessment report indicates that there is a high risk;
+
+3. JMC will also archive the previous version of this Privacy Policy for your reference.
+
+**9**. **How to contact JMC**
+
+If you have any questions, comments or suggestions about this Privacy Policy, you can contact us as follows:
+
+Customer service phone: 4008801099
+
+We have set up a dedicated department for the protection of personal information (or a personal information protection officer), and you can contact it by email: serviceapp@jmc.com.cn. In general, we will reply within 15 days. If you are not satisfied with our reply, especially if you believe that our processing of personal information has harmed your legitimate rights and interests, you can also file a complaint or report to the CAC, or file a lawsuit with the court.
+
+**By-laws (third-party products)**
+
+**The following SDKs collect user information on the premise of the user's "consent".**
+
+Third-party SDK source: AutoNavi Map
+
+Purpose/Purpose of Collection of Personal Information: User for vehicle navigation and positioning;
+
+Types of personal information involved: Device information, including device identifiers (IDFA, Android ID, OAID, OpenUDID), application information (application crash information, notification switch status, running processes and other application-related information), device parameters and system information (device type, device model, operating system, hardware serial number and hardware-related information, external storage directory), device network environment information (IP address, MAC address, WiFi information, SSID, BSSID, Bluetooth information, Base station information and other network-related information), carrier information, and the device information collected will vary depending on the device and system (Android/iOS) and system version. mobile phone positioning information, obtain sensor information;
+
+APP self-start description: Because the SDK is mainly for users to use navigation services, it will be self-started on the premise of user consent.
+
+policy：http://cache.amap.com/h5/h5/publish/238/index.html
+
+Third-party SDK source: Tencent
+
+Purpose/Purpose of collecting personal information: Users can share WeChat and enable Tencent browser services;
+
+Types of personal information involved: WeChat sharing, WeChat payment, sharing content to open H5 pages, collecting APP crash logs, personal WeChat account information;
+
+policy：https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy
+
+policy：https://open.weixin.qq.com/cgi-bin/frame?t=news/protocol_developer_tmpl
+
+Third-party SDK source: Network Freight Information Interaction System of the Ministry of Communications
+
+Purpose/Purpose of Collection of Personal Information: To help users provide transportation information to the freight information department of the government transportation network;
+
+Types of personal information involved: mobile phone location information, latitude and longitude, license plate, place of origin, destination;
+
+policy：http://www.logink.cn/col/col269/index.html
+
+Third-party SDK source: Alipay
+
+Purpose/purpose of collecting personal information: There are pull payment scenarios in the APP, such as group oil orders, China Unicom traffic purchases, and mall platforms, which can help users pay for orders.
+
+Types of personal information involved: name, contact information, ID card information, bank account, mobile phone number reserved by the bank, order information, payment records, device information (IMEI, IDFA, Android ID, MAC, OAID, IMSI, OpenUDID, hardware serial number and other device-related information), obtaining SD card data, deleting SD card data, writing SD card data, and information carried out during operation.
+
+policy：https://render.alipay.com/p/c/k2cx0tg8
+
+Third-party SDK source: Shunlu source platform
+
+包名:com.sf.mars
+
+Purpose/purpose of collecting personal information: To help users find the source of goods and receive orders for transportation services;
+
+Types of personal information involved: name, contact information, ID card information, order information, driver's license information, vehicle information, location information, obtaining a SIM card MCC/MNC,Obtain Wi-Fi BSSID and Wi-Fi SSID;
+
+APP self-start description: Because the SDK is mainly to help users transport services, when it comes to navigation services, it will be self-started under the premise of the user's consent.
+
+policy：https://tbp-h5.sf-express.com/agreement/private.html
+
+Third-party SDK source: Tuanyou
+
+Purpose/Purpose of collecting personal information: To help users find preferential refueling information;
+
+Types of personal information involved: name, contact information, order information;
+
+policy：https://docs.qq.com/doc/DQUZLWERKUlVjcXFU
+
+Third-party SDK source: lottery platform
+
+Purpose/purpose of collecting personal information: Lottery to receive cash after the user evaluation is completed;
+
+Types of personal information involved: name, contact information, order information;
+
+policy：https://carprize.dasfortune.com/index/agree
+
+Third-party SDK source: Jiangxi Yougou
+
+Purpose/Purpose of Collection of Personal Information: Used Car Appraisal;
+
+Types of personal information involved: name, contact information, vehicle information;
+
+policy：https://m.yaoyougou.com/privacys/ysxys.html
+
+Third-party SDK source: China Unicom
+
+Purpose/purpose of collecting personal information: real-name authentication, traffic mall;
+
+Types of personal information involved: mobile phone number, vehicle information;
+
+policy：https://testrnr.cu-sc.com/rnr-h5/Register?brandid=JMCAM
+
+QuickA
+
+Purpose/purpose of collecting personal information: statistical analysis of user behavior data;
+
+Types of personal information involved: read and write mobile phone external storage information, device information (IMEI, IDFA, Android ID, MAC, OAID, IMSI, OpenUDID, hardware serial number, and other device-related information);
+
+policy： http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html?spm=5176.19720258.J_9220772140.89.6fa62c4aNiGcxs
+
+Third-party SDK source: Weibo
+
+Purpose/purpose of collecting personal information: To help users log in to Weibo, account authorization, and verification;
+
+Types of personal information involved: account information, device information (IMEI, IDFA, Android ID, MAC, OAID, IMSI, OpenUDID, hardware serial number and other device-related information);
+
+policy ： https://open.weibo.com/wiki/Sdk/privacy
+
+Third-party SDK source: Douyin
+
+Purpose/purpose of collecting personal information: To help users log in to Douyin, account authorization, and verification;
+
+Types of personal information involved: account information, device information (IMEI, IDFA, Android ID, MAC, OAID, IMSI, OpenUDID, hardware serial number and other device-related information);
+
+Link to Privacy Policy:
+
+https://aweme.snssdk.com/draft/douyin_agreement/privacy.html
+
+Third-party SDK source: Umeng
+
+Purpose/purpose of collecting personal information: to uniquely identify users by collecting unique device identification codes, so as to carry out data statistics, buried analysis, and push such as user addition;
+
+We will obtain/collect the user's personal information (IMSI, ANDROID ID) in "Silent"/"Background State";
+
+In addition, the vendor channel has been added to the push. The product integrates Umeng+ SDK and push channel SDK (such as Xiaomi, Huawei, oppo, vivo, Meizu, etc.), and the push channel SDK needs to collect and collect device identifiers (IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM card IMSI information, etc.) to uniquely identify the device in order to push messages to the user's device. Collect geographic locations to identify push channels and improve the regional coverage of message push.
+
+policy ：https://www.umeng.com/page/policy
+
+source：UTDevice
+
+Purpose/purpose of collecting personal information: Used to generate a unique ID in the domain in the third-party Alipay AlipaySdk
+
+Types of personal information involved: Obtaining IMEI, IMSI, SD card data;
+
+policy ：https://render.alipay.com/p/yuyan/180020010001196791/preview.html?agreementId=AG00000132
+
+Third-party SDK source: Tencent TBS browsing service
+
+Purpose/purpose of collecting personal information: for various types of file preview services in the Q&A function;
+
+Types of personal information involved: device information (phone model, operating system, CPU type, sensor), application information (host application package name, version number), Wi-Fi status and parameters, location information, nearby Wi-Fi, CellID, and read/writeSDK data, access to clipboard information;
+
+policy：https://rule.tencent.com/rule/1c4e2b4b-d0f6-4a75-a5c6-1cfce00a390d
+
+Third-party SDK source: Alibaba Cloud Number Authentication SDK.
+
+Purpose/purpose of collecting personal information: One-click login and authentication of the local number.
+
+Types of personal information involved: network type, device information (including IP address, device manufacturer, device model, mobile phone operating system, SIM card information, SIM state, SIM card information, ICCID).
+
+policy：https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202112211045_86198.html?spm=a2c4g.11186623.0.0.165055cbiVi9Cw
+
+Third-party SDK source: China Mobile SDK.
+
+Purpose and use: Identify the user's mobile phone number for quick login/number verification, problem inquiry, analysis, and risk control.
+
+Types of personal information processed: network type, network address, carrier type, local number, mobile device type, mobile phone operating system, hardware manufacturer.
+
+Information processing: The SDK collects the information by itself
+
+policy：https://wap.cmpassport.com/resources/html/contract2.html
+
+Third-party SDK source: Sensors Data SDK
+
+Purpose and use: Basic data collection and modeling, driving business decision analysis
+
+Personal information collected: device information (including IMEI, Android ID, IDFA, IDFV, OAID, UUID, Mac address, IMSI information, etc.), log information (including IP address, URL to access the service, browser type and language, etc.), location information, unique application number. The device information collected will vary depending on the device and system (Android/iOS) and system version, as well as the permissions decided by the developer when integrating and using Sensors SDK products.
+
+policy：https://www.sensorsdata.cn/market/privacy_policy.html
+
+SDK Name: Tencent Bugly (Android only.) ）
+
+com.tencent.bugly
+
+Third Party Name: Tencent Computer Systems Co., Ltd
+
+Purpose and use: To provide mobile developers with professional exception reporting and operation statistics, help developers quickly find and solve exceptions, grasp product operation dynamics, and follow up user feedback in a timely manner.
+
+Personal information collected: phone model, phone brand,Android system version, Android system api level, manufacturer system version,CPU architecture type, whether the device is rooted, and the size of disk space occupiedThe size of the sdcard space, the size of the memory space, the network type, etcWI-FI-RELATED INFORMATIONThe name and PID of the process that the app is currently running. If an exception occurs when the app is running in the background, the SDK may collect the above personal information of the end user in the background for troubleshooting and handling the crash.
+
+policy：https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+
+Third-party SDK source: Yinji Digital Key Mobile Phone SDK
+
+Purpose and use: The APP integrates the Yinji digital key mobile phone SDK to realize the ability to safely control the vehicle, including vehicle control command, unlocking function, locking function, keyless start, etc.
+
+Personal information collected: unique user identification, vehicle VIN information, key ID, mobile phone deviceId, UUID information, mobile phone number, Bluetooth device informationwith location information as well as Bluetooth log information.
+
+policy：[https://www.ingeek.com/public/IngeekDK/银基数字钥匙手机SDK4.0隐私政策.html](https://www.ingeek.com/public/IngeekDK/%E9%93%B6%E5%9F%BA%E6%95%B0%E5%AD%97%E9%92%A5%E5%8C%99%E6%89%8B%E6%9C%BASDK4.0%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96.html)
+
+Third-party SDK source: Alibaba Tools SDK
+
+（alibaba.one，alibaba.wireless，nirvana，com.journeyapps.barcodescanner ，xd.b）
+
+Purpose and use: It is used for the security reinforcement dependency function in the third-party Alibaba Real Person authentication SDK
+
+Types of personal information involved: Collect device information (including IMEI, MEID, Android ID, IMSI, GUID, MAC address), Wi-Fi BSSID, Wi-Fi MAC, obtain sensor information, obtain installed application information, or running process information, obtain SD card data, obtain acceleration sensor, obtain gyroscope sensor, GAID;
+
+policy ：https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202111292014_72878.html?spm=a2c4g.11186623.0.0.55c730e5OYxxIg
+
+source：Network.SDK
+
+anet.channel
+
+Purpose and use: It is used for the security reinforcement dependency function in the third-party Alibaba Real Person authentication SDK
+
+Types of personal information involved: IP address, GAID
+
+policy：https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202111292014_72878.html?spm=a2c4g.11186623.0.0.55c730e5OYxxIg
+
+source:com.alibaba.one
+
+Purpose and use: It is used for the security reinforcement dependency function in the third-party Alibaba Real Person authentication SDK
+
+policy：https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202111292014_72878.html?spm=a2c4g.11186623.0.0.55c730e5OYxxIg
+
+source：Facebook ReactNative
+
+com.facebook.react
+
+Purpose and use: User registration obtains the corresponding user device information, verifies whether the registered user is valid and unique;
+
+Types of personal information involved: Collect device identifiers (IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM card IMSI information, network information, geolocation information, Mobile phone number, IP information, collect software installation list, running process information, obtain device serial number, obtain Android ID, GAID
+
+url：https://www.reactnative.cn/about
+
+Third-party SDK source: AndroidChromium
+
+org.chromiur
+
+Purpose and use: To help users navigate the H5 page within the app;
+
+Personal types involved: device information, Android ID, DEVICEID, MAC address of the device, IMEI, application information, obtain device serial number, obtain running process information, obtain installed APP information, obtain pasteboard information, precise location, and obtain additional network information(Wi-Fi name), GAID;
+
+policy：https://policies.google.cn/privacy?hl=zh_cn&hl=zh_CN&hl=zh_CN&hl=zh_CN

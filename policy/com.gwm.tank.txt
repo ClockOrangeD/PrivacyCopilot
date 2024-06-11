@@ -1,0 +1,1178 @@
+TANK APP PRIVACY POLICY
+
+1. Subject and scope
+
+of application of the Privacy Policy 2. Summary
+
+3. Rules for
+
+the collection and use of personal information 4.
+
+How to store personal information
+
+V. Storage, Protection and Cross-Border
+
+Transfer
+
+of Information VI. User Rights
+
+VII. Protection of Information of
+
+Minors VIII. Updates and Revisions
+
+to this Privacy Policy IX. Contact Us
+
+1. The subject and scope of application of
+
+the Privacy Policy
+
+(1) Personal information processor: Great Wall
+
+Motor Co., Ltd. Xushui Wei Brand Branch, and
+
+Great Wall Motor Co., Ltd. (hereinafter
+
+collectively referred to as "Great Wall Motor" or
+
+"we"), address: No. 2266, Chaoyang South
+
+Street, Lianchi District, Baoding City, Hebei
+
+Province.
+
+(2) Contact information of the person in charge
+
+of personal information protection:
+
+4006661990
+
+(3) Scope of application of this policy: This
+
+privacy policy applies to the TANK APP service
+provided to you by Great Wall Motor and its
+
+related companies. If a separate privacy policy
+
+is established for some of Great Wall Motor's
+
+products/services, its specific privacy policy
+
+shall apply. It is important for you to note that
+
+this Privacy Policy does not apply to services
+
+provided to you by third parties through Great
+
+Wall Motor's products/services. The collection
+
+and processing of information by third parties
+
+is governed by their own privacy policies, not
+
+to this Privacy Policy. However, we will fully
+
+review the qualifications of the third party and
+
+require them to ensure that the
+
+products/services provided are legal and
+
+compliant, and protect the security of your
+
+personal information.
+
+(4) The types of personal information subjects
+
+to which this Policy applies: natural persons
+
+with full capacity for civil conduct.
+
+(5) This Privacy Policy is updated on September
+
+15, 2022 and will take effect on September 23,
+
+2022.
+
+Summary of the situation
+
+Our products/services involve positioning and
+
+navigation, substitute driving, roadside
+
+assistance, instant messaging, online
+
+communities, vehicle remote control, and
+
+common business functions for online shopping,
+
+and when you use these functions, we will collect
+
+your general personal information (personal
+
+information is information related to identified or
+
+identifiable natural persons recorded
+
+electronically or otherwise by electronic or other
+
+means, excluding anonymized information),
+
+including birthday, address, personal telephone
+
+number, etcAfter obtaining your separate
+
+authorization and consent, we will collect your
+
+sensitive personal information (sensitive personal
+information is personal information that, once
+
+leaked or illegally used, is likely to cause
+
+infringement of the personal dignity of natural
+
+persons or endangerment of personal and
+
+property safety, including biometrics, religious
+
+beliefs, specific identities, medical health,
+
+financial accounts, whereabouts and other
+
+information, as well as the personal information
+
+of minors under the age of 14, if the collection
+
+of the above information is involved, we will
+
+collect it after obtaining your separate consent).
+
+Including ID card, fingerprint, IP address,
+
+personal location information, For details of
+
+the rules for the processing of personal
+
+information, please refer to the rules for the
+
+collection and use of personal information and
+
+the attached "List of Personal Information".
+
+In order to provide you with better services, we
+
+will share your personal information with third
+
+parties and our affiliates, and the scope and
+
+purpose of sharing will be provided through the
+
+"List of External Provision of Personal
+
+Information".Show you. Please also be aware
+
+that we will only share your personal information
+
+with your separate authorization and consent or
+
+as permitted by law, and you have the right to
+
+refuse us to share your personal information
+
+externally. Please also be aware that you have
+
+the right to know and decide on the processing
+
+of your personal information, and you have the
+
+right to access, copy, correct, supplement,
+
+delete, withdraw consent and request
+
+explanations.
+
+In order to better protect your legitimate rights
+
+and interests, please pay special attention to
+
+the terms marked by us underlined or bolded.
+
+We have established a convenient complaint and
+
+reporting channel, you have any questions,
+
+dissatisfaction or we do not respond to your
+
+needs in a timely manner during the use of our
+products or services, you can contact us through
+
+the "4006661990" complaint hotline, and we will
+
+respond to your needs as soon as possible.
+
+3. Rules for the collection and use of
+
+personal information
+
+When you use our products or services, we will
+
+collect your personal information based on the
+
+minimum scope and necessary purposes, and
+
+when collecting your sensitive personal
+
+information, we will mark it in bold and
+
+underlined, if it is necessary to change the
+
+purpose of information collection and use, we
+
+will obtain your authorization and consent again,
+
+and inform you through a pop-up window, please
+
+note that the specific processing rules are as
+
+follows (for details, please read the attachment
+
+"" List of Personal Information).
+
+Explanation of information collected by thirdparty SDKs
+
+In order to ensure the safe and stable operation
+
+of our products or services or realize related
+
+functions, we may access the software
+
+development kit ("SDK") provided by a third
+
+party, and the third-party SDK may collect your
+
+personal information when you use the functions
+
+provided by the third-party software
+
+development kit in our products or services. The
+
+collection and processing of information by
+
+third-party SDKs is subject to the privacy
+
+policies of the third parties and does not apply
+
+to this Privacy Policy. However, we will fully
+
+review the qualifications of the third party and
+
+require it to ensure that the products/services
+
+provided are legal and compliant, and protect
+
+the security of your personal information.
+
+1. When collecting personal information without
+
+your consent:
+You are fully aware that, to the extent permitted
+
+by laws and regulations, we may collect and use
+
+your personal information in accordance with the
+
+law without your consent or authorization under
+
+the following circumstances:
+
+(1) Directly related to national security and
+
+national defense security;
+
+(2) directly related to public safety, public
+
+health, or major public interests;
+
+(3) Directly related to judicial or administrative
+
+law enforcement such as criminal investigation,
+
+prosecution, trial, and judgment enforcement;
+
+(4) For the purpose of protecting the life,
+
+property and other major legitimate rights and
+
+interests of you or other individuals, but it is
+
+difficult to obtain the consent of the individual;
+
+(5) The personal information involved is
+
+disclosed to the public by yourself;
+
+(6) Necessary for the conclusion and
+
+performance of a contract at your request;
+
+(7) Personal information is collected from legally
+
+and publicly disclosed information, such as
+
+lawful news reports, government information
+
+disclosure, and other channels;
+
+(8) Necessary to maintain the safe and stable
+
+operation of the products or services provided,
+
+such as discovering and disposing of failures of
+
+products/services;
+
+(9) in connection with our performance of our
+
+obligations under the law;
+
+(10) Other circumstances stipulated by laws and
+
+regulations.
+2. Other relevant personal information and its
+
+collection and use rules:
+
+(1) Change of vehicle owner information: When
+
+you apply for a change in the owner information
+
+associated with the vehicle through the APP or
+
+customer service, we will collect the name,
+
+mobile phone number, valid ID number, frame
+
+number, model configuration and other
+
+information of the original owner and the new
+
+owner. When you make a request to change the
+
+owner's information, please ensure that you have
+
+obtained the consent of the relevant personal
+
+information subject.
+
+(2) Self-start or associated startup description:
+
+This application supports the desktop widget
+
+function, and the widget function needs to listen
+
+to the receiving system broadcast
+
+(android.appwidget.action.APPWIDGET_UPDATE),
+
+which is the system refresh the desktop widget
+
+broadcast, and the system performs the refresh
+
+or not; If you use the desktop widget function of
+
+this application, this application must use the
+
+self-start ability to wake up the desktop widgetrelated services of this application (including but
+
+not limited to updating widget data) by receiving
+
+system broadcasts.
+
+4. How Personal Information is Stored
+
+1. Sharing
+
+We will not share your personal information with
+
+any third party other than Great Wall Motors,
+
+except in the following circumstances:
+
+(1) Sharing under legal circumstances:
+
+We may share and disclose your personal
+
+information in accordance with laws and
+
+regulations or the requirements of administrative
+and judicial authorities in accordance with the
+
+law.
+
+(2) With your explicit consent:
+
+With your explicit consent and authorization, we
+
+may share your personal information with other
+
+third parties. Please read the attached "List of
+
+External Provision of Personal Information" in
+
+detail, including the types and reasons for
+
+sharing, the recipients of personal information,
+
+and the constraints and management
+
+mechanisms for the recipients
+
+2. Public Disclosure
+
+We will not publicly disclose your personal
+
+information except in the following
+
+circumstances:
+
+(1) Information disclosed with your explicit
+
+consent;
+
+(2) Other circumstances stipulated by laws and
+
+regulations.
+
+For disclosure, please read the attached "List of
+
+External Disclosure of Personal Information" for
+
+details.
+
+3. Circumstances where your authorization
+
+and consent are not required when
+
+sharing or publicly disclosing personal
+
+information:
+
+(1) Directly related to national security and
+
+national defense security;
+
+(2) Directly related to public safety, public
+
+health, or major public interests;
+(3) Directly related to judicial or administrative
+
+law enforcement such as criminal investigation,
+
+prosecution, trial and judgment enforcement;
+
+(4) For the purpose of protecting the life,
+
+property and other major legal rights and
+
+interests of you or other individuals, but it is
+
+difficult to obtain the consent of the individual;
+
+(5) The personal information involved is
+
+disclosed to the public by yourself;
+
+(6) Necessary for the conclusion and
+
+performance of a contract at your request;
+
+(7) Personal information is collected from legally
+
+and publicly disclosed information, such as
+
+lawful news reports, government information
+
+disclosure, and other channels;
+
+(8) Necessary to maintain the safe and stable
+
+operation of the products or services provided,
+
+such as discovering and disposing of faults in
+
+products or services;
+
+(9) in connection with our performance of our
+
+obligations under the law;
+
+(10) Other circumstances stipulated by laws and
+
+regulations.
+
+5. Storage, protection and cross-border
+
+transfer of information
+
+1. Information Storage
+
+In accordance with the law, Great Wall Motor will
+
+store your personal information collected and
+
+generated during its operation within the
+
+territory of the People's Republic of China within
+
+the territory of the People's Republic of China.
+We will only retain your personal information for
+
+the period necessary to achieve the purposes
+
+described in this Privacy Policy, unless otherwise
+
+provided by laws and regulations or otherwise
+
+authorized by you. After the storage period
+
+expires, we will delete or anonymize your
+
+personal information. For specific information
+
+storage location and storage period, please
+
+read the attached "List of Personal
+
+Information" carefully.
+
+2. Information Protection
+
+We have adopted security measures that meet
+
+the standards required by industry and national
+
+laws to protect your personal information from
+
+unauthorized access, public disclosure,
+
+modification, damage or leakage. We will
+
+strengthen the protection of your personal
+
+information from various aspects such as data
+
+management system design, data protection
+
+technology enhancement, and internal personnel
+
+management. We have adopted a strict data use
+
+and access system, adopted a data classification
+
+and grading system according to the sensitivity
+
+and type of data, only allowed those who need to
+
+know the information to access personal
+
+information, and set up access control and
+
+monitoring mechanisms. At the same time, we
+
+will empower our employees with knowledge of
+
+information security and privacy protection, and
+
+enhance their awareness of protecting personal
+
+information.
+
+We will do our best to protect the security of
+
+your personal information, but please understand
+
+that no security measures can be 100% secure,
+
+and there may be a risk of information security
+
+incidents. At the same time, we will report to the
+
+relevant competent authorities in accordance
+
+with the requirements of laws and regulations,
+
+so as to minimize the impact of information
+security incidents on you, and we will bear
+
+corresponding responsibilities for the losses
+
+caused to you within the scope of the law. If you
+
+believe that there is any security risk or
+
+vulnerability to our systems, please contact us as
+
+set out in the "Contact Us" section below.
+
+6. User Rights
+
+We attach great importance to and do our best
+
+to protect your right to access, copy, correct,
+
+supplement, delete and withdraw your consent to
+
+your personal information, so that you have the
+
+full ability to protect your privacy and security.
+
+You can exercise these rights in the following
+
+ways:
+
+1. Right of Access
+
+If you would like to access your personal
+
+information, including but not limited to account
+
+information, order information, vehicle usage
+
+data, and the recipients with whom we share
+
+your personal information, you may access your
+
+personal information in the manner specified
+
+below.
+
+You can access your personal information by
+
+logging into your account in the following
+
+functions:
+
+(1) Check the account order information in "My -
+
+My Orders", including new car orders, mall
+
+orders, maintenance orders, and driving orders;
+
+(2) Check the personal information of the
+
+account in "My - Settings", including the bound
+
+mobile phone number and delivery address;
+
+(3) Consult vehicle usage data in "Tank-Vehicle
+
+Data";
+If you are unable to access your personal
+
+information through the above methods, you can
+
+contact us at any time through the methods
+
+listed in the "Contact Us" section below, and we
+
+will complete the identity check and response
+
+processing within seven days.
+
+2. Right of Reproduction
+
+You have the right to copy your personal
+
+information. If you need to make a copy of your
+
+personal information collected by us, you can
+
+contact us through the methods listed in the
+
+"Contact Us" section below, and we will provide
+
+a copy of your personal information upon your
+
+request after the relevant personnel have
+
+conducted the necessary identity checks on you,
+
+subject to the relevant laws and regulations and
+
+technical practicability.
+
+3. Right to Correction and Addition
+
+When you find that the personal information we
+
+process about you is inaccurate or incomplete,
+
+you have the right to correct or supplement the
+
+inaccurate or incomplete information after
+
+verifying your identity and the correction or
+
+supplementation does not affect the objectivity
+
+and accuracy of the information. You may
+
+contact us as set out in the "Contact Us" section
+
+below.
+
+4. Right to erasure
+
+If we collect or share your personal information
+
+with others in violation of laws and regulations
+
+or agreements with you, you have the right to
+
+request us to delete it. If you wish to delete your
+
+other information (including sensitive personal
+
+information), you can contact us as listed in the
+
+"Contact Us" section below, and we will delete it
+
+within 10 days.
+After you or we assist you in deleting the
+
+relevant information, due to applicable legal and
+
+security technical limitations, we may not be
+
+able to immediately delete the corresponding
+
+information from the backup system, and we will
+
+only use it for storage purposes and will not use
+
+it for other purposes until the backup is updated
+
+or anonymized the information, and we will not
+
+carry out processing other than storage and
+
+taking necessary security protection measures.
+
+5. Right of withdrawal
+
+You can change the scope of your authorization
+
+for us to collect and process personal
+
+information or withdraw your authorization by
+
+deleting the information or turning off the
+
+function. You may also withdraw all authorization
+
+for us to continue to collect and process your
+
+personal information by canceling your account.
+
+Please understand that each business function
+
+requires some basic personal information to be
+
+completed, and after you withdraw your
+
+consent or authorization, we will not be able to
+
+continue to provide you with the services
+
+corresponding to the withdrawal of consent or
+
+authorization, nor will we process your
+
+corresponding personal information. However,
+
+your decision to withdraw your consent or
+
+authorization will not affect the processing of
+
+personal information previously carried out
+
+based on your authorization.
+
+6. Right of Cancellation
+
+You can cancel your personal account through
+
+the "Me-Settings-Account Cancellation" path or
+
+contact us through the methods listed in the
+
+"Contact Us" section below, submit an account
+
+cancellation application, and cancel the
+
+previously registered account after approval.
+
+Account cancellation may result in the erasure
+of all your data and account information and
+
+cannot be recovered, after the account
+
+cancellation, we will stop providing you with
+
+products/services and delete your personal
+
+information according to your requirements,
+
+unless otherwise provided by laws and
+
+regulations.
+
+7. Responses to User Requests
+
+For security purposes, you may be required to
+
+provide a written request or otherwise prove
+
+your identity. We will verify your identity before
+
+processing your request. In addition, you need to
+
+note that the information we collect includes
+
+the personal information of other people who
+
+use our products/services through your
+
+account, and we need your confirmation of
+
+your request to exercise the rights of those
+
+people. Except for the deletion of your personal
+
+information in Article 6.4, we will complete the
+
+identity check and process the response within
+
+seven days. If your request takes a long time to
+
+respond and cannot be responded to within the
+
+specified time, we will contact you in time to
+
+inform you of the time of response and the
+
+reason for the inability to respond. If you are not
+
+satisfied with our response, you may also make a
+
+complaint through the methods listed in the
+
+"Contact Us" section below.
+
+In principle, we do not charge a fee for your
+
+reasonable request, but we will charge a certain
+
+cost fee for repeated requests that exceed
+
+reasonable limits due to repeated requests. We
+
+may reject requests that are unreasonably
+
+repetitive, require excessive technical means
+
+(e.g., develop new systems, fundamentally
+
+change industry practices), pose risks to the
+
+legitimate rights and interests of others, or are
+
+impractical.
+We will not be able to respond to your request
+
+if:
+
+(1) Directly related to national security and
+
+national defense security;
+
+(2) directly related to public safety, public
+
+health, or major public interests;
+
+(3) Directly related to judicial or administrative
+
+law enforcement such as criminal investigation,
+
+prosecution, trial, and judgment enforcement;
+
+(4) For the purpose of protecting the life,
+
+property and other major legitimate rights and
+
+interests of you or other individuals, but it is
+
+difficult to obtain the consent of the individual;
+
+(5) The personal information involved is
+
+disclosed to the public by yourself;
+
+(6) Necessary for the conclusion and
+
+performance of a contract at your request;
+
+(7) Personal information is collected from legally
+
+and publicly disclosed information, such as
+
+lawful news reports, government information
+
+disclosure, and other channels;
+
+(8) Necessary to maintain the safe and stable
+
+operation of the products or services provided,
+
+such as discovering and disposing of faults in
+
+products or services;
+
+(9) in connection with our performance of our
+
+obligations under the law;
+
+(10) Other circumstances stipulated by laws and
+
+regulations.
+
+VII. Protection of Information on Minors
+1. We attach great importance to the protection
+
+of minors' personal information. If the relevant
+
+national laws and regulations stipulate that
+
+minors under the age of 18 cannot purchase or
+
+use our products/services, we have the right to
+
+refuse to provide you with relevant products
+
+and/or services on this basis. In addition, you
+
+should obtain the consent of your guardian
+
+before using our other products/services.
+
+2. When collecting minors' personal information
+
+with the consent of their guardians, we will only
+
+use this information when it is permitted by law
+
+or with the explicit consent of their guardians or
+
+when it is necessary to protect minors.
+
+3. If we find that we have collected the personal
+
+information of minors without the prior consent
+
+of the verifiable guardian, we will delete the
+
+relevant data as soon as possible.
+
+4. For the personal information of children under
+
+the age of 14 that may be involved, we will take
+
+the following measures to protect it:
+
+(1) For the collected children's personal
+
+information, in addition to complying with the
+
+provisions of this Privacy Policy on your personal
+
+information, we will also adhere to the principles
+
+of legitimate necessity, informed consent, clear
+
+purpose, security guarantee, and lawful use, and
+
+strictly follow the requirements of laws and
+
+regulations such as the Provisions on the
+
+Protection of Children's Personal Information
+
+Network for storage, use, and disclosure, and
+
+will not exceed the period necessary to achieve
+
+the purpose of collection and use, after which
+
+we will delete or anonymize the children's
+
+personal information.
+
+(2) Children or their guardians have the right to
+
+access and correct children's personal
+
+information at any time, and can also submit a
+request for correction and deletion to us. If you
+
+have any comments, suggestions, complaints or
+
+reports on matters related to children's personal
+
+information, please contact us. We're here to
+
+help.
+
+8. Updates and Revisions to this Privacy
+
+Policy
+
+1. This Privacy Policy will be updated according
+
+to the purpose of providing you with higher
+
+quality services and the development of our
+
+business, but without your explicit consent, we
+
+will not reduce your rights under the previous
+
+Privacy Policy.
+
+2. If there is a material change to this Privacy
+
+Policy, we will do everything we can to provide
+
+you with a conspicuous notice (including but not
+
+limited to email, text message or special
+
+reminder on the APP/page to explain the
+
+specific changes to this Privacy Policy). Material
+
+changes referred to in this Privacy Policy
+
+include, but are not limited to:
+
+(1) There has been a significant change in our
+
+service model. Such as the purpose of
+
+processing personal information, the types of
+
+personal information processed, and the way in
+
+which personal information is used;
+
+(2) We have undergone significant changes in
+
+our ownership structure, organizational structure,
+
+etc. Such as business adjustment, bankruptcy
+
+mergers and acquisitions, etc.
+
+(3) Changes in the main objects of personal
+
+information sharing, transfer, or public
+
+disclosure;
+
+(4) There are significant changes in your rights
+
+to participate in the processing of personal
+information and the way in which they are
+
+exercised;
+
+(5) When there is a change in the department
+
+responsible for handling personal information
+
+security, contact information and complaint
+
+channels;
+
+(6) Changes in data security capabilities and
+
+information security risks;
+
+(7) Other situations where the privacy policy that
+
+has a significant impact on the rights and
+
+interests of users needs to be updated.
+
+9. Contact Us
+
+1. If you have any questions, comments or
+
+suggestions about this Privacy Policy, you can
+
+contact us in the following ways:
+
+Email: tankapp@gwm.cn
+
+Hotline: 4006661990
+
+2. If we do not respond to your request within
+
+the prescribed time, you can contact us through
+
+the following ways:
+
+Email: tankapp@gwm.cn
+
+Hotline: 4006661990
+
+Great Wall Motor Co., Ltd., registered address:
+
+No. 2266, Chaoyang South Street, Baoding City,
+
+Hebei Province, Zip code: 071000
+
+3. In general, we will complete the identity check
+
+and process the response within seven days. If
+
+you are not satisfied with our reply, especially if
+
+you believe that our personal information
+
+processing has harmed your legitimate rights
+
+and interests, you may also file a complaint or
+
+report to the regulatory authorities such as
+
+cyberspace, telecommunications, public security,
+
+and industry and commerce.
+
+4. The interpretation and dispute resolution of
+
+this Privacy Policy shall be governed by the laws
+
+of the People's Republic of China. Any dispute
+related to this Privacy Policy shall be settled
+
+through friendly negotiation between the two
+
+parties; If the dispute cannot be resolved
+
+through negotiation or cannot be reached
+
+through negotiation, you agree to submit the
+
+dispute to the people's court with jurisdiction for
+
+litigation resolution.

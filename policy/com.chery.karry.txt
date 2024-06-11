@@ -1,0 +1,130 @@
+Preamble
+Kaerui Motors Privacy Policy
+
+Updated February 22, 2023
+
+Effective Date: February 22, 2023
+
+("Kairui" or "we") values and is committed to protecting your privacy, and we do so by developing the Kairui Automotive Privacy Policy (this "Policy"). "Please take some time to understand and familiarize yourself with our privacy practices (accessible under the headings below), especially the bolded provisions. If you have any questions, please contact us as provided under "Contact Us" below.
+
+This policy explains how we treat your personal data, whether you interact and communicate with us through our website, app, applets, online store or directly by phone or in store.
+
+Please note: We may also provide you with links to the services of third parties and we recommend that you read their privacy policies before interacting with them to understand your privacy rights and how your personal data will be processed.
+
+What is personal data Your right to privacy
+
+The personal data we collect about you Our use of personal data
+
+What we do with the data we entrust to you What we share with you
+
+About the transfer of your personal data Exceptions to the prior consent required for the sharing and transfer of your personal data
+
+About the storage of your personal data Our protection of personal data
+
+Transfer of personal data between countries Personal data of minors
+
+Cookies and other technologies Jurisdictional requirements
+
+Terms applicable to EU residents Terms applicable to US residents of California
+
+Updates to our Privacy Policy Contact Us
+
+Our commitment to your privacy
+
+What is Personal Data
+We have always believed in and respected the fundamental right to privacy and believe that these fundamental rights should not vary depending on the country and region in which you live. Because of this, we consider any data relating to an identified or identifiable individual to be "personal data", regardless of where the individual in question lives. This means that data that can be used to directly identify you (e.g., your name, ID number) is personal data, and data that cannot be used to directly identify you but can be used to indirectly identify you by reasonable inference is also personal data. Data that cannot be used to identify you after technical processing is referred to as "anonymized data" and for the purposes of this policy, anonymized data is considered non-personal data.
+
+Your right to privacy
+We respect your right to be informed of, access, correct, transfer, withdraw and delete your personal data. In accordance with applicable data privacy laws, we will use appropriate technical means to provide each of our customers worldwide with these rights, and if you choose to exercise these privacy rights, you have the right to be treated no differently and to enjoy the same level of quality of service that you would have received if you had not exercised your privacy rights. We promise not to sell your data to any party for the purpose of profit.
+
+When you exercise your rights, we may require proof of identity for verification purposes to ensure our protection of confidential customer information. We will respond to your request within seven (7) days of receiving your request and verifying your identity with regard to the processing opinion or outcome.
+
+In some cases, we may not be able to approve your request, for example, if you request that your transaction data be deleted but we are legally obligated to retain a record of that transaction to comply with applicable law. We may also deny your request if it would interfere with our legitimate use of the data for anti-fraud and security purposes, such as when you request the deletion of an account that is under investigation for security reasons. In addition, we may deny your privacy request if it compromises the privacy of others, is not meaningful, reasonable, or extremely impractical.
+
+In principle, we do not charge a fee for your reasonable requests, but we will charge a cost fee for repeated requests that exceed reasonable limits, as appropriate.
+
+You may exercise your rights in the manner provided below:
+
+Right of access
+If you want to access your personal data, including but not limited to account information, order information, vehicle usage data, information about the recipients of your personal data that we share, you can access your personal data in the following ways
+
+You can access your personal data by logging into your APP or applet account at the following functions:
+
+You can access your personal data in "My→Settings", including your avatar, nickname, profile, gender, date of birth, education, region, consumption type, delivery address, security management information (including whether to open face ID), payment management information (including whether to open the function of secret-free payment, automatic payment, etc.) and privacy management information (including whether you are allowed to be found by cell phone number, the range of your home page, and blacklist);
+
+Access to car purchase orders, service orders and product orders in "My → My Orders", including order type, order status, order time, transaction and consumption records (transaction amount, order number, address and phone number);
+
+Access your vehicle information and personal identification information in "My → Owner Certification";
+
+Access to your APP and applet article content, comments and likes in your APP and applet in "My→Browsing History";
+
+Check your unused, expired and used card vouchers in "My→My Card Pack".
+
+In "My", you can view your postings, favorites, followers, fans, your activity history, etc.
+
+If you cannot access your personal data in the above way, you can contact us at any time through the methods listed in "Contact Us" below and we will reply to you within seven (7) days with our comments or results.
+
+Right of correction
+When you find errors in the personal data we process about you, you have the right to correct or update the incorrect or incomplete information after verification of your identity, provided that the correction does not affect the objectivity and accuracy of the information.
+
+You can correct your personal data by logging into your APP or applet account at the following functions:
+
+Correction of personal data: Correct your avatar, nickname, profile, gender, date of birth, education, region, consumption type, and delivery address in "My→Personal Information".
+
+Correction of service security password: Correct your service security password in "My → Settings".
+
+Correct your vehicle information: Correct your vehicle VIN number, driving license information and ID card information in "My→Vehicle Certification".
+
+If you are unable to correct your personal data in the above ways, you can contact us at any time through the methods listed in "Contact Us" below, and we will reply to you within seven (7) days with our opinion or result.
+
+Right to delete
+If you discover that we have collected and shared your personal data with others in violation of laws and regulations or in breach of your agreement, you have the right to request that we delete it.
+
+You can submit the relevant application through online customer service. You can also request the deletion of your relevant information by calling our customer service hotline 400-061-5656.
+
+Right of withdrawal
+You have the right to give or withdraw your authorized consent to the processing of the personal data we collect at any time. You can change your authorization to the extent that we continue to collect personal data upfront by submitting a request via online customer service, or you can withdraw your full authorization for us to continue processing your personal data by canceling your account. If you want to cancel your APP, applet account, you can submit a request through online customer service.
+
+Please understand that each function requires some basic personal data in order to be completed. When you withdraw your consent or authorization for the personal data under that function, we cannot continue to provide you with the corresponding service and promise not to process your corresponding personal data according to your request. However, we undertake that your decision to withdraw your consent or authorization will not affect the processing of personal data previously carried out on the basis of your authorization.
+
+You have the right to choose whether or not to receive marketing information from us, our affiliates and service providers via e-mail, SMS, printed materials, etc. You may unsubscribe from these messages at any time by using the unsubscribe mechanism provided in these messages or by contacting us as listed under "Contact Us" below.
+
+Right to a copy of personal data
+You have the right to obtain a copy of your personal data, which you can request via online customer service;
+
+Where technically feasible, such as data interface matching, we may also transfer a copy of your personal data directly to a third party you specify at your request.
+
+Exceptions to responding to your request
+We will not be able to respond to your request in the following cases:
+
+In connection with the performance of our obligations under laws and regulations;
+Directly related to national security, national defense security;
+Directly related to public safety, public health, and vital public interests;
+Directly related to criminal investigation, prosecution, trial and execution of judgments, etc;
+Where there is sufficient evidence of subjective malice or abuse of your rights
+Where it is motivated by the need to safeguard your or other individuals' significant legitimate rights and interests, such as life and property, but where it is difficult to obtain your consent
+Where responding to your request would result in serious damage to the legitimate rights and interests of you or other individuals or organizations
+Where trade secrets are involved.
+Your personal data that we collect
+Personal data we collect from you
+We believe we can provide you with an excellent service experience and good privacy protection. This means that we will strive to collect only the personal data we need. The type of personal data we collect will depend on how you interact with us (Functional Services). In the following scenarios (functional services), we will collect your personal data based on different purposes. We will not collect your personal data in a fraudulent, deceptive, or misleading manner.
+
+Please note: Based on specific scenarios and purposes, the data we collect may contain your personal sensitive information, which will be marked in bold, and you have the right to choose not to provide us with authorization or consent for such sensitive information, and we promise that your choice not to authorize will not affect our provision of basic services to you in the following scenarios.
+
+We will collect your personal data and other information related to you when you use each of the following functions and services
+
+Registering for an account: You may use certain features and experience certain services without registering for an account, or without providing your name and contact information, but some services will only be available if your registration is active. In the process of registering your account, you will need to provide us with the following personal data: avatar, nickname, profile, gender, date of birth, education, region, type of purchase, and shipping address. If you do not wish to provide a phone number, you may also register for an account by logging into a WeChat or other third party account, but for the purpose of logging in, we will need you to grant access to certain information about you from the third party account, such as your avatar, nickname, gender and other configuration information that you authorize to be provided in that third party application. Please refer to their privacy policies for all of the privacy controls and options available to you in these third party accounts and their specific privacy provisions;
+
+Social Platform: This Social Platform provides users with an online social space for posting and sharing pictures, videos and text. If you use this feature, we may collect your uploaded photos, videos and text content, location information, and voting information. You may also choose not to upload your personal data by only viewing content uploaded by other users.
+
+Payment function: You can have three choices in order payment: platform payment, WeChat payment and Alipay payment. In order to complete the order payment, you need to bind your Alipay account and choose the payment method. We will share your order payment-related information, order security-related device information and other necessary information required by anti-money laundering laws with Alipay through the Alipay Software Tool Development Kit ("SDK" in this policy) embedded in the website or client. During your payment process, we will collect your order number and order amount to complete the entire payment process.
+
+Customer Service Function: In order to respond to your inquiries and requests, and to return to you for service, you may choose to use the Customer Service Function. If you use the Customer Service Function, we will need to collect information about your communication with us (e.g., photos, videos, voice and location sent during the communication process), and records of your inquiries. In addition, we will collect your cell phone number in order to inquire about your purchase intentions;
+
+Ordering a vehicle: You can order a Chery vehicle in the APP or applet function. In order to achieve this function, you may need to provide us with the type of vehicle purchased (personal vehicle purchase or corporate vehicle purchase), the name of the purchaser, the city of registration, the delivery center, the name of the owner, the type of document, the ID number (or passport, military officer card, Taiwan compatriot card, Hong Kong ID card, Macau resident ID card, driver's license and other documents collected with your consent (or passport, military officer card, Taiwan compatriot card, Hong Kong ID card, Macau resident ID card, driver's license and other document numbers that you have agreed to collect), state subsidy, price information, payment information, service delivery location, service delivery time, contact information, vehicle and service information (such as order number). You can access your vehicle order history in the "My Orders" function. If you do not provide the relevant information, you will not be able to order a vehicle and view the order through the APP or applet;
+
+Annual vehicle inspection: We cooperate with the third party to provide you with annual vehicle inspection service. You can order this service through APP, applet. During the service, we will collect the vehicle owner's name, cell phone number, vehicle VIN number, license plate number, driving license registration date, service city, service address and service time, while we will share the above information to the third party service provider. If you do not provide the relevant personal data, you may not be able to order the relevant services;
+
+Repair: You can order accident rescue services through APP and applet. In order to provide you with accident rescue services, you need to provide the name of the vehicle owner, the owner's cell phone number, the name of the person placing the order, the cell phone number of the person placing the order, the VIN code of the vehicle and the license plate number; if you do not provide relevant personal data, you may not be able to order the relevant services;
+
+Remote view and control of vehicle: if you turn on vehicle-related functions, you can view the information about your car obtained from the car end through APP and applet, such as information about the opening/closing or locking/unlocking status of doors, windows, sunroof, front cover, trunk, headlights, vehicle history driving records, including mileage, energy consumption, driving time, average speed and carbon emission reduction estimation data, and provide you with remote control the function of vehicle-related status; if you do not provide relevant personal data, you may not be able to subscribe to the relevant services;

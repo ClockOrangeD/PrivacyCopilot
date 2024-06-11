@@ -1,0 +1,1325 @@
+Introduction
+
+Welcome to the world of Jiyue!
+
+Shanghai Jidu Automobile Co., Ltd. (registered address and common office address: Building 2, No.
+
+1688, Yecheng Road, Jiading District, Shanghai), Wuhan Jidu Automobile Service Co., Ltd. and its
+
+affiliates (registered address and common office address: 4, 3rd Floor, Building 1, Building 1,
+
+Optoelectronic Supporting Industrial Park, No. 117, Zuoling Road, Zuoling Town, Donghu New
+
+Technology Development Zone, Wuhan City, Hubei Province) and its affiliates (hereinafter collectively
+
+referred to as "we", "us" or "our" Jiyue") attaches great importance to the protection of users'
+
+("you") personal information, and will strictly abide by the requirements of relevant laws and
+
+regulations and take adequate and appropriate measures to ensure the security of your personal
+
+information.
+
+We would like to explain to you through the Privacy Policy of this Jiyue Network Platform ("Privacy
+
+Policy") that we provide you with relevant products/services (hereinafter collectively referred to as
+
+"Services") through the following platforms within the territory of the People's Republic of China
+
+(except for the Hong Kong Special Administrative Region, Macao Special Administrative Region and
+
+Taiwan Region for the purposes of this Policy, hereinafter referred to as "China"). How to process
+
+(including collecting, using, storing, providing, etc.), protecting your personal information, and how you
+
+can exercise your rights in relation to your personal information.
+
+1. Provide you with vehicle information and basic services for vehicle and boutique ordering and
+
+related extended business services through the official website, Jiyue App, Jiyue Mini Program and
+
+Jiyue Power Mini Program (hereinafter collectively referred to as "Jiyue Network Platform"). We have
+
+formulated a separate privacy policy to specifically explain the relevant circumstances of processing
+
+and protecting your personal information in these scenarios, which is detailed in this Privacy Policy.
+
+2. Provide you with Internet of Vehicles related services through the in-vehicle terminal, Jiyue App
+
+and cloud remote interconnection. Please read the "Jiyue Automobile Privacy Policy" carefully in
+
+"Car" - "My Car" - "Privacy" on the car terminal to understand the details of the processing and
+
+protection of relevant personal information.
+
+3. Other clients or scenarios in which we provide services to you now and in the future.
+
+The above privacy policy is closely related to the services you use, and we hope that you must
+
+carefully read and confirm that you have fully understood the content of the privacy policy before
+
+using the services provided by us, and make the choices you think are appropriate. If you do not agree
+
+to the above privacy policy, you should stop using the services provided by us. Where permitted by
+
+laws and regulations, we may process your personal information without your consent. We strive to
+use plain language to draw your attention to the terms of this Privacy Policy that have a material
+
+relationship with your rights and interests, the terms that may exempt or limit our liability, and the
+
+personal information involved. For sensitive personal information, we use bold oblique font to alert
+
+you.
+
+We would like to remind you that due to the large number of our products and services, the content of
+
+the products and services provided to you is also different, this Privacy Policy is the privacy
+
+protection clause uniformly applicable to the services of the Jiyue online platform, and the user
+
+rights agreed in this privacy policy and the relevant information security protection measures
+
+provided by us are applicable to all our online platform related products and services. The type of
+
+personal information we collect about you may vary depending on the specific products and/or
+
+services you use (including client type and software version), which is subject to the actual
+
+situation of the products/services you actually use. If a product and/or has a separate privacy
+
+policy, that separate privacy policy will take precedence. For the part not covered by the separate
+
+privacy policy for that product and/or service, the content of this Privacy Policy shall prevail. If you do
+
+not use the corresponding products or services provided by us, we will not collect the corresponding
+
+information.
+
+In order to bring you a better product and service experience, we are continuously striving to improve
+
+our technology, and then we may introduce new or optimized functions from time to time, and may
+
+need to collect and use new personal information or change the purpose or method of using personal
+
+information. In this regard, we will update this Privacy Policy and will separately explain to you the
+
+purpose, scope and use of the corresponding information through pop-up windows and page
+
+prompts. If your consent is required for relevant adjustments in accordance with laws and regulations,
+
+we will provide you with the method of your own consent and process the relevant personal
+
+information after obtaining your explicit consent.
+
+We will process your personal information in strict accordance with the scenarios described in this
+
+Privacy Policy, and if it exceeds the scope described in this Privacy Policy, we will inform you again
+
+and obtain your consent. If you have any questions, comments or suggestions about this Policy, you
+
+can contact us through our Privacy Protection Contact Email (data.privacy@jiyue-auto.com).
+
+This Privacy Policy will help you understand the following:
+
+1. How We Collect and Use Your Personal Information
+
+2. How We Use Cookies or Similar Technologies
+
+3. How we entrust the processing, sharing, transfer, and disclosure of your personal information
+
+4. How We Protect Your Personal Information
+
+5. How you can manage your personal information
+
+6. How We Process the Personal Information of Minors
+
+7. How we store your personal information
+
+8. Updates to this Privacy Policy
+
+9. How to Contact Us
+
+Supplementary Provisions: Definitions
+1. How We Collect and Use Your Personal Information
+
+We will follow the principles of legitimacy, legality and necessity to collect and use your personal
+
+information that you voluntarily provide during your use of our products and/or services, or we directly
+
+collect your personal information generated by you as a result of your use of our products and/or
+
+services, as well as your authorized third-party partners, for the following purposes described in this
+
+Privacy Policy. If we want to use your personal information for other purposes not specified in this
+
+Privacy Policy, or use the collected information for other purposes for specific purposes, we will
+
+inform you in a reasonable manner and obtain your consent again. When you use the Service, we
+
+need/may need to collect and use your personal information.
+
+You can choose not to provide or not agree to our processing of your relevant personal information,
+
+which may affect your complete and timely access to the corresponding services.
+
+Regarding the processing of your personal information by the products and/or services related to the
+
+Internet of Vehicles (IoV) that we provide to you, please read and agree to the Privacy Policy of Jiyue
+
+Automobile before using it.
+
+1.1. Collection and Use Scenarios
+
+(1) Registration and login
+
+The basic function of this service is "Vehicle Information and Vehicle and Boutique Order", and the
+
+necessary personal information under this function is "Registered User's Mobile Phone Number". If
+
+you do not agree to provide this information, you can choose the guest mode to enter and browse
+
+part of the content of the Jiyue App, in the tourist mode, you do not need to provide the above
+
+information, you can still view the "discovery", "car purchase", "mall", "my" 4 main sections, including:
+
+browsing content and comments, browsing activities, browsing goods, browsing vehicle information
+
+functions, but may not be able to fully use the business functions involved in this service, including
+
+likes, comments, event registration, purchase and ordering, Add to cart to view the personal
+
+information on the "My" page. When you register or log in to your Jiyue account, according to the
+
+requirements of the online real-name system, you need to provide us with your mobile phone number
+
+as information to identify you, and we will send an SMS verification code to verify whether your
+
+identity is valid. If you do not provide this information, you will not be able to register/log in to this
+
+service product and use all our related functions normally.
+
+When you use the "one-click login" function, we will use the functions provided by the communication
+
+operator and your mobile phone number to provide you with fast registration and login services based
+
+on the cooperation with the communication operator and your express consent.
+
+(2) Fill in your personal information
+
+To show you your profile, you can provide your profile picture, nickname, gender, birthday, and
+
+interests after registration. You can decide whether to fill in the above information at your own
+
+discretion, and if you do not provide these supplementary information, it will not affect your use of the
+
+Service. At the same time, you can fill in and provide your name, certificate type and certificate
+
+number and upload the ID photo in the Jiyue App or Jiyue Mini Program "Me" - "Settings" -
+
+"Account and Security" - "Real-name Authentication" and "Certificate Center", which will be used for
+
+the purchase of Jiyue brand cars, identity verification, equity verification, purchase tax payment,
+
+invoicing, motor vehicle registration, bank loans, insurance accident claims, etc.; If you are not
+involved in the handling of such matters, not providing the aforesaid information will not affect your
+
+use of other services.
+
+(3) Third-Party Login
+
+Based on your separate consent, you can use your account on the third-party platform to log in and
+
+use the Services, and you will authorize us to obtain your avatar and nickname on the third-party
+
+platform (including WeChat) for binding with your Jiyue account, so that you can directly log in and
+
+use the Services, and the specific authorization information is subject to the prompts on the login
+
+interface. Please be aware that when logging in through a third-party account, you still need to collect
+
+your mobile phone number, which is used to bind a unique Jiyue account.
+
+For details about the types of personal information collected by the aforesaid partners and the
+
+purpose of collection, please refer to the "List of Information Shared by Third Parties and Information
+
+Collected by SDKs".
+
+(4) Test drive
+
+You can apply for a test drive through the Jiyue network platform, Jiyue Automobile's offline activities,
+
+and the retention page set up by the relevant scenarios and clients now or in the future, or by
+
+contacting us actively. We need to collect and use personal information that is necessary to provide
+
+the test drive service, as detailed in the test ride and test drive agreement.
+
+Before your test drive, in order to verify the identity information and driving qualification of the test
+
+driver, you need to provide the driver's name, mobile phone number, ID card information, and motor
+
+vehicle driver's license information.
+
+(5) Car purchase consultation and vehicle ordering
+
+You can consult us about purchasing a car through the retention page set up on the Jiyue online
+
+platform, the offline activities of Jiyue Automobile, and the relevant scenarios and clients now or in
+
+the future, or actively contact us, or get more information about car purchase by participating in our
+
+marketing activities. In this regard, we may collect your basic personal information (name, gender,
+
+mobile phone number, Open ID, city) and information you provide to us in communication (such as
+
+whether you have a car, hobbies, age group, occupation, motor vehicle driver's license information).
+
+When you place an order for a JIYUE vehicle, we will collect the name, mobile phone number, and
+
+city of the person who placed the order for the purpose of linking the order to your account and for
+
+the staff of JIYUE to contact you. At the same time, we will collect the name/business name,
+
+personal ID number/enterprise tax number, and mobile phone number of the vehicle owner, which
+
+will be used to sign the car purchase contract, issue motor vehicle invoices, apply for vehicle license
+
+plates (including license quota applications), and apply for loans and insurance. We also collect the
+
+user's mobile phone number and the city where the vehicle is used, which is used to book the
+
+vehicle and activate the vehicle when it is in use. When you are not the owner or user of the vehicle,
+
+please ensure that the information you provide is true and correct and that you have obtained the
+
+consent of the personal information subject. After placing an order, you can choose the payment
+
+service provided by a third-party payment institution (such as WeChat and Alipay) to pay. For details
+
+about the types of personal information collected by the aforesaid partners and the purpose of
+
+collection, please refer to the "List of Information Shared by Third Parties and Information Collected
+
+by SDKs".
+
+(6) Auto financial services
+When you apply for financial services such as loans, we will collect the fields necessary to provide
+
+financial services from the data you provided in our capital retention interface and car purchase order
+
+in the early stage, including name, certificate type, ID card information, mobile phone number,
+
+current city, delivery city, licensed city, vehicle information (brand, model, vehicle unique
+
+identification code), intended financial plan (including loan type, Number of loan periods, down
+
+payment ratio, down payment amount, balance payment ratio, balance payment amount) invoice
+
+image copy and invoice data information, and fill in the information in the financial pre-approval and
+
+application interface, so that you can quickly initiate relevant applications. After you submit your
+
+application, we will share the above information with the third-party financial service provider that
+
+provides the specific financial service to help you obtain complete auto financial services. The
+
+financial institution will also return your approval and loan information to us so that we can confirm
+
+the payment of your car purchase price, and we will not use it for any other purpose.
+
+(7) Insurance services
+
+Auto insurance services will be provided directly to you by third-party insurance companies, and we
+
+will not collect your relevant personal information in the process. You are reminded to pay attention
+
+to and read the relevant service agreements and privacy policies of third-party insurance
+
+companies to understand the processing and protection of your personal information.
+
+(8) Customer service and after-sales functions
+
+When you make inquiries, complaints or provide suggestions about vehicles, accounts or orders, we
+
+will collect your nickname, profile picture, mobile phone number, UID, consultation time,
+
+conversation details and communication records (text or voice), service data, account information,
+
+order information, and photos for the purpose of verifying your identity, recording your problems, and
+
+making handling and feedback.
+
+For details on the collection and processing of personal information involved in other customer service
+
+and after-sales functions related to vehicle services, please refer to the List of Information Shared by
+
+Third Parties and Information Collected by SDKs.
+
+(9) Mall shopping and payment
+
+When you shop in the mall, we will collect the purchaser's mobile phone number, nickname,
+
+consignee's mobile phone number, consignee's name, and consignee's address for the purpose of
+
+completing the order, delivering the goods, and querying history and points details. If you choose to
+
+purchase vehicle-related services, we need to collect the vehicle VIN code, vehicle model and license
+
+plate number in order to confirm the vehicle information.
+
+At the same time, we will generate an order for you to purchase the product through the system, and
+
+the order will indicate the product information you purchased, the specific order number, the order
+
+creation time, the payment method, and the order amount. You can order goods for yourself or
+
+others through the Jiyue network platform, and you need to provide the aforesaid personal
+
+information of the actual consignee and ensure that the consent of the actual consignee has been
+
+obtained. When you submit a return or exchange application, you need to fill in your email address or
+
+mobile phone number according to the prompts on the interface to facilitate the return and exchange.
+
+After placing an order, you can choose the payment function provided by a third-party payment
+
+institution (including WeChat and Alipay). The payment software tool development kit of the thirdparty payment institution embedded in the Jiyue network platform will collect your personal
+information and use it to complete the payment. We will share your transaction information with the
+
+third-party payment institution to confirm your payment instruction and complete the payment.
+
+(10) Community sharing
+
+In order to facilitate you to share the user experience, we provide community communication and
+
+content sharing functions, when you publish, share, comment and other activities in the community,
+
+we will record and use your avatar, nickname, like, comment, published content (text, picture, video)
+
+and UID for content management and display in the community. When you post a picture or video, you
+
+will also use your device's album and camera permissions with your consent.
+
+Please note that the information you publicly release may involve your or others' personal
+
+information or even sensitive personal information, so please carefully consider whether to disclose
+
+relevant information. If the information you provide to us or publish involves the personal
+
+information of others, you need to obtain the consent of others before publishing.
+
+(11) Participation in activities
+
+When you register for an event through the Jiyue network platform and other clients and scenarios,
+
+we will collect different personal information from you according to the specific requirements of the
+
+event, such as your nickname, profile picture, gender, mobile phone number, Open ID, UID, city, age
+
+group, occupation, whether you have a car, hobbies, and IP address, which will be used to identify
+
+you and make corresponding arrangements for holding the event. The specific activities and the
+
+personal information required are subject to the specific requirements on the event page.
+
+When there is a reward for the event you participate in, and you meet the reward conditions, we may
+
+also use your participation in the activity, UID and/or mobile phone number for the purpose of issuing
+
+the reward.
+
+(12) Message push and marketing promotion
+
+In order to let you better understand our products/services, we will collect and use your mobile phone
+
+number and device information to push product/service-related information and reminders to you
+
+(including charging behavior reminders, community message reminders, vehicle status and vehicle
+
+usage behavior reminders, order/contract performance reminders, and activity reminders).
+
+In order to provide you with advertising, promotion, and promotional marketing information, and to
+
+enable you to better understand our products and services, we may collect and use your mobile
+
+phone number and device information.
+
+Please note that if you do not want to receive our APP push information, you can turn it off through
+
+the App notification settings in the system settings of your device, and you can turn off the SMS push
+
+according to the unsubscribe prompt in the SMS, or contact the data.privacy@jiyue-auto.com to
+
+unsubscribe or turn it off.
+
+(13) Data analysis
+
+In order to conduct market analysis, fraud prevention, product optimization and improve service
+
+experience, so as to improve service quality and provide you with better service, we may collect
+
+device information, vehicle information, activity information, content information, order information
+
+and generate generated logs/service information, IDFA (IOS), when you use the product It also
+
+collects your behavior data, browsing records, order numbers and actual payment information, and
+
+conducts statistics, processing and analysis after anonymizing or de-identifying your identity
+
+information.
+At the same time, we will obtain your device information with the help of SDKs provided by third
+
+parties. We only retain the results of our analyses, which do not identify you. We may provide or
+
+disclose the above-mentioned statistical information that does not contain your personally identifiable
+
+information. For details about the types of personal information collected by the Partner and the
+
+purpose of collection, please refer to the List of Information Shared by Third Parties and Information
+
+Collected by the SDK.
+
+(14) Charging service
+
+When you use the JIYUE network platform to connect to the charging stations operated by JIYUE or
+
+the charging stations connected to our services for charging, we may collect and use your location
+
+information and your behavior information when using the charging service (including the
+
+corresponding information of the charging station search and charging station usage activities
+
+when you use the service). It is used to show you information about charging stations that are closer
+
+to you or more convenient for you to travel. At the same time, we may need to collect your license
+
+plate number, VIN code, charging amount, balance record, charging duration, vehicle power
+
+information, charging rate, charging pile, charging status, charging record, fault information for
+
+charging management, assisting in the settlement of charging fees, parking fees, charging pile
+
+occupancy fees and possible fee concessions (including charging fees, parking fees, charging pile
+
+occupancy fees).
+
+We may use your mobile phone number to contact you, and may record your contact information,
+
+name, account number, your communication information with us (including text, voice, photos,
+
+videos, and locations sent during communication) and consultation records for the purpose of
+
+verifying your identity, understanding your usage, giving you feedback, and helping you solve
+
+problems.
+
+(15) Abnormal investigation and security assurance
+
+In order to ensure your normal use of the Service, maintain the normal operation of the Service,
+
+troubleshoot faults and abnormalities in a timely manner, ensure the security of your account and
+
+transactions, and improve and optimize our service experience, we will obtain your device information
+
+when you use the Service, including the device manufacturer, device model, operating system and
+
+version, software version, device identification code (IDFV(IOS)/OAID, operating system and version,
+
+Screen resolution, operating conditions, gyroscope sensor, accelerometer sensor and linear
+
+accelerometer information), User_id, device_id, MAC address, software list, Wifi SSID, BSSID, mobile
+
+phone status.
+
+(16) 3D visual effects
+
+We collect information about your device's gyroscope, accelerometer, and linear accelerometer
+
+sensors, which are used to achieve 3D effects on some page components, so that you can get a 3D
+
+visual sensory experience that is dynamically linked to your device.
+
+(17) Vehicle management function
+
+When you use the "car-key management" function, in order to ensure the pairing of the Bluetooth key
+
+with the vehicle and the normal use of the Bluetooth key function, we need to use your location
+
+information, Bluetooth permissions, nearby device permissions, and use background running
+
+services and self-starting services. If you turn off auto-start, you may not be able to receive alerts
+
+properly. You can turn off the auto-start feature in your phone's system settings.
+When you choose the facial feature recognition method to log in to your account on the car side, you
+
+need to enter your facial feature information in the "Me" - "Settings" section of the Jiyue App, and
+
+after the entry is completed, you can select the facial feature recognition method on the car side to
+
+log in to the account. We do not store the original information of your face, only the feature data for
+
+identification verification. If you do not wish to provide facial recognition, you can still log in in in
+
+other ways.
+
+When you use the JIYUE App to view your vehicle location information, or send the destination
+
+information you search on your mobile phone to the vehicle map, we will need to use your location
+
+information to locate and calculate the vehicle location distance and destination distance.
+
+For the collection and use of personal information that provides you with IoV-related services
+
+through the in-vehicle terminal, the Extreme Athletic App and the cloud remote interconnection,
+
+please refer to the Privacy Policy of the Automotive for details.
+
+1.3. System Permission Authorization
+
+When you use some business functions, the Service may need to use your system permissions, which
+
+will only be enabled with your express authorization, and your personal information will only be
+
+collected when required by the relevant functions or services. If you do not authorize, we will not be
+
+able to provide relevant business functions or the use of relevant functions will be affected.
+
+You can manage the relevant permissions in the system according to your actual needs. You may
+
+choose to refuse to turn on or off the permission, and your closing of the permission means that you
+
+have revoked your authorization, and we will no longer continue to collect and use the personal
+
+information collected based on the corresponding permission, and you will not be able to obtain the
+
+corresponding business function after the closure, but it will not affect your use of other functions of
+
+the Service. Your decision to turn off the permission will not affect the processing of personal
+
+information previously based on your authorization.
+
+Location permission (Android, iOS): We will access and obtain your location information after you
+
+authorize the location permission, and your location information will be used to display you charging
+
+pile information (charging station information in your city, display your nearby charging stations in the
+
+map, locate and calculate the distance of charging stations), display your vehicle location information,
+
+provide vehicle navigation and positioning, provide location sending/receiving functions, and display
+
+the points activity planTo provide you with information about offline activities, stores and services
+
+near you. Please note that your precise geographic location is sensitive personal information, and
+
+we will only collect this information based on your separate consent. If you reject this authorization,
+
+the aforesaid functions will not be able to be used normally, but your normal use of the Service will
+
+not be affected.
+
+Camera permission (Android, iOS): It will be used for QR code scanning functions such as event
+
+scanning verification, identification of charging piles, and QR code payment function, as well as
+
+uploading avatars and certificates by taking photos and videos, posting content in the community,
+
+giving feedback to online customer service, and face entry functions. If you reject this authorization,
+
+the preceding functions will not be able to be used normally.
+
+Album/storage permission (Android, iOS): It will be used for the storage of your event registration
+
+results, ticket results, pictures, etc., QR code recognition, screenshots and pictures/video uploads,
+picture/video insertion, avatar or certificate upload functions when using the community function, mall
+
+application after-sales, online customer service, and reporting functions. If you don't enable this
+
+permission, you won't be able to use the relevant features, but it won't affect your ability to use other
+
+features.
+
+Network Permission (iOS): When you use this service, you need to authorize network permission to be
+
+enabled. Once you have the network turned on, you can use all the features related to cloud services.
+
+If you do not enable this permission, you may not be able to use features that require an internet
+
+connection.
+
+Bluetooth permission (Android, iOS): It will be used to control, operate, and connect your home
+
+charging pile, use the Bluetooth key function to manage the car lock after Bluetooth verification,
+
+connect the Bluetooth phone in the car, play music through Bluetooth, and use Bluetooth to operate
+
+car games. If you don't enable this permission, you won't be able to use the relevant features, but it
+
+won't affect your ability to use other features.
+
+Clipboard (Android, iOS): It will be used to read the password, sharing code, link, text and other
+
+content information contained in the information sharing and copying information when you use the
+
+function of sharing and copying information, so as to realize the function or service of jumping,
+
+copying and sharing. If you don't enable this permission, you won't be able to use the relevant
+
+features, but it won't affect your ability to use other features.
+
+Microphone permission (Android, iOS): will be used to send your voice messages during the live chat
+
+service. If you don't enable this permission, you won't be able to use the relevant features, but it won't
+
+affect your ability to use other features.
+
+Contacts permission (Android, iOS): Authorized to synchronize the contacts information to the car on
+
+the mobile phone, so that users can find specific contacts more accurately when calling out their
+
+names. If you don't enable this permission, you won't be able to use the relevant features, but it won't
+
+affect your ability to use other features.
+
+App background running permission, App self-start permission (Android): Lock management is
+
+carried out after pairing with a Bluetooth key. If you don't enable this permission, you won't be able to
+
+use the relevant features, but it won't affect your ability to use other features.
+
+1.4. Other legal reasons
+
+You are fully aware that, in accordance with relevant laws and regulations, we do not need to ask for
+
+your consent to collect and use your personal information when there are the following legal reasons:
+
+(1) It is necessary for us to perform our obligations or duties under laws and regulations;
+
+(2) where it is necessary for the conclusion and performance of a contract to which an individual is
+
+a party;
+
+(3) Where it is necessary to respond to a public health emergency, or to protect the life, health, and
+
+property safety of natural persons in an emergency;
+
+(4) Processing personal information that has been disclosed by individuals or that has been lawfully
+
+disclosed within a reasonable scope in accordance with the provisions of the Personal Information
+
+Protection Law;
+
+(5) Other circumstances stipulated by laws and administrative regulations.
+2. How We Use Cookies or Similar Technologies
+
+2.1. We use similar terminal collection and storage technologies such as cookies, tags,
+
+and scripts
+
+Cookies are a mechanism that allows the server (or script) to store and retrieve information on the
+
+client. A cookie is a small data file that is stored on your computer or mobile device. When you use
+
+the Site, we may use cookies or similar technologies to collect and store information, which may
+
+include your account information, preferences, or device information, in order to generate and identify
+
+you uniquely. Cookie technology is used to provide you with better services in order to make your
+
+access experience easier and safer, to improve products, services and user experience, to analyze the
+
+effectiveness of page design or advertising, or to discover and prevent security risks in a timely
+
+manner. These cookies mainly include the user's personal configuration information and the temporary
+
+operation parameters of the website.
+
+We will not use cookies or similar technologies for any purpose other than those described in this
+
+Privacy Policy. You can manage or delete cookies according to your preferences. Information about
+
+you will be deleted when you clear all cookies stored in the software, but you may not be able to use
+
+features or services that rely on cookies. For more information, see https://www.allaboutcookies.org/.
+
+We will strictly ensure that the use of cookie technology is safe and will not adversely affect you.
+
+2.2. Log Files
+
+Like most websites and mobile applications, we collect certain information and store it in log files for
+
+the purpose of troubleshooting problems you encounter when using our services, and for analyzing
+
+and compiling statistics on related data to support problem feedback and optimization functions. This
+
+information may include Internet policy (IP) addresses, Internet Service Provider (ISP), operating
+
+system, date/time stamp, and/or clickstream data. We do not link automatically collected data to
+
+other information we collect about you. We will strictly ensure the safe use of technology and will not
+
+adversely affect you.
+
+3. How we provide, transfer, and publicly disclose your personal information
+
+We attach great importance to your personal information. We will not provide your personal
+
+information to any company, organization or individual other than the Company unless we have your
+
+consent or meet the specific legal circumstances required by laws and regulations.
+
+In order to ensure the quality of products/services and your convenient experience, we may provide
+
+some of your personal information to our affiliates, third-party partners and service providers for
+
+some products and services that require third-party support. We will strictly limit and manage the
+
+provision of personal information to external parties.
+
+3.1. Entrusted Processing
+
+In the case of entrusting service partners (companies, organizations and individuals entrusted with the
+
+processing of personal information, such as our third-party service providers, contractors, agents,
+
+etc.) to process personal information, we will work with service partnersSign a strict confidentiality
+
+agreement or other data protection related agreement to clarify the responsibilities of both parties,
+the processing items and the purpose of processing, etc., and review the data security capabilities to
+
+ensure that they take measures to ensure the confidentiality and security of personal information in
+
+accordance with the provisions of laws and regulations, our requirements and the provisions of this
+
+Privacy Policy. For details about the identity of the Partner, the purpose, method, and scope of
+
+collecting personal information, please refer to the List of Information Shared by Third Parties and
+
+Information Collected by the SDK.
+
+3.2. Sharing
+
+In some cases, we will provide your personal information to other personal information processors,
+
+inform you of the recipient's name or name, contact information, processing purpose, processing
+
+method and type of personal information, and obtain your prior consent or authorization. At the same
+
+time, we will investigate their data security environment and sign strict confidentiality agreements with
+
+them to ensure that they take measures to ensure the confidentiality and security of personal
+
+information in accordance with laws and regulations, our requirements and the provisions of this
+
+Privacy Policy. We provide personal information to the following parties:
+
+(1) Sharing with affiliates. To help us better provide our products and/or services to you, we may share
+
+your information within companies that are associated with common ownership or control in order to
+
+support, integrate, promote and improve the products and/or services we provide to you. However, we
+
+will only share personal information that is necessary and is subject to the purposes stated in this
+
+Privacy Policy. If our affiliates want to change the purpose of processing personal information, they
+
+will ask for your authorization and consent again.
+
+(2) We will share your information with the third-party logistics and distribution service providers,
+
+real-name authentication providers, storage providers and SDK providers responsible for delivery, and
+
+other third parties that implement App, Mini Program and vehicle services and functions.
+
+Please be aware that for the sake of your information security, we currently only cooperate with
+
+partners who have signed strict data security and confidentiality agreements. We promise that we will
+
+not share your personal information with you without your consent.
+
+The Services may contain third-party SDKs, and such third parties may process your information
+
+when you use such services provided by third parties through their SDKs when using the Services. In
+
+order to protect your information security to the greatest extent, we strongly recommend that you
+
+review the privacy policies of any third-party SDK services before using them. For details involving the
+
+processing of personal information by an App embedded in a third-party SDK (including entrusted
+
+processing and sharing), please refer to the List of Third-Party Shared Information and Information
+
+Collected by the SDK.
+
+3.3. Assignment
+
+In principle, we will not transfer control of your personal information to other companies, organizations
+
+or individuals. When we are involved in a merger, acquisition, asset transfer or similar transaction, if
+
+the transfer of personal information is involved, we will inform you of the name or name and contact
+
+information of the recipient, and require the new company or organization that holds your personal
+
+information to continue to be bound by this Privacy Policy, otherwise we will require the company or
+
+organization to seek your authorization and consent again.
+
+3.4. Disclosure
+We will not disclose your personal information unless we obtain your separate consent.
+
+Special note: In the process of using this service, the personal information that you actively share and
+
+share publicly is not subject to the restrictions of this Privacy Policy (such as forwarding content to
+
+other Internet platforms). You should note that any information you share can be read, collected and
+
+used by any third party, and you should carefully consider the content you publish and disseminate
+
+through the Service and the information that may point to you personally. You are fully aware that
+
+when you make it public on your own, as long as you do not delete the information you have publicly
+
+posted, that information may remain in the public domain forever; In some cases, even if you delete
+
+the information you have publicly posted, such information may still be cached, copied or stored
+
+independently by other users or third parties not affiliated with and controlled by the Service, or stored
+
+in the public domain by other users or third parties. For example, when you forward your answers to
+
+our products and/or services to other Internet platforms, the platform will independently display,
+
+cache or save the content you forwarded, and other Internet users will also forward and save your
+
+answers, and the corresponding pages will not be under our control.
+
+4. How We Protect Your Personal Information
+
+4.1. Security Measures
+
+We will take appropriate security measures and technical measures that comply with industry
+
+standards to store and protect your personal information to prevent its loss, misuse, unauthorized
+
+access or leakage, alteration or destruction. After the collection of personal information, if our
+
+technical resources allow or laws and regulations are compulsory, we will carry out de-identification
+
+processing, and take technical and management measures to store the information that can be used
+
+to recover and identify individuals separately from the de-identified information, and strengthen the
+
+management of access and use permissions. When we store sensitive personal information, we use
+
+security measures such as encryption. In the case of biometric information, we only store summary
+
+information about the biometric information.
+
+We will take the following security technical measures to protect your personal information:
+
+(1) Encrypted transmission protocols are used during data transmission.
+
+(2) Strictly control data access rights, especially the control and review of batch data operation
+
+permissions.
+
+(3) Conduct security tests on the online application system through vulnerability scanning and
+
+penetration testing, and rectify related risks.
+
+(4) Regular backup of data and related recovery usability testing.
+
+(5) Establish a data security monitoring and audit system to carry out comprehensive data security
+
+control.
+
+Other security measures to protect your personal information:
+
+(1) Establish the company's confidentiality and information security committee, coordinate information
+
+security work in a unified manner, promote various information security activities, and promulgate
+
+personal information protection specifications within the company.
+(2) Conduct a personal information impact assessment on data security (including user personal
+
+information data) before the system goes online or before major functional changes.
+
+(3) Sign a confidentiality agreement with all employees and service outsourcing personnel, and assign
+
+data access rights in strict accordance with job responsibilities.
+
+(4) Regularly carry out information security education and training for all employees and outsourcing
+
+service personnel of the company.
+
+4.2. Security Incident Response:
+
+(1) In order to deal with possible security risks such as leakage, damage, and loss of personal
+
+information, we have established a security testing process before the system goes online, as well as
+
+internal processing procedures (including emergency response procedures) and remedial measures.
+
+(2) In the event of a security incident, we will promptly inform you of the basic situation and risks of
+
+the incident, the measures we have taken or will take, and your suggestions on how to reduce the
+
+risks on your own.
+
+(3) We will promptly notify the affected users of the security incident by push notification, telephone,
+
+etc. When it is difficult to inform users one by one, we will issue warning information by issuing
+
+platform announcements.
+
+5. How you can manage your personal information
+
+In accordance with the relevant laws, regulations and standards of the People's Republic of China, we
+
+protect you to exercise the following rights in relation to your personal information:
+
+5.1. Access to your personal information
+
+Except as otherwise provided by laws and regulations, you have the right to access your personal
+
+information. If you would like to exercise your right to access your information, you can do so yourself
+
+in the following ways:
+
+Click "My" - "Avatar" in the Jiyue App to access your name, nickname, avatar, birthday, gender,
+
+region, hobbies, and delivery address information.
+
+If you are unable to access your personal information through the above channels or wish to inquire
+
+about other personal information, as well as if you wish to access your personal information in other
+
+clients, you can contact us at any time through the contact information set out in this Privacy Policy,
+
+and we will complete the identity check and response processing within 15 days.
+
+5.2. Correction of your personal information
+
+You have the right to request that we correct the personal information we process about you when
+
+you find that there is an error in it. You can make corrections in the following ways:
+
+Click "My" - "Avatar" in the Jiyue App to change your name, nickname, avatar, birthday, gender,
+
+region, hobbies, and delivery address information.
+
+Click "Me" - "Settings" - "Account and Security" - "Third-party Platform Account" in the Jiyue
+
+App to unbind the third-party platform account.
+
+Click on the "My" - "Avatar" module of the Jiyue App to change your nickname.
+
+If you are unable to correct your personal information or wish to correct your other personal
+
+information through the above channels, as well as if you wish to correct your personal information in
+other clients, you can contact us at any time through the contact information set out in this Privacy
+
+Policy, and we will complete the identity check and respond within 15 days.
+
+5.3. Deletion of your personal information
+
+In the following circumstances, you may request us to delete your personal information, unless your
+
+personal information has been anonymized or otherwise provided by laws and regulations:
+
+(1) If our processing of personal information violates laws, administrative regulations or agreements
+
+with you;
+
+(2) If you no longer use our products or services, or you cancel your account;
+
+(3) if the purpose of our processing has been achieved, cannot be achieved, or is no longer necessary
+
+to achieve the purpose of processing;
+
+(4) If we no longer provide you with products or services, or the retention period has expired;
+
+(5) if you withdraw your consent;
+
+(6) Other circumstances stipulated by laws and regulations.
+
+When your personal information is deleted from our services, we may not be able to delete the
+
+corresponding information in the backup system immediately due to technical reasons, but we will
+
+delete or anonymize the information in a timely manner within the time limit stipulated by laws and
+
+regulations when the backup is updated. Please be aware and understand that, in accordance with the
+
+provisions of laws and regulations, if the retention period stipulated by laws and administrative
+
+regulations has not expired, or if it is technically difficult to delete personal information, we will stop
+
+processing it except for storing it and taking necessary security protection measures.
+
+Please be aware that if the user information on the order is deleted, the user process will be abnormal
+
+or unusable (e.g., unable to view the order, unable to view/sign/download the contract, unable to
+
+activate the vehicle, unable to apply for a charging pile, etc.).
+
+5.4. Withdraw your authorization and consent
+
+You have the right to withdraw your authorization, but each business function requires some basic
+
+personal information to be completed, and if a service relies on your authorization to achieve or
+
+operate normally, if you withdraw the relevant authorization, we cannot continue to provide you with
+
+the corresponding services or some functions of the service will be affected. You can withdraw or
+
+change your authorization in the following ways:
+
+You can manage the relevant information permissions in "Me" - "Settings" - "Permission
+
+Management" in the Jiyue App.
+
+When you wish to withdraw your authorization and consent in other clients, you can contact us at any
+
+time through the contact information set out in this Privacy Policy, and we will complete the identity
+
+verification and response processing within 15 days.
+
+After you withdraw the authorization of the relevant permissions, we will not be able to continue to
+
+provide you with the services corresponding to the withdrawal of consent or authorization, and we will
+
+no longer process the corresponding personal information. However, your decision to withdraw your
+
+authorization will not affect the processing of personal information previously carried out based on
+
+your authorization.
+
+5.5. Cancellation of Your Account
+The cancellation of your account will affect your rights and interests under the Jiyue service
+
+system, such as authority association, identity confirmation, rights and interests attribution, points
+
+and other related rights and interests, and you shall be responsible for your inability to enjoy
+
+relevant services or rights normally due to account cancellation, as well as the adverse
+
+consequences caused thereby. At the same time, after you cancel your account, you may not be
+
+able to register your account again with the same mobile phone number. Therefore, please consider
+
+carefully before applying for account cancellation.
+
+You can apply for cancellation of your account when you confirm that there are no vehicles,
+
+unfinished orders, or other matters that need to be associated with your authority, identity, or rights
+
+and interests through your account.
+
+You can click "Me" - "Settings" - "Account and Security" - "Cancel Account" in the Jiyue App to
+
+cancel your account.
+
+When you wish to cancel your account in other clients, you can contact us at any time through the
+
+contact information set out in this Privacy Policy, and we will complete the identity verification and
+
+response processing within 15 days.
+
+After the account is cancelled, we will stop providing you with products or services, and delete or
+
+anonymize your personal information in accordance with your requirements and this Privacy Policy,
+
+unless otherwise provided by laws and regulations.
+
+5.6. Obtain a copy of your personal information or provide a means of transfer
+
+If you need a copy of the personal information we have collected about you, you may contact us
+
+through the contact information set out in this Privacy Policy. After the relevant personnel have
+
+carried out the necessary identity verification on you, a copy of the personal information will be
+
+submitted to you in accordance with relevant laws and regulations and under the premise that it is
+
+technically feasible.
+
+If you request to transfer your personal information to the personal information processor you
+
+designate, we will provide a channel for the transfer if you meet the conditions stipulated by the CAC.
+
+5.7. The right to obtain an explanation and restriction of processing
+
+You have the right to request us to explain the personal information processing rules or restrict our
+
+processing of your personal information, unless otherwise provided by laws and regulations. You can
+
+contact us using the contact details set out in this Privacy Policy.
+
+5.9. Respond to your requests above
+
+For security purposes, you may be required to provide a written request or otherwise prove your
+
+identity. We may ask you to verify your identity before processing your request. Typically, we will
+
+complete the identity check and response processing within fifteen days.
+
+In principle, we do not charge a fee for your reasonable request, but we will charge a certain cost fee
+
+for repeated requests that exceed reasonable limits due to repeated requests. We may reject requests
+
+that are repetitive without justifiable reasons, require excessive technical means (e.g., need to develop
+
+new systems or fundamentally change current practices), pose a risk to the legitimate rights and
+
+interests of others, or are highly impractical (e.g., involving information stored on backup tapes).
+
+If we decide not to respond to your request, we will inform you of the decision and the reasons for our
+
+decision, and you can contact us using the contact details set out in this Privacy Policy.
+6. How We Process the Personal Information of Minors
+
+Our products and services are primarily intended for adults. Minors under the age of 18 are not
+
+allowed to use our products or services without the consent of their parents or guardians.
+
+If we find that we have collected personal information from minors without prior verifiable parental
+
+consent, we will try to delete the relevant data as soon as possible. If at any time the guardian has
+
+reason to believe that we have collected the personal information of minors, please contact us
+
+through the contact information set out in this Privacy Policy, and we will take steps to complete the
+
+identity check and process the response within 15 days.
+
+7. How we store your personal information
+
+7.1. In principle, the personal information we collect and generate within the territory of the People's
+
+Republic of China will be stored within the territory of the People's Republic of China, and we will not
+
+transfer your personal information abroad.
+
+7.2. In principle, you authorize us to store your personal information during your use of the Services,
+
+and we will store your personal information for the shortest time necessary to achieve the purpose of
+
+your authorized use; After the above storage period of personal information is exceeded, we will
+
+delete or anonymize the personal information. If laws and regulations provide otherwise, we will handle
+
+it in accordance with the mandatory provisions.
+
+8. Updates to this Privacy Policy
+
+Our Privacy Policy may be amended from time to time. Before the new version of the Privacy Policy
+
+takes effect, we will notify you or remind you of the update of the relevant content in other
+
+appropriate ways, and please log in to the Jiyue Network Platform in time to understand the latest
+
+Privacy Policy. We may also help you better manage your personal information through feature
+
+updates, please pay attention to the relevant function descriptions in the Jiyue Network Platform. For
+
+major changes, we will also notify you in a more prominent form, such as a login pop-up or by
+
+sending you an email directly (if you have a reservation). The material changes referred to in this
+
+Privacy Policy mainly include:
+
+(1) There has been a significant change in our service model. Such as the purpose of processing
+
+personal information, the types of personal information processed, and the way in which personal
+
+information is used;
+
+(2) We have undergone significant changes in our ownership structure, organizational structure, etc.
+
+Such as changes in ownership caused by business adjustments, mergers and acquisitions, bankruptcy,
+
+etc.;
+
+(3) Changes in the main objects of personal information sharing, transfer, or disclosure;
+
+(4) There are significant changes in your rights to participate in the processing of personal
+
+information and the way in which they are exercised;
+(5) When the personal information security impact assessment report indicates that there is a high
+
+risk;
+
+(6) Changes in the departments responsible for handling personal information security, contact
+
+information and complaint channels.
+
+9. How to Contact Us
+
+If you have any questions, comments or suggestions about this Privacy Policy, please contact us
+
+through the following contact information set out in this Privacy Policy:
+
+Online customer service: You can click "Me" - "Contact Customer Service" in WeChat "Jiyue Mini
+
+Program" to contact our online customer service, and the online customer service working hours are
+
+9:00-21:00.
+
+If you have any questions about the protection of personal information and other matters, you can
+
+contact us through the privacy affairs protection email: data.privacy@jiyue-auto.com.
+
+We will review the issue as soon as possible and respond to your request as soon as possible.
+
+This Agreement is signed in Jiading District, Shanghai, People's Republic of China, and if you have
+
+any dispute with us, both parties shall try their best to resolve it through friendly negotiation.
+
+Supplementary Provisions: Definitions
+
+Personal information: refers to all kinds of information related to an identified or identifiable natural
+
+person recorded electronically or by other means, including but not limited to the name, date of birth,
+
+ID number, personal biometric information, address, and telephone number of a natural person,
+
+excluding anonymized information.
+
+Sensitive personal information: refers to personal information that, once leaked or illegally used, is
+
+likely to cause the personal dignity of a natural person to be violated or the personal or property
+
+safety to be endangered, including biometrics, religious beliefs, specific identities, medical and health
+
+information, financial accounts, whereabouts and tracks, as well as the personal information of minors
+
+under the age of 14.
+
+Affiliates: Affiliates refer to Shanghai Jidu Automobile Co., Ltd. and other units or collectives that have
+
+an affiliated relationship with us. "Affiliation" means, with respect to any entity (including an individual,
+
+corporation, partnership, organization, or any other entity), that is, a subject that directly or indirectly
+
+controls, or directly or indirectly controls, or is controlled directly or indirectly by the same entity. The
+
+aforesaid "control" refers to the possession of the power to give instructions or instruct others to give
+
+instructions or instruct others to give instructions or in fact constitute actual control through the
+
+holding of voting rights, contracts or other means.
+
+Log information: refers to the content you publish or browse when you use the Service, the operation
+
+time, type, network origin address, destination address, port, access date and time, and login IP
+
+information when you publish the content.
+
+Device information: system version, device vendor, IP address, hardware-related information,
+
+operating system, device model, device type, network status, and device identifier (including
+
+IDFV(IOS)/OAID/IDFA(IOS))

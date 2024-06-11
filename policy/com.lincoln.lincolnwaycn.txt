@@ -1,0 +1,570 @@
+Lincoln Way Personal Information Protection Policy
+
+Effective date: November 1, 2022
+
+Ford Motor (China) Co., Ltd. and/or its affiliates (collectively referred to as "Lincoln", "We" or "We" in this policy) are well aware of the importance of personal information to you. We will take corresponding security measures according to the requirements of laws and regulations to try our best to protect your personal information safe and controllable. At the same time, we hope to help you understand how we will collect, use, share, store and protect your personal information and how you can manage your personal information through this personal information protection policy. You can access this personal information protection policy at any time through the "Personal Information Protection Policy" page in the Lincoln Way [Settings].
+
+This personal information protection policy is applicable to your personal information collected and used by us in the following scenarios: (1) You browse and use the functions or services of Lincoln Road (including APP and WeChat official account); (2) You can browse and use the functions or services of internet subscription; And (3) You interact with us and provide personal information through telephone, email, social media, visiting dealer stores, Lincoln showroom, auto show, flash store and other online or offline channels.
+
+Before using various products and/or services of Lincoln Way, please read and fully understand this personal information protection policy, especially the terms marked with bold/bold underline. If you have any questions, opinions or suggestions about the contents of this personal information protection policy, you can contact us at any time according to the contact information listed in this personal information protection policy.
+
+This personal information protection policy will help you understand the following:
+
+<w:sdtpr></w:sdtpr>
+
+I How do we collect and use personal information two
+
+II How do we use cookies and other similar technologies seven
+
+III How do we share, transfer and publicly disclose personal information seven
+
+IV How do we store personal information nine
+
+V How do we protect the security of personal information nine
+
+VI How do you manage personal information nine
+
+VII Special agreement on the protection of minors' information ten
+
+VIII How to update this policy eleven
+
+IX How to contact us eleven
+
+
+<w:sdt> </w:sdt>
+
+
+
+I How do we collect and use personal information
+When you use Lincoln Way products and/or services, your personal information we need/may need to collect and use can be divided into the following two categories:
+
+(1) In order to realize a certain function of Lincoln Way products and/or services we provide to you, we need to collect and use your personal information. The lack of such information will cause you to be unable to use the relevant functions ("necessary information");
+
+(2) Further, in order to enrich and improve your use experience, develop new products, etc., we hope to collect and use your personal information additionally. Without such information, you may not get the best effect of using the product and/or service, but it will not affect your normal use of the basic functions of the products and/or services of Linkenzhidao ("unnecessary information").
+
+You are free to choose whether to allow us to collect any necessary or unnecessary information to use or reject which products and/or services in the Lincoln Way. We have listed below the necessary and non-necessary information to be collected for the products and/or services of Lincoln Way for you to make a fully informed decision. We will not collect relevant personal information before you start to use these products and/or services.
+
+In addition, the Lincoln Way may include or access third-party products and/or services that are not owned or controlled by Lincoln (hereinafter referred to as "third-party services"). Although this personal information protection policy does not apply to third-party services, we will try our best to ask the third-party service provider to provide sufficient security protection level for your personal information and will clearly inform you that the service is provided by a specific third party on the specific product page, and at the same time to ensure that you make a fully informed decision, We recommend that you carefully read the rules of the third party regarding the collection and use of personal information when accessing and using the third party services.
+
+When you use the following products or services, we will collect and use your following personal information:
+
+1.1 Account registration and management
+
+In order to use the Lincoln Way, you need to register a Ford account, which is the basis for us to provide you with the following other functions. To do this, you need to enter your mobile number, name and password according to the instructions. Ford Account Service provides you with a central account, which will be used to log in to various digital platforms ("Ford Platform") operated by Ford China and its affiliates in China (only for the purpose of this personal information protection policy, excluding Hong Kong Special Administrative Region, Macao Special Administrative Region and Taiwan), including Ford website, mobile client, application, WeChat public platform, applet, etc, It includes but is not limited to the Ford application, the Ford driver guide widget, and the Lincoln financial account management platform.
+
+You can also use a third-party platform account (such as WeChat, Apple ID) to directly register and log in to Lincoln Way. To do this, you need to authorize us to obtain the public information (avatar, nickname, gender and other information authorized by you) registered on the third-party platform. In this case, you still need to enter according to the instructions to provide us with your mobile phone number to complete the registration of the Ford account. In addition, you agree that we will bind your Ford account with the third-party platform account, so that you can directly use the third-party platform account to log in to Lincoln.
+
+To ensure that we are providing services for you, we may verify your mobile phone number by sending SMS verification code. When you conduct some operations in the Lincoln Way that may have a significant impact on your personal or property rights and interests, we may require you to verify your identity again to ensure the security of your account.
+
+If your device supports, you can also choose to turn on face or fingerprint login. In this case, we will only receive the authentication results from your device supplier, and will not collect or use any face or fingerprint information of you.
+
+You can also choose not to register a Ford account, but in this case, you can only use very limited functions such as web browsing.
+
+1.2 Lincoln Member Club
+
+Anyone who registers in the Lincoln Way can obtain the membership of the Lincoln Club at the same time. You can choose to further provide us with your gender, nickname, birthday, city, and avatar to improve your membership information, so that we can better understand your relevant situation, provide you with more optimized products and/or services and more personalized use experience. If you choose to customize your avatar, we will open the system camera permissions or album permissions of your mobile device according to your authorization.
+
+Through the Lincoln Member Club, you can obtain corresponding points through the Lincoln Way APP, Lincoln dealers, offline activities and other ways to exchange for Lincoln boutiques or gift certificates. We will record your points and gift certificate information and show it to you on the Lincoln Way. In order to provide you with a richer Lincoln membership service, we need to use at least the name, nickname, avatar, mobile phone number and vehicle identification number (VIN) you have previously provided. When you participate in the recommended car purchase activity, you need to at least enter further according to the instructions to provide us with the name and contact information of the recommended person you recommend to buy a car. You need to confirm that you have obtained the full authorization of the recommended person. You need to select the city and Lincoln Center recommended to the recommended person, and you can also fill in the intended model. When you participate in the Lincoln Member Club event, you can choose to manually enter the relevant location information, or authorize us to obtain the current location information of your mobile device for the event check-in.
+
+1.3 Check your vehicle status and remote control
+
+
+
+If your vehicle is equipped with an on-board Internet connection module and/or an on-board infotainment system, you can view the vehicle status in the Lincoln Road, including vehicle location, fuel volume, power, oil, mileage, tire pressure, vehicle warning information, air quality, filter element status and historical charging records (if applicable). In addition, you can remotely control vehicle operations such as remote start, remote unlock and unlock.
+
+To achieve the above functions, you:
+
+(1) First, you need to add your vehicle information to the Lincoln Road. To do this, we need to use at least the mobile phone number you have provided before and your vehicle identification number (VIN) as instructed. You can choose to further input your license plate number according to the instructions to improve your vehicle information, so that you do not need to repeat manual input when using the following related functions. If you add a vehicle by scanning the code, we will open the system camera permission of your mobile device according to your authorization.
+
+(2) Secondly, you need to complete real-name authentication in the Lincoln Way. This service is directly provided to you by Unicom Smart Network Technology Co., Ltd. ("Unicom"). In order to complete real-name authentication, Unicom may need to collect your personal information. Please pay attention to the personal information protection policy of Unicom.
+
+
+
+(3) Finally, you need to activate the vehicle according to the instructions in the Lincoln Road. In this process, you need to accept and agree to the Lincoln Way Interconnection Terms and Conditions, and authorize us to obtain the information you agreed to provide in the Lincoln Way Interconnection Terms and Conditions, so as to display the corresponding information in the Lincoln Way and complete your instructions in the Lincoln Way.
+
+Please note that in order to make it more convenient for you and your family and friends to use the Lincoln Road function, Lincoln Road can allow multiple users to activate the same vehicle after obtaining appropriate authorization, and the vehicle status information (including vehicle location) will be visible to all users who have activated the same vehicle.
+
+1.4 Smart phone key
+
+
+
+In order to provide you with the "smart phone key" service, you need to activate the vehicle according to the process described in Article 1.2 of this personal information protection policy, and at least we need to use the mobile phone number, vehicle identification number (VIN) you have previously provided and obtain the mobile phone location.
+
+If your smart phone key has the "share" function, when you use this function, we will share your mobile phone number and vehicle identification number (VIN) to your designated shared person according to your instructions in the Lincoln Road. If you choose to retrieve the contact information of the shared person directly from the address book, we will open the address book permission of your mobile device according to your authorization. Through the "sharing" function, you can get the vehicle location information and vehicle status information (including fuel quantity, electricity, oil, mileage, tire pressure, vehicle warning information, air quality and filter element status, and charging record) during the shared person's use of the vehicle. Therefore, you need to confirm that you have obtained the full authorization of the shared person when sharing your smartphone key.
+
+1.5 Maps
+
+
+
+When you use the "Map" service, you can choose to manually enter the relevant location information, or authorize us to obtain the current location information of your mobile device, so that you do not need to manually enter your own location information to obtain the relevant services, including navigating according to your current location and finding the information of nearby dealers, gas stations, charging stations and parking lots. We will use various technologies for positioning, including IP address, GPS and other sensors that can provide relevant information (such as WLAN access points) (these positioning technologies will be used when collecting positioning information in the following).
+
+1.6 Lincoln Community
+
+
+
+This service is directly provided to you by Beijing Dahe Zhiyue Technology Media Co., Ltd. ("Dahe Zhiyue") (Lincoln Road 5.0.1 and earlier versions are provided by Shanghai Qianshi Network Technology Co., Ltd.). For their service needs, we will share your name, nickname, mobile number, avatar, gender, birthday, and city information with them. According to the relevant national regulations, we will also share your IP address with Dahe Zhiyue to display your IP address in the community. During the service process, Dahe Zhiyue may need to collect your other personal information. Please pay attention to Dahe Zhiyue's personal information protection policy. Dahe Zhiyue will share your information about the number of releases, collections, followers, fans and interactive points with Lincoln Way according to your authorization, for you to view and enjoy the rights and interests of points in Lincoln Way.
+
+1.7 Lincoln Club Z
+
+
+
+This service is directly provided to you by Beijing Dahe Zhiyue Technology Media Co., Ltd. ("Dahe Zhiyue") (Lincoln Road 5.0.1 and earlier versions are provided by Shanghai Qianshi Network Technology Co., Ltd.). For their service needs, we will share your name, nickname, mobile number, avatar, gender, birthday, and city information with them. According to the relevant national regulations, we will also share your IP address with Dahe Zhiyue to display your IP address in the community. During the service process, Dahe Zhiyue may need to collect your other personal information. Please pay attention to Dahe Zhiyue's personal information protection policy. Dahe Zhiyue will share your information about the number of releases, collections, followers, fans and interactive points with Lincoln Way according to your authorization, for you to view and enjoy the rights and interests of points in Lincoln Way.
+
+1.8 New Lincoln Z National Roadshow
+
+In order to provide you with the registration service for the "New Lincoln Z National Roadshow" (hereinafter referred to as the roadshow) through the Lincoln Road WeChat terminal, we need to collect and use your name, contact number, the city you want to participate in the event, and the time period you want to participate. If you provide the above information in the registration system, we will directly call it from the system.
+
+
+
+The WeChat terminal of Lincoln Road and the roadshow registration page only provide you with the registration information submission service. The offline event confirmation and roadshow experience service will be directly provided to you by the roadshow service provider and the local authorized dealer of Lincoln brand in the city where you want to participate in the event. We will share your aforementioned information with you to provide service needs. The aforementioned roadshow service providers and dealers may need to collect your other personal information during the service process. Please pay attention to their personal information protection policies.
+
+
+
+1.9 One-day store manager
+
+In order to provide you with the registration service of "One Day Store Manager" through the WeChat terminal of the Lincoln Way, Lincoln needs to collect and use your name, contact number, and the Lincoln models you own or want to buy. You can further provide us with your thoughts after you have been successfully elected as "One Day Store Manager". For example, in combination with your professional background and interests, what services do you want to help dealers improve? For example, you provided the above information in the registration system, We will call it directly from the system. When Lincoln creates an exclusive one-day store manager for you, in order to focus on and highlight your personalized needs, we will contact you and, with your consent, supplement your age, professional background, and image photos.
+
+
+
+The WeChat terminal of Lincoln Way and the one-day store manager registration page only provide you with the registration information submission service. The confirmation of offline activities and the creation of exclusive one-day store manager service will be directly provided to you by the authorized dealer of the Lincoln brand you choose and the one-day store manager service provider. We will share your aforementioned information with you to provide service needs. The aforementioned dealer and one-day store manager service provider may need to collect your other personal information during the service process. Please pay attention to their personal information protection policy.
+
+
+
+In addition, in order to provide you with offline exclusive one-day store manager service and subsequent publicity, you authorize and agree that we can obtain your personal information and activity information from such dealers and one-day store manager service providers, including your name, age, contact number, professional background, vehicle model, background story related to exclusive time, event time, event dealer, image photo, event photo and event video.
+
+
+
+You can manually select the dealer that provides services for you, or authorize us to obtain the current location information of your mobile device for you to find the dealer information nearby.
+
+
+
+1.10 Lincoln moment
+
+
+
+In order to provide you with the registration service of "Lincoln Moment" through the WeChat terminal of Lincoln Road, we need to collect and use your name, contact number, purchase model, the city where you want to hold the event, the dealer you want to hold the event, and the background story of the exclusive moment. If you provide the above information in the registration system, we will directly call it from the system. When Lincoln creates an exclusive Lincoln moment for you, in order to focus on and highlight your personalized needs, we will contact you and, with your consent, supplement your age, professional background and image photos.
+
+
+
+The WeChat terminal of the Lincoln Way and the Lincoln Moment registration page only provide you with the registration information submission service. The offline event confirmation and the creation of exclusive Lincoln Moment service will be directly provided to you by the authorized dealer of the Lincoln brand you choose and the Lincoln Moment service provider. We will share your above information with you to provide service needs. The aforementioned dealer and Lincoln Moment service provider may need to collect your other personal information during the service process. Please pay attention to their personal information protection policy.
+
+
+
+In addition, in order to provide you with offline exclusive Lincoln Moment service and subsequent publicity, you authorize and agree that we can obtain your personal information and event information from such dealers and Lincoln Moment service providers, including your name, contact number, professional background, vehicle model, background story of exclusive moment, event time, event dealer, image photo, event photo and event video.
+
+
+
+You can manually select the dealer that provides services for you, or authorize us to obtain the current location information of your mobile device for you to find the dealer information nearby.
+
+
+
+1.11 Public charging
+
+
+
+This service is directly provided to you by Beijing Satellite New Technology Co., Ltd. ("Satellite New"). For its service needs, we will open the system camera permissions of your mobile device according to your authorization. During the service process, IVTU may need to collect your other personal information. Please pay attention to the personal information protection policy of IVTU.
+
+
+
+1.12 Flow management
+
+This service is provided to you directly by Unicom. We will share your vehicle identification number (VIN) with them for their service needs. During the service process, Unicom may need to collect your other personal information. Please pay attention to the personal information protection policy of Unicom.
+
+
+
+1.13 Online reservation, order management and query
+
+
+
+In order to provide you with the "online reservation" service, we need to collect and use your license plate number, vehicle identification number (VIN), name, contact number, current mileage and scheduled maintenance time at least. If you have provided the above information before, we will directly retrieve it from the system. When you use the "door-to-door pickup and delivery" service in the "online reservation", you need to at least enter further according to the instructions to provide us with your pickup address, pickup time and delivery address.
+
+Lincoln Way (including APP and WeChat) only provides online order submission service for you. The offline order confirmation, vehicle pick-up and delivery service and maintenance service will be directly provided to you by the authorized dealer of Lincoln brand you choose and the vehicle pickup and delivery service provider. We will share your above information with you to provide service needs. The aforementioned dealers and pick-up and delivery service providers may need to collect your other personal information during the service process. Please pay attention to their personal information protection policies.
+
+
+
+In addition, in order to provide you with order management and inquiry services, you authorize and agree that we can obtain information about your current order and historical order from such dealers and pick-up and delivery service providers, including your name, contact number, vehicle identification number (VIN), vehicle model, license plate number, appointment number, appointment time, repair and maintenance order number, repair and maintenance time, repair and maintenance dealer, repair and maintenance status Vehicle maintenance video (if any), pickup and delivery time, pickup and delivery address, pickup and delivery contact person and contact information. If you entrust someone to pick up the car and provide the name and telephone number of the person who picked up the car to the dealer and the pickup and delivery service provider, you confirm that you have obtained the consent of the person who picked up the car to us to obtain such information.
+
+You can manually select the dealer that provides services for you, or authorize us to obtain the current location information of your mobile device for you to find the dealer information nearby.
+
+In order to ensure that you can obtain high-quality and continuously optimized services through the Lincoln Way, we will contact you through the telephone number you provided during the reservation service within ten working days after the completion of the pickup and delivery service, and make a return visit on the service quality to obtain your feedback.
+
+
+
+1.14 Service information display
+
+
+
+In order to provide you with "My Service" information display, we need to collect and use your vehicle identification number (VIN) at least. If you have provided the above information before, we will call it directly from the system. In addition, you agree that we can obtain the basic warranty, extended warranty, service package information and usage information you currently enjoy from the authorized dealer of the Lincoln brand, so as to show you in the Lincoln Way.
+
+
+
+1.15 Road rescue
+
+
+
+In order to provide you with "road rescue" service, we need to collect and use your contact number and vehicle identification number (VIN) at least this time. If you have provided the above information before, we will call it directly from the system. You can choose to further provide us with the license plate number and contact name corresponding to your service and authorize us to obtain the current location information of your mobile device, so as to help us and offline road rescue service providers better understand your accident and provide you with more convenient road rescue services.
+
+Lincoln Way only provides online order submission service for you. The offline road rescue service will be provided directly to you by Allianz Insurance Group or the Shanghai branch of Luhua Rescue (Beijing) Co., Ltd. We will share your aforementioned information with you for its service needs. During the service process, the above service provider may need to collect your other personal information. Please pay attention to its personal information protection policy.
+
+1.16 Lincoln Financial Housekeeper
+
+
+
+This service is directly provided to you by Ford Motor Finance (China) Co., Ltd. ("Ford Finance"). If your mobile phone number in the Ford account information is the same as the one you used when you handled the loan at Ford Finance, you can log in to this service directly using the Ford account name and password.
+
+1.17 User feedback
+
+In order to provide you with the "user feedback" service, we need to collect and use at least your account registration information, the vehicle identification number (VIN) you have added, your vehicle nickname, the type of question you selected and the question/suggestion. You can further choose to provide a detailed text description of the problem/opinion by directly entering the text, upload relevant photos, so that we can understand your feedback content in detail, and timely inform you of the processing results through the message center of the Lincoln Way. If you have provided the above information before, we will call it directly from the system. If you use the upload photo service, we will open the album access or camera access rights of your mobile device according to your authorization.
+
+1.18 Log in to SYNC+system
+
+
+
+If your vehicle is equipped with SYNC+in-vehicle infotainment system ("SYNC+system"), you can log in to the SYNC+system in the Lincoln Road. To this end, you need to complete the binding of Ford account and Baidu account, including that we will share your mobile phone number in your Ford account information with Beijing Baidu Netcom Technology Co., Ltd. ("Baidu"), and you need to enter your Baidu account name according to the instructions. If you have not registered a Baidu account before, please complete the registration. For this reason, Baidu may need to collect your personal information. Please pay attention to Baidu's personal information protection policy.
+
+1.19 Interaction
+
+When you interact with us through telephone, email, social media, visiting dealer stores, Lincoln showroom, auto show, flash store and other online or offline channels, we may collect your contact information you provide or tell us, and further contact you to introduce and recommend our products, services or activities. You can explicitly refuse us to contact you further after receiving our introduction or recommendation, and we will also protect your personal information according to the contents of this personal protection policy.
+
+
+
+1.20 Lincoln Chief Counsel
+
+
+
+In order to provide you with the "Lincoln Chief Consultant" service, we need at least to collect and use your name and mobile phone number so that Lincoln Chief Consultant can contact you and provide assistance remotely. If you have provided the above information before, we will call it directly from the system. To ensure the quality of service, your call with Lincoln's chief consultant may be recorded.
+
+
+
+1.21 Internet subscription
+
+For the owners of the new Lincoln Z Premium and above models, we will judge the activation status of your car according to your vehicle identification number (VIN), and collect and display the details of your Smart Drive trial service, the activation status of the trial service, and the validity of the trial service for you in the "Internet Subscription".
+
+
+
+1.22 Help you create orders and order management
+
+When you order the products and/or services provided by us or a third party service provider in the Lincoln Way, in order to help you create an order and successfully complete the transaction, and to ensure your transaction security, facilitate you to query the order information and manage the order, and provide customer service and after-sales service, we will collect and use your mobile phone number, vehicle identification number (VIN) Order information (including specific order number, specific product or service information purchased, order creation time, amount you should pay) and your payment information (including payment method, payment time, payment amount, third-party payment serial number). If you have previously provided the above information, we will directly call it from the system.
+
+1.23 What permissions do we open
+
+
+
+In order to provide relevant products and services, we need your authorization to open the following relevant permissions to collect relevant information. If you refuse to open relevant permissions, you may not be able to obtain relevant functions or services. After updating and upgrading, we will not restore the set personal information permissions to the default state without your consent.
+
+
+
+Location permissions: When you use the Lincoln Community and Lincoln Club Z on the Lincoln Path APP to post and use the location-related functions in the smart digital key, online reservation and vehicle charging service, we may need to turn on the location permissions of your mobile device.
+
+
+
+Camera or photo album permissions: When you upload your avatar and real-name authentication through the Lincoln Road APP, upload pictures in the Lincoln Community and Lincoln Club Z, scan the barcode and QR code to bind the car, we may need to turn on the camera or photo album permissions of your mobile device.
+
+Bluetooth permission: When you use the smart digital key function of the Lincoln Way APP, we may need to turn on the Bluetooth permission of your mobile device.
+
+Notification authority: When you use the Lincoln Way APP, we may need to turn on the notification authority of your mobile device, so that you can accept the vehicle status reminder, point benefit message and marketing information.
+
+Storage permission: When you use the Lincoln Way APP, we may need to open your mobile phone storage permission so that you can use the account service, customer service, code scanning, and Applink (if equipped) functions normally.
+
+Microphone permission: When you use the Lincoln Chief Consultant function of the Lincoln Way APP, we may need to turn on your phone microphone permission so that you can use the question function and FAQ Q&A function normally.
+
+1.24 Provide you with security
+
+In order to ensure the safe and stable operation of the products and/or services provided to you and prevent computer viruses, network attacks, network intrusions and other security risks, we will collect and use your device information (including device model, software and operating system version), network log information, unique device identification code (IMEI/Android ID/IDFA/IDFV/OpenUDID/GUID), Internet protocol address, and mobile network information.
+
+Please note that the information collected to provide security is necessary for the use of any products or services of Lincoln Way.
+
+Please note that separate device information and network log information are information that cannot identify a specific natural person. Unless otherwise authorized by you or stipulated by laws and regulations, we will anonymize or de-identify such information. If we use such non-personal information in combination with other information to identify a specific natural person, or use it in combination with personal information, such non-personal information will be considered as personal information during the combined use, and its use will be subject to the purpose and scope stated in this personal information protection policy.
+
+1.25 Provide you with more optimized services
+
+To further develop and improve our products and/or services, improve your use experience, develop new products, and realize
+
+For the purpose of displaying or pushing customized information and advertising, we may further use the personal information collected in the Lincoln Road to analyze, generate user portraits or feature labels, and may send you personalized promotional information or provide you with customized services; We may also conduct a service return visit to get your feedback; We invite you to participate in our activities.
+
+For the above purposes, we will also collect your clickstream data on the Lincoln Road. For details, see Chapter 2 of this personal information protection policy. Failure to provide such information will not affect your normal use of Lincoln Way products and/or services, but we will not be able to provide you with a more optimized and personalized use experience. If you do not agree with us to collect such information, you can contact us at any time according to the contact information listed in this personal information protection policy.
+
+If you do not want to accept personalized display or customized information and advertisements, you can go to [Settings] to turn off the "personalized display" option. After turning off, the number of information and advertisements you see may not decrease, but will not be displayed or pushed to you based on your personal information.
+
+If you do not want to accept commercial information or advertising, you can go to [Settings] to turn off the "Accept marketing content" option.
+
+
+
+1.26 Other rules for collecting and using personal information
+
+If the information you provide to us contains personal information of others, you need to ensure that you have obtained legal authorization when providing such personal information.
+
+We may indirectly obtain your personal information from a third party. In this case, we will ask the third party to explain the source of its personal information and confirm that the information provided to us complies with laws and regulations (including obtaining your legal authorization if applicable).
+
+We may combine your personal information collected from other sources or from a third party with your personal information collected by us in the Lincoln Road. In this case, our use will be strictly limited to the scope of direct or reasonable connection with the purpose agreed upon when you provide the information and carry out personal information security impact assessment according to the purpose for which the combined personal information is used, Take effective personal information protection measures.
+
+The third party SDK is embedded in the Lincoln Way. These third-party SDKs may collect your personal information while cooperating with us to provide you with more comprehensive services. Please refer to Annex I of this Personal Information Protection Policy for the specific third party name, SDK type, type of personal information collected and purpose of collection.
+
+Please know that according to relevant laws and regulations, we do not need your authorization to collect, use and process your personal information under the following circumstances:
+
+(1) Necessary for the conclusion and performance of the contract to which you are a party;
+
+(2) Necessary for the performance of legal duties or obligations;
+
+(3) It is necessary to respond to public health emergencies or to protect the life, health and property safety of natural persons in emergencies;
+
+(4) Conduct news reporting, public opinion supervision and other activities for the public interest, and handle your personal information within a reasonable range;
+
+(5) Dispose of your own personal information or other legally disclosed personal information within a reasonable scope in accordance with the Personal Information Protection Law of the People's Republic of China;
+
+(6) Other circumstances stipulated by laws and administrative regulations.
+
+II How do we use cookies and other similar technologies
+In the Lincoln Way, we will use Clickstream, that is, clickstream data. Click stream data is the information collated from the network log, including which functions you have opened in the Lincoln Road, the time you have opened and exited the functions, and the time you have stayed on the page. This information will help us understand how you use our products and/or services, so as to further develop and improve our products and/or services, and improve your use experience Develop new products and recommend content that you may be interested in.
+
+If you want to close such data collection, you can contact us according to the contact information listed in this personal information protection policy. However, please note that if you turn off such data collection, you may not be able to obtain a more optimized and personalized use experience.
+
+III How do we share, transfer and publicly disclose personal information
+3.1 Entrusted processing
+
+In order to provide you with Lincoln's Way products and/or services, complete your instructions in Lincoln's Way, and for other purposes stated in this personal information protection policy, we may entrust suppliers to process your personal information. Such suppliers can only access the information they need to perform their duties, and we will regulate their use of your personal information through agreement and require them to provide adequate security protection for your personal information.
+
+3.2 Sharing
+
+We will not share your personal information with any third party unless:
+
+(1) Sharing under legal circumstances: We may share your personal information according to laws and regulations, litigation, dispute resolution needs, or according to the requirements of administrative and judicial authorities according to law;
+
+(2) Share with our related parties: according to this personal information protection policy, Ford will make full use of their professional resources and capabilities based on the division of labor of the company group, so as to jointly/separately provide you with products and/or services and achieve other purposes stated in this personal information protection policy;
+
+(3) Share with dealers and authorized partners: We may share your personal information with our dealers and authorized partners to provide you with better vehicle sales and services, and user experience.
+
+(4) Share with explicit consent: After obtaining your explicit consent, we will share your personal information with other third parties.
+
+You have the right to know the recipient's name, contact information, processing purpose, processing method and type of personal information. If you want to learn more about relevant information, you can contact us at any time according to the contact information listed in this personal information protection policy.
+
+
+
+3.3 Transfer
+
+
+
+We will not transfer your personal information to any third party, unless:
+
+(1) We have obtained your consent or authorization for information transfer;
+
+(2) According to the requirements of laws and regulations, mandatory administrative law enforcement or judicial requirements; or
+
+(3) When it comes to asset transfer, acquisition, merger, reorganization or bankruptcy liquidation, if it comes to personal information transfer, we will inform you of the relevant situation and require the new company or organization that controls your personal information to continue to be bound by this personal information protection policy. Otherwise, we will require the company or organization to ask you for authorization again.
+
+
+
+3.4 Public disclosure
+
+
+
+We will not publicly disclose your personal information unless:
+
+(1) Obtain your explicit consent or based on your active choice; or
+
+(2) According to the requirements of laws and regulations, mandatory administrative law enforcement or judicial requirements.
+
+
+
+Please be aware that, according to relevant laws and regulations and national standards, if we take technical measures and other necessary measures to process personal information, which makes the data receiver unable to re-identify or associate with specific individuals, the sharing and transfer of such processed data need not be notified to you and your consent.
+
+IV How do we store personal information
+Personal information collected and generated by us in the operation of the People's Republic of China will be stored in the People's Republic of China.
+
+We are only in (1) the period necessary to achieve the purpose stated in this personal information protection policy; (2) Other time limit specified by laws and regulations; Or (3) keep your personal information for another period (the longest period shall prevail) as otherwise authorized and agreed by you. After the above storage period is exceeded or your account is cancelled, we will delete or anonymize your personal information.
+
+For the purpose stated in this personal information protection policy, you agree and allow us to provide your personal information to our overseas affiliates after fulfilling the relevant requirements of data exit stipulated by applicable laws and regulations. Different jurisdictions may have different data protection laws. In such cases, we will ensure that your personal information is protected no less than that obtained in the People's Republic of China. You have the right to know the name or name of the overseas recipient, contact information, processing purpose, processing method and type of personal information, as well as the methods and procedures you can use to exercise your legal rights to the overseas recipient. If you want to learn more about relevant information, you can contact us at any time according to the contact information listed in this personal information protection policy.
+
+V How do we protect the security of personal information
+5.1 We use various security technologies and procedures to prevent the loss, improper use, unauthorized reading, disclosure and sharing of information. We will use encryption technology (such as SSL), anonymous processing and relevant reasonable and feasible means to protect your personal information and use security protection mechanism to prevent your personal information from malicious attacks. However, please understand that due to technical limitations and possible malicious means, even if we do our best to strengthen security measures, it is impossible to always ensure 100% security of information. Therefore, we strongly recommend that you take positive measures to help us protect your account and personal information, including but not limited to using complex passwords, regularly changing passwords, and not disclosing your account passwords and relevant personal information to others.
+
+5.2 In the event of an unfortunate personal information security incident, we will launch the emergency response plan in accordance with the requirements of laws and regulations, and promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, the suggestions you can take to prevent and reduce risks independently, and the remedial measures for you. We will promptly inform you of the relevant information of the event by mail, letter, telephone, push notification, etc. When it is difficult to inform the personal information subject one by one, we will take reasonable and effective ways to release the announcement. At the same time, we will also report the disposal of personal information security incidents according to the requirements of regulatory authorities.
+
+5.3 When our products or services stop operating, we will stop collecting personal information in time. We will notify you of the above changes in the form of push notice, announcement and related forms, and delete your personal information or conduct anonymous processing within a reasonable period of time (the so-called "anonymous processing" refers to the process that the subject of personal information cannot be identified and the processed information cannot be recovered through the technical processing of personal information. The information obtained after the anonymous processing of personal information is not personal information).
+
+
+VI How do you manage personal information
+6.1 Review, correct and supplement your personal information
+
+You have the right to check, correct and supplement the account registration information and vehicle information you provided to us at any time.
+
+You can go to "My Account" in the Lincoln Road and click "View and Edit Account Information" to check, correct and supplement your Ford account information. You can go to "My Vehicle" in the Lincoln Road to check, correct and supplement your vehicle information. When you review, correct and supplement the above information, we may require you to conduct identity verification to ensure account security.
+
+If you cannot access, correct and supplement your information through the above methods, you can contact us at any time according to the contact information listed in this personal information protection policy to make such requests.
+
+6.2 Delete your personal information
+
+You can delete some of your information in the way described in 6.1. Further, you can call Lincoln's chief consultant to cancel your Ford account. After you cancel your account, in addition to the personal information necessary to continue to perform the outstanding contract between you and us or in accordance with the requirements of relevant laws and regulations, we will delete all your personal information collected in the Lincoln Way or anonymize it. When you delete information or cancel your account, we may ask you to verify your identity to ensure account security.
+
+For some information that cannot be deleted in the way described in Article 6.1, if you do not want to cancel your account, you can contact us according to the contact information listed in this personal information protection policy and request to delete such personal information under any of the following circumstances:
+
+(1) If we handle your personal information in violation of laws and regulations;
+
+(2) If we collect and use your personal information without your consent or beyond the scope of your consent;
+
+(3) If we share, transfer or publicly disclose your personal information to a third party in violation of the agreement with you.
+
+
+If you log in to the Lincoln Financial Account Management Platform through your Ford account, your account in the Lincoln Financial Account Management Platform will not be cancelled at the same time after you log out of your Ford account. If you want to cancel the account in the Lincoln Financial Account Management Platform at the same time, please log in to the Lincoln Financial Account Management Platform and contact Lincoln Financial Customer Service to cancel it.
+
+
+6.3 Change or withdrawal of authorization
+
+You can change the scope of your authorization for us to continue collecting information or withdraw your authorization by deleting information, turning off device functions, etc. You can also turn off the geographic location permission, camera, microphone and photo permission in the device's own operating system to change the scope of consent or revoke your authorization.
+
+If you cannot change or withdraw your authorization in the above way, you can contact us at any time according to the contact information listed in this personal information protection policy to make such request.
+
+When you withdraw your authorization and consent, we will no longer process the corresponding personal information, but will not affect our previous personal information processing based on your authorization and consent.
+
+
+VII Special agreement on the protection of minors' information
+Lincoln Way products and/or services are designed for adults only. You must be at least 18 years old or reach the legal age of majority in the country or region where you live before you can register and have a Ford account. Any child under the age of 14 shall not register and use Lincoln Way products and/or services without the explicit consent of the guardian. We have no intention of collecting any personal information of minors. If we find ourselves collecting personal information of minors without the explicit consent of verifiable parents or other guardians in advance, we will try to delete the relevant data as soon as possible.
+
+
+VIII How to update this policy
+Our services and technologies are constantly updated and optimized with the needs of you and other users. Therefore, we may modify this personal information protection policy in due time. You can access the latest version of this personal information protection policy at any time through the "Personal Information Protection Policy" page in the Lincoln Way [Settings].
+
+For the following major changes, we will remind you to read our updated personal information protection policy terms in more significant ways (including but not limited to SMS, push message in app, pop-up window, red dot prompt, etc.):
+
+(1) Significant changes have taken place in the purpose, method and scope of our collection and use of personal information;
+
+(2) Major changes have taken place in our corporate structure and organizational structure, such as major business adjustments, bankruptcy, mergers and acquisitions;
+
+(3) The main objects of personal information sharing, transfer or public disclosure have changed significantly;
+
+(4) Your right to participate in personal information processing and the way you exercise it have changed significantly;
+
+(5) The department responsible for handling personal information security, contact information and complaint channels have changed.
+
+IX How to contact us
+Basic information of the operator of the Lincoln Way:
+
+Company name: Ford Motor (China) Co., Ltd
+
+Registered address: 35/F, 211 Century Avenue, Pudong New Area, Shanghai
+
+Contact information for personal information protection:
+
+Lincoln Way Concierge
+
+Tel: 400-988-6788
+
+Email: info12@lincoln.com
+
+Business hours: 8:00 a.m. to 10:00 p.m. (manual customer service)
+
+If you have any questions, opinions or suggestions about the contents of this personal information protection policy, or find that your personal information may be leaked, or you want to exercise the right to check, correct, delete personal information and other relevant rights, you can contact us through the above methods. We will review your questions or requests as soon as possible. Generally, we will reply within 15 working days after verifying your user identity. If you are not satisfied with our reply, especially if our personal information processing behavior has damaged your legitimate rights and interests, you can also file a complaint with the competent authorities such as the Office of Internet Information Services or file a lawsuit in the court with jurisdiction.
+
+Revision record of personal information protection policy:
+
+Version number
+
+Release and effective date
+
+V1.0
+
+2019.09.18
+
+V2.0
+
+2021.02.26
+
+V3.0
+
+2021.08.24
+
+V4.0
+
+2021.09.26
+
+V5.0
+
+2021.12.22
+
+V6.0
+
+2022.02.28
+
+V7.0
+
+2022.07.28
+
+V8.0
+
+2022.08.25
+
+V9.0
+
+2022.11.01
+
+
+
+Annex I to the Lincoln Way Personal Information Protection Policy
+
+In order to ensure the realization of functions related to the Lincoln Way and the safe and stable operation of the application, we will access the software development kit (SDK) provided by a third party to achieve this purpose. Lincoln will test third-party SDKs according to strict security standards, and require partners to strictly protect your personal information. With the increase of Lincoln Way products and services, we may introduce some new SDKs, which we will disclose to you here. For details, please refer to the official description of the third party's privacy terms. If the type of personal information transmitted to the third party and the identity of the third party receiving the data change, we will also notify you in time and obtain your consent again. Details of third-party SDKs embedded in the Lincoln Way App (the following SDKs are for the purpose described in Article 1 of this personal information protection policy)
+
+Third-party SDK name: Dynatrace
+Applicable system: Android/iOS
+Third-party SDK source: Lingji Software Services (Shanghai) Co., Ltd
+Collected personal information content: GUID, mobile phone number, Clickstream (click stream data), Device ID, VIN (vehicle identification number), vehicle model, vehicle model year, process in operation, IDFV
+Purpose of collecting personal information: 1. Record bugs, crashes and other product exceptions, track and solve problems, record and analyze user behavior, and provide you with more optimized services
+Third party privacy terms link: [link]
+
+Third-party SDK name: Baidu Map
+Applicable system: Android/iOS
+Third-party SDK source: Beijing Baidu Netcom Technology Co., Ltd
+Personal information collected: location information, reading SD card data, Android ID
+The purpose of collecting personal information: 1. locate the current location and provide navigation and peripheral search functions according to the current location; 2. Read SD card data for writing offline positioning data
+Third party privacy terms link: [link]
+
+Third-party SDK name: Carlink SDK
+Applicable system: Android/iOS
+Third-party SDK source: Beijing Baidu Netcom Technology Co., Ltd
+Contents of personal information collected: mobile phone number, VIN (vehicle identification code), vehicle and machine equipment ID, Ford account user name, location information, reading SD card data, network device hardware address MAC, device IMSI, device IMEI, all applications collected and installed, Android ID, SIM card information, getting running process, WiFi_ SSID
+
+The purpose of collecting personal information: 1. Bind Ford account and Baidu account, log in or replace Baidu account, log in SYNC+car machine system 2. Use location information when sending location information to car machine function 3. Read SD card data to store and read Baidu login cache 4 Help developers provide security risk control functions for account login to end users (including device risk environment detection, malicious application detection, vulnerability detection, DNS hijacking detection, network security detection, security WIFI protection, communication security protection, etc.), and ensure the security of login functions. 5. More accurately locate and solve the problems that developers and end users encounter when using Baidu Internet of Vehicles account to login SDK products and services, Improve and optimize the dual experience of Baidu Internet of Vehicles account login SDK products and services on the developer side and end user side
+Third party privacy terms link: [link]
+
+Third-party SDK name: Ingeek (only applicable to specific models of Lincoln brand)
+Applicable system: Android/iOS
+Source of third-party SDK: Shanghai Yinji Information Security Technology Co., Ltd
+Personal information collected: mobile phone number, shared person's mobile phone number, VIN (vehicle identification number), Bluetooth information, location information, reading SD card data
+Purpose of collecting personal information: 1. Use the "smart phone key" function; 2. Location information is used for Bluetooth scanning; 3. Read SD card data for storing key data
+Third party privacy terms link: https://www.ingeek.com/ ， 021-62815577， info@ingeek.com
+
+Third-party SDK name: Baidu push
+Applicable system: Android
+Third-party SDK source: Beijing Baidu Netcom Technology Co., Ltd
+Collected personal information content: Device ID, App version, mobile phone notification permission
+The purpose of collecting personal information: to send notifications or information to users
+In order to ensure that users can receive real-time messages, we will try to start the application automatically when your Android device status changes (network status, restart, application update, etc.), so as to better provide you with timely message push service.
+Third party privacy terms link: [link]
+
+Third-party SDK name: Tencent scanning SDK
+Applicable system: Android/iOS
+Third-party SDK source: Shenzhen Tencent Computer System Co., Ltd
+Collected personal information content: camera data, reading SD card data
+The purpose of collecting personal information: 1. The camera data is used for the code scanning function; 2. Read SD card data for offline code scanning
+Third party privacy terms link: [link]
+
+Third-party SDK name: Tencent Live Identity SDK
+Applicable system: Android/iOS
+Third-party SDK source: Shenzhen Tencent Computer System Co., Ltd
+Content of personal information collected: real-name authentication live body detection video
+Purpose of collecting personal information: real-name authentication live detection (this function is provided by Unicom, please pay attention to Unicom's personal information protection policy, Ford does not collect any personal biometric information)
+Third party privacy terms link: [link]
+
+Third-party SDK name: Digital AI App reinforcement
+Applicable system: Android/iOS
+Third-party SDK source: Digital.ai Software Inc
+Content of personal information collected: collect all installed apps and Android IDs
+The purpose of collecting personal information: find out whether there is hacker software in the mobile phone to prevent the app from being controlled and operated illegally
+Third party privacy terms link: [link]
+
+Third-party SDK name: Shence
+Applicable system: Android/iOS
+Third-party SDK source: Shence Network Technology (Beijing) Co., Ltd
+Content of personal information collected: collect VIN (vehicle identification number), GUID, clickstream data, Android id, Device ID, IDFV, mobile phone brand model and operating system version
+Purpose of collecting personal information: in order to better improve product quality and better provide services to users, it is necessary to record product exceptions, track and solve problems, and record and analyze user behavior
+Third party privacy terms link: [link]
+

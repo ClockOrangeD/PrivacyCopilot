@@ -1,0 +1,60 @@
+CarBaseEngine SDK is a Huawei vehicle-mounted SDK and service provided by Huawei Terminal Co., Ltd. (hereinafter referred to as "we" or "Huawei") for application developers (hereinafter referred to as "developers").
+
+After developers integrate CarBaseEngine SDK into their applications based on the development document and guide of CarBaseEngine SDK, we will provide relevant services to the end users (hereinafter referred to as "you" or "users") through the integrated CarBaseEngine SDK, and process the data related to the developer's application, which may include your personal information. Huawei attaches great importance to the protection of your personal information and privacy. We will provide corresponding security measures for your personal information in accordance with legal requirements and mature security standards in the industry. We will explain to you in this statement how we collect, use, disclose, protect, store, and transmit your personal information.
+
+Please note: We require all developers who integrate CarBaseEngine SDK to strictly follow the requirements of laws and regulations and the compliance guide of the SDK to handle your personal information. Before accessing and using various open capabilities, we require developers to inform you in their product application privacy policies of the basic information about the integration of the SDK for processing personal information and obtain your consent or other legal basis. However, we cannot control how developers and their application handle personal information controlled by developers, nor are we responsible for their behavior. We recommend that you carefully read the user agreement and privacy policy of the developer's application and use the developer's application only after you fully understand and agree to how the developer handles your personal information.
+
+How we collect and use your personal information
+Huawei will only collect and use your personal information for the purposes and in the manner described below in this statement. If we need to use your personal information collected for other purposes not mentioned in this statement, we will inform you in a reasonable way by ourselves or through developers and obtain your consent again or obtain other legal basis. If there are extended functions or optional personal information collected and used by the SDK, we will specify them in the following text.
+
+Ecological applications obtain vehicle-related information connected to HUAWEI HiCar to provide travel-related services:
+To enable third-party ecological applications to provide corresponding travel services, the CarBaseEngine SDK will collect hardware information of the vehicle connected to HUAWEI HiCar (including device model, screen resolution, and vehicle type), status information of the vehicle (including driving status, fuel level, battery level, tire pressure status), and sensor information of the vehicle (including speed, acceleration, gyroscope, light sensor).
+
+Device permission calling:
+
+Permission description:
+
+Purpose of use:
+
+com.huawei.hicar.HICAR_PERMISSION
+
+HiCar access permission
+
+Used to interact with HUAWEI HiCar App
+
+Protection of minors:
+We attach great importance to the protection of personal information of minors. Huawei will strictly comply with the requirements of national laws and regulations to provide services to and protect minors. If you are a minor, you need the consent of your parents or other guardians to use the developer's application and agree to the service terms of the relevant application. Parents or other guardians should also take appropriate precautions to protect minors, including monitoring their use of the developer's application.
+
+In particular, if you are a child (under the age of fourteen), before using the developer's application and our services, please make sure to notify your parents or other guardians to carefully read the privacy statement of the developer's application, this statement, and the "Huawei Consumer Business Child Privacy Protection Statement" specially formulated by us, and use the developer's application and our services or provide information to us after obtaining the consent or guidance of your parents or other guardians. If you are the parent or other guardian of a child, please ensure that the child under your guardianship uses the developer's application and our services and provides information to us with your consent or guidance.
+
+Sharing with third parties:
+Not involved.
+
+SDK integration third-party service statement:
+Not involved.
+
+SDK associated launch of other applications statement:
+When using the CarBaseEngine SDK through the developer's application, it may be associated with the launch of the HUAWEI HiCar application to provide application services in driving scenarios. It communicates with the device through a secure and stable Bluetooth/Wi-Fi channel and performs interface capability authentication for the developer's application, ensuring the security of service invocation.
+
+Managing your personal information:
+Huawei highly values your concern about personal information. We will coordinate, support, and guarantee your exercise of rights as the data subject, including rights of access, copying, correction, deletion, etc., in accordance with the requirements of relevant laws and regulations.
+
+As you use the CarBaseEngine SDK and services through the developer's application, if you want to access, copy, or correct personal information related to the CarBaseEngine SDK and services, you should implement your rights as the data subject through the path provided by the developer's application.
+
+To ensure the realization of your rights of access, copying, correction, and deletion of personal information, we explicitly require developers to commit to providing you with convenient ways to exercise your rights in accordance with legal requirements in the agreement with them. At the same time, our open capabilities also provide relevant interfaces to developers, supporting developers to execute your requests for access, copying, correction, and deletion of personal information through interface invocations. If the developer fails to provide as promised, you can contact us through the contact information described in the "How to Contact Us" section of this statement. We will make every effort to coordinate, support, and guarantee the realization of your above-mentioned rights.
+
+When you directly request the exercise of your rights as the data subject, in order to ensure the security of your data and other legitimate rights and interests, we may verify your identity and ask you to provide necessary personal information for identity verification. At the same time, we may provide the collected identity verification information to the developer to verify your identity. After verifying and confirming your identity, we will respond to your related requests promptly in accordance with legal requirements.
+
+If you have further requirements regarding your rights as the data subject or have any questions, opinions, or suggestions, you can contact us through the contact information described in the "How to Contact Us" section of this statement and exercise your relevant rights.
+
+Storage location and period of information:
+The CarBaseEngine SDK only processes personal data on the edge side and does not involve personal data storage in the cloud. Huawei does not provide cloud storage capabilities.
+
+How to Contact Us:
+We have designated a personal information protection officer. You can contact the personal information protection officer through this link. You can contact us via the privacy issues page, and we will respond as soon as possible. You can also contact the developer of the application to exercise your relevant rights. After receiving relevant requests from the developer and verifying their authenticity and legality, we will actively cooperate and respond to the requests.
+
+Company registered address: No.2, Xincheng Road, Songshan Lake Industrial Park, Dongguan City, Guangdong Province, Huawei Terminal Co., Ltd. Postal Code: 523773.
+
+If you are not satisfied with our reply, especially when our handling of personal information has caused harm to your legitimate rights and interests, you can also seek solutions through external channels, such as filing a lawsuit with a competent people's court, filing a complaint with an industry self-regulatory association or a government agency responsible for supervision. You can also contact us to learn about information on relevant complaint channels that may apply.
+
+Huawei will always collect and use your information in accordance with our privacy policy. For our privacy policy, please refer to the Huawei Consumer Business Privacy Statement.

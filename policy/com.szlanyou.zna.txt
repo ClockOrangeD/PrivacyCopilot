@@ -1,0 +1,149 @@
+"Privacy Policy"
+
+Version release date: April 25, 2022
+Version update date: July 5, 2023
+Version effective date: July 5, 2023
+
+If you have any questions, opinions, or suggestions regarding our "Zhengzhou Nissan Smart Connection Privacy Policy", please contact our customer service hotline at 400-699-9766.
+
+Notice and Terms
+
+Your trust is important to us, and we understand the importance of personal information to you. We will take appropriate security measures in accordance with legal requirements to protect the security and control of your personal information. In light of this, Zhengzhou Nissan Motor Co., Ltd. (referred to as "we" or "Zhengzhou Nissan") has developed this policy and would like to remind you of the following:
+
+This policy applies to all products and/or services provided by Zhengzhou Nissan Smart Connection (referred to as "this product and/or service"). If our affiliated companies (as detailed in the Definitions section) use this product or service but do not have separate privacy policies, this policy also applies to those products or services.
+
+It should be noted that when a third party provides products/services to you through our platform, their collection and processing of personal information and other behaviors will be subject to their own privacy policies, not this privacy policy. This privacy policy also does not apply to products or services within this product and/or service that have been independently set up with separate legal notices and privacy policies.
+
+Before using this product and/or service, please read and fully understand this policy carefully. By checking "Read and Agree to the Privacy Policy", you indicate that you have fully understood and agreed to this policy. If you do not agree to any part of this policy, please do not register or use this product and/or service. By checking "Read and Agree to the Privacy Policy", you signify that you have fully understood and agreed to this policy.
+
+Part I Definitions
+
+Device Information: Includes hardware model, device MAC address, operating system type, software list unique device identification code (such as IMEI/Android ID/IDFA/OPENUDID/GUID, SIM card IMSI information, etc.), which describe the basic information of the device commonly used by individuals.
+
+Device Network Information: Includes device network connection method and status information.
+
+Device Environmental Information: Includes device screen brightness, device battery status, and device location (such as China and the United States).
+
+Device Application Information: Includes the versions of commonly used applications on the device.
+
+Personal Information: Refers to various information recorded electronically or in other ways that can independently or in combination with other information identify a specific natural person's identity or reflect a specific natural person's activities. The personal information that may be involved in this policy includes: account information (including your self-filled avatar, nickname, home address, company address, birthday), emergency contact, real-name authentication information (name, phone number, ID card number, personal handheld ID photo or front photo, ID card front and back photo, or other identity documents), account information (mobile or in-car account and third-party account binding), address book, location information (vehicle location information, user's mobile phone positioning information), transaction and order information, itinerary information (destination, departure time, reminder time, remarks), vehicle information (vehicle status information, fuel consumption, vehicle travel information, vehicle operation information, VIN, brand, series, model, engine number), personal commonly used device information, operation information (clicks, browsing, exposure), log information (IP address, usage time, operation record).
+
+Sensitive Personal Information: Refers to personal information that, once disclosed, illegally provided, or abused, may harm personal and property safety, may easily damage personal reputation and physical and mental health, or may result in discriminatory treatment. The sensitive personal information that may be involved in this policy includes: your real-name authentication information (ID card number, personal handheld ID photo or front photo, ID card front and back photo, or other identity documents), transaction and order information, other information (including address book, itinerary information, location information, etc.).
+
+Affiliated Companies: Refers to any companies that currently or in the future control us, are controlled by us, or are under common control with us. "Control" means the direct or indirect ability to influence the management of the mentioned company, whether through ownership, voting shares, contracts, or other ways recognized by a court of law.
+
+Part II Privacy Policy Content
+
+This policy will help you understand the following:
+
+1. How we collect and use your personal information
+
+2. How we use cookies and similar technologies
+
+3. How we share, transfer, and publicly disclose your personal information
+
+4. How we protect your personal information
+
+5. Your rights
+
+6. How we handle personal information of minors
+
+7. How your personal information is transferred globally
+
+8. How this policy is updated
+
+9. How to contact us
+
+1. How we collect and use your personal information
+
+When you use this product and/or service, we need to collect and use your personal information in the following two ways:
+
+1. To achieve the basic business functions of providing this product and/or service to you, you need to authorize us to collect and use the necessary information.
+
+2. To achieve the extended business functions of providing this product and/or service to you, you can authorize us to collect and use information. These information are not necessary for the operation of this product and/or service, but will be used for purposes such as improving the quality of this product and/or service, enhancing user experience, and developing new business functions. If you do not wish to provide this information, you will not be able to use the relevant extended functions and/or achieve the best results of the service.
+
+We will only collect and use your personal information for the following purposes:
+
+(I) Help you become a user of this product and/or service
+
+1. User Registration
+
+You first need to register an account for this product and/or service. When you register, you need to provide at least your mobile phone number (for user verification) and password. We will verify your identity by sending a verification code through SMS. At the same time, you can choose to provide the following additional information: personal avatar, nickname, home address, company address, birthday. This will help us provide you with better service and experience. If you do not provide this additional information, it will not affect the basic functions of this product and/or service.
+
+2. Real-name authentication and vehicle binding
+
+After registration, you need to undergo real-name authentication to use this product and/or service. Real-name authentication information includes your name, phone number, ID card number, personal handheld ID photo or front photo, ID card front and back photo, or other ID proof. The real-name authentication information will be transmitted to the national real-name authentication platform through mobile network operators for identity verification. Collecting such information meets the requirements of relevant laws and regulations on network real-name registration. You also need to bind your vehicle to establish a connection between the product and/or service system and your in-car device. Without providing these two types of information, you will not be able to use this product and/or service normally.
+
+3. Appointment for maintenance
+
+When using the function to make an appointment for maintenance and calling the dealership's customer service hotline, we may need to enable the read phone permission on your mobile device. If you do not provide the permission, you need to manually dial the appointment for maintenance phone number.
+
+4. Permission to vibrate the device
+
+When using the scan function, the device may vibrate as a special effect. Therefore, we may need to enable the control vibrator permission on your mobile device. If you turn off the vibration, you will not be able to obtain the scanning status through vibration and you will need to observe the scanning status through the interface.
+
+(II) Your use of this product and/or service
+
+Please see the table below for the information we collect in specific vehicle-related service scenarios and the purposes for collecting the information. Please note that when you choose to accept the services in a specific service scenario, you should provide or allow us to collect the necessary information to implement that service. Otherwise, we will not be able to provide you with that service.
+
+In these scenarios, you may also be required to provide additional information to enable us to provide you with a better user experience. However, if you choose not to provide this additional information, you can still use these services, but you may not be able to receive certain additional services or enjoy a better user experience in these service scenarios.
+
+Service Scenario
+
+Platform Involved
+
+Information Collected/Used
+
+Purpose of Collection/Use
+
+Dealer Search
+
+Zhengzhou Nissan Smart Connection APP
+
+Name, phone number, location, user ID, user IP information
+
+Recommend suitable dealers for the user, facilitate communication between dealers and the user to confirm on-site car viewing information, navigate to the dealership
+
+Roadside Assistance
+
+Zhengzhou Nissan Smart Connection APP
+
+Your real-name authentication information, vehicle information, and vehicle location information
+
+Provide roadside assistance services
+
+Connected Car, Maintenance, and Service
+
+Personal Center App built on the DA system
+
+VIN code, reverse signal, ILL signal, ACC signal, IGN signal, gear position, SN code, PN code, vehicle speed, fault code information, steering wheel angle signal
+
+Information is necessary for vehicle diagnosis and quality problem analysis.
+
+Zhengzhou Nissan Smart Connection APP
+
+Account login, DAID
+
+Used for personal center and CPSP account login
+
+Personal Center App built on the DA system
+
+FaceID registration status, login status, default account settings
+
+Data backup in the background, retrieved and displayed during next login
+
+Zhengzhou Nissan Smart Connection APP
+
+System logs, fault logs
+
+Analyze the cause of issues
+
+Zhengzhou Nissan Smart Connection APP
+
+Vehicle driving mileage, remaining mileage, average fuel consumption, vehicle location information, vehicle status
+
+Display relevant vehicle information in the system
+
+Personal Center App built on the DA system
+
+User real-name authentication status, vehicle information, order information, vehicle identification code, usage data of connected car service

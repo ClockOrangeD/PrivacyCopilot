@@ -1,0 +1,1647 @@
+
+Chang'an Automobile Privacy Policy
+
+
+Updated: October 18, 2021
+
+Effective date: October 18, 2021
+
+
+
+
+
+1、 Special tips
+
+
+This privacy agreement is applicable to the relevant services provided to you by Chang'an Automobile Co., Ltd. (hereinafter referred to as "us") (all referred to above as "services"). We will collect personal information from you in accordance with the requirements of laws and regulations to the extent that it is reasonable and necessary. We do our best to take appropriate security measures to prevent your information from being leaked, damaged or lost through reasonable and effective information security technology and management process. We hope to clarify to you how we are committed to protecting your personal information through the following privacy agreement.
+
+Please read this privacy agreement completely. If you have any questions about this privacy agreement, you can contact us through the email provided in this privacy agreement.
+
+By using or continuing to use our products and services, you agree to the relevant contents of this Privacy Agreement. If you do not agree with any content of this privacy agreement, please immediately stop using our services.
+
+
+
+
+
+2、 Personal information collection
+
+
+（1） Definition of personal information
+Personal information is all kinds of information recorded in electronic or other ways that can identify specific natural persons individually or in combination with other information.
+
+Sensitive personal information refers to personal information that, once leaked or illegally used, may result in personal discrimination or serious harm to personal and property safety. Sensitive personal information includes race, nationality, religious belief, personal biological characteristics, medical health, financial account, personal whereabouts and other information.
+
+
+
+（2） Personal information collection scenario
+
+
+We may collect your personal information in the following scenarios:
+
+1. When you register as our user;
+
+2. When you buy one of our products;
+
+3. When you register or participate in our activities;
+
+4. When you use our services and products.
+
+（3） Scope of information collection
+The information we may collect and use related to you or your use of Chang'an Automobile products and services mainly includes the following categories:
+
+(1) We obtained your personal information and electronic device information during your use of Chang'an APP or Chang'an website;
+
+(2) We obtained your personal information during your purchase of Chang'an Automobile products or related services;
+
+(3) We obtained your personal information, driving information and vehicle information in the process of using Chang'an automobile products and related services.
+
+In order to ensure that we can successfully provide you with the services you need, we may collect your personal sensitive information (the type of information underlined below).
+
+1. Purchase products or services of Chang'an Automobile
+
+During the process of booking or purchasing our products and services and using our agent application license and subsidy services, we may collect your following information:
+
+(1) Basic personal information: including name, ID card, driver's license, contact address/zip code, contact telephone number, personal email address, member account information and information that we have obtained your consent through other means.
+
+(2) The information generated in the process of ordering and purchasing your car: including the relevant information and records generated in the process of your going to Chang'an Automobile Store, participating in our activities, registering for a test drive, ordering by telephone, or contacting our customer service or sales department, your vehicle order, loan agreement, insurance policy agreement, subsidy application, and the information that we have obtained your consent through other means.
+
+(3) Basic information of your vehicle: including your license plate number, engine number, vehicle identification number, battery number and other information that we have obtained your consent through other means.
+
+2. Use Chang'an automobile products or services
+
+In the process of using our products and related services, in order to enhance more intelligent vehicle experience, improve the quality of products and services, diagnose and solve the problems of products and services, and according to the relevant requirements of laws, regulations and government departments on the management of new energy vehicles, we may collect:
+
+Information collected by on-board induction equipment:
+
+(1) Information on operation, performance, status and road conditions, including speed information, odometer reading, motor operation status, battery charging record and operation status, vehicle driving status, driving history, accelerator pedal and brake use status, ambient temperature data Information about remote remote control service (such as remote remote control locking/unlocking/opening of the trunk, remote start/closing of the air conditioner, remote vehicle search, remote operation of the window, start/stop of charging), vehicle status information (such as the opening/closing or locking/unlocking status information of the door, window, sunroof, front cover, trunk, headlight), vehicle theft sensing information, vehicle accident-related information, and the use of the automatic driving assistance function of the vehicle, And other information about vehicle safety and availability and road traffic conditions.
+
+(2) Information collected by the on-board application platform: information about your loading and use of on-board applications, including Chang'an APP account information, which we collect in real time through the application platform carried by Chang'an automobile products; Personalized setting data, vehicle driving behavior data, including mileage, energy consumption, driving time, average speed, and carbon emission reduction estimation data; On-board navigation application data, including navigation destination, search record, navigation real-time data, driving track, actively collected location, navigation real-time data, driving track, navigation setting data (route preference, voice broadcast mode, license plate limit switch, red wire, navigation perspective, mute switch, road condition switch); Bluetooth linked mobile device information, mobile song, and contact list under user authorization; On-board application loading and usage (including contact list, navigation destination, browsing record), on-board entertainment system data (including radio listening record), music/video playlist, search history, Himalaya and QQ music and other synchronized personal collection and playback history.
+
+(3) Information collected according to laws and regulations: according to the requirements of laws and regulations, we need to monitor the data of the following vehicles and connect them to the government collection/monitoring platform of new energy vehicle data and the data collection/monitoring platform of Chang'an Automobile and its affiliated companies, including vehicle static information, vehicle dynamic data, drive motor data, vehicle data, power battery data, engine data, vehicle position data Charging data, vehicle collision data, extreme value data, alarm data, and other information required to be obtained and monitored according to applicable laws and regulations or government requirements.
+
+(4) The information collected by the interior camera in the limited scene: the information collected by the interior camera in the limited scene. The in-car camera is in the standby state after the vehicle is powered on, but this camera does not take photos, video or collect other personal information except for the following scenarios:
+
+(4.1) For the purpose of fatigue detection, we collect the driver's eye position and whether to close the eyes and face information through the interior rearview mirror camera;
+
+(4.2) The roof camera takes photos or videos when the courier opens the trunk to deliver the express, the vehicle is stolen, or when you actively trigger the camera's photo or video function;
+
+(4.3) The image and video recorded by the in-vehicle tachograph;
+
+(4.4) For the purpose of safety protection, the ECALL function will be triggered automatically after the vehicle airbag is ejected. We will actively open and collect real-time video data in the vehicle when the user does not respond. The information collected by the in-car camera in limited scenarios is stored in the on-board equipment, and will not be uploaded to the cloud unless the user is authorized to upload and the remote live broadcast in the emergency of airbag ejection.
+
+(5) The information collected by the camera outside the vehicle under limited conditions:
+
+(5.1) In order to realize the functions of automatic assistant driving, assistant reversing and parking, we need to collect the image data around the vehicle through the front, side and rear cameras outside the vehicle (such as lane lines, traffic signs, parking space signs, traffic signal lights);
+
+(5.2) The exterior camera function, for the purpose of vehicle accident loss assessment and underwriting, we may collect and view relevant image data;
+
+(5.3) Collect relevant video data when the vehicle owner actively triggers the photographing or video recording function.
+
+(6) Information collected through the on-board SIM card service: information collected by providing you with the on-board SIM card service, including your name and ID card number, vehicle frame number, SIM card number, traffic usage (including traffic usage of each application system).
+
+(7) Charging, replacement and maintenance services: information we collect through charging, replacement and maintenance services, such as your battery use status, charging and replacement services (including but not limited to valet charging, exclusive pile, power station, mobile charging vehicle and public DC charging pile) use status, road rescue service use status, information about charging pile and charging rate, maintenance problems and records.
+
+3. Use Chang'an APP and website
+
+When you use the following functions and services of Chang'an APP and website, we will collect the following information.
+
+(1) Registered account: You can use our APP and some functions of the website without registering an account. However, some functions require you to register your account to use. In the process of registering your account, you need to submit our nickname, contact number, gender, avatar email and other information. You can also choose to register through a third-party account, but you need to grant us the right to obtain some of your information from a third-party account, such as your nickname, avatar, gender, region, e-mail, public friends or contact list, etc.
+
+(2) Login and access information: You can use our APP and some functions of the website without logging in to the APP, but some functions require you to log in to your account. During your login process, you need to submit our nickname, contact number and other information, as well as sign-in information and score acquisition information after login.
+
+(3) Social platform: We will collect your uploaded photos, videos and text content, location information and voting information.
+
+(4) Participation in activities: according to the specific requirements of the activity, we may collect your ID card number or other ID card numbers that can prove your identity, the names of participants and peers, the phone numbers of peers, the ID card numbers of peers, the name of the theme of the activity, the time of the activity, the evaluation and suggestions of the activity, the number of posts, cities, and other related information.
+
+(5) Member mall or mall service: recipient's name, mobile phone number, location, detailed address, payment amount, payment time, order message, product evaluation, activity participation, purchase record, point use and payment information.
+
+(6) Customer service function: consultation record.
+
+(7) Ordering vehicles: name, ID card number or other ID card number that can prove your identity, license city, price information, payment information, service delivery place, service delivery time, contact information, ordering vehicles and service information, vehicle ordering, power up, charging, maintenance, accident rescue, car washing, valet driving, airport parking service order history information.
+
+(8) Vehicle charging service: name, mobile phone number, vehicle VIN code, installation time and geographical location of the owner's exclusive stake, ID of the exclusive stake equipment, charging time, times, duration, power consumption, consumption amount and historical information of each charge, as well as collecting real-time vehicle location information when you use the charging function.
+
+(9) Vehicle rental service: name, mobile phone number, pickup and return location, pickup and return time.
+
+(10) Use Chang'an APP to remotely view and control the vehicle: if you bind the vehicle with Chang'an APP and turn on the relevant functions of the vehicle, you can view the information about the opening/closing or locking/unlocking status of your vehicle's doors, windows, skylights, front lids, trunk, headlights, and the historical driving records of the vehicle, including mileage, energy consumption, driving time, average speed and carbon emission reduction estimation data, It also provides you with the function of remotely controlling the relevant state of the vehicle.
+
+(11) Use the Chang'an Encyclopedia service, AR instructions, and security guard functions in Chang'an APP to query information or understand the detailed use of vehicle functions. With your consent, we will collect the tire pressure, airbag and other information of your vehicle, monitor the vehicle abnormalities for you, and we will collect your browsing and message information, and follow up the problem handling and contact you.
+
+(12) When you use the car or maintenance service in Chang'an APP, we will collect your name, mobile phone number, ID number, maintenance vehicle information, scheduled maintenance content, scheduled maintenance time and other information in order to prepare maintenance resources for you nearby in advance and obtain your consent.
+
+(13) Financial lending service: name, ID card (or other documents that can prove your identity) card number and scanned copy, bank card number, bank of deposit and scanned copy, mobile phone number and personal information collected with your consent through personal credit authorization agreement and other means.
+
+(14) Experience Officer Service: When you voluntarily apply to join the Chang'an Experience Officer, you will be involved in some aspects of product research and development (such as new car driving evaluation, styling review, etc.). Based on the rights, responsibilities and obligations of the experience officer, with your consent, we will collect your name, ID number number, provinces and cities, interest tags, registration activity name, registration time, comments and suggestions.
+
+(15) 5G remote service: When you use the 5G video connection application platform carried by Chang'an App, as well as the follow-up and continuous follow-up service based on your needs, with your consent, collect the owner information you provide (including name, mobile phone number, certification certificate, certified vehicle frame number, license plate, brand, vehicle series, model), connection communication records (including video recording, voice recording, text recording, etc.) Connect and transmit file records (including pictures, audio, video, documents, forms, software installation packages and other documents), certified vehicle fault codes and related data streams (necessary data) and other information to provide you with manufacturer expert video connection services for vehicle technical consultation and remote diagnosis of vehicle faults, as well as possible vehicle rescue dispatching services.
+
+(16) When you use the car or maintenance service in Chang'an APP, we will collect your name, mobile phone number, ID number, maintenance vehicle information, scheduled maintenance content, scheduled maintenance time and other information in order to prepare maintenance resources for you nearby in advance and obtain your consent.
+
+(17) Other functions and services: We may collect relevant information in other functions and services with your consent.
+
+In addition, in the process of using Chang'an APP or Chang'an website services, we may also automatically collect:
+
+(17.1) Log information: including your operation records, browsing records, published comments, and shared records.
+
+(17.2) Device or software information: including the configuration information provided by your mobile device or other programs used to access our services, the version and device identification code used by the mobile device.
+
+(17.3) On the premise of obtaining your consent, we will collect your web browsing record information to better provide services according to your personal characteristics. However, you can conveniently refuse to use such customized services at any time. We will provide services that are not specific to your personal characteristics.
+
+(17.4) Other information: your location information, IP address, and network status.
+
+00001. Information legally obtained from third party channels
+
+We may obtain your personal information and other information from other legal sources, such as public databases, social media, our partners, third-party service providers, contractors and agents.
+
+00001. Permission
+
+In order to provide relevant products and services, in addition to the information you provide, we also need your authorization to open the following permissions to collect relevant information. Refusing to open these permissions may cause us to be unable to provide you with relevant products or services.
+
+(1) Location permissions: When you use the location-related functions provided by Chang'an App, we may need to turn on the location permissions of your mobile device. We will not continue to collect your location information unless the function or service requires it. Specific scenarios are as follows:
+
+(1.1) Community function: find the community nearest to the user through location service;
+
+(1.2) Exclusive consultant: set the default exclusive consultant through location service;
+
+(1.3) Sales center: obtain the nearest sales center through positioning service;
+
+(1.4) After-sales service: obtain the latest after-sales service through positioning service;
+
+(1.5) Scheduled maintenance: quickly provide the nearest maintenance service merchant through positioning service;
+
+(1.6) Call: show the location of your car and users on the map through location service;
+
+(1.7) Mall: It provides functions such as car maintenance and delivery address through positioning services.
+
+(2) Camera or album permissions: When you upload your avatar through Chang'an App or upload pictures or videos using social platform services, we may need to turn on the camera or album permissions of your mobile device. Specific scenarios are as follows:
+
+(2.1) Post: upload pictures and post;
+
+(2.2) Create a community: upload and edit the community cover;
+
+(2.3) Edit personal data: upload avatar;
+
+(2.4) Feedback: upload pictures;
+
+(2.5) Owner certification: upload the ID card image.
+
+(3) Microphone permission: When you upload videos using Chang'an App, we may need to turn on the microphone function of your mobile device. Specific scenarios are as follows:
+
+(3.1) Navigation function - quickly analyze the destination through voice recognition.
+
+(4) Bluetooth permission: When you use the call application platform carried by Chang'an App, we may need to turn on the Bluetooth function of your mobile device. Specific scenarios are as follows:
+
+(4.1) Incall - Bluetooth key: Through the Bluetooth key, you can control your car without a key.
+
+(5) Camera permissions: When you use the 5G video connection application platform carried by Chang'an App, we may need to turn on the camera function of your mobile device.
+
+(6) Notification authority: When you use Chang'an App for identity authentication, sign-in, participation in activity registration, commodity purchase, positioning and navigation, as well as vehicle after-sales service, disaster care reminder, member rights notification, member activity invitation, attention information notification, etc., we may need to obtain the APP notification authority for offline and off-site message push reminder.
+
+6. Description of third-party SDK
+
+Based on the purpose of providing services for you and with your consent, we will access the software development kit (SDK) provided by the third party as listed in the Third Party SDK Information and updated from time to time. We will monitor the security of third-party SDKs within the existing technology level and reasonable time and labor costs, and will try to ensure the security of your personal information. However, because the third-party SDK is not under our control, we can only check and urge the third party regularly according to the contract signed with the third party or the industry practice, which can not prevent the third-party SDK from illegally collecting your personal information or infringing your other legitimate rights and interests. Of course, you can refuse to use third-party SDKs at any time, but you will not be able to use the functions related to such third-party SDKs.
+
+
+
+
+
+3、 Data processing
+
+
+（1） Our role
+
+
+We are the controller of your data.
+
+
+
+（2） Legal basis
+
+
+We process your data for one or more of the following reasons:
+
+1. Your express consent;
+
+2. Based on marketing purpose;
+
+3. The necessity of performing the contract with you;
+
+4. Based on legal liability;
+
+5. Based on our legitimate rights and interests. For example, in order to implement the company's policies, manage daily affairs, use data in a summary way for data analysis, ensure information security or prevent fraud, we transfer data to other departments of our company.
+
+
+
+（3） Reasons for providing personal information
+
+
+Generally speaking, your consent is the legal basis for us to process your personal information. Therefore, we need you to agree to our user agreement and privacy agreement in order to reach and implement our agreement with you and safeguard the legitimate interests of all parties.
+
+You have the right to choose whether to provide us with relevant data. Without some of your information, we may not be able to assume some or all of our obligations to you or provide you with our services according to the terms of service. If you want more details about this content, please contact our data protection office according to the contact information provided in the last section of this privacy agreement.
+
+
+
+（4） Purpose and method
+
+
+We will use the information you provide directly and we collect in the process of providing services to provide you with our services. We will not use your data for any other purpose inconsistent with the purpose of information collection.
+
+We will use your information based on the following purposes and methods:
+
+1. Verify your identity to prevent unauthorized access;
+
+2. Provide you with our services and products according to the contract we signed with you;
+
+3. Provide other services required by you according to the requirements stated when we collect information;
+
+4. Deal with transactions and communicate with you about these transactions;
+
+5. Help track and correct errors and faults in the program;
+
+6. Carry out internal audit, data analysis and research, analyze business operation efficiency and improve our products and services;
+
+7. Share your information with our partners so that they can help us provide you with our services and products;
+
+8. Share with branches of companies around the world for internal management and backstage support;
+
+9. Maintain the integrity and security of our information system for storing and processing your personal information;
+
+10. Detect and investigate information disclosure, illegal activities and fraud;
+
+11. Comply with applicable laws and regulations, and cooperate with legal proceedings, litigation or government authorities to provide relevant information.
+
+
+
+
+
+4、 Device authority call
+
+
+In the process of providing services, we may need you to open some device permissions, including storage, address book, notification, GPS positioning, camera, mobile phone address book, Bluetooth, NFC and other access rights. You can also choose to turn off some or all permissions at any time in the device settings function, thus refusing to collect the corresponding personal information. In different devices, the permission display mode and closing mode may be different. For details, please refer to the instructions or guidance of the device and system developer.
+
+
+
+
+
+5、 Personal information sharing, transfer and public disclosure
+
+
+（1） Personal information sharing
+
+
+Your personal information will be strictly confidential. We will not share your personal information with any other companies, organizations and individuals, except for the following:
+
+1. With explicit consent, we will share your personal information with other parties.
+
+2. Sharing with our employees and our company's branches worldwide is generally used for the following purposes: providing you with further services, internal management needs, detecting and dealing with data leakage, illegal activities and fraud, and maintaining the integrity of the company's information technology system. We will only share necessary personal information with employees to the minimum extent and are bound by this privacy agreement. We will sign a confidentiality agreement with authorized employees.
+
+3. Share your personal information with our third-party service providers (or partners) to help us provide or improve our services, including but not limited to cloud services, video monitoring services, information system technical support, customer service, etc. We will sign strict data processing agreements with all third-party service providers (or partners) involved, and require them to comply with relevant laws and regulations and our requirements, Take certain security measures to handle your personal information and ensure the security of your personal information.
+
+4. Share your personal information externally according to laws and regulations or the mandatory requirements of the competent government departments.
+
+
+
+（2） Transfer of personal information
+
+
+We will not transfer your personal information to any company, organization or individual, except for the following:
+
+1. Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties;
+
+2. In case of merger, acquisition or bankruptcy liquidation, if personal information transfer is involved, we will require the new company or organization holding your personal information to continue to be bound by this privacy agreement, otherwise we will require the company or organization to obtain authorization from you again.
+
+
+
+（3） Personal information disclosure
+
+
+We will only publicly disclose your personal information under the following circumstances:
+
+1. After obtaining your explicit consent;
+
+2. Based on the disclosure of laws, we may publicly disclose your personal information under the circumstances of laws, legal proceedings, litigation or mandatory requirements of the competent government departments.
+
+
+
+
+
+6、 Time limit for storing personal information
+
+
+As long as the information needs to be used for the purposes specified in this privacy statement, we will continue to retain your personal information and will retain your personal information for any additional period required or allowed by law until you withdraw your consent.
+
+Nevertheless, for research or statistical purposes, we may postpone the retention of your information, but we will conduct desensitization processing, and the relevant information will not be able to locate you personally.
+
+At the same time, according to the requirements of the laws of your country, we may retain your personal information to assist in any government and judicial investigation, request or maintain legal requests or civil, criminal or administrative procedures. If the above reasons do not apply to the data we keep, we will delete and destroy your data in a safe way according to the relevant requirements.
+
+
+
+
+
+7、 Information protection for minors
+
+
+Our products and services are mainly for adults, but for minors who use products and services, it is important for us to take additional precautions to protect their privacy and security. We regard anyone under the age of 16 (or the age prescribed by local laws) as a minor.
+
+For personal information of minors collected with the consent of the guardian, we will only use or disclose it if it is allowed by law, expressly agreed by the guardian or necessary to protect minors. If the guardian needs to access, modify or delete personal information related to the guardian at any time, please contact us in the way described in Section 13.
+
+If we find that we have collected the personal information of minors without the prior consent of the verifiable guardian, we will try to delete the relevant content as soon as possible.
+
+
+
+
+
+8、 Personal information protection measures
+
+
+We comply with the recognized key data protection principles (fairness, purpose limitation, data quality, data retention, compliance with personal rights, security), and take reasonable measures to ensure the security of personal information. We have applied a series of technical measures to protect the security of your personal information and minimize the risks of misuse, unauthorized access, unauthorized disclosure and inaccessible access. The security measures we use include but are not limited to: data desensitization, data encryption, firewall and data access authorization control.
+
+We will continue to save your information for the purpose specified in this privacy agreement, and within any additional period required or allowed by law, until you withdraw your consent.
+
+However, we may postpone keeping your information for research or statistics, but we will desensitize your information and track you.
+
+At the same time, according to the laws of your country, we may retain your personal information to assist any government and judicial investigation to submit or maintain legal requirements or civil, criminal or administrative procedures. If the above reasons do not apply to the data we save, we will safely delete and destroy your data according to relevant requirements.
+
+At the same time, we will regularly check and update the security mechanism used to protect data to provide effective protection means to prevent data abuse. If you think the security of your data has been compromised, or if you want to know more about our data protection measures, please contact our data protection office according to the contact information provided in the last section of this privacy agreement.
+
+
+
+
+
+9、 Storage of personal information
+
+
+Because we provide services to the world, based on the security of data storage, all of your data we collect will be stored on servers in Germany and the United States, regardless of your country.
+
+
+
+
+
+10、 Cross-border transmission of personal information
+
+
+We are a multinational company, and the responsibilities of the team responsible for data processing may cover the whole world or multiple countries/regions. Therefore, these teams may be located anywhere in the world where our business is located, including regions outside the EU, and in countries where there are no personal information protection standards equivalent to those in your country. We may also transfer data to regions outside the EU, including China. By using or joining the service and/or providing us with your information, you agree that we will collect, transmit, store and process your information outside the country/region where you live in accordance with this privacy policy. We will make every effort to ensure that they comply with applicable legal requirements within the scope of existing technology, such as by implementing standard contract terms. All your data collected by us will be used for user and product analysis after necessary confidential treatment to provide you with better services. However, in this case, we will take measures to properly protect your information.
+
+
+
+
+
+11、 User portrait and automatic decision-making
+
+
+When you use our services, in order to provide you with more convenient and personalized information display, search and push services, we may extract your preference features based on your purchase information and service log information, and produce indirect crowd portraits based on feature tags for display, push information and possible commercial advertising.
+
+We may analyze the processed data that cannot identify you to improve our products and services.
+
+We will not use your data to make any fully automated decisions.
+
+
+
+
+
+12、 Personal information right and its exercise
+
+
+（1） Your personal information right
+
+
+1. Access right: have the right to ask us to provide a copy of your personal information held by us;
+
+2. Right to correct: When you find that there is an error in the personal information we handle about you, you have the right to correct or update the wrong or incomplete information after verifying your identity and the correction does not affect the objectivity and accuracy of the information. You can contact us through after-sales service telephone; Or for personal information collected through Chang'an Auto APP, you can submit relevant requirements through the setting feedback function in Chang'an Auto APP.
+
+3. Deletion right: If we collect, use and share your personal information with others in violation of laws and regulations or the agreement with you, you have the right to ask us to delete it.
+
+You can submit relevant requirements through the "Settings → Feedback" function in Chang'an Auto APP. You can also request to delete your relevant information through the after-sales telephone.
+
+4. Cancellation right: You can cancel your account through "I → Settings → Privacy Permission Settings → Account Cancellation" on Chang'an Auto APP (after your application is confirmed, your account will be cancelled immediately), but unless otherwise specified by law, account cancellation may result in clearing all your user data and account information and cannot be recovered.
+
+5. Right to carry: ask us to provide you with your data and, if possible, directly transfer the data to another data controller;
+
+6. Restricted processing right: If you have any dispute about the accuracy or legality of our processing of personal information, you have the right to request us to restrict the processing right; However, your limited processing rights may cause you to be unable to use our services normally.
+
+7. Right of refusal: oppose our right to use your personal information for user portrait and automatic decision-making, and oppose our right to use your personal information to send business information for direct marketing;
+
+8. Complaint: about our right to file a complaint with the competent authorities of the EU member states where you live or process your data;
+
+9. Withdrawal of consent: When we rely on your consent to process data, you have the right to withdraw the consent at any time.
+
+
+
+（2） How to exercise personal information rights
+
+
+We will protect your right to access and correct your personal information. If you want to exercise any of the rights described in 11.1, you can send an email to our data protection office for processing.
+
+Since we receive a large number of business promotion emails every day, if we think your email has nothing to do with personal information, we will not reply.
+
+
+
+（3） Request results
+
+
+After the personal information subject requests, the following results may occur:
+
+00001. The request was rejected
+
+In some cases, the request of the personal information subject will be rejected, including but not limited to:
+
+(1) The personal information subject is not entitled to relevant rights under your local law;
+
+(2) When the identity of the person making the request cannot be verified;
+
+(3) The requirements put forward by the personal information subject cannot be verified and are beyond the scope, especially when the requirements are repeated;
+
+(4) If the information involved is related to the compensation to be made or obtained in the dispute, the disclosure of information is likely to damage the interests of the interested parties;
+
+(5) If the information is retained only for the purpose of statistics and research, and the publication of statistics and research results will not disclose personal identity;
+
+(6) Other circumstances stipulated by law.
+
+If the personal information subject access request is rejected, we will formally explain the reason to the requester.
+
+2. Successful request
+
+When the situation in (1) does not occur, we will meet the request of the personal information subject. In order to improve the possibility of success of the request, please provide detailed information as much as possible when making the request, such as the category and specific content of the request, the relevant information of the information holder (such as the name of the product and service you use), the time range of information generation or processing (the smaller the time range, the greater the possibility of success), etc.
+
+
+
+（4） Withdrawal of consent
+
+
+You can change the scope of your authorization for us to continue to collect personal information or revoke your authorization by deleting configuration information, deleting associated devices, and cancelling your account.
+
+Please understand that the business function needs some basic personal information (registered mailbox) to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of your consent or authorization, nor will we process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the previous personal information processing based on your authorization.
+
+
+
+
+
+13、 Change of privacy agreement
+
+
+We reserve the right to amend this Privacy Agreement. Without your explicit consent, we will not reduce your rights under this Privacy Agreement. We will publish any changes to this agreement on this page. For major changes, we will also provide more significant notifications (including for some services, we will send notifications via email to explain the specific changes in the personal information protection policy).
+
+The major changes referred to in this policy include but are not limited to:
+
+1. Significant changes have taken place in our service model. For example, the purpose of processing personal information, the type of personal information processed, and the use of personal information;
+
+2. Significant changes have taken place in our ownership structure and organizational structure. Such as changes in owners caused by business adjustment, bankruptcy and merger, etc;
+
+3. The main objects of public disclosure of personal information have changed;
+
+4. Your right to participate in personal information processing and the way you exercise it have changed significantly;
+
+5. When the department responsible for handling personal information security, contact information and complaint channel change;
+
+6. When the personal information security impact assessment report indicates that there are high risks.
+
+At the same time, we will also archive the old version of this privacy agreement for your reference.
+
+
+
+
+
+14、 Contact us
+
+
+If you have any questions about this privacy agreement, or you want to exercise any rights, please send an email to our specially established data protection office at dpo@changan.com.cn 。 After receiving your request, we will make every effort to ensure that we can respond to the personal information subject's request within one month. Thank you for your patience and understanding. Considering the complexity and quantity of requirements, this period may be extended for another 45 days if necessary. For the delay in providing information, we will notify the personal information subject of the relevant situation and the reason for the delay. If the time limit set in this paragraph conflicts with the provisions of your local law, the provisions of your local law shall prevail. If you have different opinions about our handling of your personal information, you can submit a mediation request or other appeals to your local data protection regulatory authority.
+
+Tel.: 951999
+
+Company name: Chongqing Chang'an Automobile Co., Ltd
+
+Developer name: Chongqing Chang'an Automobile Co., Ltd
+
+Third-party SDK information
+
+
+Gaode Map SDK
+Purpose: used to display the map
+
+Data type: equipment identification information, geographic location information
+
+Official website link: Gaode Map SDK address
+
+1. Gaode Positioning SDK
+
+Purpose: for positioning
+
+Types of personal information collected: device identifier (IMEI, IDFA, Android ID, MAC, OAID, UAID and other related information), application information (application crash information, notification switch status, software list and other related information), device parameters and system information (device type, device model, operating system and hardware related information), network information (IP address, WiFi information, base station information), geographic location information
+
+Official website link: Gaode Locating SDK address
+
+2. Gaode Map Search SDK
+
+Purpose of use: used to realize the functions of path planning between two points
+
+Types of personal information collected: equipment information, geographical location information, network information
+
+Official website link: Gaode Map Search SDK address
+
+Equipment information: equipment identifier (IMEI, IDFA, Android ID, MAC, OAID, UAID and other related information), application information (application crash information, notification switch status, software list and other related information), equipment parameters and system information (equipment type, equipment model, operating system and hardware-related information)
+
+Network information: IP address, WiFi information, base station information, geographic location information
+
+Official website link: https://lbs.amap.com/pages/privacy/
+
+
+
+Alipay (Alipay) SDK
+Purpose: help users use Alipay in the app
+
+Data type: equipment identification information
+
+Official website link: Alipay SDK address
+
+
+
+WeChat Open Platform SDK
+Purpose of use: access to WeChat open platform SDK, support WeChat authorized login, WeChat sharing and WeChat payment
+
+Data type: equipment identification information
+
+Official website link: WeChat open platform SDK address
+
+
+
+Weibo sharing SDK
+Purpose of use: help users share content to third-party applications
+
+Data type: equipment identification information
+
+Official website link: Weibo sharing SDK address
+
+
+
+QQ Share SDK
+
+Purpose of use: help users share content to third-party applications
+
+Data type: equipment identification information
+
+Official website link: QQ share SDK address
+
+
+
+Aurora push
+Purpose of use: help improve the delivery of push messages and ensure the stable operation of the system
+
+Types of personal information collected: equipment information, geographical location information, network information
+
+Official website link: https://WWW jfiguang .  cn //11cense/pr1vacY
+
+Equipment information: equipment identifier (IMEI, IDFA, Android ID, MAC, OAID, UAID and other related information), application information (application crash information, notification switch status, software list and other related information), equipment parameters and system information (equipment type, equipment model, operating system and hardware-related information)
+
+Network information: IP address, WiFi information, base station information, geographic location information
+
+BuglySDK
+Purpose of use: provide professional crash tracking, crash analysis and other quality tracking for mobile developers
+
+Data type: unshared data
+
+Official website link: BuglySDK address
+
+1、 Special tips<o: p></o: p>
+<o:p> </o:p>
+
+This privacy agreement is applicable to the relevant services we provide to you (the above are referred to as "services"). We will collect personal information from you in accordance with the requirements of laws and regulations to the extent that it is reasonable and necessary. We do our best to take appropriate security measures to prevent your information from being leaked, damaged or lost through reasonable and effective information security technology and management process. We hope to clarify to you how we are committed to protecting your personal information through the following privacy agreement< o:p></o:p>
+
+Please read this privacy agreement completely. If you have any questions about this privacy agreement, you can contact us through the email provided in this privacy agreement< o:p></o:p>
+
+Chang'an Automobile Privacy Policy
+
+
+Updated: October 18, 2021
+
+Effective date: October 18, 2021
+
+
+
+
+
+1、 Special tips
+
+
+This privacy agreement is applicable to the relevant services provided to you by Chang'an Automobile Co., Ltd. (hereinafter referred to as "us") (all referred to above as "services"). We will collect personal information from you in accordance with the requirements of laws and regulations to the extent that it is reasonable and necessary. We do our best to take appropriate security measures to prevent your information from being leaked, damaged or lost through reasonable and effective information security technology and management process. We hope to clarify to you how we are committed to protecting your personal information through the following privacy agreement.
+
+Please read this privacy agreement completely. If you have any questions about this privacy agreement, you can contact us through the email provided in this privacy agreement.
+
+By using or continuing to use our products and services, you agree to the relevant contents of this Privacy Agreement. If you do not agree with any content of this privacy agreement, please immediately stop using our services.
+
+
+
+
+
+2、 Personal information collection
+
+
+（1） Definition of personal information
+Personal information is all kinds of information recorded in electronic or other ways that can identify specific natural persons individually or in combination with other information.
+
+Sensitive personal information refers to personal information that, once leaked or illegally used, may result in personal discrimination or serious harm to personal and property safety. Sensitive personal information includes race, nationality, religious belief, personal biological characteristics, medical health, financial account, personal whereabouts and other information.
+
+
+
+（2） Personal information collection scenario
+
+
+We may collect your personal information in the following scenarios:
+
+1. When you register as our user;
+
+2. When you buy one of our products;
+
+3. When you register or participate in our activities;
+
+4. When you use our services and products.
+
+（3） Scope of information collection
+The information we may collect and use related to you or your use of Chang'an Automobile products and services mainly includes the following categories:
+
+(1) We obtained your personal information and electronic device information during your use of Chang'an APP or Chang'an website;
+
+(2) We obtained your personal information during your purchase of Chang'an Automobile products or related services;
+
+(3) We obtained your personal information, driving information and vehicle information in the process of using Chang'an automobile products and related services.
+
+In order to ensure that we can successfully provide you with the services you need, we may collect your personal sensitive information (the type of information underlined below).
+
+1. Purchase products or services of Chang'an Automobile
+
+During the process of booking or purchasing our products and services and using our agent application license and subsidy services, we may collect your following information:
+
+(1) Basic personal information: including name, ID card, driver's license, contact address/zip code, contact telephone number, personal email address, member account information and information that we have obtained your consent through other means.
+
+(2) The information generated in the process of ordering and purchasing your car: including the relevant information and records generated in the process of your going to Chang'an Automobile Store, participating in our activities, registering for a test drive, ordering by telephone, or contacting our customer service or sales department, your vehicle order, loan agreement, insurance policy agreement, subsidy application, and the information that we have obtained your consent through other means.
+
+(3) Basic information of your vehicle: including your license plate number, engine number, vehicle identification number, battery number and other information that we have obtained your consent through other means.
+
+2. Use Chang'an automobile products or services
+
+In the process of using our products and related services, in order to enhance more intelligent vehicle experience, improve the quality of products and services, diagnose and solve the problems of products and services, and according to the relevant requirements of laws, regulations and government departments on the management of new energy vehicles, we may collect:
+
+Information collected by on-board induction equipment:
+
+(1) Information on operation, performance, status and road conditions, including speed information, odometer reading, motor operation status, battery charging record and operation status, vehicle driving status, driving history, accelerator pedal and brake use status, ambient temperature data Information about remote remote control service (such as remote remote control locking/unlocking/opening of the trunk, remote start/closing of the air conditioner, remote vehicle search, remote operation of the window, start/stop of charging), vehicle status information (such as the opening/closing or locking/unlocking status information of the door, window, sunroof, front cover, trunk, headlight), vehicle theft sensing information, vehicle accident-related information, and the use of the automatic driving assistance function of the vehicle, And other information about vehicle safety and availability and road traffic conditions.
+
+(2) Information collected by the on-board application platform: information about your loading and use of on-board applications, including Chang'an APP account information, which we collect in real time through the application platform carried by Chang'an automobile products; Personalized setting data, vehicle driving behavior data, including mileage, energy consumption, driving time, average speed, and carbon emission reduction estimation data; On-board navigation application data, including navigation destination, search record, navigation real-time data, driving track, actively collected location, navigation real-time data, driving track, navigation setting data (route preference, voice broadcast mode, license plate limit switch, red wire, navigation perspective, mute switch, road condition switch); Bluetooth linked mobile device information, mobile song, and contact list under user authorization; On-board application loading and usage (including contact list, navigation destination, browsing record), on-board entertainment system data (including radio listening record), music/video playlist, search history, Himalaya and QQ music and other synchronized personal collection and playback history.
+
+(3) Information collected according to laws and regulations: according to the requirements of laws and regulations, we need to monitor the data of the following vehicles and connect them to the government collection/monitoring platform of new energy vehicle data and the data collection/monitoring platform of Chang'an Automobile and its affiliated companies, including vehicle static information, vehicle dynamic data, drive motor data, vehicle data, power battery data, engine data, vehicle position data Charging data, vehicle collision data, extreme value data, alarm data, and other information required to be obtained and monitored according to applicable laws and regulations or government requirements.
+
+(4) The information collected by the interior camera in the limited scene: the information collected by the interior camera in the limited scene. The in-car camera is in the standby state after the vehicle is powered on, but this camera does not take photos, video or collect other personal information except for the following scenarios:
+
+(4.1) For the purpose of fatigue detection, we collect the driver's eye position and whether to close the eyes and face information through the interior rearview mirror camera;
+
+(4.2) The roof camera takes photos or videos when the courier opens the trunk to deliver the express, the vehicle is stolen, or when you actively trigger the camera's photo or video function;
+
+(4.3) The image and video recorded by the in-vehicle tachograph;
+
+(4.4) For the purpose of safety protection, the ECALL function will be triggered automatically after the vehicle airbag is ejected. We will actively open and collect real-time video data in the vehicle when the user does not respond. The information collected by the in-car camera in limited scenarios is stored in the on-board equipment, and will not be uploaded to the cloud unless the user is authorized to upload and the remote live broadcast in the emergency of airbag ejection.
+
+(5) The information collected by the camera outside the vehicle under limited conditions:
+
+(5.1) In order to realize the functions of automatic assistant driving, assistant reversing and parking, we need to collect the image data around the vehicle through the front, side and rear cameras outside the vehicle (such as lane lines, traffic signs, parking space signs, traffic signal lights);
+
+(5.2) The exterior camera function, for the purpose of vehicle accident loss assessment and underwriting, we may collect and view relevant image data;
+
+(5.3) Collect relevant video data when the vehicle owner actively triggers the photographing or video recording function.
+
+(6) Information collected through the on-board SIM card service: information collected by providing you with the on-board SIM card service, including your name and ID card number, vehicle frame number, SIM card number, traffic usage (including traffic usage of each application system).
+
+(7) Charging, replacement and maintenance services: information we collect through charging, replacement and maintenance services, such as your battery use status, charging and replacement services (including but not limited to valet charging, exclusive pile, power station, mobile charging vehicle and public DC charging pile) use status, road rescue service use status, information about charging pile and charging rate, maintenance problems and records.
+
+3. Use Chang'an APP and website
+
+When you use the following functions and services of Chang'an APP and website, we will collect the following information.
+
+(1) Registered account: You can use our APP and some functions of the website without registering an account. However, some functions require you to register your account to use. In the process of registering your account, you need to submit our nickname, contact number, gender, avatar email and other information. You can also choose to register through a third-party account, but you need to grant us the right to obtain some of your information from a third-party account, such as your nickname, avatar, gender, region, e-mail, public friends or contact list, etc.
+
+(2) Login and access information: You can use our APP and some functions of the website without logging in to the APP, but some functions require you to log in to your account. During your login process, you need to submit our nickname, contact number and other information, as well as sign-in information and score acquisition information after login.
+
+(3) Social platform: We will collect your uploaded photos, videos and text content, location information and voting information.
+
+(4) Participation in activities: according to the specific requirements of the activity, we may collect your ID card number or other ID card numbers that can prove your identity, the names of participants and peers, the phone numbers of peers, the ID card numbers of peers, the name of the theme of the activity, the time of the activity, the evaluation and suggestions of the activity, the number of posts, cities, and other related information.
+
+(5) Member mall or mall service: recipient's name, mobile phone number, location, detailed address, payment amount, payment time, order message, product evaluation, activity participation, purchase record, point use and payment information.
+
+(6) Customer service function: consultation record.
+
+(7) Ordering vehicles: name, ID card number or other ID card number that can prove your identity, license city, price information, payment information, service delivery place, service delivery time, contact information, ordering vehicles and service information, vehicle ordering, power up, charging, maintenance, accident rescue, car washing, valet driving, airport parking service order history information.
+
+(8) Vehicle charging service: name, mobile phone number, vehicle VIN code, installation time and geographical location of the owner's exclusive stake, ID of the exclusive stake equipment, charging time, times, duration, power consumption, consumption amount and historical information of each charge, as well as collecting real-time vehicle location information when you use the charging function.
+
+(9) Vehicle rental service: name, mobile phone number, pickup and return location, pickup and return time.
+
+(10) Use Chang'an APP to remotely view and control the vehicle: if you bind the vehicle with Chang'an APP and turn on the relevant functions of the vehicle, you can view the information about the opening/closing or locking/unlocking status of your vehicle's doors, windows, skylights, front lids, trunk, headlights, and the historical driving records of the vehicle, including mileage, energy consumption, driving time, average speed and carbon emission reduction estimation data, It also provides you with the function of remotely controlling the relevant state of the vehicle.
+
+(11) Use the Chang'an Encyclopedia service, AR instructions, and security guard functions in Chang'an APP to query information or understand the detailed use of vehicle functions. With your consent, we will collect the tire pressure, airbag and other information of your vehicle, monitor the vehicle abnormalities for you, and we will collect your browsing and message information, and follow up the problem handling and contact you.
+
+(12) When you use the car or maintenance service in Chang'an APP, we will collect your name, mobile phone number, ID number, maintenance vehicle information, scheduled maintenance content, scheduled maintenance time and other information in order to prepare maintenance resources for you nearby in advance and obtain your consent.
+
+(13) Financial lending service: name, ID card (or other documents that can prove your identity) card number and scanned copy, bank card number, bank of deposit and scanned copy, mobile phone number and personal information collected with your consent through personal credit authorization agreement and other means.
+
+(14) Experience Officer Service: When you voluntarily apply to join the Chang'an Experience Officer, you will be involved in some aspects of product research and development (such as new car driving evaluation, styling review, etc.). Based on the rights, responsibilities and obligations of the experience officer, with your consent, we will collect your name, ID number number, provinces and cities, interest tags, registration activity name, registration time, comments and suggestions.
+
+(15) 5G remote service: When you use the 5G video connection application platform carried by Chang'an App, as well as the follow-up and continuous follow-up service based on your needs, with your consent, collect the owner information you provide (including name, mobile phone number, certification certificate, certified vehicle frame number, license plate, brand, vehicle series, model), connection communication records (including video recording, voice recording, text recording, etc.) Connect and transmit file records (including pictures, audio, video, documents, forms, software installation packages and other documents), certified vehicle fault codes and related data streams (necessary data) and other information to provide you with manufacturer expert video connection services for vehicle technical consultation and remote diagnosis of vehicle faults, as well as possible vehicle rescue dispatching services.
+
+(16) When you use the car or maintenance service in Chang'an APP, we will collect your name, mobile phone number, ID number, maintenance vehicle information, scheduled maintenance content, scheduled maintenance time and other information in order to prepare maintenance resources for you nearby in advance and obtain your consent.
+
+(17) Other functions and services: We may collect relevant information in other functions and services with your consent.
+
+In addition, in the process of using Chang'an APP or Chang'an website services, we may also automatically collect:
+
+(17.1) Log information: including your operation records, browsing records, published comments, and shared records.
+
+(17.2) Device or software information: including the configuration information provided by your mobile device or other programs used to access our services, the version and device identification code used by the mobile device.
+
+(17.3) On the premise of obtaining your consent, we will collect your web browsing record information to better provide services according to your personal characteristics. However, you can conveniently refuse to use such customized services at any time. We will provide services that are not specific to your personal characteristics.
+
+(17.4) Other information: your location information, IP address, and network status.
+
+00001. Information legally obtained from third party channels
+
+We may obtain your personal information and other information from other legal sources, such as public databases, social media, our partners, third-party service providers, contractors and agents.
+
+00001. Permission
+
+In order to provide relevant products and services, in addition to the information you provide, we also need your authorization to open the following permissions to collect relevant information. Refusing to open these permissions may cause us to be unable to provide you with relevant products or services.
+
+(1) Location permissions: When you use the location-related functions provided by Chang'an App, we may need to turn on the location permissions of your mobile device. We will not continue to collect your location information unless the function or service requires it. Specific scenarios are as follows:
+
+(1.1) Community function: find the community nearest to the user through location service;
+
+(1.2) Exclusive consultant: set the default exclusive consultant through location service;
+
+(1.3) Sales center: obtain the nearest sales center through positioning service;
+
+(1.4) After-sales service: obtain the latest after-sales service through positioning service;
+
+(1.5) Scheduled maintenance: quickly provide the nearest maintenance service merchant through positioning service;
+
+(1.6) Call: show the location of your car and users on the map through location service;
+
+(1.7) Mall: It provides functions such as car maintenance and delivery address through positioning services.
+
+(2) Camera or album permissions: When you upload your avatar through Chang'an App or upload pictures or videos using social platform services, we may need to turn on the camera or album permissions of your mobile device. Specific scenarios are as follows:
+
+(2.1) Post: upload pictures and post;
+
+(2.2) Create a community: upload and edit the community cover;
+
+(2.3) Edit personal data: upload avatar;
+
+(2.4) Feedback: upload pictures;
+
+(2.5) Owner certification: upload the ID card image.
+
+(3) Microphone permission: When you upload videos using Chang'an App, we may need to turn on the microphone function of your mobile device. Specific scenarios are as follows:
+
+(3.1) Navigation function - quickly analyze the destination through voice recognition.
+
+(4) Bluetooth permission: When you use the call application platform carried by Chang'an App, we may need to turn on the Bluetooth function of your mobile device. Specific scenarios are as follows:
+
+(4.1) Incall - Bluetooth key: Through the Bluetooth key, you can control your car without a key.
+
+(5) Camera permissions: When you use the 5G video connection application platform carried by Chang'an App, we may need to turn on the camera function of your mobile device.
+
+(6) Notification authority: When you use Chang'an App for identity authentication, sign-in, participation in activity registration, commodity purchase, positioning and navigation, as well as vehicle after-sales service, disaster care reminder, member rights notification, member activity invitation, attention information notification, etc., we may need to obtain the APP notification authority for offline and off-site message push reminder.
+
+6. Description of third-party SDK
+
+Based on the purpose of providing services for you and with your consent, we will access the software development kit (SDK) provided by the third party as listed in the Third Party SDK Information and updated from time to time. We will monitor the security of third-party SDKs within the existing technology level and reasonable time and labor costs, and will try to ensure the security of your personal information. However, because the third-party SDK is not under our control, we can only check and urge the third party regularly according to the contract signed with the third party or the industry practice, which can not prevent the third-party SDK from illegally collecting your personal information or infringing your other legitimate rights and interests. Of course, you can refuse to use third-party SDKs at any time, but you will not be able to use the functions related to such third-party SDKs.
+
+
+
+
+
+3、 Data processing
+
+
+（1） Our role
+
+
+We are the controller of your data.
+
+
+
+（2） Legal basis
+
+
+We process your data for one or more of the following reasons:
+
+1. Your express consent;
+
+2. Based on marketing purpose;
+
+3. The necessity of performing the contract with you;
+
+4. Based on legal liability;
+
+5. Based on our legitimate rights and interests. For example, in order to implement the company's policies, manage daily affairs, use data in a summary way for data analysis, ensure information security or prevent fraud, we transfer data to other departments of our company.
+
+
+
+（3） Reasons for providing personal information
+
+
+Generally speaking, your consent is the legal basis for us to process your personal information. Therefore, we need you to agree to our user agreement and privacy agreement in order to reach and implement our agreement with you and safeguard the legitimate interests of all parties.
+
+You have the right to choose whether to provide us with relevant data. Without some of your information, we may not be able to assume some or all of our obligations to you or provide you with our services according to the terms of service. If you want more details about this content, please contact our data protection office according to the contact information provided in the last section of this privacy agreement.
+
+
+
+（4） Purpose and method
+
+
+We will use the information you provide directly and we collect in the process of providing services to provide you with our services. We will not use your data for any other purpose inconsistent with the purpose of information collection.
+
+We will use your information based on the following purposes and methods:
+
+1. Verify your identity to prevent unauthorized access;
+
+2. Provide you with our services and products according to the contract we signed with you;
+
+3. Provide other services required by you according to the requirements stated when we collect information;
+
+4. Deal with transactions and communicate with you about these transactions;
+
+5. Help track and correct errors and faults in the program;
+
+6. Carry out internal audit, data analysis and research, analyze business operation efficiency and improve our products and services;
+
+7. Share your information with our partners so that they can help us provide you with our services and products;
+
+8. Share with branches of companies around the world for internal management and backstage support;
+
+9. Maintain the integrity and security of our information system for storing and processing your personal information;
+
+10. Detect and investigate information disclosure, illegal activities and fraud;
+
+11. Comply with applicable laws and regulations, and cooperate with legal proceedings, litigation or government authorities to provide relevant information.
+
+
+
+
+
+4、 Device authority call
+
+
+In the process of providing services, we may need you to open some device permissions, including storage, address book, notification, GPS positioning, camera, mobile phone address book, Bluetooth, NFC and other access rights. You can also choose to turn off some or all permissions at any time in the device settings function, thus refusing to collect the corresponding personal information. In different devices, the permission display mode and closing mode may be different. For details, please refer to the instructions or guidance of the device and system developer.
+
+
+
+
+
+5、 Personal information sharing, transfer and public disclosure
+
+
+（1） Personal information sharing
+
+
+Your personal information will be strictly confidential. We will not share your personal information with any other companies, organizations and individuals, except for the following:
+
+1. With explicit consent, we will share your personal information with other parties.
+
+2. Sharing with our employees and our company's branches worldwide is generally used for the following purposes: providing you with further services, internal management needs, detecting and dealing with data leakage, illegal activities and fraud, and maintaining the integrity of the company's information technology system. We will only share necessary personal information with employees to the minimum extent and are bound by this privacy agreement. We will sign a confidentiality agreement with authorized employees.
+
+3. Share your personal information with our third-party service providers (or partners) to help us provide or improve our services, including but not limited to cloud services, video monitoring services, information system technical support, customer service, etc. We will sign strict data processing agreements with all third-party service providers (or partners) involved, and require them to comply with relevant laws and regulations and our requirements, Take certain security measures to handle your personal information and ensure the security of your personal information.
+
+4. Share your personal information externally according to laws and regulations or the mandatory requirements of the competent government departments.
+
+
+
+（2） Transfer of personal information
+
+
+We will not transfer your personal information to any company, organization or individual, except for the following:
+
+1. Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties;
+
+2. In case of merger, acquisition or bankruptcy liquidation, if personal information transfer is involved, we will require the new company or organization holding your personal information to continue to be bound by this privacy agreement, otherwise we will require the company or organization to obtain authorization from you again.
+
+
+
+（3） Personal information disclosure
+
+
+We will only publicly disclose your personal information under the following circumstances:
+
+1. After obtaining your explicit consent;
+
+2. Based on the disclosure of laws, we may publicly disclose your personal information under the circumstances of laws, legal proceedings, litigation or mandatory requirements of the competent government departments.
+
+
+
+
+
+6、 Time limit for storing personal information
+
+
+As long as the information needs to be used for the purposes specified in this privacy statement, we will continue to retain your personal information and will retain your personal information for any additional period required or allowed by law until you withdraw your consent.
+
+Nevertheless, for research or statistical purposes, we may postpone the retention of your information, but we will conduct desensitization processing, and the relevant information will not be able to locate you personally.
+
+At the same time, according to the requirements of the laws of your country, we may retain your personal information to assist in any government and judicial investigation, request or maintain legal requests or civil, criminal or administrative procedures. If the above reasons do not apply to the data we keep, we will delete and destroy your data in a safe way according to the relevant requirements.
+
+
+
+
+
+7、 Information protection for minors
+
+
+Our products and services are mainly for adults, but for minors who use products and services, it is important for us to take additional precautions to protect their privacy and security. We regard anyone under the age of 16 (or the age prescribed by local laws) as a minor.
+
+For personal information of minors collected with the consent of the guardian, we will only use or disclose it if it is allowed by law, expressly agreed by the guardian or necessary to protect minors. If the guardian needs to access, modify or delete personal information related to the guardian at any time, please contact us in the way described in Section 13.
+
+If we find that we have collected the personal information of minors without the prior consent of the verifiable guardian, we will try to delete the relevant content as soon as possible.
+
+
+
+
+
+8、 Personal information protection measures
+
+
+We comply with the recognized key data protection principles (fairness, purpose limitation, data quality, data retention, compliance with personal rights, security), and take reasonable measures to ensure the security of personal information. We have applied a series of technical measures to protect the security of your personal information and minimize the risks of misuse, unauthorized access, unauthorized disclosure and inaccessible access. The security measures we use include but are not limited to: data desensitization, data encryption, firewall and data access authorization control.
+
+We will continue to save your information for the purpose specified in this privacy agreement, and within any additional period required or allowed by law, until you withdraw your consent.
+
+However, we may postpone keeping your information for research or statistics, but we will desensitize your information and track you.
+
+At the same time, according to the laws of your country, we may retain your personal information to assist any government and judicial investigation to submit or maintain legal requirements or civil, criminal or administrative procedures. If the above reasons do not apply to the data we save, we will safely delete and destroy your data according to relevant requirements.
+
+At the same time, we will regularly check and update the security mechanism used to protect data to provide effective protection means to prevent data abuse. If you think the security of your data has been compromised, or if you want to know more about our data protection measures, please contact our data protection office according to the contact information provided in the last section of this privacy agreement.
+
+
+
+
+
+9、 Storage of personal information
+
+
+Because we provide services to the world, based on the security of data storage, all of your data we collect will be stored on servers in Germany and the United States, regardless of your country.
+
+
+
+
+
+10、 Cross-border transmission of personal information
+
+
+We are a multinational company, and the responsibilities of the team responsible for data processing may cover the whole world or multiple countries/regions. Therefore, these teams may be located anywhere in the world where our business is located, including regions outside the EU, and in countries where there are no personal information protection standards equivalent to those in your country. We may also transfer data to regions outside the EU, including China. By using or joining the service and/or providing us with your information, you agree that we will collect, transmit, store and process your information outside the country/region where you live in accordance with this privacy policy. We will make every effort to ensure that they comply with applicable legal requirements within the scope of existing technology, such as by implementing standard contract terms. All your data collected by us will be used for user and product analysis after necessary confidential treatment to provide you with better services. However, in this case, we will take measures to properly protect your information.
+
+
+
+
+
+11、 User portrait and automatic decision-making
+
+
+When you use our services, in order to provide you with more convenient and personalized information display, search and push services, we may extract your preference features based on your purchase information and service log information, and produce indirect crowd portraits based on feature tags for display, push information and possible commercial advertising.
+
+We may analyze the processed data that cannot identify you to improve our products and services.
+
+We will not use your data to make any fully automated decisions.
+
+
+
+
+
+12、 Personal information right and its exercise
+
+
+（1） Your personal information right
+
+
+1. Access right: have the right to ask us to provide a copy of your personal information held by us;
+
+2. Right to correct: When you find that there is an error in the personal information we handle about you, you have the right to correct or update the wrong or incomplete information after verifying your identity and the correction does not affect the objectivity and accuracy of the information. You can contact us through after-sales service telephone; Or for personal information collected through Chang'an Auto APP, you can submit relevant requirements through the setting feedback function in Chang'an Auto APP.
+
+3. Deletion right: If we collect, use and share your personal information with others in violation of laws and regulations or the agreement with you, you have the right to ask us to delete it.
+
+You can submit relevant requirements through the "Settings → Feedback" function in Chang'an Auto APP. You can also request to delete your relevant information through the after-sales telephone.
+
+4. Cancellation right: You can cancel your account through "I → Settings → Privacy Permission Settings → Account Cancellation" on Chang'an Auto APP (after your application is confirmed, your account will be cancelled immediately), but unless otherwise specified by law, account cancellation may result in clearing all your user data and account information and cannot be recovered.
+
+5. Right to carry: ask us to provide you with your data and, if possible, directly transfer the data to another data controller;
+
+6. Restricted processing right: If you have any dispute about the accuracy or legality of our processing of personal information, you have the right to request us to restrict the processing right; However, your limited processing rights may cause you to be unable to use our services normally.
+
+7. Right of refusal: oppose our right to use your personal information for user portrait and automatic decision-making, and oppose our right to use your personal information to send business information for direct marketing;
+
+8. Complaint: about our right to file a complaint with the competent authorities of the EU member states where you live or process your data;
+
+9. Withdrawal of consent: When we rely on your consent to process data, you have the right to withdraw the consent at any time.
+
+
+
+（2） How to exercise personal information rights
+
+
+We will protect your right to access and correct your personal information. If you want to exercise any of the rights described in 11.1, you can send an email to our data protection office for processing.
+
+Since we receive a large number of business promotion emails every day, if we think your email has nothing to do with personal information, we will not reply.
+
+
+
+（3） Request results
+
+
+After the personal information subject requests, the following results may occur:
+
+00001. The request was rejected
+
+In some cases, the request of the personal information subject will be rejected, including but not limited to:
+
+(1) The personal information subject is not entitled to relevant rights under your local law;
+
+(2) When the identity of the person making the request cannot be verified;
+
+(3) The requirements put forward by the personal information subject cannot be verified and are beyond the scope, especially when the requirements are repeated;
+
+(4) If the information involved is related to the compensation to be made or obtained in the dispute, the disclosure of information is likely to damage the interests of the interested parties;
+
+(5) If the information is retained only for the purpose of statistics and research, and the publication of statistics and research results will not disclose personal identity;
+
+(6) Other circumstances stipulated by law.
+
+If the personal information subject access request is rejected, we will formally explain the reason to the requester.
+
+2. Successful request
+
+When the situation in (1) does not occur, we will meet the request of the personal information subject. In order to improve the possibility of success of the request, please provide detailed information as much as possible when making the request, such as the category and specific content of the request, the relevant information of the information holder (such as the name of the product and service you use), the time range of information generation or processing (the smaller the time range, the greater the possibility of success), etc.
+
+
+
+（4） Withdrawal of consent
+
+
+You can change the scope of your authorization for us to continue to collect personal information or revoke your authorization by deleting configuration information, deleting associated devices, and cancelling your account.
+
+Please understand that the business function needs some basic personal information (registered mailbox) to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of your consent or authorization, nor will we process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the previous personal information processing based on your authorization.
+
+
+
+
+
+13、 Change of privacy agreement
+
+
+We reserve the right to amend this Privacy Agreement. Without your explicit consent, we will not reduce your rights under this Privacy Agreement. We will publish any changes to this agreement on this page. For major changes, we will also provide more significant notifications (including for some services, we will send notifications via email to explain the specific changes in the personal information protection policy).
+
+The major changes referred to in this policy include but are not limited to:
+
+1. Significant changes have taken place in our service model. For example, the purpose of processing personal information, the type of personal information processed, and the use of personal information;
+
+2. Significant changes have taken place in our ownership structure and organizational structure. Such as changes in owners caused by business adjustment, bankruptcy and merger, etc;
+
+3. The main objects of public disclosure of personal information have changed;
+
+4. Your right to participate in personal information processing and the way you exercise it have changed significantly;
+
+5. When the department responsible for handling personal information security, contact information and complaint channel change;
+
+6. When the personal information security impact assessment report indicates that there are high risks.
+
+At the same time, we will also archive the old version of this privacy agreement for your reference.
+
+
+
+
+
+14、 Contact us
+
+
+If you have any questions about this privacy agreement, or you want to exercise any rights, please send an email to our specially established data protection office at dpo@changan.com.cn 。 After receiving your request, we will make every effort to ensure that we can respond to the personal information subject's request within one month. Thank you for your patience and understanding. Considering the complexity and quantity of requirements, this period may be extended for another 45 days if necessary. For the delay in providing information, we will notify the personal information subject of the relevant situation and the reason for the delay. If the time limit set in this paragraph conflicts with the provisions of your local law, the provisions of your local law shall prevail. If you have different opinions about our handling of your personal information, you can submit a mediation request or other appeals to your local data protection regulatory authority.
+
+Tel.: 951999
+
+Company name: Chongqing Chang'an Automobile Co., Ltd
+
+Developer name: Chongqing Chang'an Automobile Co., Ltd
+
+Third-party SDK information
+
+
+Gaode Map SDK
+Purpose: used to display the map
+
+Data type: equipment identification information, geographic location information
+
+Official website link: Gaode Map SDK address
+
+1. Gaode Positioning SDK
+
+Purpose: for positioning
+
+Types of personal information collected: device identifier (IMEI, IDFA, Android ID, MAC, OAID, UAID and other related information), application information (application crash information, notification switch status, software list and other related information), device parameters and system information (device type, device model, operating system and hardware related information), network information (IP address, WiFi information, base station information), geographic location information
+
+Official website link: Gaode Locating SDK address
+
+2. Gaode Map Search SDK
+
+Purpose of use: used to realize the functions of path planning between two points
+
+Types of personal information collected: equipment information, geographical location information, network information
+
+Official website link: Gaode Map Search SDK address
+
+Equipment information: equipment identifier (IMEI, IDFA, Android ID, MAC, OAID, UAID and other related information), application information (application crash information, notification switch status, software list and other related information), equipment parameters and system information (equipment type, equipment model, operating system and hardware-related information)
+
+Network information: IP address, WiFi information, base station information, geographic location information
+
+Official website link: https://lbs.amap.com/pages/privacy/
+
+
+
+Alipay (Alipay) SDK
+Purpose: help users use Alipay in the app
+
+Data type: equipment identification information
+
+Official website link: Alipay SDK address
+
+
+
+WeChat Open Platform SDK
+Purpose of use: access to WeChat open platform SDK, support WeChat authorized login, WeChat sharing and WeChat payment
+
+Data type: equipment identification information
+
+Official website link: WeChat open platform SDK address
+
+
+
+Weibo sharing SDK
+Purpose of use: help users share content to third-party applications
+
+Data type: equipment identification information
+
+Official website link: Weibo sharing SDK address
+
+
+
+QQ Share SDK
+
+Purpose of use: help users share content to third-party applications
+
+Data type: equipment identification information
+
+Official website link: QQ share SDK address
+
+
+
+Aurora push
+Purpose of use: help improve the delivery of push messages and ensure the stable operation of the system
+
+Types of personal information collected: equipment information, geographical location information, network information
+
+Official website link: https://WWW jfiguang .  cn //11cense/pr1vacY
+
+Equipment information: equipment identifier (IMEI, IDFA, Android ID, MAC, OAID, UAID and other related information), application information (application crash information, notification switch status, software list and other related information), equipment parameters and system information (equipment type, equipment model, operating system and hardware-related information)
+
+Network information: IP address, WiFi information, base station information, geographic location information
+
+BuglySDK
+Purpose of use: provide professional crash tracking, crash analysis and other quality tracking for mobile developers
+
+Data type: unshared data
+
+Official website link: BuglySDK address
+
+
+
+By using or continuing to use our products and services, you agree to the relevant contents of this Privacy Agreement. If you do not agree with any content of this privacy agreement, please immediately stop using our services< o:p></o:p>
+
+
+
+<o:p> </o:p>
+
+
+
+2、 Personal information collection<o: p></o: p>
+<o:p> </o:p>
+
+（1） Definition of personal information<o: p></o: p>
+Personal information is all kinds of information recorded in electronic or other ways that can identify specific natural persons individually or in combination with other information< o:p></o:p>
+
+Sensitive personal information refers to personal information that, once leaked or illegally used, may result in personal discrimination or serious harm to personal and property safety. Sensitive personal information includes race, nationality, religious belief, personal biological characteristics, medical health, financial account, personal whereabouts and other information< o:p></o:p>
+
+<o:p> </o:p>
+
+（2） Personal information collection scenario<o: p></o: p>
+<o:p> </o:p>
+
+We may collect your personal information in the following scenarios:<o: p></o: p>
+
+When you register as our user< o:p></o:p>
+
+When you buy one of our products< o:p></o:p>
+
+When you register or participate in our activities< o:p></o:p>
+
+When you use our services and products< o:p></o:p>
+
+<o:p> </o:p>
+
+（3） Scope of information collection<o: p></o: p>
+The information we may collect and use related to you or your use of Chang'an auto products and services mainly includes the following categories: (1) Your personal information and electronic equipment information we obtained during your use of Chang'an APP or Chang'an website; (2) We obtained your personal information during your purchase of Chang'an Automobile products or related services; (3) We obtained your personal information, driving information and vehicle information in the process of using Chang'an automobile products and related services< o:p></o:p>
+
+In order to ensure that we can successfully provide you with the services you need, we may collect your personal sensitive information (the type of information underlined below)< o:p></o:p>
+
+1. Purchase products or services of Chang'an Automobile<o: p></o: p>
+
+In the process of booking or purchasing our products and services, using our agent application license and subsidy services, we may collect your following information:<o: p></o: p>
+
+(1) Basic personal information: including name, ID card, driver's license, contact address/zip code, contact telephone number, personal email address, member account information and information that we have obtained your consent through other means< o:p></o:p>
+
+(2) The information generated in the process of ordering and purchasing your car: including the relevant information and records generated in the process of your going to Chang'an Automobile Store, participating in our activities, registering for a test drive, ordering by telephone, or contacting our customer service or sales department, your vehicle order, loan agreement, insurance policy agreement, subsidy application, and the information that we have obtained your consent through other means< o:p></o:p>
+
+(3) Basic information of your vehicle: including your license plate number, engine number, vehicle identification number, battery number and other information that we have obtained your consent through other means< o:p></o:p>
+
+2. Use Chang'an automobile products or services<o: p></o: p>
+
+In the process of using our products and related services, in order to enhance more intelligent vehicle experience, improve the quality of products and services, diagnose and solve the problems of products and services, and according to laws, regulations and relevant requirements of government departments on the management of new energy vehicles, we may collect:<o: p></o: p>
+
+Information collected by on-board induction equipment:<o: p></o: p>
+
+(1) Information on operation, performance, status and road conditions, including speed information, odometer reading, motor operation status, battery charging record and operation status, vehicle driving status, driving history, accelerator pedal and brake use status, ambient temperature data Information about remote remote control service (such as remote remote control locking/unlocking/opening of the trunk, remote start/closing of the air conditioner, remote vehicle search, remote operation of the window, start/stop of charging), vehicle status information (such as the opening/closing or locking/unlocking status information of the door, window, sunroof, front cover, trunk, headlight), vehicle theft sensing information, vehicle accident-related information, and the use of the automatic driving assistance function of the vehicle, And other information about vehicle safety and availability and road traffic conditions< o:p></o:p>
+
+(2) Information collected by the on-board application platform: information about your loading and use of on-board applications, including Chang'an APP account information, which we collect in real time through the application platform carried by Chang'an automobile products; Personalized setting data, vehicle driving behavior data, including mileage, energy consumption, driving time, average speed, and carbon emission reduction estimation data; On-board navigation application data, including navigation destination, search record, navigation real-time data, driving track, actively collected location, navigation real-time data, driving track, navigation setting data (route preference, voice broadcast mode, license plate limit switch, red wire, navigation perspective, mute switch, road condition switch); Bluetooth linked mobile device information, mobile song, and contact list under user authorization; On-board application loading and usage (including contact list, navigation destination, browsing record), on-board entertainment system data (including radio listening record), music/video playlist, search history, Himalaya and QQ music and other synchronized personal collection and playback history< o:p></o:p>
+
+(3) Information collected according to laws and regulations: according to the requirements of laws and regulations, we need to monitor the data of the following vehicles and connect them to the government collection/monitoring platform of new energy vehicle data and the data collection/monitoring platform of Chang'an Automobile and its affiliated companies, including vehicle static information, vehicle dynamic data, drive motor data, vehicle data, power battery data, engine data, vehicle position data Charging data, vehicle collision data, extreme value data, alarm data, and other information required to be obtained and monitored according to applicable laws and regulations or government requirements< o:p></o:p>
+
+(4) The information collected by the interior camera in the limited scene: the information collected by the interior camera in the limited scene. The in-car camera is in the standby state after the vehicle is powered on, but this camera does not take pictures, take pictures or collect other personal information except for the following scenarios:<o: p></o: p>
+
+(4.1) For the purpose of fatigue detection, we collect the driver's eye position and whether to close the eyes and face information through the interior rearview mirror camera< o:p></o:p>
+
+(4.2) The roof camera takes photos or videos when the courier opens the trunk to deliver the express, the vehicle is stolen, or when you actively trigger the camera's photo or video function< o:p></o:p>
+
+(4.3) The image and video recorded by the in-vehicle tachograph< o:p></o:p>
+
+(4.4) For the purpose of safety protection, the ECALL function will be triggered automatically after the vehicle airbag is ejected. We will actively open and collect real-time video data in the vehicle when the user does not respond. The information collected by the in-car camera in limited scenarios is stored in the on-board equipment, and will not be uploaded to the cloud unless the user is authorized to upload and the remote live broadcast in the emergency of airbag ejection< o:p></o:p>
+
+(5) The information collected by the camera outside the vehicle under limited scenes:<o: p></o: p>
+
+(5.1) In order to realize the functions of automatic assistant driving, assistant reversing and parking, we need to collect the image data around the vehicle through the front, side and rear cameras outside the vehicle (such as lane lines, traffic signs, parking space signs, traffic signal lights)< o:p></o:p>
+
+(5.2) The exterior camera function, for the purpose of vehicle accident loss assessment and underwriting, we may collect and view relevant image data< o:p></o:p>
+
+(5.3) Collect relevant video data when the vehicle owner actively triggers the photographing or video recording function< o:p></o:p>
+
+(6) Information collected through the on-board SIM card service: information collected by providing you with the on-board SIM card service, including your name and ID card number, vehicle frame number, SIM card number, traffic usage (including traffic usage of each application system)< o:p></o:p>
+
+(7) Charging, replacement and maintenance services: information we collect through charging, replacement and maintenance services, such as your battery use status, charging and replacement services (including but not limited to valet charging, exclusive pile, power station, mobile charging vehicle and public DC charging pile) use status, road rescue service use status, information about charging pile and charging rate, maintenance problems and records< o:p></o:p>
+
+3. Use Chang'an APP and website<o: p></o: p>
+
+When you use the following functions and services of Chang'an APP and website, we will collect the following information< o:p></o:p>
+
+(1) Registered account: You can use our APP and some functions of the website without registering an account. However, some functions require you to register your account to use. In the process of registering your account, you need to submit our nickname, contact number, gender, avatar email and other information. You can also choose to register through a third-party account, but you need to grant us the right to obtain some of your information from a third-party account, such as your nickname, avatar, gender, region, e-mail, public friends or contact list, etc< o:p></o:p>
+
+(2) Social platform: We will collect your uploaded photos, videos and text content, location information and voting information< o:p></o:p>
+
+(3) Participation: According to the specific requirements of the event, we may collect your ID card number or other ID card numbers that can prove your identity, the names of participants and peers, their phone numbers, their ID card numbers, participation information and other information< o:p></o:p>
+
+(4) Mall functions: recipient's name, mobile phone number, location, detailed address, purchase record and payment information< o:p></o:p>
+
+(5) Customer service function: consultation record< o:p></o:p>
+
+(6) Ordering vehicles: name, ID card number or other ID card number that can prove your identity, license city, price information, payment information, service delivery place, service delivery time, contact information, ordering vehicles and service information, vehicle ordering, power up, charging, maintenance, accident rescue, car washing, valet driving, airport parking service order history information< o:p></o:p>
+
+(7) Vehicle charging service: name, mobile phone number, vehicle VIN code, installation time and geographical location of the owner's exclusive stake, ID of the exclusive stake equipment, charging time, times, duration, power consumption, consumption amount and historical information of each charge, as well as collecting real-time vehicle location information when you use the charging function< o:p></o:p>
+
+(8) Vehicle rental service: name, mobile phone number, pickup and return location, pickup and return time< o:p></o:p>
+
+(9) Use Chang'an APP to remotely view and control the vehicle: if you bind the vehicle with Chang'an APP and turn on the relevant functions of the vehicle, you can view the information about the opening/closing or locking/unlocking status of your vehicle's doors, windows, skylights, front lids, trunk, headlights, and the historical driving records of the vehicle, including mileage, energy consumption, driving time, average speed and carbon emission reduction estimation data, It also provides you with the function of remotely controlling the relevant state of the vehicle< o:p></o:p>
+
+(10) Financial lending service: name, ID card (or other documents that can prove your identity) card number and scanning copy, bank card number, bank of deposit and scanning copy, mobile phone number and personal information collected with your consent through personal credit authorization agreement and other means< o:p></o:p>
+
+(11) Other functions and services: We may collect relevant information in other functions and services with your consent< o:p></o:p>
+
+In addition, during your use of Chang'an APP or Chang'an website services, we may also automatically collect:<o: p></o: p>
+
+(1) Log information: including your operation records, browsing records, published comments, and shared records< o:p></o:p>
+
+(2) Device or software information: including the configuration information provided by your mobile device or other programs used to access our services, the version used by the mobile device and the device identification code< o:p></o:p>
+
+(3) Other information: your location information, IP address, and network status< o:p></o:p>
+
+<o:p> </o:p>
+
+4. Information legally obtained from third party channels<o: p></o: p>
+
+We may obtain your personal information and other information from other legal sources, such as public databases, social media, our partners, third-party service providers, contractors and agents< o:p></o:p>
+
+5. Permission<o: p></o: p>
+
+In order to provide relevant products and services, in addition to the information you provide, we also need your authorization to open the following permissions to collect relevant information. Refusing to open these permissions may cause us to be unable to provide you with relevant products or services< o:p></o:p>
+
+(1) Location permissions: When you use the location-related functions provided by Chang'an App, we may need to turn on the location permissions of your mobile device. We will not continue to collect your location information unless the function or service requires it< o:p></o:p>
+
+(2) Camera or album permissions: When you upload your avatar through Chang'an App or upload pictures or videos using social platform services, we may need to turn on the camera or album permissions of your mobile device< o:p></o:p>
+
+(3) Microphone permission: When you upload videos using Chang'an App, we may need to turn on the microphone function of your mobile device< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+3、 Data processing<o: p></o: p>
+<o:p> </o:p>
+
+（1） Our role<o: p></o: p>
+<o:p> </o:p>
+
+We are the controller of your data< o:p></o:p>
+
+<o:p> </o:p>
+
+（2） Legal basis<o: p></o: p>
+<o:p> </o:p>
+
+We process your data for one or more of the following reasons:<o: p></o: p>
+
+1. Your express consent< o:p></o:p>
+
+2. Based on marketing purpose< o:p></o:p>
+
+3. The necessity of performing the contract with you< o:p></o:p>
+
+4. Based on legal liability< o:p></o:p>
+
+5. Based on our legitimate rights and interests. For example, in order to implement the company's policies, manage daily affairs, use data in a summary way for data analysis, ensure information security or prevent fraud, we transfer data to other departments of our company< o:p></o:p>
+
+<o:p> </o:p>
+
+（3） Reasons for providing personal information<o: p></o: p>
+<o:p> </o:p>
+
+Generally speaking, your consent is the legal basis for us to process your personal information. Therefore, we need you to agree to our user agreement and privacy agreement in order to reach and implement our agreement with you and safeguard the legitimate interests of all parties< o:p></o:p>
+
+You have the right to choose whether to provide us with relevant data. Without some of your information, we may not be able to assume some or all of our obligations to you or provide you with our services according to the terms of service. If you want more details about this content, please contact our data protection office according to the contact information provided in the last section of this privacy agreement< o:p></o:p>
+
+<o:p> </o:p>
+
+（4） Purpose and method<o: p></o: p>
+<o:p> </o:p>
+
+We will use the information you provide directly and we collect in the process of providing services to provide you with our services. We will not use your data for any other purpose inconsistent with the purpose of information collection< o:p></o:p>
+
+We will use your information based on the following purposes and methods:<o: p></o: p>
+
+1. Verify your identity to prevent unauthorized access< o:p></o:p>
+
+2. Provide you with our services and products according to the contract we signed with you< o:p></o:p>
+
+3. Provide other services required by you according to the requirements stated when we collect information< o:p></o:p>
+
+4. Deal with transactions and communicate with you about these transactions< o:p></o:p>
+
+5. Help track and correct errors and faults in the program< o:p></o:p>
+
+6. Carry out internal audit, data analysis and research, analyze business operation efficiency and improve our products and services< o:p></o:p>
+
+7. Share your information with our partners so that they can help us provide you with our services and products< o:p></o:p>
+
+8. Share with branches of companies around the world for internal management and backstage support< o:p></o:p>
+
+9. Maintain the integrity and security of our information system for storing and processing your personal information< o:p></o:p>
+
+10. Detect and investigate information disclosure, illegal activities and fraud< o:p></o:p>
+
+11. Comply with applicable laws and regulations, and cooperate with legal proceedings, litigation or government authorities to provide relevant information< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+4、 Device authority call<o: p></o: p>
+<o:p> </o:p>
+
+In the process of providing services, we may need you to open some device permissions, including storage, address book, notification, GPS positioning, camera, mobile phone address book, Bluetooth, NFC and other access rights. You can also choose to turn off some or all permissions at any time in the device settings function, thus refusing to collect the corresponding personal information. In different devices, the permission display mode and closing mode may be different. For details, please refer to the instructions or guidance of the device and system developer< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+5、 Personal information sharing, transfer and public disclosure<o: p></o: p>
+<o:p> </o:p>
+
+（1） Personal information sharing<o: p></o: p>
+<o:p> </o:p>
+
+Your personal information will be strictly confidential. We will not share your personal information with any other companies, organizations and individuals, except for the following:<o: p></o: p>
+
+1. With explicit consent, we will share your personal information with other parties< o:p></o:p>
+
+2. Sharing with our employees and our company's branches worldwide is generally used for the following purposes: providing you with further services, internal management needs, detecting and dealing with data leakage, illegal activities and fraud, and maintaining the integrity of the company's information technology system. We will only share necessary personal information with employees to the minimum extent and are bound by this privacy agreement. We will sign a confidentiality agreement with authorized employees< o:p></o:p>
+
+3. Share your personal information with our third-party service providers (or partners) to help us provide or improve our services, including but not limited to cloud services, video monitoring services, information system technical support, customer service, etc. We will sign strict data processing agreements with all third-party service providers (or partners) involved, and require them to comply with relevant laws and regulations and our requirements, Take certain security measures to handle your personal information and ensure the security of your personal information< o:p></o:p>
+
+4. Share your personal information externally according to laws and regulations or the mandatory requirements of the competent government departments< o:p></o:p>
+
+<o:p> </o:p>
+
+（2） Personal information transfer<o: p></o: p>
+<o:p> </o:p>
+
+We will not transfer your personal information to any company, organization or individual, except for the following:<o: p></o: p>
+
+1. Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties< o:p></o:p>
+
+2. In case of merger, acquisition or bankruptcy liquidation, if personal information transfer is involved, we will require the new company or organization holding your personal information to continue to be bound by this privacy agreement, otherwise we will require the company or organization to obtain authorization from you again< o:p></o:p>
+
+<o:p> </o:p>
+
+（3） Personal information disclosure<o: p></o: p>
+<o:p> </o:p>
+
+We will only publicly disclose your personal information under the following circumstances:<o: p></o: p>
+
+1. After obtaining your explicit consent< o:p></o:p>
+
+2. Based on the disclosure of laws, we may publicly disclose your personal information under the circumstances of laws, legal proceedings, litigation or mandatory requirements of the competent government departments< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+6、 Personal information storage time limit<o: p></o: p>
+<o:p> </o:p>
+
+As long as the information needs to be used for the purposes specified in this privacy statement, we will continue to retain your personal information and will retain your personal information for any additional period required or allowed by law until you withdraw your consent< o:p></o:p>
+
+Nevertheless, for research or statistical purposes, we may postpone the retention of your information, but we will conduct desensitization processing, and the relevant information will not be able to locate you personally< o:p></o:p>
+
+At the same time, according to the requirements of the laws of your country, we may retain your personal information to assist in any government and judicial investigation, request or maintain legal requests or civil, criminal or administrative procedures. If the above reasons do not apply to the data we keep, we will delete and destroy your data in a safe way according to the relevant requirements< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+7、 Information protection for minors<o: p></o: p>
+<o:p> </o:p>
+
+Our products and services are mainly for adults, but for minors who use products and services, it is important for us to take additional precautions to protect their privacy and security. We regard anyone under the age of 16 (or the age prescribed by local laws) as a minor< o:p></o:p>
+
+For personal information of minors collected with the consent of the guardian, we will only use or disclose it if it is allowed by law, expressly agreed by the guardian or necessary to protect minors. If the guardian needs to access, modify or delete personal information related to the guardian at any time, please contact us in the way described in Section 13< o:p></o:p>
+
+If we find that we have collected the personal information of minors without the prior consent of the verifiable guardian, we will try to delete the relevant content as soon as possible< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+8、 Personal information protection measures<o: p></o: p>
+<o:p> </o:p>
+
+We comply with the recognized key data protection principles (fairness, purpose limitation, data quality, data retention, compliance with personal rights, security), and take reasonable measures to ensure the security of personal information. We have applied a series of technical measures to protect the security of your personal information and minimize the risks of misuse, unauthorized access, unauthorized disclosure and inaccessible access. The security measures we use include but are not limited to: data desensitization, data encryption, firewall and data access authorization control< o:p></o:p>
+
+We will continue to save your information for the purpose specified in this privacy agreement, and within any additional period required or allowed by law, until you withdraw your consent< o:p></o:p>
+
+However, we may postpone keeping your information for research or statistics, but we will desensitize your information and track you< o:p></o:p>
+
+At the same time, according to the laws of your country, we may retain your personal information to assist any government and judicial investigation to submit or maintain legal requirements or civil, criminal or administrative procedures. If the above reasons do not apply to the data we save, we will safely delete and destroy your data according to relevant requirements< o:p></o:p>
+
+At the same time, we will regularly check and update the security mechanism used to protect data to provide effective protection means to prevent data abuse. If you think the security of your data has been compromised, or if you want to know more about our data protection measures, please contact our data protection office according to the contact information provided in the last section of this privacy agreement< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+9、 Storage of personal information<o: p></o: p>
+<o:p> </o:p>
+
+Because we provide services to the world, based on the security of data storage, all of your data we collect will be stored on servers in Germany and the United States, regardless of your country< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+10、 Cross-border transmission of personal information<o: p></o: p>
+<o:p> </o:p>
+
+We are a multinational company, and the responsibilities of the team responsible for data processing may cover the whole world or multiple countries/regions. Therefore, these teams may be located anywhere in the world where our business is located, including regions outside the EU, and in countries where there are no personal information protection standards equivalent to those in your country. We may also transfer data to regions outside the EU, including China. By using or joining the service and/or providing us with your information, you agree that we will collect, transmit, store and process your information outside the country/region where you live in accordance with this privacy policy. We will make every effort to ensure that they comply with applicable legal requirements within the scope of existing technology, such as by implementing standard contract terms. All your data collected by us will be used for user and product analysis after necessary confidential treatment to provide you with better services. However, in this case, we will take measures to properly protect your information< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+11、 User portrait and automatic decision-making<o: p></o: p>
+<o:p> </o:p>
+
+When you use our services, in order to provide you with more convenient and personalized information display, search and push services, we may extract your preference features based on your purchase information and service log information, and produce indirect crowd portraits based on feature tags for display, push information and possible commercial advertising< o:p></o:p>
+
+We may analyze the processed data that cannot identify you to improve our products and services< o:p></o:p>
+
+We will not use your data to make any fully automated decisions< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+12、 Personal information right and its exercise<o: p></o: p>
+<o:p> </o:p>
+
+（1） Your personal information right<o: p></o: p>
+<o:p> </o:p>
+
+1. Access right: have the right to ask us to provide a copy of your personal information held by us< o:p></o:p>
+
+2. The right to correct: if the information is found to contain errors or expired, the right to ask us to correct it< o:p></o:p>
+
+3. Cancellation and deletion right: Have the right to ask us to cancel your account or delete your personal information held by us< o:p></o:p>
+
+4. Right to carry: ask us to provide you with your data and, if possible, directly transfer the data to another data controller< o:p></o:p>
+
+5. Restricted processing right: If you have any dispute about the accuracy or legality of our processing of personal information, you have the right to request us to restrict the processing right; However, your limited processing rights may cause you to be unable to use our services normally< o:p></o:p>
+
+6. Right of refusal: oppose our right to use your personal information for user portrait and automatic decision-making, and oppose our right to use your personal information to send business information for direct marketing< o:p></o:p>
+
+7. Complaint: about our right to file a complaint with the competent authorities of the EU member states where you live or process your data< o:p></o:p>
+
+8. Withdrawal of consent: When we rely on your consent to process data, you have the right to withdraw the consent at any time< o:p></o:p>
+
+<o:p> </o:p>
+
+（2） How to exercise personal information rights<o: p></o: p>
+<o:p> </o:p>
+
+We will protect your right to access and correct your personal information. If you want to exercise any of the rights described in 11.1, you can send an email to our data protection office for processing< o:p></o:p>
+
+Since we receive a large number of business promotion emails every day, if we think your email has nothing to do with personal information, we will not reply< o:p></o:p>
+
+<o:p> </o:p>
+
+（3） Request result<o: p></o: p>
+<o:p> </o:p>
+
+After the personal information subject requests, the following results may occur:<o: p></o: p>
+
+1. The request is rejected<o: p></o: p>
+
+In some cases, the request of the personal information subject will be rejected, including but not limited to:<o: p></o: p>
+
+(1) The personal information subject is not entitled to relevant rights under your local law< o:p></o:p>
+
+(2) When the identity of the person making the request cannot be verified< o:p></o:p>
+
+(3) The requirements put forward by the personal information subject cannot be verified and are beyond the scope, especially when the requirements are repeated< o:p></o:p>
+
+(4) If the information involved is related to the compensation to be made or obtained in the dispute, the disclosure of information is likely to damage the interests of the interested parties< o:p></o:p>
+
+(5) If the information is retained only for the purpose of statistics and research, and the publication of statistics and research results will not disclose personal identity< o:p></o:p>
+
+(6) Other circumstances stipulated by law< o:p></o:p>
+
+If the personal information subject access request is rejected, we will formally explain the reason to the requester< o:p></o:p>
+
+2. The request succeeded<o: p></o: p>
+
+When the situation in (1) does not occur, we will meet the request of the personal information subject. In order to improve the possibility of success of the request, please provide detailed information as much as possible when making the request, such as the category and specific content of the request, the relevant information of the information holder (such as the name of the product and service you use), the time range of information generation or processing (the smaller the time range, the greater the possibility of success), etc< o:p></o:p>
+
+<o:p> </o:p>
+
+（4） Withdrawal of consent<o: p></o: p>
+<o:p> </o:p>
+
+You can change the scope of your authorization for us to continue to collect personal information or revoke your authorization by deleting configuration information, deleting associated devices, and cancelling your account< o:p></o:p>
+
+Please understand that the business function needs some basic personal information (registered mailbox) to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of your consent or authorization, nor will we process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the previous personal information processing based on your authorization< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+13、 Change of privacy agreement<o: p></o: p>
+<o:p> </o:p>
+
+We reserve the right to amend this Privacy Agreement. Without your explicit consent, we will not reduce your rights under this Privacy Agreement. We will publish any changes to this agreement on this page. For major changes, we will also provide more significant notifications (including for some services, we will send notifications via email to explain the specific changes in the personal information protection policy)< o:p></o:p>
+
+Major changes referred to in this policy include but are not limited to:<o: p></o: p>
+
+1. Significant changes have taken place in our service model. For example, the purpose of processing personal information, the type of personal information processed, and the use of personal information< o:p></o:p>
+
+2. Significant changes have taken place in our ownership structure and organizational structure. Such as changes in owners caused by business adjustment, bankruptcy and merger, etc< o:p></o:p>
+
+3. The main objects of public disclosure of personal information have changed< o:p></o:p>
+
+4. Your right to participate in personal information processing and the way you exercise it have changed significantly< o:p></o:p>
+
+5. When the department responsible for handling personal information security, contact information and complaint channel change< o:p></o:p>
+
+6. When the personal information security impact assessment report indicates that there are high risks< o:p></o:p>
+
+At the same time, we will also archive the old version of this privacy agreement for your reference< o:p></o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+14、 Contact us<o: p></o: p>
+<o:p> </o:p>
+
+If you have any questions about this privacy agreement, or you want to exercise any rights, please send an email to our specially established data protection office at DPO@changan.com 。 After receiving your request, we will make every effort to ensure that we can respond to the personal information subject's request within one month. Thank you for your patience and understanding. Considering the complexity and quantity of requirements, this period may be extended for another 45 days if necessary. For the delay in providing information, we will notify the personal information subject of the relevant situation and the reason for the delay. If the time limit set in this paragraph conflicts with the provisions of your local law, the provisions of your local law shall prevail. If you have different opinions about our handling of your personal information, you can submit a mediation request or other appeals to your local data protection regulatory authority< o:p></o:p>
+

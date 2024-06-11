@@ -1,0 +1,2994 @@
+Hyundai Motor America | Privacy Policy | Hyundai USA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CPO brochure page 
+ 
+  dealerInfo  
+ 
+ carfax  
+ 
+  cpo brochure 
+ 
+ -color Image 
+ 
+  Google map marker start 
+ 
+  allModelVehicles  
+ 
+  <meta name="alternative-vehicle-image-url" content="https://cpo.hyundaiusa.com/content/dam/hyundai/us/cpo/image/general/shopping-tools/certified-pre-owned-inventory/default-vehicle-main.jpg">  
+  pii lead submit  
+ 
+  dealXG submit  
+ 
+  roadster api  
+ 
+ 
+  pii links  
+ 
+  Tekion Leads link  
+ 
+  lightboxToken  
+ 
+  CPOdealerSapMonroneyLabel   WindowSticker  
+ 
+  tekion api  
+ 
+ 
+ 
+  ddc api  
+ 
+  DDC tearm  
+ 
+  lightboxSaveTransaction  
+ 
+ 
+ 
+ 
+  aonVehicles  
+ 
+  AON Details  
+ 
+  AON Session  
+ 
+  AON dealerValidateElectricByZipAon  
+ 
+  fuelStationMap  
+ 
+  incentiveSpecialPrograms  
+ 
+  Data layer creation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      .sp-toggle {
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 0 16px;
+      }
+      @media (min-width: 640px) {
+        .sp-toggle {
+          padding: 0 32px;
+        }
+      }
+      @media (min-width: 1024px) {
+        .sp-toggle {
+          padding: 0 42px;
+        }
+      }
+      @media (min-width: 1440px) {
+        .sp-toggle {
+          padding: 0 72px;
+        }
+      }
+
+      .sp-toggle-group {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .sp-toggle-label {
+        padding: 4px;
+        flex-basis: 100%;
+      }
+      
+      @media (min-width: 640px) {
+        .sp-toggle-label {
+          flex-basis: 50%;
+        }
+      }
+      @media (min-width: 1024px) {
+        .sp-toggle-label {
+          flex-basis: 25%;
+        }
+      }
+
+      .sp-toggle-hide {
+        display: none;
+      }
+
+      .sp-button {
+        margin: 4px;
+        margin: 20px 0;
+      }
+   
+  Google Tag Manager  
+ 
+  End Google Tag Manager  
+ 
+ 
+  Call Tealium Async Tag   
+  Google Tag Manager (noscript)  
+ 
+  End Google Tag Manager (noscript)  
+ 
+ For disability accessibility concerns, please contact us at  1-800-633-5151  or  accessibility@hmausa.com  |  Hyundai’s accessibility efforts are guided by WCAG 2.0 AA. 
+ Skip to Main Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Nav Dropdowns  
+ 
+ Vehicles 
+ 
+ 
+ 
+ 
+ 
+ Shopping Tools 
+ 
+ 
+ 
+ 
+ 
+ Owners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Hey Hyundai  
+ 
+  Desktop Right Menu  
+ 
+ 
+ 
+ Nearest Dealer 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+  Toggle Mobile Dropdown Menu  
+ 
+ 
+ 
+ 
+ 
+ Open 
+ Menu 
+ 
+ 
+ Close Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build & Price 
+ 
+ 
+ 
+ 
+ Inventory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inventory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Offers & Promotions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dealer 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vehicles 
+ 
+ 
+ 
+ 
+										All vehicles
+									 
+ 
+ 
+ 
+										Electrified
+									 
+ 
+ 
+ 
+										SUVs
+									 
+ 
+ 
+ 
+										Sedans
+									 
+ 
+ 
+ 
+ 
+ 
+ Shopping Tools 
+ 
+ 
+ 
+ 
+										Dealer Locator
+									 
+ 
+ 
+ 
+										Build and Price
+									 
+ 
+ 
+ 
+										Shop Inventory
+									 
+ 
+ 
+ 
+										View Offers and Special Programs
+									 
+ 
+ 
+ 
+										Shop Certified Used Vehicles
+									 
+ 
+ 
+ 
+										Request a quote
+									 
+ 
+ 
+ 
+										Payment Calculator
+									 
+ 
+ 
+ 
+										Apply for Credit
+									 
+ 
+ 
+ 
+										Estimated Trade-in Value
+									 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why Hyundai 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Owners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently Asked Questions 
+ 
+ 
+ 
+.hyundaiBlue{fill:#1b305c;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ Search Hyundai vehicles, programs and services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electrified 
+ SUVs 
+ Sedans 
+ Performance 
+ View All Models
+					 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ IONIQ 6 
+ 
+ Coming Spring 2023 
+														 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ ELANTRA Hybrid 
+  {{24550 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SONATA Hybrid 
+  {{28250 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ TUCSON Hybrid 
+  {{31150 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ KONA Electric 
+  {{33550 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SANTA FE Hybrid 
+  {{35910 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ TUCSON Plug-in Hybrid 
+  {{37300 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ IONIQ 5 
+  {{41450 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SANTA FE Plug-in Hybrid 
+  {{42110 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ NEXO Fuel Cell 
+  {{60135 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ VENUE 
+  {{19500 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ KONA 
+  {{22140 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SANTA CRUZ 
+  {{25700 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ TUCSON 
+  {{26700 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SANTA FE 
+  {{28200 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ TUCSON Hybrid 
+  {{31150 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ KONA Electric 
+  {{33550 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ KONA N 
+  {{34700 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ PALISADE 
+  {{35550 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SANTA FE Hybrid 
+  {{35910 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ TUCSON Plug-in Hybrid 
+  {{37300 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ IONIQ 5 
+  {{41450 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SANTA FE Plug-in Hybrid 
+  {{42110 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ NEXO Fuel Cell 
+  {{60135 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ ELANTRA 
+  {{20650 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ ELANTRA Hybrid 
+  {{24550 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SONATA 
+  {{25250 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ SONATA Hybrid 
+  {{28250 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ ELANTRA N 
+  {{32900 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ ELANTRA N 
+  {{32900 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ KONA N 
+  {{34700 | toCurrency}}
+														 starting MSRP
+															
+															
+																 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MSRP excludes freight charges, tax, title, and license fees. Freight charges and actual dealer prices may vary. Vehicles displayed may contain optional equipment at additional cost. Accessory items shown may vary according to model and illustration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ Search Hyundai vehicles, programs and services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ shopping tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Build & Price 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search New Inventory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Offers & Promotions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Test drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Certified Used Vehicles 
+ 
+ 
+ 
+ Payment Calculator
+									    
+								     
+ Request a quote
+									    
+								     
+ Estimated Trade-in Value
+									    
+									      	 
+ 
+ 
+ 
+ Apply for Credit
+									    
+								     
+ Electrified Advantages
+									    
+								     
+ Americas Best Warranty
+									    
+								     
+ Shopper Assurance
+									    
+								     
+ Why Hyundai
+									    
+								     
+ Frequently Asked Questions
+									    
+								     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ Search Hyundai vehicles, programs and services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ owners 
+ 
+ 
+ 
+ Ownership Resources 
+ 
+ 
+ 
+ 
+ 
+ Make a Payment 
+ 
+ 
+ 
+ 
+ 
+ Bluelink® Multimedia/Map Updates 
+ 
+ 
+ 
+ 
+ 
+ Schedule Service 
+ 
+ 
+ 
+ 
+ 
+ Login to MyHyundai 
+ 
+ 
+ 
+ 
+ 
+ Owners Manuals 
+ 
+ 
+ 
+ 
+ 
+ 24/7 Roadside Assistance 
+ 
+ 
+ 
+ 
+ 
+ Owner Assurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Confirm your ZIP Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ZIP Code 
+ 
+ 
+                  Please enter a valid ZIP Code.
+                
+ 
+                  Please enter a ZIP Code for offers, inventory, and dealers near you.
+                
+ 
+                  Your location could not be detected. Please enter a ZIP Code.
+                
+ 
+                  Please enter a valid ZIP Code.
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Use my current location 
+ 
+ 
+         Confirm
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ My Preferred Dealer 
+ Local Dealer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            {{ dealer.dealerNm }}
+          
+ 
+            {{ dealer.distance | round }} mi.
+          
+ 
+ 
+ 
+ 
+ 
+               Preferred Dealer
+             
+ 
+ 
+ 
+ 
+               Set as Preferred Dealer
+             
+ 
+ 
+ Showroom 
+ Service Center 
+ 
+ 
+ 
+ 
+ 
+ {{ dealer.address1 }} {{ dealer.address2 }} 
+ {{ dealer.city }}, {{ dealer.state }} {{ dealer.zipCd }} 
+ 
+ 
+    TR7 - 81.07  
+	                Get directions 
+                     
+ 
+ 
+ 
+    TR8 - 81.08  
+ {{ dealer.calltrackingShowroomPhoneMobile | phone }}
+                           
+ 
+ 
+ 
+ {{ dealer.phone | phone }}
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+	                     {{ dealer.calltrackingShowroomPhone | phone }} 
+	                      
+ 
+ 
+ 
+ 
+	                     {{ dealer.phone | phone }} 
+	                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Showroom Hours 
+ 
+ 
+ {{ item.day.replace(/,/g, ", ") }} 
+ {{item.hour}} 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Test Drive
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+                        See Inventory 
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {{ dealer.address1 }} {{ dealer.address2 }} 
+ {{ dealer.city }}, {{ dealer.state }} {{ dealer.zipCd }} 
+ 
+ 
+    TR7 - 81.07  
+		                Get directions 
+	                  	 
+ 
+ 
+ 
+    TR8 - 81.08  
+ {{ dealer.calltrackingServiceCenterPhoneMobile | phone }}
+                               
+ 
+ 
+ 
+ {{ dealer.serviceCenterPhone | phone }}
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+		                	{{ dealer.calltrackingServiceCenterPhone | phone }}  
+		                	 
+ 
+ 
+ 
+ 
+		                	{{ dealer.serviceCenterPhone | phone }}
+		                	 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Center Hours (May Vary) 
+ 
+ 
+ {{ item.day.replace(/,/g, ", ") }} 
+ {{item.hour}} 
+ 
+ 
+ 
+ 
+                     Schedule Service 
+                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               Visit Dealer Site 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    TR15 - 81.15  
+               Select a different dealer
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introducing Hyundai Shopper Assurance. 
+ A whole new car buying experience designed to save you time and help make buying your new car as enjoyable as driving it. 
+ 
+ 
+ Previous 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transparent Pricing
+	
+ 
+ 
+                                Get online pricing up front so you can shop and compare with confidence.
+	
+
+                             
+ 
+ 
+ 
+ 
+ 
+ Flexible Test Drive
+	
+ 
+ 
+                                Schedule a test drive in advance at your convenience. Or skip the dealership and we’ll gladly bring your test drive to you.
+	
+
+                             
+ 
+ 
+ 
+ 
+ 
+ Streamlined Purchase
+	
+ 
+ 
+                                On participating dealership websites, you can purchase your new Hyundai quickly and easily. It’s a process called Hyundai Click to Buy. From credit applications, loan approvals and payment calculations to financing and trade-in options and home delivery, it’s all done simply at your convenience.
+	
+
+                             
+ 
+ 
+ 
+ 
+ 
+ 3 Day Worry-Free Exchange
+	
+ 
+ 
+                                We're sure you'll love your new Hyundai. If for any reason you don't, return it within 3 days and exchange it for another new Hyundai.
+	
+
+                             
+ 
+ 
+ 
+ 
+ Next 
+ 
+ 
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ Car Care Express 
+ Get in. Get out. Get back to your life. Enjoy fast oil changes and more to help maintain your Hyundai. Car Care Express is your best solution for quality and convenience for the following maintenance: 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ Hyundai Click to Buy 
+ The easy way to buy a Hyundai online, Hyundai Click to Buy makes shopping from  home fast and convenient. Using your smartphone, tablet or computer, it gives you  the tools you need to get into your new Hyundai—whether you want to finance, lease  or pay cash—plus a whole lot more.
+                
+             
+ 
+ 
+ Shop from anywhere
+                        
+                     
+ Trade in your vehicle online
+                        
+                     
+ Take advantage of special offers
+                        
+                     
+ Calculate your monthly payment
+                        
+                     
+ Apply for credit
+                        
+                     
+ 
+ 
+ Complete your paperwork online
+                        
+                     
+ Transparent pricing
+                        
+                     
+ Secure and convenient
+                        
+                     
+ Have your Hyundai delivered to you
+                        
+                     
+ 
+ 
+ Learn more 
+ 
+ 
+ 
+ 
+ 
+ IONIQ Dealer 
+ These Hyundai dealers are certified for IONIQ 5 and IONIQ 6 sales, as well as  service and maintenance for these models. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								Privacy Policy
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your Privacy at a Glance 
+ Privacy Policy 
+ Vehicle Technologies and Services 
+ Your Privacy Choices 
+ MyHyundai Privacy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ Our Privacy Policy has changed. By using this site, you agree to the  Privacy Policy . 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+			Hyundai Motor America Privacy Policy
+			         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Types of data we collect about you 
+ Here’s a quick summary of the types of information we’re gathering—either directly from you or from third parties, through your use of our products and services or your interactions with us. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data that identifies you
+							
+							
+						 
+ Unique info which distinguishes you from everyone else
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Audio and visual data
+							
+							
+						 
+ Electronic data related to vehicle usage/interactions with us
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial information
+							
+							
+						 
+ Records of products/services used, purchased or considered
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geolocation data
+							
+							
+						 
+ Location records of where your vehicle or device have been
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Internet usage data
+							
+							
+						 
+ Electronic data such as browsing, search history & web interaction
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Biometric data
+							
+							
+						 
+ Vehicle access data such as fingerprint or face recognition
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Inferences and trends
+							
+							
+						 
+ Profiles reflecting preferences, characteristics or behavior
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer records
+							
+							
+						 
+ Payment info, credit card numbers & related data
+							
+							
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If you live in California 
+ If you are a California resident, please be sure to review the Hyundai Privacy Policy for important information about your rights under California privacy laws and how to submit a request to us pursuant to these rights.  View California supplement ⁠ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How we use your data 
+ 
+ 
+ Sometimes we use your data individually, while sometimes we may combine it with other information to generate comprehensive group statistics for research and analytics. Collecting personal information helps us improve our products, services and how we operate our business. Here are the primary ways we use it. 
+   
+   
+   
+ Providing you with services related to running our business 
+   
+ We may obtain information about you to provide, maintain or improve our services. This may include authenticating you as a user of our systems to perform technical operations (such as updating software), communicating with you about our services, vehicles or other products, responding to your requests, administering events that you participate in, fulfilling your orders, processing your payments, providing technical support, or any other customer service or support purposes. 
+   
+ Read our full policy on how we use data to run our business ⁠ 
+   
+ 
+  
+ Safety, recall and warranty 
+   
+ We gather personal information for safety, recall and warranty purposes, such as to send recall notices, process recall and warranty claims, and for other purposes related to vehicle safety. 
+   
+ Read our full policy on how we use data for safety ⁠ 
+   
+   
+   
+ Analyzing and improving our services and offerings 
+   
+ We collect information to better understand how you access and use our vehicles, services and other products. How we apply this information includes research into evaluating and improving our services and business operations, developing new features, products or services, or improving your user experience with our services. 
+   
+ Read our full policy on how we use data to understand you better ⁠ 
+   
+   
+   
+ Personalizing content and experiences 
+   
+ To tailor content to your needs, we collect data such as your location and other content. This is used to personalize information, instructions and experiences, as well as to reach you with more relevant ads and to measure the success of our advertising campaigns. 
+   
+ Read our full policy on how we use data for personalized content ⁠ 
+   
+   
+   
+ Marketing and promotional purposes 
+   
+ We may collect user data to send you things that may be of interest to you, such as newsletters, offers, products, promotions, contests or any other information or services. 
+   
+ Read our full policy on how we use data for marketing ⁠ 
+   
+   
+   
+ Supporting our general business operations  
+   
+ Sometimes data collection is necessary for the administration of our general business, accounting, record keeping and legal functions. Examples of this include analyzing our business or operational risks and results, collecting outstanding amounts owed, or maintaining business records. 
+   
+ Read our full policy on how we use data for our operations ⁠ 
+   
+   
+   
+ Securing and protecting our rights 
+   
+ Data collection may be necessary to protect our business operations. Examples include securing our network, information technology, assets or services; investigating, preventing or taking action against violations of our Terms; or detecting and preventing unauthorized access, fraudulent activities or any other misconduct that may threaten the rights or safety of any person or third party. 
+   
+ Read our full policy on how we use data to protect our rights ⁠ 
+   
+   
+   
+ Complying with legal requests and obligations 
+   
+ We may use any data we collect to comply with the law or legal proceedings. For example, we may disclose information in response to subpoenas, court orders, and other lawful requests by regulators and law enforcement, including responding to national security or law enforcement disclosure requirements. 
+   
+ Read our full policy on how we use data for legal requests ⁠ 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Who we share your data with 
+ 
+ 
+ We share your data with two types of affiliate partners outside of the Hyundai organization: authorized Hyundai dealers and select third parties such as vendors and suppliers, who use such data to perform services on our behalf. We may share information like driving data and geolocation data, which they may use to better serve you, provide relevant offers, or respond to your requests. Otherwise, your information remains private unless we have your consent to share it. 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your privacy rights & choices 
+ 
+ 
+ The more you know about your information and your choices, the better. You have the right to access the information we have on you, opt out of marketing communications, and more. To find out more about your rights regarding your information and privacy, please check out the complete Hyundai Privacy Policy for further details. 
+   
+ View Hyundai Privacy Policy 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cookies & Tracking 
+ 
+ 
+ Cookies, beacons and other tracking mechanisms automatically collect information as you browse sites and services. We use them and our third-party partners use them to help with everything from verifyng credentials and preventing fraud to tracking errors and improving our site. You can turn them off, but this may mean that we won’t be able to recognize you for in-app messaging or for resolving issues as efficiently. 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If you live in California 
+ 
+ 
+ Residents of California have additional rights regarding personal information. You can check out what’s provided for you under California privacy laws, including the California Consumer Privacy Act (“CCPA”). 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additional Information 
+ 
+ 
+ We reserve the right to change our policy at any time, and will post any changes on our policy pages. Feel free to check back with us. If you have any concerns about your privacy at Hyundai, please visit our  Contact Us page. ⁠ 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Footer section 
+ 
+ 
+ 
+ Vehicles  
+ 
+								Vehicles 
+								 
+ 
+ 
+ 
+ 
+ 
+ All Vehicles 
+ 
+ 
+ Electrified 
+ 
+ 
+ SUVs 
+ 
+ 
+ Sedans 
+ 
+ 
+ Performance 
+ 
+ 
+ All Wheel Drive 
+ 
+ 
+ Vehicle Reviews 
+ 
+ 
+ Vehicle Brochures 
+ 
+ 
+ Safety 
+ 
+ 
+ Technology 
+ 
+ 
+ Genesis 
+ 
+ 
+ 
+ 
+ Shopping Tools 
+ 
+								Shopping Tools
+								 
+ 
+ 
+ 
+ 
+ 
+ Shop Hyundai 
+ 
+ 
+ Find a Dealer 
+ 
+ 
+ Build & Price 
+ 
+ 
+ Offers & Promotions 
+ 
+ 
+ Request a Quote 
+ 
+ 
+ Search New Inventory 
+ 
+ 
+ Schedule a Test Drive 
+ 
+ 
+ Search Certified Used Vehicles 
+ 
+ 
+ Compare our Vehicles 
+ 
+ 
+ Compare to Competitors 
+ 
+ 
+ Calculate a Payment 
+ 
+ 
+ Estimate Trade-in Value 
+ 
+ 
+ Apply for Credit 
+ 
+ 
+ 
+ 
+ Why Hyundai 
+ 
+								Why Hyundai
+								 
+ 
+ 
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ America's Best Warranty 
+ 
+ 
+ Shopper Assurance 
+ 
+ 
+ Owner Assurance 
+ 
+ 
+ Complimentary Maintenance 
+ 
+ 
+ Happy Drivers 
+ 
+ 
+ Philanthropy 
+ 
+ 
+ Hyundai in America 
+ 
+ 
+ Build for Tomorrow 
+ 
+ 
+ Social Responsibility 
+ 
+ 
+ 
+ 
+ Owner 
+ 
+								Owner
+								 
+ 
+ 
+ 
+ 
+ 
+ Ownership Resources 
+ 
+ 
+ Login to MyHyundai 
+ 
+ 
+ Make a Payment 
+ 
+ 
+ Maintenance Schedules 
+ 
+ 
+ Schedule Service 
+ 
+ 
+ Bluelink® Multimedia/Map Updates 
+ 
+ 
+ Owners Manuals 
+ 
+ 
+ 24/7 Roadside Assistance 
+ 
+ 
+ Bluelink® 
+ 
+ 
+ Accessories 
+ 
+ 
+ Merchandise & Apparel 
+ 
+ 
+ Safety Recalls 
+ 
+ 
+ Engine Recalls 
+ 
+ 
+ Theta Engine Settlement 
+ 
+ 
+ ABS Module Class Action 
+ 
+ 
+ 
+ 
+ About 
+ 
+								About
+								 
+ 
+ 
+ 
+ 
+ 
+ Our Company 
+ 
+ 
+ COVID-19 Response 
+ 
+ 
+ Careers 
+ 
+ 
+ News 
+ 
+ 
+ Motorsports 
+ 
+ 
+ Auto Shows 
+ 
+ 
+ Awards & Accolades 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.hyundaiGray{fill:#bababa;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+									 Language:
+								 
+ 
+									English
+								 
+ 
+ 
+ 
+ 
+ 
+ 
+ English 
+ Español 
+ 한국어   
+ 繁體中文 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site Map 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQ's 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accessibility 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Terms of Use 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Practices 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your Privacy Choices 
+ 
+ 
+ 
+ 
+ Cookie Preferences 
+ 
+ 
+ 
+ For disability accessibility concerns, please contact us at  1-800-633-5151  or  accessibility@hmausa.com  |  Hyundai’s accessibility efforts are guided by WCAG 2.0 AA. 
+ Hyundai is a registered trademark of Hyundai Motor Company. All rights reserved. ©2023 Hyundai Motor America. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Confirm your ZIP Code 
+ 
+ 
+ 
+ ZIP Code 
+ 
+ Please enter a valid ZIP code. 
+ Please enter a ZIP Code for offers, inventory, and dealers near you. 
+ Your location could not be detected. Please enter a ZIP Code. 
+ Please enter a valid ZIP Code. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Use my current location 
+ 
+ 
+ 
+ Confirm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

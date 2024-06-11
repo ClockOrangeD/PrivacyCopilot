@@ -1,0 +1,230 @@
+Release date of this version: November 29, 2021
+
+Smart Cloud Control is a product developed by Chongqing Chang'an Automobile Co., Ltd. (hereinafter referred to as "we") to provide Internet of Vehicles services. In order to explain how smart cloud control will collect, use, store and protect your personal information and your rights, we will explain relevant matters to you through this privacy policy, which will help you understand the following:
+
+We know the importance of personal information to you and will do our best to protect your personal information safe and reliable. We are committed to maintaining your trust in us and abide by the following principles to protect your personal information: the principle of consistency of power and responsibility, the principle of clear purpose, the principle of choice and consent, the principle of minimum necessity, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take corresponding security measures to protect your personal information according to the mature security standards in the industry< o:p></o:p>
+
+Please read and understand the Smart Cloud Control Privacy Policy carefully before using our products or services.
+
+Personal information refers to all kinds of information recorded in electronic or other ways that can identify the identity of a specific natural person or feed back the activities of a specific natural person alone or in combination with other information< o:p></o:p>
+
+In the process of using the following services of Smart Cloud Control, we need to collect some information from you to provide you with convenient and personalized services, improve our service quality and ensure your account security:
+
+1.3 When you use smart cloud control service, we will collect your Wifi information, unique device identifier, smart cloud control software version number, system version, service provider (China Mobile, Unicom, Telecom), access network mode, type and status, network status information, international mobile device identification number (IMEI), device application installation list, MAC address, iccid, ssid, device model, device type, device version Device accelerator, operation log, service log information, access to the current mobile phone master card information strength, mobile phone id, mobile phone card number, and task list. This information is used to identify the abnormal status of the account, understand the product suitability, ensure the safe and stable operation of the services provided to you, improve and optimize our service experience, and ensure the security of your account. If you do not agree with us to collect this information, Risk control verification may not be completed.
+
+1.9 When you use the delivery service, you can fill in the home and company addresses and add frequent destinations as needed. We will collect the address and destination information you fill in, and the address contains the city information, so as to provide you with fast navigation and sharing services. The address and destination information are sensitive information. If you do not provide the above information, you may not be able to use the engine to vehicle service normally, but it will not affect your use of other services provided by us.
+
+1.17 Instructions for access to smart cloud control APP
+
+(6) Bluetooth permission (android.permission.BLUETOOTH/android.permission.BLUETOOTH_ADMIN/android.permission.BLUETOOTH_PRIVILEGED): When you use the Bluetooth key function and connect to Bluetooth, you can choose to enable this permission. If you do not enable this permission, you will not be able to use the Bluetooth key function< o:p></o:p>
+
+(8) Front desk service permission (android. permission. FOREGROUND_SERVICE)/running task sorting permission (android. permission. REORDER_TASKS)/shielding system lock screen permission (android. permission. DISABLE_KEYGUARD)/opening status bar permission (android. permission. EXPAND_STATUS_BAR): When you use the Bluetooth keyless function, you can choose to open these permissions. If you do not turn on this permission, you will not be able to use the sensorless Bluetooth key function< o:p></o:p>
+
+(9) Current network status/network status change/Wifi status/Wifi status change permission (android.permission.ACCESS_NETWORK_STATE/android.permission.CHANGE_NETWORK_STATE/android.permission.ACCESS_WIFI_STATE/android.permission.CHANGE_WIFI_STATE): The purpose of obtaining network status/Wifi status is to meet your normal use of smart cloud control services under different network status. If you choose not to enable this permission, You may not be able to use smart cloud control services normally under different network states< o:p></o:p>
+
+(10) Mobile phone vibration permission (android. permission. VIBRATE): When you use the Bluetooth control successfully and scan the code successfully, you will be prompted by vibration. If you do not enable this permission, you can use the Bluetooth control and scan function normally, and you will not be able to get the vibration reminder< o:p></o:p>
+
+(11) Application package change (android. permission. BROADCAST_PACKAGE_CHANGED), replacement reminder permission (android. permission. BROADCAST_PACKAGE_REPLACED), restart application permission (android. permission. RESTART_PACKAGES): intra-application upgrade monitors the application installation status. If you do not enable this permission, the application installation status may not be confirmed during upgrade, which may lead to upgrade failure< o:p></o:p>
+
+(12) Application installation application permission (android. permission. REQUEST_INSTALL_PACKAGES): upgrade within the application. After downloading the package, apply to install the application. If you do not enable this permission, you may not be able to apply to install the application during upgrade, resulting in upgrade failure< o:p></o:p>
+
+(13) Fingerprint identification permission (android. permission. USE_FINGERPRINT/android. permission. USE_BIOMETRIC): When you use the fingerprint identification function, you need to turn on the fingerprint identification related permission. If you choose not to turn on the permission, you will not be able to use the fingerprint identification function normally.
+
+Used to push/distribute information< o:p></o:p>
+
+Vivo message push privacy policy link: https://www.vivo.com.cn/about-vivo/privacy-policy/?target=_self <o:p></o:p>
+
+Huawei pushes the privacy policy link: https://consumer.huawei.com/cn/privacy/privacy-policy/?target=_self
+
+Third party privacy policy link: https://policies.google.cn/privacy?target=_self&gl=cn
+
+Third party privacy policy link: https://lbs.amap.com/pages/privacy/?target=_self
+
+Third party privacy policy link: https://developer.huawei.com/consumer/cn/devservice/term?target=_self <o:p></o:p>
+
+(8) Google: Google sdk is used to realize sharing, image processing, data analysis and auxiliary development functions< o:p></o:p>
+
+(9) Tencent Cloud Real-time Audio and Video: Tencent Cloud Real-time Audio and Video is used to realize remote car moving and real-time playback functions. The permissions obtained include camera permissions, modify audio settings permissions (android.permission.MODIFY_AUDIO_SETTINGS), android.permission.WAKE_ LOCK。< o:p></o:p>
+
+Third party privacy policy link: https://intl.cloud.tencent.com/zh/document/product/301/17345?target=_self <o:p></o:p>
+
+(10) Alibaba ARouter: Alibaba ARouter is a framework layer. Alibaba ARouter is used to implement component-based development and route jump< o:p></o:p>
+
+(11) QQ Internet: QQ Internet is used to realize third-party login, social networking and payment functions< o:p></o:p>
+
+Third party privacy policy link: https://wiki.connect.qq.com/qq Internet sdk privacy statement? target=_ self<o:p></o:p>
+
+(12) Apache: Apache is used to assist in the development of smart cloud control, bridge H5 and native SDK, and obtain the information with Android ID< o:p></o:p>
+
+Third party privacy policy link: http://www.apache.org/foundation/policies/privacy.html?target=_self <o:p></o:p>
+
+(13) Bangbang security: Bangbang security is used to realize application security, function enhancement and auxiliary operation functions< o:p></o:p>
+
+Third party privacy policy link: https://passport.bangcle.com/authcenter/users/agreement?target=_self <o:p></o:p>
+
+(14) Ereza/customactivityoncrash: use ereza/customactivityoncrash to help collect application crash information, display crash logs, and facilitate problem solving< o:p></o:p>
+
+(15) Tencent Tinker: Tencent Tinker is used to realize the hot repair function. To obtain information, there is a task list, and you need to obtain permissions android.permission.QUERY_ ALL_ PACKAGES。< o:p></o:p>
+
+(16) Growingio: Growingio sdk is used to achieve data analysis, cloud platform services, advertising and auxiliary operation functions. The information obtained includes system version, device version, Android id, IMEI, task list, and read SD card content. In order to achieve data analysis and cloud platform services, Growingio sdk will still collect appeal information when smart cloud control is running in the background< o:p></o:p>
+
+Third party privacy policy link: https://accounts.growingio.com/privacy?target=_self <o:p></o:p>
+
+(17) Xiaomi Push: Xiaomi Push sdk is used to realize the message push function. The access permissions include network status permission (android. permission. INTERNET), message receiving, message push permission (cn. com. changan. cvim. permission. MIPUSH_RECEIVE), and self-starting permission (android. permission. RECEIVE_BOOT_COMPLETED). The access information includes ssid, Wifi information, task list, IMEI, and android_ Id, system version, network equipment manufacturer< o:p></o:p>
+
+Third party privacy policy link: https://dev.mi.com/console/doc/detail?target=_self&pId=1822 <o:p></o:p>
+
+(18) Tongdun sdk: The purpose of using Tongdun sdk is to achieve business security and risk control. The information obtained includes IMSI, IMEI, IDFA, MAC address, Android id, WIFI MAC, device type, device model, system type, geographic location, login IP address, WIFI-IP, application list, mobile phone status and identity, and read device information related to SD card content. In order to realize the identification of device fraud risk, smart cloud control operates in the background, Tongdun sdk will still collect appeal information< o:p></o:p>
+
+(19) Tencent Mobile Push TPNS (carrier pigeon)/Tencent Mobile Push TPNS: Tencent Mobile Push TPNS (carrier pigeon)/Tencent Mobile Push TPNS is used to realize the push/send information function. The permissions obtained include network status permission (android. permission. INTERNET), message receiving, message push permission (cn. com. changan. cvim. permission. XGPUSH_RECEIVE), and self-starting permission (android. permission. RECEIVE_BOOT_COMPLETED), The information obtained includes task list, equipment identification code and networking related information< o:p></o:p>
+
+Third party privacy policy link: https://privacy.qq.com/document/priview/bdf936b2477a45ff86da57e3d988bc2b?target=_self <o:p></o:p>
+
+(20) Meizu push: Meizu push sdk is used to realize the push/send information function. The permissions obtained include network status permission (android. permission. INTERNET), message receiving (com. meizu. flyme. push. permission. RECEIVE/com. meizu. c2dm. permission. RECEIVE), message push permission, and self-starting permission (android. permission. RECEIVE_BOOT_COMPLETED). The information obtained includes task list, device ID Information related to networking< o:p></o:p>
+
+Third party privacy policy link: https://www.meizu.com/legal.html?target=_self <o:p></o:p>
+
+(21) Oppo push: The purpose of using the oppo push sdk is to realize the push/send information function. The permissions obtained include network status permissions (android. permission. INTERNET), message reception (com. heytap. mcs. permission. RECIEVE_MCS_MESSAGE), message push permissions, and self-start permissions (android. permission. RECEIVE_BOOT_COMPLETED). The information obtained includes task list, device identification code, and network-related information< o:p></o:p>
+
+Third party privacy policy link: https://privacy.oppo.com/cn/policy/?target=_self <o:p></o:p>
+
+(22) Jagde sdk (com. gieseckedeverient.vkeyapp, com. com. forpro): The Jagde sdk is used to realize the Bluetooth key function. The permissions obtained include Bluetooth permissions (android. permission. BLUETOOTH), and the information obtained include WI-FI MAC, IMEI, Android id, and read mobile phone status< o:p></o:p>
+
+Third party privacy policy link: https://www.gi-de.com/en/data-privacy?target=_self <o:p></o:p>
+
+(23) Pivoyant (com. cloudwise. agent): The use of Pivoyant sdk (com. cloudwise. agent) is to achieve the monitoring operation function. The information obtained is Android id, and the SD card content is read. In order to achieve the monitoring operation function, the Pivoyant sdk will still collect the appeal information when the smart cloud control is running in the background< o:p></o:p>
+
+(24) GLIDE: GLIDE MOCKS sdk is used to realize the image loading function. The information obtained includes reading the SD card content< o:p></o:p>
+
+(25) Cordova (org. apache. codova): Cordova (org. apache. codova) is for hybrid development to help the front-end communicate with native code, obtain information with Android id, and read the content on the SD card< o:p></o:p>
+
+(26) Share/ShareSDK: Share/ShareSDK is used to realize sharing, third-party login, and access to network status permission (android. permission. INTERNET). The information obtained is the system version, generation ID, network device manufacturer, mobile phone style information, task list, IMEI, IMSI, iccid, WI-FI MAC, Android id, read mobile phone status and identity information, and read SD card content. In order to realize the sharing function, When smart cloud control is running in the background, ShareSDK will still collect the above information< o:p></o:p>
+
+(27) ColorOS SDK: The ColorOS SDK is used to realize the function of insensitive Bluetooth. The permissions obtained include: startup broadcast,<o: p></o: p>
+
+Suspended window (android. permission. SYSTEM_ALERT_WINDOW), message receiving (com. cloros. mcs. permission. RECIEVE_MCS_MESSAGE), mount file system permissions (android. permission. MOUNT_UNMOUNT_FILESYSTEMS), com. android. launcher.permission.READ_ SETTINGS。< o:p></o:p>
+
+Third party privacy policy link: https://muc.heytap.com/document/heytap/privacyPolicy/privacyPolicy_zh-CN.html?target=_self <o:p></o:p>
+
+Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service is not included in the above description and your information is collected, or if we use your personal information, which is beyond the scope of the purpose claimed at the time of collection and has direct or reasonable relevance, we will, before collecting and using your personal information, use the page prompt, interaction process, agreement The content, scope and purpose of information collection and use will be explained to you separately by website announcement and other means for your consent. In addition, third-party entities may provide services to you through smart cloud control APP. When you enter the service page operated by the third party principal, please note that the relevant services are provided to you by the third party principal. If it involves the collection of personal information from a third party, it is recommended that you carefully check the privacy policy or agreement of the third party< o:p></o:p>
+
+Please note that at present, Changan Automobile will not actively obtain your personal information from a third party outside Changan Group. If you need to obtain your personal information indirectly from a third party for business development in the future, we will clarify the source, type and scope of use of your personal information to you before obtaining it.
+
+When you use the smart cloud control APP service, we may use cookies to identify you. Cookies are a small data file that can help you avoid the steps of repeatedly entering registration information, or help you determine the security status of your account, let us identify your identity, and let you have a more convenient access experience. We will not use cookies for any purpose other than those stated in this privacy policy. Please understand that some of our services can only be realized by using cookies. You can manage and delete cookies as needed. If you modify the browser settings or clear all cookies saved in the software, it may affect the convenience and security of your use of the service.
+
+In order to comply with national laws, regulations and regulatory requirements, provide services to you, improve service quality, or ensure the security of your account, we will use your information in the following situations:
+
+Some specific modules or services provided by smart cloud control APP are provided by external suppliers. For example, we will hire service providers to assist us in providing customer support.
+
+We will not share your personal information with any company, organization or individual other than our company, except for the following circumstances:<o: p></o: p>
+
+(1) Obtain your explicit consent: with your prior consent, we may share your personal information with a third party< o:p></o:p>
+
+(2) Some products or services may be provided by third parties (third-party service providers, contractors, agents, application developers, etc.) or jointly provided by us and third parties. Therefore, only by sharing your information can you provide the products or services you need; If we share your information with the third party, we will require the third party to take effective confidentiality and security measures to handle personal information< o:p></o:p>
+
+(3) With your explicit consent in advance, we will share your information with a third party within the scope of your authorization to the extent permitted by laws and regulations and not contrary to public order and good customs< o:p></o:p>
+
+(4) We may share your personal information according to laws and regulations, or according to the mandatory requirements of the competent government departments< o:p></o:p>
+
+4.3 Transfer<o: p></o: p>
+
+We will not transfer your personal information to any company, organization or individual, except for the following circumstances:<o: p></o: p>
+
+(1) Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other places< o:p></o:p>
+
+(2) When it comes to mergers, acquisitions or bankruptcy liquidation, if it comes to the transfer of personal information, we will ask the new company or organization that holds your personal information to continue to be bound by this privacy policy, otherwise we will ask the company or organization to ask you for authorization again< o:p></o:p>
+
+4.4 Public disclosure<o: p></o: p>
+
+We will only publicly disclose your personal information under the following circumstances:<o: p></o: p>
+
+(1) After obtaining your explicit consent< o:p></o:p>
+
+(2) Disclosure based on law: We may publicly disclose your personal information under the circumstances of laws, legal proceedings, litigation or mandatory requirements of the competent government departments< o:p></o:p>
+
+4.5 According to relevant laws, regulations and national standards, in the following circumstances, we may share, transfer and publicly disclose your personal information according to law without your consent:
+
+We attach importance to the security of personal information, and we strive to provide protection for your personal information to prevent the loss, improper use, unauthorized access or disclosure of information. To this end, we have taken the following measures in particular:<o: p></o: p>
+
+(1) We have used industry-standard security protection measures to protect the personal information you provide from unauthorized access, public disclosure, use, modification, damage or loss. We will take all reasonable and feasible measures to protect your personal information. For example, we will use trusted protection mechanisms to prevent malicious attacks on data and servers storing data. We will use network security layer software (SSL) for encryption transmission, sensitive information encryption, data desensitization and other means to protect your personal information< o:p></o:p>
+
+(2) We have obtained the information security level protection (level 3) certification< o:p></o:p>
+
+(3) We will deploy access control mechanism to ensure that only authorized personnel can access personal information; According to business needs and personnel levels, control the number of authorized personnel and implement hierarchical authority management for authorized personnel; Access to personal data will be logged and regularly audited by the administrator< o:p></o:p>
+
+(4) In the event of an unfortunate personal information security incident, we will launch an emergency plan according to law to prevent the expansion of the security incident, and inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, the suggestions you can take to prevent and reduce risks independently, and the remedial measures for you in the form of push notification, announcement, etc. At the same time, actively report the disposal of personal information security incidents in accordance with laws, regulations and regulatory requirements< o:p></o:p>
+
+6. Your rights<o: p></o: p>
+
+In accordance with the relevant laws, regulations, standards of China and the general practices of other countries and regions, we guarantee that you exercise the following rights with respect to your personal information:
+
+You have the right to access your personal information, except for the exceptions specified by laws and regulations. If you want to exercise the data access right, you can access it by yourself in the following ways:<o: p></o: p>
+
+(1) After entering the Smart Cloud App, click "I" and click the avatar to access the avatar, nickname, gender and birthday information< o:p></o:p>
+
+(2) You can enter the Smart Cloud Control APP, click "I", click "Vehicle Management", and access the vehicle information bound under the account. After clicking the vehicle, you can see the vehicle information such as the vehicle nickname, license plate number, frame number, engine number, vehicle series, gasoline model, and your insurance information< o:p></o:p>
+
+(3) You can enter the Smart Cloud Control APP, click "I", click "Maintenance Assistant", and you can see such information as km from the next service, days from the next service, total mileage, and maintenance records< o:p></o:p>
+
+(4) You can enter the smart cloud control app, click "I", click "My Order", and you can view your order information< o:p></o:p>
+
+(5) You can enter the smart cloud control app, click "I", click "Settings", and click "Account and security". You can access your mobile phone number, user name, emergency contact number, and email account information.
+
+6.2 Correct your personal information<o: p></o: p>
+
+When you find that there is an error in the personal information we handle about you, you have the right to ask us to make corrections. You can access the smart cloud control APP, click "I", click "avatar" and "settings" to access the corresponding personal information, and correct the personal information< o:p></o:p>
+
+If you cannot correct these personal information through the above operations, you can use our feedback contact at any time or call our service hotline. We will reply to your request for correction within 15 working days.
+
+Including but not limited to the following situations, you can request us to delete personal information:<o: p></o: p>
+
+(1) If we handle personal information in violation of laws and regulations< o:p></o:p>
+
+(2) If we collect and use your personal information without your consent< o:p></o:p>
+
+(3) If our behavior of handling personal information violates the agreement with you< o:p></o:p>
+
+(4) If you no longer use our products or services, or you cancel your account< o:p></o:p>
+
+(5) If we no longer provide you with products or services< o:p></o:p>
+
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us and require them to delete it in a timely manner, unless otherwise specified by laws and regulations, or these entities have obtained your independent authorization< o:p></o:p>
+
+When you delete information from our service, we may not delete the corresponding information in the backup system immediately, but we will delete the information when the backup is updated.
+
+Each business function needs some basic personal information and permissions to complete. You can change the authorization consent by clicking "I - Settings - Account and Security - System Permission Management - Withdrawal of Consent"< o:p></o:p>
+
+When you withdraw your consent, we will no longer process the corresponding personal information. However, your decision to withdraw your consent will not affect the previous personal information processing based on your authorization.
+
+You can cancel your account by clicking "I - Settings - Account and Security - Account Cancellation". After you cancel your account, we will stop providing you with products or services. We will delete or anonymize your personal information within 7 working days, unless otherwise specified by laws and regulations< o:p></o:p>
+
+6.6 Complaints and reports<o: p></o: p>
+
+You can complain and report by clicking "I - Settings - About Smart Cloud Control - Complaint Telephone".
+
+We attach great importance to the protection of minors' personal information. According to the provisions of relevant laws and regulations, we will not collect personal information of minors (under the age of 18) without knowing it. Minors should not provide personal information to us without the consent of their guardians. If we find that we have collected personal information of minors without obtaining verifiable parental consent in advance, we will try to delete the relevant data as soon as possible.
+
+We will store the user's personal information collected in the People's Republic of China in accordance with laws and regulations.
+
+In order to provide you with better services, the functions and related services of Smart Cloud Control APP will be updated and changed from time to time. We will revise this privacy policy in due time. Without your explicit consent, we will not reduce your rights under this privacy policy. When the privacy policy is changed, we will show you the changed privacy policy in the form of promotion notice. For major changes, we will also provide you with a more prominent pop-up window to let you know the latest version in time< o:p></o:p>
+
+Major changes referred to in this policy include but are not limited to:<o: p></o: p>
+
+(1) Significant changes have taken place in our service model. For example, the purpose of processing personal information, the type of personal information processed, and the use of personal information< o:p></o:p>
+
+(2) Significant changes have taken place in our ownership structure and organizational structure. Such as changes in owners caused by business adjustment, bankruptcy and merger, etc< o:p></o:p>
+
+(3) The main objects of personal information sharing, transfer or public disclosure have changed< o:p></o:p>
+
+(4) Your right to participate in personal information processing and the way you exercise it have changed significantly< o:p></o:p>
+
+(5) When the department responsible for handling personal information security, contact information and complaint channel change< o:p></o:p>
+
+(6) When the personal information security impact assessment report indicates that there is a high risk< o:p></o:p>
+
+10. How to contact us<o: p></o: p>
+
+If you have any questions, comments or suggestions about this privacy policy, you can contact us through our feedback or service hotline 951999. We will review the issues involved as soon as possible and reply within 15 working days. If we are overdue, we will contact you in advance to obtain your consent< o:p></o:p>
+
+<o:p> </o:p>
+

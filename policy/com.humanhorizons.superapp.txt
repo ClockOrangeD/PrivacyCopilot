@@ -1,0 +1,448 @@
+of Hi-Tech Automobile's
+
+Personal Information Protection Policy
+
+
+
+
+
+
+
+This Personal Information Protection Policy applies to all products and services provided by HiPhi Automobile Sales & Service Co., Ltd. and Human Horizons (Shanghai) Internet Technology Co., Ltd. (hereinafter collectively referred to as "HiPhi Automobile" or "we") to users (users will be referred to as "you" in this Personal Information Protection Policy) through HiPhi APP, including vehicle purchase, vehicle remote control, relevant free or paid services you enjoy through HiPhi APP, and online and offline activities (hereinafter collectively referred to as "HiPhi Automobile" or "we"). "Products" and "Services"). This Personal Information Protection Policy (hereinafter referred to as the "Personal Information Protection Policy") aims to explain to users how we collect, use, store, share and protect your personal information in the process of providing products and services to users.
+
+Please read this Policy carefully before using our products and services, fully understand all the contents of this Policy, and ensure that you are fully aware of and fully understand the meaning of its contents, especially the content in bold and underlined fonts, and the corresponding legal consequences, and express "agree" or "disagree" on this basis, and you will be deemed to have accepted this Personal Information Protection Policy by checking "Agree". Refusal to agree to this Policy will not affect your ability to view the basic information of HiPhi APP and understand the content of products and services, but you will not be able to use products and services that require you to provide relevant personal information. In this case, please refrain from providing any personal information without contacting us.
+
+If you use a third-party service ("Service Provider"), the relevant Third-Party Service Provider may directly collect personal information from you in accordance with its personal information protection policy, please read the personal information protection policy/privacy policy of the third-party service provider carefully. Gaohe Automobile does not make any guarantee or commitment to the personal information protection obligations and performance of the third-party service providers, but will review the personal information protection/personal information protection policies of the third-party service providers, and remind the third-party service providers to comply with the relevant laws and regulations through written statements and other means.
+
+This Personal Information Protection Policy will help you understand the following:
+
+1. Definition
+
+2. How We Collect and Use Your Personal Information3
+
+. Use of
+
+information-gathering technologies4. How we store and store your personal information5
+
+. How We Process Sensitive Personal Information and Personal Information
+
+of Minors6. How We Share, Transfer, and Publicly Disclose Your Personal Information7
+
+. Your Rights and Choices8
+
+. Disclaimer9
+
+. Contact Us10
+
+. Revisions and Updates1
+
+. DefinitionUnless
+
+otherwise specified, the following terms mentioned in this Personal Information Protection Policy are defined as follows:
+
+l Affiliates: refers to companies or other entities that directly or indirectly control or are controlled by or are under common direct or indirect control with Hi-Hop Automobile; For the purposes of this definition, "control" means, directly or indirectly, the right to own at least fifty percent (50%) of the voting rights of an entity or to exercise managerial control.
+
+l Personal information: refers to all kinds of information recorded electronically or otherwise that can identify a specific natural person or reflect the activities of a specific natural person, either alone or in combination with other information. This includes, but is not limited to, name, date of birth, ID number, personal biometric information, address, contact information, communication records and content.
+
+l Personal sensitive information: refers to personal information that may endanger personal and property safety once disclosed, illegally provided or abused, and can easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. Including ID card number, personal biometric information, bank account, communication records and contents, property information, credit information, whereabouts, accommodation information, health and physiological information, transaction information, personal information of children under the age of 14 (inclusive), etc. Below, we have shown sensitive personal information in italics to better explain and explain to you.
+
+l Anonymization: refers to the process of making the personal information subject unable to be identified or associated through the technical processing of personal information, and the processed information cannot be restored.
+
+l De-identification: refers to the process of technical processing of personal information so that it cannot identify or associate the subject of personal information without the help of additional information.
+
+l Deletion: refers to the act of removing personal information from the system involved in the realization of daily business functions, so that it can be kept in a state that cannot be retrieved or accessed.
+
+
+
+2. How We Collect and Use Your Personal InformationYour
+
+personal information will only be collected and used for the following purposes, when the personal information of users that has been collected will be used for other purposes, or when we need to collect additional personal information from you, We will inform you in a reasonable manner and ask for your consent again before use.
+
+2.1 Register HiPhi AccountWhen
+
+you register a HiPhi account, we will collect the following information from you: mobile phone number and the verification code we send to your mobile phone in the form of SMS to help you establish a HiPhi account, share information and news, view orders and vehicle information, and enjoy our services.
+
+If you refuse to register an account, you can only view our basic information and news, but you will not be able to purchase HiPhi vehicles, view more detailed information, and obtain other products and services.
+
+2.2 Purchasing HiPhi VehiclesWhen
+
+you purchase HiPhi vehicles online, we will collect your information: name, gender, mobile phone number, email address, location information, payment account number, product or service order information, and payment records for the following purposes:
+
+l Complete the order and pay the corresponding fee;
+
+l Get in touch with you for vehicle delivery;
+
+l Help you establish a HiPhi account that is linked to the car and APP;
+
+l Assist you in handling vehicle licensing procedures, insurance, finance and other matters
+
+related to vehicle delivery and usel Internal audit, anti-fraud monitoring.
+
+If you refuse to provide all the information required to implement the above functions, you may not be able to purchase HiPhi vehicles online, but it will not affect your login account or use other services.
+
+2.3 Activating and Binding VehiclesAfter
+
+scanning the QR code of the vehicle platform through your HiPhi account and agreeing to bind your vehicle account, you can log in to the vehicle system through the HiPhi APP and activate the HiPhi vehicle you purchased. Your mobile phone number and login status registered on the HiPhi APP will be synchronized to the in-vehicle system, so that you:
+
+can quickly register/log in (partially) to the in-vehicle application, and associate the mobile application with the in-vehicle application as an account, so as to obtain a better product experience;
+
+l Realize the interoperability of relevant functions with the HiPhi APP, for example, you can remotely control some functions of the vehicle through the HiPhi APP, and your personal information collected on the vehicle and the on-board platform (including HiPhi account, vehicle status, driving preferences, vehicle VIN code, license plate number, vehicle location information, vehicle driving track, Album) may be transferred to your bound Gaohe H synchronouslyiPhi account.
+
+If you refuse to provide the information required to realize the above functions, you may not be able to complete the functions and services brought about by the vehicle activation and use of the on-board information system and related technologies, including the remote control of the vehicle through the mobile terminal.
+
+2.4 Face ID:
+
+You can enter face data through the HiPhi APP, unlock the vehicle through the mobile terminal or the vehicle's B-pillar camera to open the door, and log in to the corresponding account of the vehicle. When you use the HiPhi app to input face data, you need to agree to use the camera function of your phone for facial recognition. We will collect information about your facial features.
+
+If you refuse to perform facial recognition, you will not be able to unlock the vehicle or log in to the vehicle through the vehicle identification function, but it will not affect your account binding or other functions of the APP.
+
+2.5 Vehicle remote control
+
+After activating and binding a HiPhi account, you can remotely control your purchased HiPhi vehicle through the mobile terminal. When you use the remote control function, you need to agree to the network permission and location permission of the authorized device, and we will collect the following information from you: vehicle VIN code, vehicle configuration information, license plate number, remote control service information (such as planned car use time), vehicle location information, vehicle information (including energy replenishment information, i.e., battery level and charging status; Vehicle data, including energy consumption information, mileage, vehicle use time, vehicle speed information, location information, and carbon emission reduction estimation data; Vehicle status information, such as opening, closing, locked/unlocked status of doors, windows, front lids, and trunks; Vehicle alarm information) for the following purposes:
+
+l manage the vehicle, realize the remote control of the vehicle;
+
+l Understand the operating status of HiPhi vehicles to ensure availability and safety;
+
+l Obtain the real-time status of the vehicle;
+
+l Vehicle maintenance reminder: provide the test report through the one-key detection function, and carry out the corresponding maintenance tips when the detection problem occurs;
+
+l Statistics and analysis of driving behavior so that we can optimize our products and provide better after-sales service;
+
+l Understand your access to and use of products and services, respond to your needs in terms of language settings, location settings, help services and instructions, and analyze and improve user experience.
+
+If you refuse to provide all the information required to implement the aforesaid functions, you may not be able to realize the service of remote control of the vehicle, but it will not affect your login account or use of other services.
+
+2.6 Charging ServiceIn
+
+order to facilitate us to provide you with charging pile survey and installation services, we and the third-party service provider will collect your name, mobile phone number, vehicle purchase status, and charging pile installation address. When you inquire and use the charging function through the APP, we will also collect your license plate number, location information, vehicle VIN code, battery level information, payment information, and charging order information. This information will be used for the following purposes:
+
+l To contact you and survey the installation conditions of the charging pile, so that we can install the exclusive charging pile for you;
+
+l Facilitate you to inquire about the address of nearby charging stations and the use of charging piles, and provide navigation service guidance to the charging address you choose;
+
+l Use our charging service and make payments;
+
+l Check your charging status and order information.
+
+If you refuse to provide all the information required to implement the above functions, you may not be able to enjoy more convenient vehicle charging services by querying the status of charging stations and charging piles, but it will not affect your login account or use other services.
+
+2.7 User rights and interests services:
+
+We and third-party service providers may provide you with user rights services free of charge or for a fee, and collect the following personal information
+from you
+: l For car washing, parking, vehicle beauty or maintenance services, we will collect your name/personal account number, mobile phone number, location information, vehicle track, vehicle model, license plate number, vehicle VIN code, and mileage;
+
+● Roadside assistance service: We will collect your name, mobile phone number, gender, age, address book, blood type, address location, vehicle type, vehicle model, color, year model, battery capacity;
+
+l Substitute driving and pick-up and delivery services: mobile phone number, frame number, vehicle VIN code, name and mobile phone number of the vehicle recipient, detailed address of the pick-up and delivery vehicle, location information of the vehicle and vehicle driving track, payment account number, order information;
+
+l Other value-added services launched from time to time, according to the specific content of the service, collect your name/account number, mobile phone number, license plate number, location information, vehicle driving track, payment account number, and order information.
+
+The above information is collected only when you use the respective service. If you refuse to provide all the information required for the above functions, we and the third-party service providers may not be able to provide you with the corresponding services, but it will not affect your login account or use of other services.
+
+2.8 Mall ServicesYou
+
+can purchase the corresponding service package through the Mall, and when you purchase the corresponding products or services in the Mall, we will collect your account number, mobile phone number, license plate number, payment account number, and order information so that you:
+
+purchase and use the products or services you have purchased;
+
+l Inquire about the order and payment status;
+
+l Inquire about the use of products and services;
+
+l Internal audit and anti-fraud monitoring.
+
+If you refuse to provide all the information required to implement the aforesaid functions, you may not be able to purchase the relevant products on the Marketplace, but it will not affect your login account or use of other services.
+
+2.9 Social interactionIn
+
+the process of using the social interaction platform to communicate and share information, we may collect the following information from you: your HiPhi account avatar and nickname, files, audios, videos, pictures (including photos and other sensitive personal information including your personal portrait), and location information that you voluntarily share, chat history, which is used to realize the social interaction function of sending messages, files, audio, video, and pictures.
+
+If you refuse to provide all the information necessary to implement the aforementioned functions, you may not be able to use the social interaction platform or share information, but it will not affect your login account or use other services.
+
+2.10 Shoulder Reminder FunctionWhen
+
+you use this function, we will remind other users who have agreed to use this function with you, and provide users with social interaction services with the user's consent. In the process of using this function, we will collect your user name, SN number of the vehicle T-box, vehicle latitude and longitude information, vehicle driving track, vehicle information (vehicle speed information and corresponding timestamp) for the following purposes:
+
+l Remind users who rub shoulders to the vicinity;
+
+l With the consent of nearby users, you can chat and send messages to them through social interaction platforms.
+
+2.11 Violation InquiryWhen
+
+you use HiPhi APP to inquire about vehicle violation information through our third-party service provider, we and the third-party service provider will collect your name, license plate number, vehicle VIN code, and motor number for the following purposes
+
+l Verification of vehicle and user information;
+
+l Inquire about vehicle violations;
+
+l Send and receive query requests.
+
+If you refuse to provide all the information required to implement the aforesaid functions, you may not be able to make an illegal inquiry, but it will not affect your login account or use of other services.
+
+2.12 PromotionIn
+
+order to provide you with marketing information such as advertising, promotions and promotions, as well as to provide personalized promotional information or customized services, we will collect the following information from you for related purposes:
+
+In order to recommend and introduce high-quality products and/or services to you, we will collect the following information from you: account number, mobile phone number, email address, your preferences for products and/or services, browsing history and purchase intention;
+
+l For market research and customer satisfaction surveys, we will collect the following information from you: personal account, mobile phone number, email address, your purchase intention of products and/or services, order information, and your evaluation of services and products;
+
+l In order to remind you of our business venues (including exhibition halls, sales centers, delivery centers, after-sales service centers, etc.) and the places where the event is held, as well as other locations you want to know about or go to, we will collect the following information from you: name, mobile phone number, your purchase intention and order for products and/or services, and location information;
+
+l For the purpose of product promotion, we will anonymize your review information and publish it in public.
+
+In order to ensure your autonomy in receiving services, if you do not want to receive advertisements or pushes from us, you can turn off the relevant push function through the system settings of your mobile device, unsubscribe by SMS, or "contact us" to unsubscribe or cancel.
+
+2.13 Contact and ConsultationWhen
+
+you ask us questions or contact us, we will collect your name, account number, mobile phone number, email address, vehicle purchase record, and license plate number for the following purposes:
+
+Tips and convenience for you to inquire about our exhibition hall, sales, delivery, after-sales service, charging outlets and other related locations, so that you can go to;
+
+l Receive and respond to your inquiries, inquiries and requests, and conduct service return visits;
+
+l Provide temporary and emergency contact in the event of an emergency (e.g., abnormal vehicle data, accident).
+
+If you refuse to provide all the information required to implement the aforesaid functions, we may delay your reply time or be unable to reply because we cannot contact you in time, but it will not affect your login account or use of other services.
+
+2.14 Dispute HandlingWhen
+
+you make an appeal or complaint to us, we may need you to provide your name/personal account number, mobile phone number, license plate number, vehicle VIN code, vehicle purchase record, and email address for the following purposes:
+
+verifying the identity of the user when necessary;
+
+l Deal with vehicle-related breakdowns and maintenance matters;
+
+● Handle requests related to the user's personal information, such as correction and correction of the user's personal information;
+
+l Respond to user complaints, or deal with legal disputes with users.
+
+If you refuse to provide all the information required to implement the aforesaid functions, it may affect the efficiency of handling your complaint or complaint, or you may not be able to handle your complaint or complaint in a timely manner, but it will not affect your login account or use of other services.
+
+
+
+
+Please note that when we provide the above products and services, we may obtain your personal information from other legitimate sources, such as through public databases, social media, and our partners, third-party service providers, contractors and agents, etc., and use your personal information in accordance with relevant laws and regulations and with your authorization. If you refuse to authorize us to collect your personal information from a third party when providing services, you may not be able to use
+
+it, and if the information you provide contains the personal information of other users, you need to ensure that you have obtained legal authorization before providing personal information.
+
+
+
+3. Use of
+
+Information Collection Technologies3.1 A cookie is a specific identifier that identifies your device and allows us to recommend personalized products and services to you. With the development of technology and the further improvement of our products and services, we may also use similar technologies as cookies. We may use cookies or similar technologies to understand, collect, and record your browsing habits, browsing information, login information, your purchase intentions and orders for products and/or services, so as to simplify your repeated operation steps (such as registration and login), facilitate your use history (such as video viewing history), provide you with service content that is more suitable for your personal needs and content that you may be more interested in, protect your information and account security, improve our products and services, and optimize your user experience. We are committed to using cookies and similar technologies only within the scope of the purposes described in this Personal Information Protection Policy.
+
+3.2 Most web browsers automatically turn on cookies, and you can choose to turn off cookies or refuse to open and access the relevant web pages at any time by adjusting your browser settings.
+
+3.3 Some of our products/services can only be realized through the use of cookies or similar technologies, if you refuse to use them, you may not be able to use our related products and/or services normally, or you may not be able to get the best service experience through our products and/or services, and at the same time, it may also have a certain impact on your information protection and account security.
+
+3.4 Software Development Kit (SDK): In order to adapt to the use of HiPhi APP and third-party platform services on different mobile devices, and to achieve vehicle and machine identity authentication, mobile device security, receiving information push, logging in to third-party platform accounts, sharing information through third-party platforms, and payment security, we will access third-party SDKs. For information on the providers of third-party SDKs and the collection and use of your personal information, please refer to the following information: SDK usage (insert link)
+
+
+
+4. How we store and store your personal information4.1
+
+Information storage
+
+l We will take security measures and technical means (including identity authentication, data encryption, access control, malicious code prevention, and security audit) that comply with national standards to store and protect your personal information to prevent its loss, misuse, Unauthorized access or disclosure, tampering, or destruction.
+
+l Your personal information will be securely stored in servers and public clouds located in China in accordance with national standards, and your personal information will not be transmitted across borders outside China. We will strictly restrict the access to and access to your personal information, and monitor and record the login logs of any accessor, including but not limited to information such as access rights, access time, access methods, and access contents, so as to ensure that your personal information is stored securely.
+
+The retention period of the personal information we collect is the minimum time necessary to achieve the collection purposes described in this Personal Information Protection Policy, unless a longer retention period is required by law. When your personal information is stored beyond the storage period, we will delete or anonymize your personal information.
+
+l When we stop operating some or all of our products or services due to special reasons, we will promptly inform you and stop the collection and processing of personal information of the relevant products or services, and delete or anonymize the personal information related to the said products or services held by us, unless otherwise provided by laws and regulations.
+
+4.2 Personal Information Security
+
+We will take all appropriate organizational, administrative, and technical measures to protect the security of your personal information. We have formulated internal systems for information security and data protection, and have set up a full-time information security team to be responsible for the construction of information security systems, covering network security, vulnerability management, threat discovery, and security incident handling processes. In practice, we use security tools such as intrusion detection/protection systems, network firewalls, anti-virus tools, and anti-spam tools (e.g., TDA, PA/CP/FT, McAfee, WAF, etc.) and implement network perimeter monitoring and protection measures for our systems. Our internal applications use HTTPS or TLS to encrypt the connection to ensure the security of your data in transit.
+
+l We have formulated an emergency plan for network security incidents to deal with security risks such as system vulnerabilities, computer viruses, network attacks, and network intrusions in a timely manner, and in the event of an incident that endangers network security, we will immediately activate the emergency plan, take corresponding remedial measures, and report to the relevant competent authorities in accordance with laws and regulations.
+
+l In the event of a security incident, we will, in accordance with the requirements of laws and regulations, promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take, the suggestions you can take to prevent and reduce the risk independently, and the remedial measures that should be taken according to your specific situation. We will promptly inform you of the relevant circumstances of the incident by SMS notification, telephone, email, etc., and if it is difficult to inform them one by one, we will make an announcement in a reasonable and effective way.
+
+4.3 Due to the complexity of Internet security, we cannot guarantee that our systems and information are 100% secure. If you believe that there is any security risk or vulnerability to our systems, please contact us as set out in the "Contact Us" section below.
+
+4.4 If we cease to operate the relevant products or services, we will stop collecting your personal information in a timely manner, notify the users of the notice of cessation of operation in the form of delivery or announcement one by one, and delete or anonymize the relevant personal information.
+
+
+
+5. How We Process Sensitive Personal Information and Children's Personal Information5.1
+
+Sensitive Personal Information
+
+The personal information we collect will include your sensitive personal information. We will take security measures such as encryption of sensitive personal information, and will not make any public disclosure or sale without your express consent.
+
+5.2 Children's Information:
+
+We consider anyone under the age of 14 to be a child.
+
+Except as required by applicable law, we do not knowingly collect children's personal information alone. If you are a child under the age of 14, you should obtain the consent of your parent or legal guardian before using our products and/or services or providing your personal information to us. For the collection of children's personal information with the consent of parents or other guardians, we will only process, use or publicly disclose this information when permitted by law, with the explicit consent of parents or other guardians, or when it is necessary to protect children.
+
+If we find that we have collected personal information from a child without the prior consent of a verifiable parent or other guardian, or if the child's parent or other guardian withdraws their consent, we will try to delete the relevant data as soon as possible.
+
+l If the information you provide contains personal information involving children, please do not provide it to us without the consent of the child's guardian.
+
+
+
+6. How We Share, Transfer and Publicly Disclose Your Personal Information6.1
+
+Commitment to Sharing and Transfer: We will not share or transfer your personal information to any company, organization or individual, except in the following circumstances:
+
+l After obtaining your explicit consent, we will share the personal information within the scope of your authorization with the third party designated by you.
+
+l In accordance with laws and regulations, or in accordance with the mandatory requirements of government authorities, we may need to share your personal information externally.
+
+l Subject to the purposes stated in this Personal Information Protection Policy, we may share your personal information with our affiliates, and we will, to the extent necessary, make full use of the information technology resources, marketing resources and customer service resources of our affiliates to better store and protect your personal information, realize our commitment to your data security, and better recommend and introduce various products and services to you.
+
+We may need to share or transfer your personal information with our business partners for the purposes notified in "Collection and Use of Personal Information" for the purposes related to business or based on the "Collection and Use of Personal Information". We will inform you of the purpose of sharing or transferring personal information, the type of personal information, the types of recipients and the possible consequences, and obtain your authorization and consent. If the shared or transferred content includes the type of sensitive personal information, we will also inform you of the identity and data security capabilities of the data recipient, and obtain your explicit consent. Our business partners include:
+
+1) third-party service providers or partners. Such as providing vehicle licence application services, insurance services, financing services such as loans or financial leasing, charging and swapping services, parking services, exclusive charging pile installation services, website hosting, data analysis and storage, payment processing, instant messaging, order fulfillment and product installation, HiPhi vehicle wireless connectivity, information technology and related infrastructure, customer service, vehicle maintenance or related services, email delivery, credit card processing, auditing, marketing, voice command processing, Service providers for loss assessment, underwriting, and other similar services. We may share your name, license plate number, mobile phone number, ID number, vehicle order information, vehicle location information, vehicle VIN code, and vehicle VIN code with third parties according to the specific service content (the specific content is subject to the display on the event page or the product/service agreement) so that the third-party business partners can provide corresponding services. We will only share or transfer the personal information necessary for you to obtain the corresponding services, and sign strict confidentiality agreements with third-party business partners to stipulate the scope of use of the shared or transferred personal information, and require them to take the same confidentiality and security measures as this Personal Information Protection Policy to protect your personal information.
+
+2) User Authorized Parties. Share your username and other public information with the third-party service providers you choose, the third-party sponsors of the promotional activities you participate in, and the social media service providers you authorize based on your authorization.
+
+3) Third-Party Network Advertisers. We may partner with network advertisers to display advertisements on our websites and to assist us in displaying advertisements on third-party websites and to evaluate the success of our advertising campaigns. These third-party network advertisers may display advertisements based on your browsing of the website in order to provide you with more advertisements about relevant products and services that may be of interest to you. The actions of these third parties are governed by their own personal information protection policies. We may provide these third-party advertisers with your personal information that we have collected in accordance with this Personal Information Protection Policy, as well as other anonymized personal information.
+
+l We will share necessary data with third parties through application programming interfaces (APIs) and software tool development kits (SDKs). For the SDK used in HiPhi APP, please refer to the description of the Software Development Kit (SDK) in Article 4.3 above.
+
+6.2 Public disclosureWe
+
+will only publicly disclose your personal information under the following circumstances:
+
+l After obtaining your explicit consent; or
+
+as required by law, regulation, or relevant regulatory requirements: We may disclose your personal information if we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, if we are required by law to comply with a subpoena or other legal process, litigation, or mandatory request from a government authority.
+
+6.3 Exceptions to Sharing, Transfer, and Public Disclosure:
+
+You are fully aware that, in accordance with applicable laws, we may share, transfer, or publicly disclose your personal information under the following circumstancesIt is not necessary to obtain your prior authorization and consent:
+
+l related to our performance of our obligations under laws and regulations;
+
+l Directly related to national security and national defense security;
+
+l Directly related to public safety, public health, or major public interests;
+
+l Directly related to criminal investigation, prosecution, trial and judgment enforcement;
+
+l For the purpose of protecting the life, property and other major legitimate rights and interests of you or other individuals, but it is difficult to obtain your authorization and consent;
+
+l The personal information involved is disclosed to the public by yourself;
+
+l Your personal information is collected from legally and publicly disclosed information, such as lawful news reports, government information disclosure, etc.;
+
+l Other circumstances stipulated by laws and regulations.
+
+
+
+7. Your Rights and Choices7.1
+
+In accordance with the relevant laws and regulations of the People's Republic of China, we will take appropriate technical measures to ensure your right to access, update, correct or delete your personal information. When you exercise your rights, we may ask you to provide appropriate proof of identity to keep your personal information secure.
+
+7.2 Users have the right to inquire, correct, delete, revoke authorization, cancel accounts, obtain copies of personal information, and make complaints in accordance with the law.
+
+l Right of inquiry: You can inquire about your order information or enjoy rights and interests and receive services through HiPhi APP, and inquire about the personal information you provide to us in the "Settings - About HiPhi - Contact Us" of HiPhi APP.
+
+● Right to rectification: When you find that your personal information is incorrect or incomplete, and your identity is verified, and the correction does not affect the objectivity and accuracy of the information, you have the right to request us to correct or update the incorrect or incomplete information by yourself. After you register a HiPhi account, you can edit, modify and correct your personal information in "Settings - Edit Profile" in HiPhi APP, and provide us with your nickname, profile picture, gender, and industry information, and you can choose to fill in and provide us with the personal information filled in. At the same time, you have the right to request us to make corrections through the "Contact Us" section 9 of this Policy.
+
+● Right to erasure: If we collect, use, share, transfer, or publicly disclose your personal information in violation of laws and regulations or the agreement with you, you have the right to request us to delete your personal information through "Contact Us" in Article 9 of this Policy.
+
+● Right of withdrawal: If you refuse to receive commercial advertisements or marketing information sent by email, text message, printed materials, etc., or do not want us to share, transfer or publicly disclose your personal information, you can withdraw the authorization of the corresponding personal information by turning off the "push" function of HiPhi APP in the "Settings" column of your mobile device, or by "Contact Us" Get further guidance on how to do it.
+
+● Right to cancel: You have the right to request the cancellation of your account information. If you pass the identity verification and meet the cancellation conditions, we will cancel your account and delete or anonymize your personal information. Unless otherwise provided by laws and regulations, account cancellation may result in all your user data and account information being erased and cannot be recovered. You can cancel your account by yourself through "Settings - Account and Security - HiPhi Security Center - Cancel Account" in HiPhi APP, or contact us according to Article 9 of this Policy "Contact Us" for more details.
+
+● Obtain a copy of your personal information: You have the right to obtain a copy of your personal information, and you can contact us to obtain a copy of your personal information in accordance with Section 9 "Contact Us" of this Policy.
+
+7.3 In addition to your rights as described above, if you have any questions, you can contact our customer service staff through "Contact Us" on the official website, HiPhi APP, and Mini Program, or contact us through the hotline or email address agreed in Article 9 "Contact Us" of this Policy, and we will contact us within fifteen (15) working days after receiving your application. Verify your identity and respond to comments or results.
+
+7.4 If we have to collect, process, use or share your information in accordance with relevant laws and regulations or as required by government departments, we may refuse your request to the extent permitted by laws and regulations. We have the right to adjust your above rights in accordance with the provisions of laws and regulations. If you are not satisfied with our reply, especially if our personal information processing has harmed your legitimate rights and interests, you can complain to us through the channel "Contact Us" in Article 9 of this Policy; In addition, you can also seek solutions through the following external channels: file a lawsuit with a court of competent jurisdiction, or file a complaint or report with the regulatory authorities such as cyberspace, telecommunications, public security, and industry and commerce.
+
+7.5 In principle, we do not charge a fee for your reasonable request, but we will charge a certain cost fee for repeated requests that exceed a reasonable limit. We may reject requests that are unreasonably repetitive, require excessive technical means (e.g., need to develop new systems or fundamentally change current practices), pose a risk to the legitimate rights and interests of others, or are highly impractical (e.g., involving information stored on backup tapes).
+
+7.6 We will not be able to respond to your request under the following circumstances:
+
+l related to the Personal Data Controller's performance of obligations under laws and regulations;
+
+l Directly related to national security and national defense security;
+
+l Directly related to public safety, public health, or major public interests;
+
+l Directly related to criminal investigation, prosecution, trial and enforcement of judgments;
+
+l Where Personal Data Controllers have sufficient evidence showing that the Personal Data Subject has subjective malice or abuses their rights;
+
+l For the purpose of protecting the life, property, or other major lawful rights and interests of the Personal Data Subject or other individuals, but it is difficult to obtain the consent of the individual;
+
+l Responding to Personal Data Subject's request will cause serious harm to the lawful rights and interests of Personal Data Subject or other individuals or organizations;
+
+l Involving trade secrets.
+
+
+
+8. Disclaimer
+
+8.1 Disclaimer
+
+of Information CollectionWe will strictly protect your personal information from illegal infringement, but we may collect and use your personal information in accordance with the law without your prior authorization and consent under the following circumstances permitted by laws and regulations and relevant regulatory provisions:
+
+l Related to the performance of obligations stipulated by laws and regulations;
+
+l Directly related to national security and national defense security;
+
+l Directly related to public safety, public health, or major public interests;
+
+l Directly related to criminal investigation, prosecution, trial and judgment enforcement;
+
+l For the purpose of protecting the life, property, or other major lawful rights and interests of the Personal Data Subject or other individuals, but it is difficult to obtain the user's authorization and consent;
+
+l The personal information involved is disclosed to the public by the user himself;
+
+● Necessary for the conclusion and performance of a contract at the request of the user;
+
+l Personal information is collected from legally and publicly disclosed information, such as lawful news reports, government information disclosure, and other channels;
+
+l Necessary to maintain the safe and stable operation of the products or services provided, such as discovering and disposing of faults in products or services;
+
+The foregoing circumstances include, but are not limited to:
+
+l Access to the government collection/monitoring platform for new energy vehicle data based on relevant laws, regulations and government rules;
+
+l According to the provisions of relevant laws and regulations and rules of government departments, monitor vehicle static information, vehicle dynamic data, drive motor data, vehicle data, power battery data, engine data, vehicle location data, charging data, vehicle collision data, extreme value data, alarm data, and other information obtained and monitored according to the requirements of government departments.
+
+8.2 Disclaimer
+
+of Third Party Information Collectionl The official website of HiPhi Automobile, HiPhi APP or in-vehicle application platform may contain or link to services provided by third parties. The service will be provided or operated by a third party, and your use of the third party's services and the information provided to the third party will be governed by the third party's user agreement and privacy policy, not this Personal Information Protection Policy. We are not responsible for the content or the security and privacy practices of other websites or apps to which we link.
+
+l Please note that our online platform or APP may access other parties' web pages, applications or plug-ins (hereinafter collectively referred to as "other party programs"); If other programs may collect your personal information and transmit it to a server that is not controlled by us, we will notify you through pop-up windows or other means when you access the other program's programs for the first time. We will do our best to require the operators of other programs to take measures to protect your personal information, but we are not responsible for the collection and use of personal information by other programs and their operators. We recommend that you carefully read the privacy protection policies of other parties; If you find that these other party programs are risky, it is recommended that you terminate the operations related to the other party programs to protect your legitimate rights and interests.
+
+
+
+9. Contact Us9.1
+
+If you have any questions, comments or suggestions about this Policy, or wish to make a complaint or report, you can contact us as follows:
+
+l Personal information protection contact email: privacy-protection@hiphi.com;
+
+l Customer service telephone: 400-817-1188;
+
+l Address: Building N, No. 668 Changyang Road, Yangpu District, Shanghai (before October 31, 2021), No. 1339 Wanfang Road, Minhang District, Shanghai (after October 31, 2021).
+
+9.2 In some cases, in order to protect the security of your personal information, we may need you to provide a written request or otherwise prove your identity.
+
+9.3 We will complete the identity verification and respond to your request within fifteen (15) working days after receiving your request.
+
+
+
+10. Revisions and Updates
+
+We may revise and update the Personal Information Protection Policy from time to time. If we make significant changes to the personal information protection policy, we will publish the latest personal information protection policy in a timely manner on the HiPhi APP, and remind us to read it in notices, announcements, pop-up windows or other conspicuous forms. Unless otherwise stated, the latest effective Personal Information Protection Policy applies to all your personal information collected, used and processed by us in accordance with this Policy. Please ensure that you fully read, understand and agree to the revised Personal Information Protection Policy; We will not limit your rights under this Policy without your consent. If you have any questions or suggestions about the update of the Personal Information Protection Policy, please contact us through "Contact Us".
+
+
+
+
+
+
+Attachment
+

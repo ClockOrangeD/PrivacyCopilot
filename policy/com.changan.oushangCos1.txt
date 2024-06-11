@@ -1,0 +1,246 @@
+Auchan Style Privacy Policy
+introduction:
+
+Chang'an Automobile attaches great importance to the protection of user privacy. We will try our best to take security measures to ensure that your personal information is safe and controllable according to the requirements of laws and regulations. Except for certain specific services, this privacy policy applies to all our services. The specific privacy policy for certain specific services will more specifically describe how we use your information in such services. When you use our services, we may collect and use your relevant information. We hope to explain to you through this privacy policy how we collect, use, store and share this information when using our services. This Privacy Policy is closely related to the Chang'an Auto service you use. I hope you must read and understand this policy carefully and use the service we provide after confirming your full understanding and consent.
+
+
+Scope of information we may collect
+
+When we provide services, we may collect, store and use the following information related to you. This information will be used to provide you with more reliable products, better services and ensure the security of your account.
+
+1. The information you provided to us
+
+1.1. The relevant personal information you provide to us when registering your account or using our services. For example, name, mobile phone number, email address, home address, etc.
+
+1.2. The information you provided to us in the process of using our services, such as preferences for service types and suggestions for service improvement.
+
+2. Information we collected
+
+2.1. Equipment information: In order to ensure your normal use of our services, we will collect your equipment model, operating system, unique equipment identification code, login IP address, software version number, equipment accelerator (such as gravity sensing equipment) and other information according to the specific permissions granted. Such information is the basic information that must be collected to provide services.
+
+2.2. Log information: When you use the products or services provided by our website or client, we will collect your detailed usage of our services and save them as relevant network logs. For example, your search content, IP address, browser type, visit date and time, and web page records you visited
+
+2.3. Location information: refers to the information about your location collected when you open the device location function and use the location-based related services provided by us, including: your geographic location information collected by GPS or WiFi when you use our services through mobile devices with location function;
+
+2.4. Other information: the information you left in our company's marketing activities; The information you left at the 4S store or cooperative dealer with our company; The information you left on our company's portals, official account and other platforms.
+
+3. Description of Auchan Style integrated third-party SDK
+
+3.1. Meizu/Xiaomi Push/Vivo Message Push/Aurora Push: When you use a mobile device, the aforementioned SDK needs to read your device ID and network-related information to push/distribute information.
+
+3.2. Baidu: Baidu SDK is used to realize the location and location display function. Baidu SDK requires you to open the device location permission and collect the information about the location of the device, the device identification number, and the networking information.
+
+3.3. Zxing: The zxing SDK is designed to achieve the code scanning function, which can obtain camera permissions and album permissions.
+
+3.4. Youmeng: The use of the Youmeng SDK is to achieve the data statistics function. The permission obtained by the Youmeng SDK is to read the phone status permission. The information obtained includes iccid, generation ID, system version, device version, phone name, and phone style.
+
+3.5. Tencent/wxop/Tencent open platform: Tencent/wxop/Tencent open platform is used to realize the third-party login function, payment function, and access is to read the phone status.
+
+3.6. Huawei Scan Kit: It integrates the Huawei Unified Scan Kit to achieve convenient barcode and QR code scanning functions, and requires camera permissions.
+
+3.7. Tencent IM SDK: The integrated IM SDK is used to realize the chat function, which requires access to voice, storage, location, phone and photo.
+
+3.8. Tencent Bugly: Tencent log collection tool, which is mainly used to collect APP online error logs. It needs to use the permission to read the phone status.
+
+3.9. WeChat sharing, QQ sharing, Weibo sharing SDK: WeChat QQ Weibo sharing requires storage permissions and read file permissions when sharing pictures.
+
+
+
+How we might use information
+
+1. We may use the obtained information for the following purposes:
+
+1.1. Provide services for you
+
+1.2. It is used for authentication, customer service, security protection and exception detection to ensure the security of the products and services we provide to you.
+
+1.3. It is used to guide us to improve products, improve existing services and design new services
+
+1.4. Used to evaluate the quality of our products and services
+
+1.5. It is used to evaluate the effect of marketing and promotion activities in our services and improve them
+
+1.6. We will make comprehensive use of your information to carry out relevant product recommendation and marketing activities.
+
+2. Instructions
+
+2.1. During your use of our products and services, in order to ensure your normal use of various services, we will save and use your information on the premise of ensuring safety.
+
+2.2. If we need to use your personal information for purposes not stated in this agreement, or use the information collected for a specific purpose for other purposes, we will seek your consent in advance.
+
+2.3. All kinds of mining, analysis and utilization of your information are conducted on the premise of ensuring your information security.
+
+3. Exceptions
+
+In the following cases, the collection of your personal information does not require your authorization and consent:
+
+3.1. Those related to public safety, public health and major public interests;
+
+3.2. Related to national security and national defense security;
+
+3.3. It is difficult to obtain your consent for the purpose of safeguarding your or other people's life and property safety and other major legitimate rights and interests;
+
+3.4. Related to criminal investigation, prosecution, trial and execution of judgments;
+
+3.5. Personal information collected from legally disclosed information;
+
+3.6. Other circumstances specified by laws and regulations.
+
+
+
+Basis for legal basic data processing
+
+Based on the EU data protection law, the personal information we use in the way described in this privacy policy is mainly based on the following legal basis:
+
+-Agree (regarding optional services or functions, we will specifically ask for your consent, which can be withdrawn at any time);
+
+-Fulfill the contract (regarding the processing of your personal information for the purpose of fulfilling the contract with you, including the processing of your payment and contact information to deliver the products you ordered to you);
+
+-Compliance with legal obligations (regarding the treatment we need to comply with based on legal obligations, such as disclosure of location data to the government's collection/monitoring platform for energy vehicles and Auchan);
+
+-Legal interests (not included in the above categories, but in order to improve the processing of our products and services or our business processes, and when we reasonably believe that the processing of personal information is necessary to realize these interests, this processing will not unduly damage your rights and freedoms).
+
+In addition, under the requirements of the EU privacy law, the processing of special categories of personal information will be considered legal, mainly based on (i) explicit consent; (ii) significant public interest; Or (iii) your immediate interests.
+
+
+
+Direct sales information
+
+From time to time, we will use your name, email address, phone number, logistics information and other relevant communication information to provide you with information we think you are interested in, including but not limited to our products and services, news, advertising, evaluation, research, activities, promotion and promotion, through telephone, SMS, WeChat, email and other forms.
+
+We will also share your information with our affiliates, companies in which we have significant ownership interests, selected third-party service providers or our partners (for the benefit), so that they can provide you with information, latest news, evaluation, activities, promotion and promotion of their products and services.
+
+If you do not want to receive the marketing information we provide to you in any form, or if you change your mind after giving your authorization consent, you can choose to withdraw your authorization consent. You can unsubscribe through the unsubscribe instructions provided in our email or follow the unsubscribe instructions provided in our SMS. You can also contact us in the way listed in the "Contact Us" section below to withdraw your authorization. Please note that even if you opt out of receiving marketing email, we may send you important management and security messages.
+
+
+
+Information sharing
+
+We will share or provide your personal information to a third party under the following circumstances:
+
+-In order to provide services to you or achieve the purpose described in the "Method and Scope of Information Use" section of this privacy policy, share your personal information with:
+
+1) Companies we own or control, and companies in which we have significant ownership interests;
+
+2) Third party service providers or partners of Auchan Motors, such as providing vehicle license application service, insurance service, website hosting, data analysis and storage, payment processing, order execution and product installation, Auchan Motors wireless connection, information technology and related infrastructure, customer service, vehicle maintenance or related services, e-mail transmission, credit card processing, audit, marketing, voice command processing Service providers of loss assessment underwriting and other similar services. In order to achieve the above service purposes, the information we provide to the third-party service provider may include your name, contact information, license plate number, unique vehicle identification code, vehicle location information and other personal information.
+
+3) Provide your information to the court or government authority according to laws and regulations, court orders or other legal procedures, or the requirements of the competent government authority. For example, according to the requirements of laws and regulations, we will carry out necessary remote data dynamic monitoring, and connect the relevant user information, daily use, repair, maintenance and other data of Auchan Auto products and vehicle dynamic monitoring data to the vehicle data government collection/monitoring platform and the data collection/monitoring platform of Auchan Auto and its affiliated companies.
+
+4) Share your information to protect the rights, property or safety of our employees, service users or the public from damage within the scope required or permitted by laws and regulations.
+
+5) For the needs of mergers, acquisitions or asset sales, we may transfer your personal information. Before transferring your personal information, we will give you appropriate notice and ensure that your personal information is protected as much as this privacy policy after transfer.
+
+6) According to your authorization, it will be shared with the third-party service provider you choose, the third-party sponsor of the promotional activities you participate in, and the social media service provider you authorize. If we share the relevant content of Auchan Style APP to WeChat according to your request, we will provide WeChat with your user name and other personal information.
+
+
+
+Third-party advertising network
+
+We may cooperate with third parties such as online advertisers to display advertisements on our Auchan Style APP, assist us in displaying advertisements on third-party websites and evaluate whether our advertising is successful. These third parties may display advertisements based on your browsing of our Auchan Style APP and other websites, so as to provide you with more advertisements of related products and services that you may be interested in. The behavior of these third parties is subject to their privacy policy. We may provide these third-party advertisers with information about your use of our Auchan Style APP, as well as other integrated or unrecognizable personal information.
+
+Choosing to quit one or more member networks (many of which will be the same) only means that those members will no longer provide you with content or advertising for you. This does not mean that you will no longer receive any advertisements on our Auchan Style APP or other websites. You can continue to receive advertisements, for example, when you browse certain websites. In addition, if your browser is set to reject cookies, or you use a different computer or change your web browser, your previously selected exit may no longer be valid.
+
+
+
+Information storage
+
+We store your personal information on servers and public clouds located in China. Such personal information will not normally be transferred across borders to outside China.
+
+However, for the purpose specified in this privacy policy, after performing the obligation of data exit security assessment under applicable laws and regulations and obtaining your consent (if applicable), we may transmit such information to our affiliates in North America and Europe and other overseas entities.
+
+
+
+Shelf life
+
+We will retain your personal information within the period required to achieve the purpose stated in this privacy policy. After the above period, we will delete your personal information or anonymize your personal information.
+
+
+
+Your rights and choices
+
+In accordance with applicable data privacy laws, we will take appropriate technical measures to ensure your right to access, update, correct or delete your personal information. When you exercise your rights, we can ask you to provide identification to ensure that we protect the confidential information of customers.
+
+
+
+Access
+
+If you want to visit your Chang'an Auchan website or Auchan Style APP account information, order information, vehicle use data and other information, you can contact us according to the methods listed in the "Contact Us" section below to access your personal information. Based on certain exceptions, we may refuse your request to the extent permitted by applicable laws and regulations. We reserve the right to adjust your above according to applicable laws and regulations.
+
+
+
+Right of correction
+
+When you find that there is an error in the personal information we handle about you, you have the right to correct or update the wrong or incomplete information after verifying your identity and the correction does not affect the objectivity and accuracy of the information. You can contact us according to the methods listed in the "Contact Us" section below; Or for personal information collected through Chang'an Auchan website and Auchan Style APP, you can submit relevant requirements through the settings  feedback function in Chang'an Auchan website or Auchan Style APP.
+
+
+
+Delete right
+
+If we collect, use and share your personal information with others in violation of laws and regulations or the agreement with you, you have the right to ask us to delete it. You can contact us according to the methods listed in the "Contact Us" section below; Or for personal information collected through Chang'an Auchan website and Auchan Style APP, you can submit relevant requirements through the settings  feedback function in Chang'an Auchan website or Auchan Style APP.
+
+
+
+Revocation right
+
+Each business function needs some basic personal information to be completed. For the collection and use of additional collected personal information, you can give or withdraw your authorization at any time. You can contact us according to the methods listed in the "Contact Us" section below; Or for personal information collected through Chang'an Auchan website and Auchan Style APP, you can submit relevant requirements through the settings  feedback function in Chang'an Auchan website or Auchan Style APP.
+
+
+
+Cancellation right
+
+You can cancel the accounts of the previously registered Chang'an Auchan website and Auchan Style APP, but account cancellation will clear all your user data and account information and cannot be recovered. You can contact us for more details according to the methods listed in the "Contact Us" section below.
+
+However, if we have to collect, process, use or share your information according to applicable laws and regulations, we can refuse your request to the extent permitted by applicable laws and regulations. We have the right to adjust your above rights according to the provisions of applicable laws and regulations.
+
+
+
+Unsubscription of marketing information
+
+In accordance with the applicable data privacy law, we will let you choose whether to accept marketing information sent by us, our affiliates or service providers via email, SMS, printed materials, etc. You can unsubscribe from this information through the unsubscribe mechanism provided in this information, or contact us according to the methods listed in the "Contact Us" section below to unsubscribe from this information.
+
+
+
+information safety
+
+We will take all appropriate organizational, management and technical measures to protect the security of the personal information you provide in our internal organization, but we cannot guarantee that the system and information are 100% safe. If you think there are any security risks or vulnerabilities in our system, please contact us according to the methods listed in the "Contact Us" section below.
+
+
+
+Security event notification
+
+We will develop an emergency plan for network security incidents and deal with security risks such as system vulnerabilities, computer viruses, network attacks and network intrusions in a timely manner. When an incident endangering network security occurs, we will immediately launch the emergency plan, take corresponding remedial measures, and report to the relevant competent authorities in accordance with applicable laws and regulations.
+
+After the occurrence of a security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take, the suggestions on the risks you can prevent and reduce independently, and the remedial measures for you in accordance with the requirements of laws and regulations. We will inform you of the relevant information of the event in a timely manner by SMS notification, telephone, email and other contact information reserved by you. If it is difficult to inform you one by one, we will take a reasonable and effective way to release the announcement.
+
+
+
+juveniles
+
+In addition to the requirements of applicable laws, we will not knowingly collect personal information of minors (under the age of 18). Minors should not provide personal information to us without the consent of their guardians.
+
+
+
+link
+
+This privacy policy does not cover the collection, use or sharing of information by any third party. Chang'an Auchan website, Auchan Style APP or car application platform may contain or link to the services provided by a third party (for example, Chang'an Auchan website may jump to the service page provided by a third party; when using Auchan Style APP, you may jump to the service page provided by a third party when sharing articles through WeChat friends, WeChat friends or Weibo). The service is provided or operated by a third party. Your use of the third party's services and the information provided to the third party will be subject to the user agreement and privacy terms of the third party, not the privacy policy. We do not assume legal responsibility for the content or security of other websites or applications we link to.
+
+
+
+Privacy Policy Update
+
+If we decide to update our privacy policy, before the new privacy policy comes into effect, we will publish the updated privacy policy on Chang'an Auchan website and Auchan Style APP in the form of page notification, so that you can know what changes are made. If you continue to use the service, you will be deemed to have accepted the modified agreement. If you do not accept the modified terms, you should stop using the service.
+
+
+
+Jurisdictional requirements
+
+If the relevant provisions of the privacy policy conflict with the laws and regulations of a specific jurisdiction, the provisions of the laws and regulations of that specific jurisdiction shall prevail.
+
+contact us
+
+If you have any questions about the privacy policy, please contact us at www.changan.com.cn
+
+
+
+
+

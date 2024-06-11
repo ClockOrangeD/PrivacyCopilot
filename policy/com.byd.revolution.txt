@@ -1,0 +1,144 @@
+【Privacy Policy Summary】
+We, at the Gazing Car App, prioritize the protection of your personal information and understand its importance to you. We will adhere to legal and industry-standard security measures to safeguard your personal information. This summary provides a concise overview of how we collect, use, and protect your personal information. For a detailed privacy policy, please refer to the full text of the Gazing Car App Privacy Policy.
+
+【Information We Collect】
+
+In the process of providing services to you, we primarily collect, use, share, and store your personal information for the following purposes:
+
+- Login and registration: We collect your mobile phone number, password, and SMS verification code for creating a platform account.
+- Password recovery: We collect your mobile phone number, SMS verification code, and new login password for resetting your password in case you forget it.
+- Personal Center: We collect information such as your avatar, nickname, birthday, gender, city, and introduction for modifying your personal information.
+- My Car: We collect your license plate number and vehicle identification number (VIN) to enable cloud service functionalities.
+- Interconnection: We collect information such as your ID card number, license plate number, VIN, vehicle model, and related information for using cloud service functionalities for BYD Dynasty, BYD Ocean, and Tengshi vehicles.
+- Vehicle Owner Certification: We collect personal information such as name, mobile phone number, ID card number, certification documents, vehicle registration certificate or purchase invoice, and authorization documents. This is required for verifying your identity as a vehicle owner.
+- Vehicle Authorization Management: We collect the authorized person's mobile phone number to facilitate other individuals' use of your vehicle.
+- Telematics Card Real-Name Authentication: We collect your ID card photos, name, mobile phone number, ID card type, ID card expiration date, ID card number, address, VIN, vehicle model, engine number, license plate number, vehicle color, telematics card number, and card code for completing the real-name authentication of the telematics card.
+- Help Center: We collect your questions and the information you provide to us for online feedback and suggestions.
+- Online Customer Service: We collect your questions, the information you provide to us, and the chat records between you and our offline customer service for resolving your issues.
+- ETC Registration: We collect your mobile phone number, verification code, ID card photos, driving license photos, and vehicle information for handling ETC services.
+- Discovery: We collect information such as your WeChat UID, community likes, posts, browsing behavior, post content, images, videos, IP address, age, vehicle information, and more for understanding the latest vehicle information, activities, and interacting with other car enthusiasts.
+- Appointment Consultation: We collect information such as your name, mobile phone number, intended vehicle model, city, and optionally gender for vehicle consultation appointments.
+- Vehicle Ordering: We collect information such as your name, mobile phone number, ID card type, ID card number, and enterprise name for vehicle ordering and payment.
+- Test Drive Booking: We collect information such as your name, mobile phone number, and intended vehicle model for test drive appointments.
+- Point-of-Interest Search: We collect your location information for providing information about service points.
+- Service Reservation: We collect information such as your contact name, mobile phone number, license plate number, VIN, vehicle model, and mileage for maintenance and repair service reservations.
+- Home Charging Services: We collect information such as your contact name, mobile phone number, installation area, address, selected vehicle model, purchaser name, purchaser mobile phone number, purchaser dealership, for providing home charging installation services.
+- Roadside Assistance: We collect your location information for roadside assistance service reservations.
+- Warranty Manual: We collect your VIN, vehicle model, and vehicle type for displaying the electronic warranty manual of your vehicle.
+- Vehicle Status: We collect the device name for device management.
+- Energy Consumption Ranking: We collect information such as your license plate number, vehicle energy consumption, nickname, and avatar for displaying vehicle energy consumption rankings.
+- Vehicle Location: We collect information such as vehicle location, WLAN status, device location, device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), and sensor information for providing map-related services, including finding vehicle locations, nearby charging stations, and fuel stations based on vehicle location.
+- Remote Control: We collect information such as your account ID, nickname, license plate number, VIN, vehicle owner, phone number, vehicle operations, performance, status, vehicle data (speed, mileage, tire pressure, battery status, driving conditions, temperature), remote control services (lock/unlock doors, open/close trunk, remote start/stop air conditioning, schedule air conditioning, schedule charging, close windows, seat ventilation, seat heating, remote vehicle search, start/stop charging, one-click shutdown, flashing lights and honking, flashing lights, open/close high-temperature disinfection, window ventilation), vehicle status information (door, window, sunroof, hood, trunk status, OK indicator, power, engine coolant temperature), vehicle health information (engine, braking system, ABS system, SRS system, tire pressure system, electronic body stability system, steering system, SVS system, engine coolant temperature, engine oil pressure, low-voltage power supply system, power battery, power system health information), air conditioning usage data (temperature, circulation mode, front defrost on/off, rear defrost on/off), vehicle status data, driving behavior data, camera-collected video data, vehicle environment data, collision information, and vehicle fault-related information for realizing remote vehicle control functionalities.
+- Bluetooth Key, NFC (digital) Key, NFC & UWB Digital Key: We collect information such as app access permissions, system Bluetooth status, system location permissions (for Apple phones, this information is not necessary), device model, device system version, wallet version, and login information for connecting to Bluetooth and UWB positioning, and for analyzing post-sales issues.
+- Remote Parking: We collect information such as unique identifiers of your phone or other devices, device model, system version information, and Bluetooth permission information for remote control of parking your vehicle in or out of parking spaces.
+- Theme Variations: We collect your VIN and system version number for matching themes and wallpaper resources.
+- Location-Based Services: We collect your location information and vehicle identification number for providing services such as remote vehicle search/location, intelligent driving assistance (if equipped), and parking functionalities (if equipped).
+
+【How We Store Your Personal Information】
+
+We retain your personal information for the shortest period necessary to provide our products and/or services. After you voluntarily delete personal information, log out of your account, or exceed the necessary storage period, we will delete or anonymize your personal information, unless exceptionally required otherwise.
+
+In principle, the personal information we collect and generate within the territory of the People's Republic of China will be stored on cloud servers located in Guangzhou, China.
+
+【Managing Your Personal Information】
+
+For accessing, correcting, supplementing, or deleting your personal information, or editing your account profile, changing your password, adding security information, or closing your account, you can perform these operations by visiting "Gazing Car App - My".
+
+【Contact Us】
+
+If you have any questions, comments, or suggestions regarding this policy or our products and services, you can contact us at any time by calling our customer service hotline at 400-039-6666. We will respond to your request and try to resolve it within 10 working days after verifying your identity.
+
+【Gazing Car App Privacy Policy】
+
+Welcome to the Gazing Car App provided by Shenzhen Gazing Car Sales Co., Ltd. (referred to as "Gazing Car" or "we") on the Gazing Car App platform. Our registered address is [Building A, Block 2, Shenzhen Bay Innovation and Technology Center, No. 3156 Keyuan South Road, High-tech Zone, Nanshan District, Shenzhen, China] and our office address is [BYD Tower, No. 3009 BYD Road, Pingshan District, Shenzhen City].
+
+The Gazing Car App Privacy Policy (referred to as "this policy") applies to the products and/or services we provide to you on the Gazing Car App. However, this policy does not apply to third parties (including service outlets, third-party suppliers, or advertising service providers) who provide products and/or services to you through the Gazing Car App. We have no control over these third parties, and you can choose whether to access the links, content, products, and services provided by third parties. Before submitting personal information to third parties, please refer to their privacy protection policies or contact them for relevant explanations. If you refuse to allow third parties to collect your information when providing services, you may be unable to use the corresponding services on the Gazing Car App, but this does not affect your use of other functions of the Gazing Car App.
+
+We attach great importance to the protection of your personal information. We understand the importance of personal information to you and will take corresponding security protection measures in accordance with legal requirements and industry-standard security standards. Before using our products and/or services, please read and fully understand this policy carefully, paying special attention to the terms marked in bold or bold italics, to ensure that you fully understand and agree to them before starting to use our services.
+
+This policy introduces how we collect, use, store, share, transfer your personal information, and the information security measures we take, as well as your rights and methods to control personal information such as access, update, and deletion. If you have any questions during the reading process, you can contact us via the contact information in this privacy policy.
+
+This policy will help you understand the following:
+
+1. How we collect your personal information;
+2. How we use your personal information;
+3. How we use cookies and similar technologies;
+4. How we share, transfer, and disclose
+5. How we protect your personal information;
+6. How long we retain your personal information;
+7. How you can access, update, and delete your personal information;
+8. How we handle children's personal information;
+9. How we handle changes to this policy;
+10. How to contact us with questions or concerns about this policy.
+
+1. How We Collect Your Personal Information
+
+We collect your personal information through various means, including:
+
+- Information you provide directly: When you register an account, use our services, participate in activities or surveys, or contact our customer service, you may provide us with your personal information such as your name, mobile phone number, email address, and identification information.
+
+- Information collected during your use of our services: We may collect information about your use of our services, including your usage preferences, browsing history, IP address, device information, and location information.
+
+- Information obtained from third-party sources: We may obtain information about you from third-party sources, such as social media platforms, advertising partners, and other service providers. This may include your public profile information, interests, and demographic information.
+
+2. How We Use Your Personal Information
+
+We use your personal information for the following purposes:
+
+- To provide and improve our services: We use your personal information to authenticate your identity, process your transactions, provide customer support, and improve the functionality and user experience of our services.
+
+- To personalize your experience: We may use your personal information to personalize your experience on our platform, such as by showing you relevant content and recommendations based on your preferences and interests.
+
+- To communicate with you: We may use your personal information to send you service-related announcements, updates, and marketing communications. You can manage your communication preferences through your account settings.
+
+- To conduct research and analysis: We may use your personal information to conduct research and analysis to improve our products, services, and marketing efforts.
+
+- To comply with legal obligations: We may use your personal information to comply with applicable laws, regulations, and legal processes, and to protect our rights and interests.
+
+3. How We Use Cookies and Similar Technologies
+
+We use cookies and similar technologies to collect information about your use of our services and to provide certain features and functionalities. Cookies are small text files that are stored on your device when you visit a website or use an app. They help us recognize your device and remember your preferences.
+
+By using our services, you consent to the use of cookies and similar technologies. You can manage your cookie preferences through your browser settings. However, please note that disabling cookies may affect certain features and functionalities of our services.
+
+4. How We Share, Transfer, and Disclose Your Personal Information
+
+We may share, transfer, or disclose your personal information in the following circumstances:
+
+- With your consent: We may share your personal information with third parties if you have given us your consent to do so.
+
+- With service providers: We may engage third-party service providers to assist us in providing our services. These service providers may have access to your personal information and are obligated to protect your personal information in accordance with applicable laws and regulations.
+
+- For legal purposes: We may share your personal information when we believe it is necessary to comply with applicable laws, regulations, legal processes, or enforceable governmental requests. We may also share your personal information to protect our rights, property, or the safety of our users or others.
+
+- In business transactions: In the event of a merger, acquisition, or sale of all or a portion of our assets, your personal information may be transferred or disclosed as part of that transaction. We will notify you of any such change in ownership or control of your personal information.
+
+5. How We Protect Your Personal Information
+
+We take the security of your personal information seriously and implement various security measures to protect it against unauthorized access, disclosure, alteration, or destruction. These measures include, but are not limited to, physical, technical, and administrative safeguards.
+
+Despite our efforts to protect your personal information, no security system is completely foolproof, and we cannot guarantee the absolute security of your information.
+
+6. How Long We Retain Your Personal Information
+
+We retain your personal information for as long as necessary to fulfill the purposes for which it was collected, unless a longer retention period is required or permitted by law. When the retention period expires, we will delete or anonymize your personal information, unless there is a legitimate business or legal need to retain it.
+
+7. How You Can Access, Update, and Delete Your Personal Information
+
+You have the right to access, update, and delete your personal information held by us. You can do this by logging into your account and using the available tools and functionalities. If you encounter any difficulties or need assistance, you can contact our customer service.
+
+Please note that deleting or restricting the collection of certain personal information may affect your use of our services.
+
+8. How We Handle Children's Personal Information
+
+Our services are not intended for children under the age of 16. We do not knowingly collect or solicit personal information from children. If we become aware that we have collected personal information from a child without appropriate parental consent, we will take steps to delete the information as soon as possible.
+
+9. How We Handle Changes to This Policy
+
+We may update or modify this privacy policy from time to time. Any changes will be effective immediately upon posting the updated policy. We encourage you to review this policy periodically to stay informed about our information practices.
+
+10. How to Contact Us
+
+If you have any questions, comments, or concerns about this privacy policy or our privacy practices, you can contact us through the contact information provided in this policy. Our customer service team will be happy to assist you.
+
+Thank you for trusting the Gazing Car App with your personal information. We are committed to protecting your privacy and providing you with a secure and enjoyable experience on our platform.

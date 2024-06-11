@@ -1,0 +1,100 @@
+Welcome to the Xhorse Privacy Policy
+Update Date： November 21 2023
+
+Effective Date： November 23, 2023
+
+ 
+
+    When you use Xhorse services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important; we hope you will take time to read it carefully.
+
+ 
+
+Privacy Policy
+
+
+As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. Our Privacy Policy explains:
+• What information we collect and why we collect it.
+• How we use that information.
+• The choices we offer, including how to access and update information.
+
+ 
+
+Information we collect
+
+
+We collect information to provide better services to all of our users – from figuring out basic stuff. We collect information in the following ways:
+• Information you give us. For example, many of our services require you to sign up for a Xhorse Account. When you do, we’ll ask for personal information, like your name, email address, telephone number or credit card to store with your account.
+• Information we get from your use of our services. We collect information about the services that you use and how you use them. This information includes:
+  o Device information
+     We collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Xhorse may associate your device identifiers or phone number with your Xhorse Account.
+    In order to better provide you with products and services, we may collect device information (including Android ID,utdid,device name and model, device identification code, operating system and application version, resolution, service provider network ID (PLMN), Mac address), browser type, etc. in order to provide you with the best way to display products and services. We will also use your above-mentioned personal information in order to continuously improve and optimize the above-mentioned functions.
+  o Log information
+     When you use our services or view content provided by Xhorse, we automatically collect and store certain information in server logs. This includes:
+       • details of how you used our service, such as your search queries.
+       • telephony log information like your phone number.
+       • Internet protocol address.
+       • device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
+  o Location information
+     When you use Xhorse services, we may collect and process information about your actual location. We use various technologies to determine location, including IP address, GPS, and other sensors that may.
+  o Unique application numbers
+     Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Xhorse.
+  o Local storage
+     We may collect and store information (including personal information) locally on your device using mechanisms such as application data caches.Information we collect when you are signed in to Xhorse, in addition to information we obtain about you from partners, may be associated with
+  o Data sharing and disclosure
+   • Provide platform services. If you use products/services provided by other platforms on our platform, we may share your necessary personal information with the providers of the corresponding products/services so that you can use the corresponding functions normally .
+   • Provide unified management services. If you log in with our account and use products/services provided by other third parties, we may share your personal information. We will only share the necessary personal information in order to provide you with consistent services and unified management, such as viewing and managing within our products/services, if we share your sensitive personal information or related parties change the purpose of using personal information , Will ask for your authorization again.
+   • Provide necessary cooperation services only for the purpose stated in this policy, and some of our services will be provided by business partners. In order to ensure the smooth completion of the services provided to you, we may share your personal information with our partners4). Ensure safety and optimize services. In order to ensure your safety when using our products/services and to optimize our services, we may share your necessary information with our relevant partners. Security services. In order to protect your account security and prevent you from being exposed to risks such as fraud, network viruses, and network attacks, we may use our security partners to share necessary device information and log information related to you, as well as your usage habits and common use Software information, etc., to comprehensively judge your account risks and prevent security incidents.
+   • Provided based on legal circumstances. According to laws and regulations, litigation dispute resolution needs, relevant agreements (including online signed electronic agreements and platform rules) or legal documents signed by you and us, or administrative, judicial and other competent authorities request according to law, we may share Your personal information.
+   • In addition to the above, if we share your personal information with any other companies, organizations and individuals, we will again ask for your explicit consent or authorization.
+     We will share necessary data with third parties through application programming interfaces (API) and software tool development kits (SDK). Different versions of third-party SDKs will be different. We will conduct strict security inspections and agree on data for third parties. Safeguard.
+     Xhorse shares a list of personal information with third parties
+     Please be aware that we will only share your personal information for legal, legitimate, necessary, specific and clear purposes. For companies, organizations and individuals with whom we share personal information only for the purposes stated in this policy, we Will sign strict information protection and confidentiality agreements with them, requiring them to abide by the agreement and take relevant security measures to protect your personal information.
+
+application privacy permission description
+
+
+    To better provide you with application services, we need the following privacy policy permissions, including:
+   • Display the permissions on other applications; It is convenient for users to quickly operate applications;
+   • Modify or delete the content permissions in the memory card; It is convenient for users to store pictures and file data when operating the application;
+   • Access to the exact location information permission: you can open your location permission to connect Bluetooth device and communicate with the Bluetooth device;
+   • Permission to access general location information: The purpose of obtaining general location permission is to link the Bluetooth device and communicate with the Bluetooth device;
+   • Background access to geographic location permissions: Obtaining background location permissions is convenient for users to scan the matching application Bluetooth devices and pair communication requirements at the same time when mounting in the background;
+   • Camera permissions: We access the camera so that users can take photos and videos, upload videos and pictures to participate in application-related functions;
+   • Permission to read the content in the memory card: It is to facilitate users to store, operate or edit some file data content requirements;
+   • Obtain user software installation list permissions: To prevent malicious programs and secure operation requirements.
+   • Obtain user Android ID,utdid,IMEI,MAC address permissions: convenient device identification, better communication service support with Bluetooth devices.
+   • Clipboard permissions: Used to access your clipboard permissions locally when sharing or receiving shared information, participating in activities, etc.
+   • Media and image permissions: Users actively upload pictures, video media files, etc. to authorize us to access them for personal information and customer service support functions.
+
+ 
+
+How we use information we collect
+
+
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Xhorse and our users. We also use this information to offer you tailored content. Registered users default to receiving product upgrade and update notifications and new product promotions from our company. We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. Xhorse processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
+
+ 
+
+Information security
+
+
+We work hard to protect Xhorse and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
+• We encrypt many of our services using SSL.
+• We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+• We restrict access to personal information to Xhorse employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+ 
+
+When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Xhorse and its affiliates , but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. Our Privacy Policy does not apply to services offered by other companies or individuals.
+
+ 
+
+Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page.
+
+ 
+
+Xhorse Inc.All rights reserved.

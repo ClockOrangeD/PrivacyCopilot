@@ -1,0 +1,51 @@
+Privacy Policy of Fu Tian E-Home App
+
+Fu Tian E-Home App is a customer mobile application independently developed by Beiqi Fu Tian Automobile Co., Ltd. (hereinafter referred to as Fu Tian Automobile), which includes customer service, member service, connected car, and car life functional modules.
+
+This application respects and protects the personal privacy of all service users. In order to provide you with more accurate and personalized services, this application will use your personal information in accordance with the provisions of the privacy policy. However, this application will treat this information with a high degree of diligence and obligation. Except as otherwise provided in this privacy policy, without your prior permission, this application will not disclose these information to the outside world or provide them to third parties. This application will update this privacy policy from time to time. By agreeing to the terms of service of this application, you are deemed to have agreed to the entire contents of this privacy policy. This privacy policy is an integral part of the terms of service of this application and cannot be separated.
+
+1. Scope of Application
+
+(a) The personal registration information you provide when you register for an account in this application, as required by this application;
+
+(b) Information automatically received and recorded by this application when you use the network services of this application or access the functional modules of this application, including but not limited to your IP address, location information, type of mobile phone, language used, access date and time, and browsing records of the functions you need.
+
+2. Use of Information
+
+(a) This application will not provide, sell, rent, share, or trade your personal information to any unrelated third party unless you have obtained your permission, or that third party and this application (including the associated company of this application) provide services to you individually or jointly, and after the service is over, they will be prohibited from accessing all such information that they could access before.
+
+(b) This application also does not allow any third party to collect, edit, sell, or disseminate your personal information by any means. If any user of this application platform engages in the above activities, once discovered, this application has the right to immediately terminate the service agreement with that user.
+
+(c) For the purpose of serving users, this application may provide you with information of interest to you through the use of your personal information, including but not limited to sending you product and service information, or sharing information with the partners of this application so that they can send you information about their products and services (the latter requires your prior consent).
+
+3. Information Disclosure
+
+Under the following circumstances, this application will disclose all or part of your personal information in accordance with your personal wishes or the provisions of the law:
+
+(a) Disclosed to a third party with your prior consent;
+
+(b) It is necessary to share your personal information with a third party in order to provide the products and services you requested;
+
+(c) According to the relevant provisions of the law, or the requirements of administrative or judicial organizations, disclose to a third party or administrative and judicial organizations;
+
+(d) If you violate relevant laws, regulations, or the terms of service or related rules of this application, it is necessary to disclose to a third party;
+
+(e) If you are an eligible intellectual property complainant and have filed a complaint, at the request of the party being complained against, disclose to the party being complained against so that both parties can handle possible rights disputes;
+
+(f) Other disclosures that this application believes are appropriate in accordance with laws, regulations, or website policies.
+
+4. Information Storage and Exchange
+
+The information and data about you collected by this application will be stored on the server of this application and/or its affiliated companies. These information and data may be transmitted to, accessed, stored, and displayed in the country, region, or place where you are located or where this application collects information and data.
+
+5. Information Security
+
+The accounts of this application have security protection functions. Please keep your username and password information properly. This application will take security measures such as encryption of user passwords to ensure the security of your information and prevent it from being lost, abused, or altered. Despite the aforementioned security measures, please be aware that "perfect security measures" do not exist on the internet.
+
+6. Changes to this Privacy Policy
+
+(a) If we decide to change the privacy policy, we will publish these changes in this agreement, on the company's website, and in appropriate locations that we think are appropriate, so that you can understand how we collect and use your personal information:
+
+(b) The company reserves the right to modify this agreement at any time, so please check regularly. If there are significant changes to this agreement, the company will inform you in the form of notifications on the homepage of this application.
+
+Please protect your personal information properly and only provide it to others when necessary. If you find that your personal information has been leaked, especially if your username and password for this application have been leaked, please contact the customer service of this application immediately so that appropriate measures can be taken.

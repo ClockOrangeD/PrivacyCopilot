@@ -1,0 +1,341 @@
+Effective: November 4, 2021
+
+ 
+
+ 
+
+ 
+
+SUMMARY
+
+ 
+
+This Privacy Policy is for the Ford DiagNow mobile app, which is offered to users by Ford Motor Company, One American Road, Dearborn, Michigan 48126 United States of America (“Policy”).
+
+ 
+
+This Policy applies to the personal information we collect through your use of the Ford DiagNow mobile app.
+
+ 
+
+It covers Ford Motor Company and its controlled affiliates and subsidiaries (“Ford,” “we,” or “us”) that use the personal information collected through your use of the Ford DiagNow mobile app.
+
+ 
+
+United States Only.  This Privacy Policy applies to the collection, use, and sharing of personal information only of individuals in the United States.
+
+ 
+
+This Policy does not apply to:
+
+·         Other products, services, features, websites, mobile apps, platforms, or properties that Ford owns or operates (including through its controlled affiliates and subsidiaries) and that display, link to, or refer to their own privacy policies, including the services provided through MotorCraftService.com;
+
+·         The data practices of anyone other than Ford; or
+
+·         Content, products, services, features, websites, mobile apps, platforms, or properties that Ford doesn’t own or operate, as described in the section “Other Services” below.
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+1. Categories and Sources of Personal Information
+
+2. Our Use of Personal Information
+
+3. Our Sharing of Personal Information
+
+4. Integration with Other Services
+
+5. Security and Retention of Your Personal Information
+
+6. California Privacy Rights
+
+7. Changes to This Privacy Policy
+
+8. How to Contact Us
+
+ 
+
+ 
+
+1. Categories and Sources of Personal Information
+ 
+
+We collect the following types of information through your use of the Ford DiagNow app when connected via the Vehicle Communication Module (“VCM”) Lite device to the vehicle:
+
+ 
+
+Information You Provide.  When you use the Ford DiagNow app, you will be asked or given the option to provide information to us, such as:
+
+·         Security: the credentials (username and password) provided to you for your Ford service account (which you may have created through MotorCraftService.com), which are required to log into this app.
+
+·         Preferences: your preferred measurement system (imperial or metric) and the appearance theme for the app can be changed in your Profile. The default measurement system is metric, and the default appearance theme is “Light.”
+
+ 
+
+Information From Your Mobile Device.  We automatically collect some information from your mobile device when you use the Ford DiagNow app: 
+
+·         Digital Activity: we collect information about how you use the app, such as which features are used, how often they are used, the steps you use in your diagnostic activities, and whether the activity was successfully completed. This information is connected to your username or a unique app identifier we generate (see below).
+
+ 
+
+Note for Android devices only: the Android operating system on the mobile device requires location services to be enabled in order to connect to Bluetooth devices. To connect via Bluetooth to the VCM Lite, Android mobile devices need to enable location services. Neither the Ford DiagNow app nor Ford collects mobile device location.
+
+ 
+
+Information From a Vehicle. If the vehicle you are working on belongs to you, the Ford DiagNow app may collect the following data when the VCM Lite is connected to the vehicle and you run functions or interrogate modules to review the following:
+
+·         Vehicle Data: information about the status, performance, and diagnostics of the vehicle and its systems, parts, and components, such as odometer, tire pressure, fluid levels, and diagnostic codes.
+
+·         Driving Data: information about how the vehicle is operated and used (such as speed, use of accelerator, brakes, steering, and engine RPM, etc.).
+
+·         Vehicle Location: the precise GPS location of the vehicle.
+
+ 
+
+This data will be linked to the vehicle’s unique identification number (“VIN”), your username, and a unique app identifier we generate (see below).
+
+If the vehicle you are working on belongs to someone other than you, the information collected from the vehicle via the Ford DiagNow app is to be used only for vehicle diagnostics, service, or repair unless you obtain their consent to use it for other purposes.
+
+ 
+
+Information We Generate About You.  We generate new information from the data we collect. For example:
+
+·         Identifiers We Generate: we may generate unique identifiers associated with your Ford service account username (which you use to log in) or with your Ford DiagNow app usage sessions. The unique identifiers help us identify you or associate the information generated through your use of the app to you.
+
+ 
+
+ 
+
+2. Our Use of Personal Information
+ 
+
+We use the personal information collected in connection with your use of the Ford DiagNow app as follows:
+
+ 
+
+Purposes of Use
+
+ 
+
+Categories of Personal Information
+
+Product and Service Delivery. To provide the features and services of the app, updating the app, troubleshooting, and providing and technical support.
+
+Security, Preferences, Digital Activity, Device and Mobile Location, Vehicle Data, Driving Data, Vehicle Location, Identifiers We Generate
+
+ 
+
+Product Improvement. To improve the app and other tools for vehicle diagnostics, service, and repair.
+
+Preferences, Digital Activity, Vehicle Data, Driving Data, Vehicle Location, Identifiers We Generate
+
+ 
+
+Research and Development. To conduct research and develop new products, services, and tools for vehicle diagnostics, service, and repair.
+
+Preferences, Digital Activity, Vehicle Data, Driving Data, Vehicle Location, Identifiers We Generate
+
+ 
+
+Marketing and Advertising. To promote the app and other tools for vehicle diagnostics, service, and repair.
+
+ 
+
+Preferences, Digital Activity, Vehicle Data, Identifiers We Generate
+
+Business Operations. To operate our business and perform business functions such as accounting, finance, tax, regulatory compliance, litigation, information security, privacy, fraud detection and prevention, protection of our rights and property, supplier and vendor management, human resources, information technology, and improving our internal operations.
+
+ 
+
+Security, Preferences, Digital Activity, Device and Mobile Location, Vehicle Data, Identifiers We Generate
+
+ 
+
+Support for Laws, Property, Safety, and Exigent Circumstances. To support our compliance with valid inquiries and directives from law enforcement or other government agencies; to act under exigent circumstances to help prevent the loss of life or serious injury or to protect the personal safety of Ford or affiliate personnel, users of our vehicles, websites, or mobile apps, our visitors, or the public; and to protect the rights or property of others.
+
+Security, Preferences, Digital Activity, Device and Mobile Location, Vehicle Data, Vehicle Location, Identifiers We Generate
+
+ 
+
+ 
+
+In carrying out these purposes, we may combine personal information we collect in connection with your use of the Ford DiagNow app with information that we have collected through other diagnostic tools that worked on the same vehicle(s) you work on, including tools used by others.
+
+ 
+
+Finally, we may de-identify information we collect through your use of the app and use it for any purpose in accordance with applicable law.
+
+ 
+
+ 
+
+3. Our Sharing of Personal Information
+ 
+
+We share the personal information collected in connection with your use of the Ford DiagNow app with your consent, when you direct us to share it with others, as necessary to complete your transactions, or to provide the products, features, services, or experiences you have requested or authorized. In addition:
+
+ 
+
+Dealers: if you work for a Ford or Lincoln dealer, we share information about the diagnostic and service events generated through your use of the app with that dealer.
+Affiliates: we share the personal information collected in connection with your use of the app among the companies within the Ford Motor Company family of companies and affiliates. Our “family of companies” is the group of companies related to us by common control or ownership. Information is shared within this “family” as a normal part of conducting business operations and offering products, features, and services to our customers.
+Service Providers, Suppliers, and Agents: we may share the personal information collected in connection with your use of the app with our vendors, suppliers, service providers, contractors, and agents (including our affiliates acting in this capacity) (“Suppliers”) working on our behalf for the purposes described in this Policy. We require them to use it only to perform that work for us and to use adequate safeguards to protect the confidentiality of the personal information they receive. For example, companies we've hired to provide customer service or technical support, or to support some of the features in the app, may need the personal information to provide those functions. Reasonable contractual or other measures we may take to protect your personal information while processed or handled by Suppliers are subject to legal requirements in the United States, Canada, and other foreign countries (for example, lawful requirements to disclose personal information to governmental authorities in those countries).
+Law Enforcement Agencies, Courts, Regulatory Agencies, and Others: we will share the personal information collected in connection with your use of the app when we believe that doing so is necessary to:
+comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies;
+act under exigent circumstances to help prevent the loss of life or serious injury or to protect the personal safety of Ford or affiliate personnel, users of our vehicles, websites, or mobile apps, our visitors, or the public;  
+detect, investigate, prevent, or otherwise address fraud or privacy issues;
+operate and maintain the security of our products, including to detect, investigate, prevent, stop, or remediate an attack on our computer systems or networks; or
+protect the rights or property of ourselves, our affiliates, or others, including by enforcing our agreements, terms, and policies.
+Parties to Corporate Transactions: we may also share the personal information collected in connection with your use of the app as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or at transfer, divestiture, or sale of all or a portion of our business or assets.
+ 
+
+Finally, we may share de-identified information in accordance with applicable law. 
+
+ 
+
+ 
+
+4. Integration with Other Services
+ 
+
+The Ford DiagNow app may integrate with, or contain links to, other products, services, features, websites, mobile apps, platforms, or properties that Ford owns or operates and that display or refer to their own privacy policies (“Other Ford Services”). Those privacy policies apply to the Other Ford Services, but this Policy does not.
+
+ 
+
+ 
+
+5. Security and Retention of Your Personal Information
+ 
+
+Safeguarding personal information is important to us. While no systems, applications, or websites are 100% secure, we take reasonable and appropriate steps to help protect personal information from unauthorized access, use, disclosure, alteration, and destruction.
+
+ 
+
+To help us protect personal information, we request that you use a strong password for your Ford service account and never share it with anyone or use the same password with other mobile apps, websites, or accounts.
+
+ 
+
+ 
+
+6. California Privacy Rights
+ 
+
+This section describes the rights that the California Consumer Privacy Act of 2018 (“CCPA”) gives to California residents under Cal. Civ. Code § 1798.145(n).
+
+ 
+
+Please be aware that Ford and Lincoln dealers and independent repair facilities (“IRF”) are separate legal entities from Ford Motor Company and, under the CCPA, separate businesses from Ford Motor Company. If you want to exercise your CCPA rights regarding personal information a dealer or IRF may have collected about you, you must contact the dealer or IRF directly and exercise your rights through them.
+
+ 
+
+Right to Opt Out of Sales.
+
+ 
+
+This Privacy Policy describes above how we share personal information with others in the context of your use of the Ford DiagNow app. If you are a Ford or Lincoln vehicle owner, or if you use our websites, mobile apps, or other products or services for your personal or household use, our Ford US privacy policy at https://www.ford.com/help/privacy/ describes how we share personal information with others in those contexts.
+
+ 
+
+Under the CCPA, some of this sharing is considered a "sale" even if we do not receive money in exchange for the information we share.
+
+ 
+
+You have the right to instruct us to stop the kind of sharing that the CCPA treats as "sales," and not to engage in that kind of sharing in the future, unless you choose to allow it. Your instruction to stop "selling" personal information about you will not affect “sales” that occurred before you gave us the instruction.
+
+ 
+
+Please be aware that there may be circumstances where we can continue to share personal information about you with others, as permitted by the CCPA. These circumstances may include carrying out previous directions you've given us to disclose personal information about you to others or sharing personal information about you with our service providers so that they can provide services to us.
+
+ 
+
+You can exercise your right to opt-out from future sales of personal information in the following ways:
+
+·         By clicking this link: Do Not Sell My Personal Information and completing the webform; or
+
+·         By calling us, toll-free, at 1-888-459-1291, Monday through Friday from 5:00 am until 8:00 pm Pacific time or Saturday from 5:00 am until 5:00 pm Pacific time. Our call center will be closed on Sundays and on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, the day after Thanksgiving, and Christmas Day.
+
+ 
+
+When you visit our websites, you can also limit our sharing with social media, advertising, and analytics partners (some of which may constitute CCPA "selling") by selecting your cookie preferences, which you can access from the cookie banner on our websites or via the "Cookie Settings" link at the bottom of the webpage.
+
+ 
+
+Whether you use the web form or call us, we will need information from you to process your CCPA sale opt-out request so that we can confirm you are a California resident and determine if we have personal information about you. We may also need to contact you about your request, and you can choose the contact method you would like us to use.
+
+ 
+
+Please be aware there might be circumstances where we will not honor your sale opt-out request, as permitted under the CCPA. For example, if we are not able to confirm that you are a California resident, we may not honor your request.
+
+ 
+
+You may designate, in writing or through a power of attorney, an authorized agent to make a sale opt-out request on your behalf under the CCPA. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf.
+
+ 
+
+If you want an authorized agent to submit a “Do Not Sell My PI” instruction on your behalf, the authorized agent must provide proof of your written permission for the authorized agent to submit the instruction on your behalf.
+
+ 
+
+Non-Discrimination.
+
+ 
+
+You have the right not to be discriminated against for exercising your right to opt out of CCPA “sales.”
+
+ 
+
+ 
+
+7. Changes to This Privacy Policy
+ 
+
+We will update this Privacy Policy when necessary to reflect changes in our products, services, or features, how we use personal information, or the applicable law. When we post changes to the Policy, we will change the date at the top of the Policy.
+
+ 
+
+If we make material changes to the Policy, we will provide notice or obtain consent regarding such changes as may be required by law.
+
+ 
+
+This Privacy Policy is effective as of the date indicated at the top of the Policy.
+
+ 
+
+ 
+
+8. How to Contact Us
+ 
+
+If you have a privacy concern or question for Ford, please contact us in the United States at:
+
+ 
+
+Telephone:
+
+800-392-3673 (U.S.)
+
+800-232-5952 (TDD for the hearing impaired)
+
+ 
+
+Available M-F 8:00 am – 11:00 pm EST
+
+Available Sat.  8:00 am – 8:00 pm EST
+
+ 
+
+Mailing Address:
+
+Ford Motor Company
+
+Customer Relationship Center
+
+P.O. Box 6248
+
+Dearborn, MI 48126
+
+ 
+
+ 

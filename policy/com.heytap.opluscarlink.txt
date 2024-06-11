@@ -1,0 +1,40 @@
+CarLinkUnit Introduction
+Overview
+CarLink service is a service for in-car devices on the Android platform, providing functions such as Bluetooth car keys and car remote control.
+
+Scenario Introduction
+To better understand the functions provided by the CarLink service, let's introduce some application scenarios, including Bluetooth car key functionality and car remote control functionality.
+
+Bluetooth Car Key Functionality
+This function allows car manufacturers to enable Bluetooth car key unlocking functionality through the SDK. After the user binds their vehicle by adding the "Bluetooth car key" card in the "OPPO Wallet" app, when the user approaches the bound vehicle with their mobile phone, the CarLink service can wake up the corresponding car manufacturer's app and then use the car manufacturer's app to unlock the vehicle.
+
+Car Remote Control Functionality
+Car manufacturers can enable car remote control functionality by integrating the SDK or connecting to the cloud service. After the user binds their vehicle in "Minus One Screen - Breeno Quick Look", a vehicle card will be generated in "Minus One Screen - Breeno Quick Look". Through the quick operations on the card, users can remotely control certain functions of the vehicle, such as doors, windows, air conditioning, horn and vehicle location. The specific vehicle control functions depend on the features provided by the car manufacturer.
+
+Supported Devices
+The currently supported device models are as follows (as of 2022.07.22):
+
+Model      | Color OS Version
+-----------|-----------------
+OPPO Reno 5 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO Reno 6 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO Reno 7 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO Reno 8 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO Find X3 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO Find X5 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO Find N series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO K 9 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OPPO K 10 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OnePlus 9 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OnePlus 10 series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+OnePlus ACE series | 11.1 and above (requires 11.2 and above for car remote control functionality)
+
+Privacy Statement
+1. You (the developer) should carefully read the OPPO Developer Services Agreement, especially the terms closely related to your rights and responsibilities, and strictly comply with the service agreement.
+2. You only have the right to use OPPO open capabilities API and SDK legally, and take appropriate security measures according to the development guidelines, including but not limited to: signature verification, HTTPS requests, code obfuscation, and encryption.
+3. You shall not sell, transfer, or authorize the code, API, and development tools of OPPO CarLinkUnit open capabilities to any individual or organization.
+4. You should use OPPO CarLinkUnit open capabilities properly. You shall not use OPPO CarLinkUnit open capabilities for content or purposes prohibited by laws and regulations, including but not limited to:
+   a) Do not maliciously interfere, destroy, modify, or hinder the normal use of OPPO CarLinkUnit open capabilities.
+   b) Do not engage in any behaviors that harm the security of OPPO CarLinkUnit open capabilities, such as intentionally spreading malicious programs or viruses.
+   c) Do not engage in other behaviors prohibited by laws, regulations, policies, public order, social ethics, or that infringe upon the legitimate rights and interests of individuals, companies, social groups, or organizations.
+5. If we receive reports or find that you are using CarLinkUnit open capabilities for content or purposes prohibited by national laws and regulations or in violation of the OPPO Developer Services Agreement, we have the right to immediately terminate your use of CarLinkUnit open capabilities and ban your developer account. You shall be solely responsible for any losses caused by this, and if it causes any losses to us and users, you shall compensate us in full.

@@ -1,0 +1,100 @@
+
+	 Privacy Policy 
+ 
+ 
+ Loading    Please Wait... 
+ 
+ 
+ 
+ 
+            ul.a {
+	            list-style-type: decimal;
+	            margin: 1rem;
+            }
+            p {
+	            text-align: justify;
+            }
+            ul.a>li {
+	            padding: 0 1rem;
+            }
+            ul.b {
+                list-style-type: none;
+	            margin-top: 0.5rem;
+            }
+            ul.b>li {
+	            padding: 0 0 0.5rem;
+            }
+            ul.b>li:before {
+	            content: '-';
+	            padding-right: 2rem;
+	            display: inline-block;
+            }
+            hr {
+                margin: 0;
+            }
+         
+ 
+ 
+ 
+ 
+ 
+ Privacy Notice for Users of the RepairSolutions Service 
+ 
+ 
+ 
+ 
+ 
+ INNOVA VALUES YOUR PRIVACY 
+ 
+ Any and all personal information collected by the APP or the RepairSolutions website will be kept strictly confidential and will not be sold, rented, loaned, or otherwise disclosed to any outside third-party without consent. Any and all information provided by you, by your vehicle service provider, or by the vehicle will be held with the utmost care and to further our ability to help you and others with current and future vehicle health issues, as described below.  
+ COLLECTION OF PERSONAL INFORMATION AND WEBSITE USE DATA 
+ 
+ Several sections of the RepairSolutions, mobile application (“the APP”) and the RepairSolutions.com website (“the website”) request and collect personal identifiable information, such as your e-mail address, name, home or work address or telephone number, and credit card information. That information will only be used to provide you or your vehicle service provider with any and all requested information, products or services and will NOT be sold, reused, rented, loaned, or otherwise disclosed without written authorization.  
+ We also collect other aggregated information such as your Internet Protocol (IP) address to help diagnose problems with our systems and ensure the safety and security of our customers and website visitors. During your visit we monitor your experience by collecting additional data, including: duration of visit, web browser type and version, operating system, referring sites, type of product used, and other web browsing behaviors and statistics. This information is exclusively used internally for system improvements and to better serve our customers and website visitors.  
+ COLLECTION OF VEHICLE INFORMATION 
+ 
+ As part of the diagnostic evaluation provided by the APP and the RepairSolutions website, Innova also collects information from your vehicle that identifies and indicates the operating condition of your vehicle. That information is compared to other stored information collected from similar vehicles and other reference materials to help identify any defects in your vehicle and derive the most likely fix to remedy the defects. Your vehicle information is then permanently merged with our stored diagnostic information to further enhance our ability to identify and fix current and future defects in your vehicle and similar vehicles that we may later service. Your vehicle information may also be used as part of generalized statistical analysis for evaluating vehicle condition data and generating predictive diagnostic reports for predicting defects in various make/model vehicles, such as the CarMD® Vehicle Health Index.  
+ USER GENERATED CONTENT 
+ 
+ Any information or material that you may upload onto the RepairSolutions website is not confidential or proprietary. You grant, and warrant that you have the right to grant to Innova , its affiliates, distributors and suppliers, a non-exclusive, non-revocable, worldwide, transferable, royalty-free, perpetual right to use your User Generated Content in any manner of media now or later developed for any purpose, commercial, advertising or otherwise, including the right to store translate, display, perform, reproduce, modify, create derivative works, sub-license, distribute, assign and commercialize without any payment due to you.  
+ If you use a Public Area of RepairSolutions website or software application, such as the discussion board, chat room, blog, bulletin board or testimonial form, you are solely responsible for your own communications, the consequences of posting those communications and your reliance on any communications found in the Public Areas. You will not post any content which you are not properly authorized to post and will indemnify and hold Innova, along with it’s affilitates, distributors and suppliers harmless for any consequences arising from breach of this provision. Innova’s Policies and Procedures respecting copyright infringement allegations is available at www.RepairSolutions.com/DMCA ( https://repairsolutions.com:443/DMCA ). Innova also reserves the right to delete, edit, or omit any offensive comments posted at any such public areas of the RepairSolutions website.  
+ USE OF YOUR PERSONAL INFORMATION 
+ 
+ Any personal identifiable information and other information provided by you or your vehicle service provider will only be used as authorized herein. Any such personal information provided to Innova can and may be used in the following ways:  
+ 
+ To communicate with you by electronic means to your mobile device 
+ To monitor your use of the app and the website 
+ To ensure a safe and secure web browsing experience 
+ To improve the content and service of our website 
+ To improve our product and brand experience 
+ To support customer questions regarding any of the products offered in this website 
+ To alert you of new products, special offers and other information related to car repair and maintenance; and 
+ To process payments and service our accounts; 
+ 
+ You have the right to modify all personal information provided by logging into your account or by directly contacting us, toll free, at 1-800-544-4124.  
+ THIRD PARTY LINKS AND CONTENT 
+ 
+ The RepairSolutions website and software application may provide links to third-party web sites. Innova does not endorse the content on any such third-party websites, nor is Innova responsible for the content of linked third-party sites. Your use of third-party websites is at your own risk and subject to the terms and conditions of use for such sites.  
+ USE OF COOKIES 
+ 
+ A cookie is a text file that is placed on your hard disk by an Internet web server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.  
+ The APP and the site collect “cookie” information to personalize your browsing experience and to provide you better service and information about your needs and interests. Most Web browsers have the ability to accept or decline “cookies”. Popular browsers such as Microsoft® Internet Explorer, Apple® Safari, Mozilla Firefox®, Google Chrome, and Netscape® automatically accept cookies, but you can modify their setting to decline cookies if you desire. Some sites use cookies to provide an interactive experience, so if you choose to decline cookies you may not be able to view all its features.  
+ WEB SERVER SECURITY PRACTICES  
+ 
+ All information collected by our server is protected through a 128-bit encryption firewall, which prevents outside visitors from collecting any information about you. Internally, the information is redirected and stored in a secure and isolated server that is only accessible by authorized personnel.  
+ PASSWORDS 
+ 
+ The RepairSolutions website offers some services that allow you to record and store information in a password-protected area. You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your RepairSolutions.com passwords or accounts. You grant Innova, and all other persons or entities involved in the operation of the APP and the site, the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the APP and the site. Innova does not assume any responsibility or liability for any information you submit.  
+ ACCEPTANCE 
+ 
+ Clicking on the “Accept” icon constitutes acceptance of the foregoing terms and conditions of this RepairSolutions Privacy Policy.  
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 

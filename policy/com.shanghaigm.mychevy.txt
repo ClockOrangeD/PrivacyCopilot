@@ -1,0 +1,154 @@
+MyChevy APP Privacy Policy
+
+Updated, published, and effective on August 19, 2022
+
+Click to view the historical version
+
+SAIC General Motors Co., Ltd. and its affiliates (referred to as "SAIC General Motors" or "we") attach great importance to the protection of your personal information and are committed to taking effective measures to protect the security of your personal information. MyChevy APP is a mobile application developed and operated by us. In order to explain the collection, use, and provision of your personal information by MyChevy APP, we have formulated this "Privacy Policy". Please read it carefully before using MyChevy APP.
+
+Personal information refers to various information recorded in electronic or other forms that can identify or be used to identify a specific natural person, including but not limited to names, phone numbers, vehicle identification numbers/VIN, etc. Sensitive personal information refers to personal information that, once leaked or illegally used, may lead to infringement of a natural person's dignity or endanger the personal safety of a natural person or the security of their person or property, including but not limited to biometric data, religious beliefs, specific identities, medical health, financial accounts, travel records, and personal information of individuals under the age of 14. We use bold underlined text to mark sensitive personal information. Please pay attention to it.
+
+By using MyChevy APP, you indicate that you have read, understood, and fully agree to this "Privacy Policy". If you do not agree to this "Privacy Policy", you can only use the business functions in MyChevy APP that do not collect your personal information.
+
+You can conveniently read the detailed content of this "Privacy Policy" through the index:
+
+1. How MyChevy APP collects and uses your personal information
+2. How we use Cookies and similar technologies
+3. How we provide, transfer, disclose, and entrust the processing of your personal information
+4. How we protect your personal information
+5. Storage and cross-border transfer of your personal information
+6. Device permissions and third-party services
+7. Your rights to your personal information
+8. Protection of personal information of individuals under the age of 14
+9. Updates to the "SAIC General Motors Privacy Policy" and this "Privacy Policy"
+10. Contact us and dispute resolution
+
+1. How MyChevy APP collects and uses your personal information
+
+MyChevy APP only collects and processes (collectively referred to as "collect") your personal information for the following purposes:
+
+1. In order to create a MyChevy APP membership account, we need to collect your mobile phone number. We will verify the validity of your mobile phone number by sending a verification code via SMS. After successfully creating the account, you can browse, search, query, and use other basic services on the MyChevy APP platform. However, you will not be able to use the car networking functions, on-site pick-up and drop-off services, mobile workshop, fuel consumption records, violation inquiries, and other services related to vehicles.
+
+2. When you want to use the MyChevy APP platform's services and functions related to your vehicle, such as adding a vehicle, completing real-name authentication as a vehicle owner, and establishing a vehicle owner membership account, in addition to the registration information mentioned above, we also need to collect your name, car dealership, photos of your ID card or other valid identification documents (hereinafter referred to as "ID card photos"), photos of your driver's license or purchase invoice. If the identification of your ID card photos fails, we also offer face recognition to collect your facial information, but we will not store your facial information (used for identity verification, real-name authentication, and person-vehicle binding).
+
+3. When you have completed adding a vehicle and real-name authentication as a vehicle owner on other platforms, we will collect your name, mobile phone number, car dealership, ID card photos, photos of your driver's license or purchase invoice from the relevant platforms. If the identification of your ID card photos fails, we also offer face recognition to collect your facial information, but we will not store your facial information (used for identity verification, real-name authentication, and person-vehicle binding). We will also collect membership numbers, join dates, membership points, membership level information, regions, and other information for displaying your membership information, membership level, enjoying membership benefits, and participating in related activities.
+
+4. In order to ensure that you can use our services normally, optimize our services, and protect the security of your account, we will collect your device information and operation information, including device model, operating system, unique device identifier (IMEI/IDFA/OAID/IDFV/MEID/IMSI), login IP address, MyChevy APP software version number, network connection mode and status, network quality data, device accelerators, service log information, and operation record information.
+
+5. When you use the Android version of MyChevy APP, we will retrieve software installation information from your device in order to facilitate your upgrade of MyChevy APP and provide ratings for MyChevy APP. However, we will not collect and store this information.
+
+6. In order to provide you with reservation maintenance services, recommend nearby dealership stores and corresponding vehicle maintenance projects, and send appointment information to stores and remind you of maintenance schedules, we need to collect your name, mobile phone number, location information (used to display nearby dealerships), vehicle identification number (VIN), vehicle model, and license plate number. Location information requires permission from your phone.
+
+7. In order to provide you with maintenance record inquiry services and display your maintenance records, we need to collect your name, mobile phone number, maintenance record type, vehicle identification number (VIN), vehicle model, record creation time, record details, and electronic document status.
+
+8. In order to provide you with appointment inquiry services, display and follow up on your appointment information, we need to collect your name, mobile phone number, appointment number, appointment creation time, appointment details, and appointment status.
+
+9. In order to provide you with mobile workshop services, facilitate your inquiry of vehicle maintenance status, we need to collect your name, mobile phone number, vehicle identification number (VIN), and license plate number.
+
+10. In order to provide you with pick-up and drop-off services, we need to collect your name, mobile phone number, vehicle information, pick-up/drop-off address, and license plate number.
+
+11. In order to provide you with appointment test driving services, we need to collect your name, mobile phone number, membership account information, and your location information (to display nearby dealership locations based on location information). Location information requires permission from your phone.
+
+12. In order to assist in providing you with violation inquiry services, we need to collect your vehicle identification number (VIN), vehicle model, engine number, and license plate number. These pieces of information will be provided to the service provider.
+
+13. In order to assist in providing you with rescue services, we need to collect your location information (for road rescue based on geographical location). Location information requires permission from your phone. These pieces of information will be provided to the service provider or relevant government departments.
+
+14. In order to provide you with dealership lookup services, we need to collect your location information (to display dealership stores sorted by distance). Location information requires permission from your phone.
+
+15. In order to assist in providing you with charging services, we need to collect your location information (to display charging stations sorted by distance). Location information requires permission from your phone. These pieces of information will be provided to the service provider.
+
+16. In order to provide you with travel assistant services, we need to collect your location information for you to use the parking lot and gas station search functions and record parking spaces. Location information requires permission from your phone.
+
+17. In order to provide you with benefits redemption services, we need to collect the mobile phone number of the vehicle buyer, buyer's name, consignee's name, consignee's phone number, delivery address, verification code, order number, delivery address, ID card photos, photos of the driver’s license or purchase invoice, for the purpose of identity verification, benefit issuance, and redemption. The camera function requires permission from your phone.
+
+18. In order to provide you with posting, replying, and commenting services, we need to collect your mobile phone number, nickname, avatar, and membership account information, so that users can create and publish posts. The location information requires permission from your phone.
+
+19. In order to provide you with function feedback services, we need to collect your mobile phone number and photo album (photo library) for subsequent customer service follow-up. Reading the album requires permission from your phone.
+
+20. In order to provide you with membership mall services and facilitate your purchase of related products and services through the membership mall, create orders, and send goods, we need to collect your name, mobile phone number, membership account information, delivery address, and recipient’s phone number.
+
+21. In order to fulfill legal obligations and assist you in completing the real-name authentication of the car networking card, we need to collect and provide your vehicle identification number (VIN), engine number, motor number, name, identification type, identification number, gender, date of birth, identification address, identification validity period, live-action video, ID card photos, live-action screenshots, full face photos, and contact phone number. The camera function requires permission from your phone.
+
+2. How we use Cookies and similar technologies
+
+We will use Cookies technology to understand your use of MyChevy APP. We may send one or more Cookies or anonymous identifiers to your device to collect, mark, and store information about your visit and use of MyChevy APP. We use Cookies primarily to ensure the security and efficient operation of MyChevy APP, help you have a more convenient user experience, optimize product services, and simplify form filling steps and processes. Cookies will not be used for any purposes other than those described in this "Privacy Policy".
+
+3. How we provide, transfer, disclose, and entrust the processing of your personal information
+
+3.1 Provision
+
+We will not provide your personal information to any third party without your consent, except in the following circumstances:
+
+1. With your explicit consent or authorization, we may provide your personal information to third-party service providers to fulfill the purposes specified in this "Privacy Policy."
+
+2. In order to provide you with more comprehensive services, we may cooperate with our affiliates (including but not limited to SAIC General Motors, authorized dealerships, partners, etc.) to jointly provide services on the MyChevy APP platform. In this case, your personal information may be shared between us and our affiliates, and we will strictly follow this "Privacy Policy" to protect your personal information.
+
+3. In order to provide you with services or implement specific functions, we may integrate third-party software development kits (SDKs), application programming interfaces (APIs), or other similar third-party components into MyChevy APP. These third-party components may collect your personal information, and we will take corresponding security measures and restrictions on their use and disclosure of your personal information.
+
+4. In order to prevent fraud, infringement, or other malicious behaviors, we may provide your personal information to government authorities, law enforcement agencies, judicial authorities, or other authorized organizations according to laws and regulations or as required by legal procedures.
+
+5. We may provide your personal information to advertisers or third-party companies for the purpose of advertising and marketing. However, we will ensure that your personal information is anonymized or pseudonymized when providing it to advertisers or third-party companies, and we will not disclose your personal information without your consent.
+
+6. In order to ensure the normal operation of MyChevy APP and improve its services, we may entrust third-party service providers to assist in providing services, such as data analysis, system maintenance, customer service, and technical support. These service providers may have access to your personal information, but they are only allowed to use your personal information for the purpose of providing services to us, and they are prohibited from using your personal information for any other purpose.
+
+3.2 Transfer
+
+We will not transfer your personal information to any organization or individual, except in the following circumstances:
+
+1. With your explicit consent or authorization, we may transfer your personal information to third parties for specific purposes.
+
+2. If any merger, acquisition, reorganization, liquidation, or bankruptcy occurs, or if the ownership of SAIC General Motors changes, your personal information may be transferred as part of the asset transfer.
+
+3. In order to fulfill legal obligations or protect the legitimate rights and interests of SAIC General Motors, our customers, or the public, we may transfer your personal information to government authorities, law enforcement agencies, judicial authorities, or other authorized organizations according to laws and regulations or as required by legal procedures.
+
+3.3 Disclosure
+
+We may disclose your personal information in the following situations:
+
+1. With your explicit consent or authorization, we may disclose your personal information to third parties for specific purposes.
+
+2. According to laws, regulations, legal procedures, or requirements of government authorities or other authorized organizations, we may disclose your personal information.
+
+3. In order to protect the legitimate rights and interests, property, or safety of SAIC General Motors, our customers, or the public, we may disclose your personal information.
+
+3.4 Entrustment
+
+We may entrust third-party service providers to process your personal information in accordance with this "Privacy Policy" and our instructions. These service providers are only allowed to process your personal information for the specific purposes agreed upon, and they are required to comply with the relevant confidentiality obligations and security measures.
+
+We will strictly select and supervise the third-party service providers to ensure the security and lawful use of your personal information. If a breach of confidentiality or violation of laws and regulations occurs, we will promptly terminate the entrustment and pursue legal responsibilities.
+
+4. How we protect your personal information
+
+We have implemented reasonable security measures to protect your personal information from unauthorized access, disclosure, use, alteration, or destruction. These security measures include:
+
+1. We have established a specialized security management organization and formulated corresponding security management systems and processes to ensure the security of personal information.
+
+2. We have deployed various technical and management measures to prevent unauthorized access to personal information, such as encryption and anonymization technologies, access control mechanisms, and regular security audits.
+
+3. We have strictly controlled employees' access to personal information and require employees to comply with confidentiality obligations. We provide regular privacy and security training to employees and take disciplinary actions against any employee who violates the confidentiality obligations.
+
+4. We have conducted strict assessments and certifications of our service providers to ensure that they can provide sufficient security measures for the personal information they process.
+
+5. We have established a response plan for personal information security incidents and will promptly take remedial measures in the event of a personal information security incident.
+
+However, please understand that no security measures are perfect or impenetrable. Despite our best efforts to protect your personal information, we cannot guarantee the absolute security of your personal information. You also have an important role in ensuring the security of your personal information. For example, please do not disclose your account password to others, and please change your password regularly to enhance the security of your account.
+
+If you have reason to believe that your personal information has been leaked or compromised, please contact us immediately through the contact information provided in this "Privacy Policy" so that we can take timely and appropriate measures to protect your rights and interests.
+
+5. Storage and cross-border transfer of your personal information
+
+5.1 Storage
+
+We will store your personal information for as long as necessary to achieve the purposes stated in this "Privacy Policy" and to comply with laws, regulations, and contractual obligations. When your personal information is no longer necessary for the stated purposes, we will delete or anonymize your personal information.
+
+5.2 Cross-border transfer
+
+To provide you with better services and improve our global operations, we may transfer your personal information to countries or regions outside the country/region where the information was collected. These countries or regions may have different data protection laws and regulations from your country/region. However, regardless of where your personal information is stored, we will take appropriate measures to protect your personal information in accordance with this "Privacy Policy" and applicable laws and regulations.
+
+For cross-border transfers of personal information, we will:
+- Comply with applicable laws and regulations on cross-border data transfers;
+- Ensure that the recipient of the personal information provides a level of data protection that meets the requirements of applicable laws and regulations;
+- Obtain your consent or authorization for cross-border transfers when required by applicable laws and regulations.
+
+If you have any questions or concerns about the cross-border transfer of your personal information, please contact us through the contact information provided in this "Privacy Policy".
+

@@ -1,0 +1,100 @@
+TOYOTA TAIWAN Official Website
+My Toyota APP Terms of Use
+Last Updated: February 2021
+Welcome to the My Toyota application (hereinafter referred to as "the App"). Before you start using it, please make sure to read and understand the following terms. By clicking "Agree," you signify that you have read, understood, and agreed to comply with the following terms:
+
+Driving Safety
+To ensure your safety, please do not operate the App while walking or driving to avoid accidents.
+
+GPS Location
+In addition to GPS positioning, the App also uses mobile communication positioning technology. When you obtain coordinates through network connection or text message, the coordinates may have a certain range of error depending on the source of the positioning. Although GPS positioning is more accurate, it may still be affected by weather or location (e.g., indoor areas where GPS positioning is mostly unavailable). Therefore, the coordinate data provided by the App is for reference only, and its accuracy cannot be guaranteed.
+
+Product and Service Information
+The App provides information about products, services, and promotions related to TOYOTA's authorized distributor in Taiwan and Hotai Motor Co., Ltd. (hereinafter referred to as "TOYOTA"). Such information is applicable only to the territory of Taiwan, Penghu, Kinmen, and Matsu. The prices displayed for all products or services on the App are suggested retail prices in New Taiwan Dollars. For actual transaction prices, please contact TOYOTA's authorized dealerships throughout Taiwan. The equipment included in TOYOTA products should be based on the actual vehicle equipment displayed by TOYOTA dealerships.
+
+Intellectual Property Rights
+All content on the App, including but not limited to trademarks, text, images, charts, music, animation files, videos, and all intellectual property rights planned and produced by TOYOTA and placed within the App's content, are owned by TOYOTA or its rights holders. Without prior written authorization from TOYOTA or its rights holders, you are not allowed to copy, distribute, upload, publish, transfer, or transmit in any way any content of the App, or to decompile, reverse engineer, dismantle the App or software, or use them in any form or for any purpose that is illegal. Otherwise, you shall bear all legal responsibilities, and TOYOTA reserves the right to take all legal measures to protect its rights.
+
+Disclaimer
+TOYOTA reserves the right to change, improve, or interrupt any function or service of the App at any time without prior notice to any user or entity. TOYOTA does not guarantee that the App is fully compatible with your mobile device, nor does it guarantee that the App is free of errors or defects.
+
+The driving-related information provided by the App is linked to external information sources, including real-time traffic and image feeds from highways and expressways, parking lots and real-time parking spaces, gas stations and announcements and predicted fuel prices, important locations, public transportation timetables and fare information, real-time public transportation arrival information, and other external website links (including e-bill websites, @bc Good Car Network, etc.). They are provided for your reference and use. TOYOTA is not responsible for any errors or discrepancies between the data and actual situations.
+
+The promotion information in the Exclusive Information module is a service platform that consolidates information from various merchants. Each merchant reserves the right to adjust and modify the promotions. If there are any changes or discrepancies in the promotions, the company will make every effort to maintain the accuracy and completeness of the information, but cannot guarantee the actual benefits for consumers. TOYOTA will not be held liable for any compensations or damages if you cannot enjoy the discounts as stated in the App.
+
+The App provides links to third-party websites for your convenience. However, this does not imply that the content of these third-party websites is endorsed or the responsibility of the company. These individuals, companies, or organizations also do not have any employment, delegation, agency, partnership, or similar relationships with TOYOTA. If you visit third-party websites or advertisements, you are responsible for any risks that may arise, and the company will not be held responsible for any transactions between you and any advertisers or operators of third-party websites.
+
+Service Suspension and Modification
+TOYOTA reserves the right to suspend or modify the content of any service in the App or terminate any user account service at any time. In any case, the decision to suspend or modify the services or terminate user account services does not create any compensation or compensation liability for TOYOTA towards users or third parties. You should understand and agree that TOYOTA may experience interruptions, temporary unavailability, delays, errors in data transmission or storage, or malicious system intrusion or data fabrication by third parties due to failure or malfunction of the company, other collaborators, or relevant telecommunications network systems, hardware, or software equipment, negligence in operation, or any other factors. TOYOTA will not be held liable for any compensations in such cases.
+
+You understand that TOYOTA provides App services and information for users, but does not assume any responsibility for delays or failures in service or storage, or for the deletion of any information.
+
+Limitation of Liability
+TOYOTA shall not be liable for any direct, indirect, consequential, or special damages, losses, or expenses incurred by you due to your use or inability to use the App services. If you use App services for a relative cash price, TOYOTA's liability shall be limited to the range of the relative cash price you paid.
+
+The above limitation of liability shall not apply if it is prohibited by law.
+
+Modification and Deletion of User Data
+Based on the services provided by the App, you agree to provide accurate and detailed personal information at the time of registration. When there are changes to the information you have provided, you should update it online or reply to the email (CRDA@hotaimotor.com.tw), indicating your request to modify or delete personal information. If you provide false information, fail to update the registered information that no longer matches, or register with any false or stolen identity, or if the personal information you provide violates or undermines the purpose of TOYOTA's services, you shall bear legal responsibilities. TOYOTA reserves the right to terminate your user and service qualifications at any time.
+
+Privacy Statement
+TOYOTA is committed to protecting your personal privacy. This "Privacy Statement" briefly describes the types of data collected by TOYOTA through this App and the methods used to use and protect the data. It also explains how to handle situations where you use the App but do not wish to provide personal information, as well as how to change the personal information you have provided to this App.
+
+Your Agreement to this Privacy Statement
+By using the App, you agree to the current Privacy Statement published by the App. If you do not agree with the content of this Privacy Statement, please do not provide your information on the App. If you choose not to provide personal information on the App or if the personal information provided is incorrect, you will be unable to access certain content, such as entering specific areas of the App, participating in sweepstakes or contests, requesting samples, or receiving emails from us. However, other websites linked by the App are not covered by this Privacy Statement.
+
+Collection and Use of Personal Information
+TOYOTA collects, processes, and uses your personal data in accordance with the Personal Data Protection Act. TOYOTA may use your contact information, such as SMS, internet, telephone, email, etc., which you have provided, to inform you about advertisements, gifts, related information, promotions, and conduct surveys. The purposes of personal data collection, categories of data, and the periods, regions, recipients, and methods of data utilization are as follows:
+
+Purposes:
+Marketing, maintenance, warranty, customer service, consumer protection, contracts, similar contracts, or other legal relationship matters, performance of business operations stipulated in the business registration items or articles of organization, investigation, statistics, research, analysis, and legitimate transaction business of personal data.
+
+Categories of Data:
+Personal data includes but is not limited to names, ID numbers, birthdates, phone numbers (residential) (business), mobile phones, email addresses, household registration addresses and contact addresses, all existing data, transaction and maintenance information, mobile and internet media information, etc., of TOYOTA currently possessed by you.
+
+Periods, Regions, Recipients, and Methods of Use:
+Period: Until the date when you actively request TOYOTA to delete, stop processing or using the personal data, or until it is necessary for the execution of business operations.
+Regions: Locations of TOYOTA within and outside Taiwan.
+Recipients: Hotai Motor Co., Ltd. and its related companies, authorized dealerships in Taiwan, and third parties in cooperation (see note). You understand and agree that the scope of recipients also includes companies added in the future on the official websites of Hotai Motor and the companies described in the notes (https://pressroom.hotaimotor.com.tw/).
+Methods: Utilization by automated machines or other non-automated methods in compliance with relevant personal data protection laws.
+You have the right to request TOYOTA to review, provide copies of, or correct your personal data in accordance with the Personal Data Protection Act. You may also contact TOYOTA's customer service hotline or directly contact the business units of authorized dealerships in Taiwan in writing to refuse TOYOTA from collecting, processing, and using your personal data or to request the deletion of your personal data.
+
+Other Data We May Collect
+When you visit the App, the App uses cookies and other similar tracking technologies to automatically collect data, including your IP address, device ID, browsing behavior information, browser name, device operating system, etc. Your personal information is only stored if you provide it voluntarily.
+
+Cookies and other similar tracking technologies are small text files stored on your computer or mobile device browser. TOYOTA will use cookies and other similar tracking technologies while you use the App to achieve the following purposes: verification of users, remembering user preferences and settings, determining the popularity of content, analyzing App traffic and trends, and understanding the online behavior and interests of App users, such as specific areas of the App you visit and the products or services you purchase through our App. Cookies are also used to help improve your browsing speed on the App. We also cooperate with third-party websites. When you visit third-party websites in cooperation with TOYOTA, we use cookies and other similar technologies to record identification information and social category information, such as interests, lifestyle tags, consumption patterns, etc. TOYOTA collects this information to make its App and products more in line with users' interests and needs, and to improve the quality of services provided by the App.
+
+Most browsers are initially set to accept cookies. You can also set your device to refuse cookies or send warnings when receiving cookies. When you use the App and refuse to accept cookies, you may be unable to access certain content or receive personalized information.
+
+In addition, we will continue to improve our promotional practices. To help us achieve this goal, we may determine where you clicked to access the App, thereby analyzing the extent of the App's exposure on the Internet.
+
+Information about your device, such as IP location (the number assigned to your device when connecting to the Internet), browser-related information, and operating system-related information, may also be collected and linked to the personal information you voluntarily provide. This is to ensure that our App provides visitors with the best browsing experience, and this information is the most effective source of information.
+
+Finally, we will supplement the data you provide with data provided by third parties. We do this to provide products and services that better meet your needs.
+
+Data Security
+We take standard precautions to ensure the security of your personal information. All personal identity information is restricted to prevent unauthorized access, modification, or misuse.
+
+Custody and Notification Obligations
+You have the obligation to properly safeguard the account and password registered on this App and should be responsible for all actions taken after logging in to this website with the account and password. To protect your own rights and interests, please do not disclose or provide the account and password to any third parties, or lend or transfer them for others to use. All actions performed using the same user account and password on this App will be deemed as the actions of the user. If the account or password is illegally used by others due to your negligence in safeguarding them, TOYOTA will not be responsible for compensation. If you find that your account or password has been illegally used or there is any abnormal situation that harms the security of your use, you should immediately notify TOYOTA. If you fail to notify in a timely manner, resulting in the inability to effectively prevent or repair, you shall bear full responsibility.
+
+Prohibited Actions in Violation of Laws
+TOYOTA has the final decision on whether your actions comply with these Terms of Use. If TOYOTA determines that your actions violate these Terms of Use or any laws, you agree that TOYOTA may at any time suspend your account usage rights or delete your account and stop providing the App services. If you commit any illegal acts, you shall bear legal responsibilities.
+
+Damages
+You shall be liable for damages or compensation for any damages or expenses (including but not limited to attorney's fees incurred in civil, criminal, and administrative proceedings) suffered or incurred by TOYOTA or its related companies, employees, agents, or other relevant assisting personnel as a result of your violation of relevant laws or any provision of these Terms of Use.
+
+Effectiveness of Individual Terms
+If any part or provision of these Terms of Use is invalid, it does not affect the effectiveness of other provisions.
+
+Notification
+When you need to notify TOYOTA in accordance with these Terms of Use, please send an email to TOYOTA (the contact email with TOYOTA is CRDA@hotaimotor.com.tw) or contact TOYOTA by phone (the contact phone with TOYOTA is 0800-221-345). The notification will not be effective until TOYOTA receives it, so the original agreement will not be changed or affected by this.
+
+Governing Law and Jurisdiction
+The interpretation and application of these Terms of Use, as well as the rights and obligations between you and TOYOTA arising from your use of the App services, shall be governed by the laws of the Republic of China. In the event of litigation or dispute, the Taipei District Court in Taiwan shall have jurisdiction as the court of first instance.
+
+Modification Statement
+TOYOTA reserves the right to modify these Terms of Use in the future. When modifications are made, they will be announced on the App and take effect immediately after the announcement, without further notice. If you continue to use the services provided by the App after the modifications or changes to the Terms of Use have been announced on the App, you will be deemed to have read, agreed, and accepted the modifications or changes. If you do not agree with the content of these Terms of Use, you should immediately notify TOYOTA and stop using the services provided by the App.
+
+Note: Kuotu Automobile, Beidu Automobile, Taomiao Automobile, Central Automobile, Nandu Automobile, Gaodu Automobile, Lanyang Automobile, Eastern Automobile, Hehang Automobile, Chung Cheng Automobile, Horng Rong Automobile, Chang Yuan Automobile, Hotai Toyota Material Handling, Hotai Internet, Hotai Mobile Services, Hotai Property Insurance, Horng Jen Enterprise, Horng Jen Electric Power, Hotain Rent-a-Car, Hotai Cloud Mobile Services, Car Doctor, Hsinglian Technology, Hotai Development, Guo Rui Automobile, Hotai Exhibition Investment, Ho Chao Industrial, Ho An Security, Ho Chuan Insurance, Ho Jin Enterprise, Ho Yang Travel Agency, Hotai Service Marketing, Pan-Tai Container Transportation, Yi Tai Express, Hua Tai Express, Kuei Shun Warehouse & Transportation, Tai Chuan Printing, Hsun Ho Screw, Taiwan Yokohama Tire, Taiwan Pai Yuan Hotai, GoGoMan Auto Parts, Hotai Automotive Body Manufacturing Co., Ltd., Hotai Automotive Sales Co., Ltd., Shing Hao Logistic Company, Lung Hao Moving & Transportation, Chuen On Transportation, Yu Cheng Transportation, etc., related companies and companies jointly marketing, utilizing customer data, and cooperating in promoting business with the company.
+Ⓒ HOTAI MOTOR CO., LTD. Hotai Motor Co., Ltd.

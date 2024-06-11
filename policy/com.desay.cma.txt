@@ -1,0 +1,77 @@
+I have translated the privacy policy for you:
+
+Changan Mazda "Changma Zhuyu" User Privacy Policy
+Version: April 3, 2020
+
+If you (the user) have any questions, opinions, or suggestions regarding this "Changan Mazda 'Changma Zhuyu' User Privacy Policy," please contact us at our customer service hotline 8008072777 or 4008002777.
+
+Prompt Terms:
+Your trust is very important to us. We understand the importance of personal information to you, and we will take corresponding security measures in accordance with legal requirements to protect the security and controllability of your personal information. In view of this, Changan Mazda "Changma Zhuyu" system service provider (or referred to as "us") has formulated the "Changan Mazda 'Changma Zhuyu' User Privacy Policy" and reminds you:
+
+This policy applies to all products and services provided by the Changan Mazda "Changma Zhuyu" system. If our affiliated companies (detailed in the definition section) use the products or services provided by the Changan Mazda "Changma Zhuyu" system in their products or services (such as using the Changan Mazda "Changma Zhuyu" system account to log in) but do not have separate privacy policies, this policy also applies to those products or services.
+
+It should be noted that this policy does not apply to services provided by other third parties, nor does it apply to products or services in the Changan Mazda "Changma Zhuyu" system that have separate legal statements and privacy policies.
+
+Before using the products or services of the Changan Mazda "Changma Zhuyu" system, please read and understand this policy carefully, and use the relevant products or services only after confirming full understanding and agreement. Before using the smart connection system, when you check "Read and agree to the 'Changan Mazda 'Changma Zhuyu' User Privacy Policy'," it means that you have fully understood and agreed to this policy. If you have any questions, opinions, or suggestions about the content of this policy, you can contact us through various contact methods provided by the Changan Mazda "Changma Zhuyu" system.
+
+You agree that we have the right to update the "Changan Mazda 'Changma Zhuyu' User Privacy Policy" at any time through the APP, text messages, website announcements, etc.
+
+Part 1: Definitions
+Personal Information: Refers to various information recorded in electronic or other forms that can identify a specific natural person individually or in combination with other information, or reflect specific activities of a specific natural person. Personal information that may be involved in this privacy policy includes: account information (including self-filled avatar, nickname, home address, company address, date of birth), emergency contact, real-name authentication information (name, phone number, ID card number, personal ID card photo, ID card front and back photos, or other identification documents), account information (mobile phone or vehicle-mounted account and linked third-party accounts), contact list, location information, transaction and order information, itinerary information (destination, departure time, reminder time, notes), vehicle information (vehicle status information, vehicle fuel consumption, vehicle travel information, vehicle operation information, vehicle diagnostic information, VIN, brand, series, model, engine number), personal commonly used device information (including hardware model, device MAC address, operating system type, software list unique device identifier (such as IMEI/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information, etc. Descriptive information about the basic situation of personal commonly used devices), log information (IP address, usage time, operation records).
+
+Personal Sensitive Information: Refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, mental health, or discriminatory treatment, etc. Personal sensitive information that may be involved in this privacy policy includes: your real-name authentication information (name, phone number, ID card number, personal ID card photo, ID card front and back photos, or other identification documents), transaction and order information, other information (including contact list, phone number, itinerary information, location information).
+
+Affiliated Companies: Refers to any company that currently or in the future controls us, is controlled by us, or is jointly controlled with us. "Control" means directly or indirectly having the power to affect the management of the mentioned company, whether through ownership, voting shares, contracts, or other means recognized by the People's Court.
+
+Part 2: Privacy Policy Contents
+This policy will help you understand the following:
+1. How we collect and use your personal information
+2. How we use Cookies and similar technologies
+3. How we share, transfer, and disclose your personal information
+4. How we protect your personal information
+5. Your rights
+6. How we handle personal information of minors
+7. How your personal information is transferred globally
+8. How this policy is updated
+9. How to contact us
+
+1. How we collect and use your personal information
+We only collect and use your personal information for the following purposes:
+(a) Cases where you authorize us to collect and use your personal information
+Our products and/or services include some core functions that require the collection, storage, and use of the following information to achieve the functions of intelligent Internet connection, improve our products and/or services, and ensure transaction security. We may collect, store, and use the following information to achieve these functions. The information you provide below will be continuously authorized by you during your use of this service. When you log out of your account, we will stop using and delete the relevant information or anonymize it. These functions include:
+1. Provide you with smart networking services
+(a) User registration
+First, you need to register a Changan Mazda "Changma Zhuyu" system account. When you register, you need to provide us with at least your mobile phone number (for user verification), password. We can verify your identity by sending a verification code via SMS. At the same time, you can choose to provide the following additional information, which will help us provide you with better service and experience: personal avatar, nickname, home address, company address, date of birth. If you do not provide this additional information, it will not affect the basic functions of your intelligent networking.
+(b) Real-name authentication and vehicle binding
+After registration, you need to undergo real-name authentication to use a series of services of the Changan Mazda system. Real-name authentication information includes your name, phone number, ID card number, or other identification. Collecting such information conforms to the online real-name system requirements of relevant laws and regulations. You also need to bind the vehicle and link the Changan Mazda system with your in-vehicle device. If you do not provide these two types of information, you will not be able to use all the functions of our products or services.
+(c) Vehicle information display
+After you complete user registration, real-name authentication, and vehicle binding, we will use your vehicle information (including mileage, remaining mileage, total average fuel consumption, vehicle location information, vehicle diagnostic status). If you do not provide vehicle information, you can cancel the vehicle binding, but you will not be able to use all the functions of our products or services.
+(d) Information required for the normal operation of third-party software
+Functional scenarios Third-party software collects data
+Open device positioning function and use location-based services provided by Amap
+Amap
+Hardware model, operating system version, device configuration, unique device identifier, IMEI, MAC, IDFA, device connection information, device status information, location information, trace trajectory, network identity information
+Use address information and trace trajectory of navigation service
+Use navigation search service to search for content, IP address, device information, language used, operating system version, network operator information, access service time
+Information push service Jiguang
+Device information under Android system: device identifier (IMEI, SN code, MAC address, SDK-generated random number, Android_ID, device ID, IMSI, ICCID, device-compiled unique identifier), application information (application crash information, notification switch state, software list, background process information, integrated SDK application information) device parameters and system information (device manufacturer information, device type, device model, operating system and hardware information (ROM/RAM, baseband version, mobile phone time zone, CPU information, screen size, mobile phone battery information, device language, device system version, mobile phone system version, country device code). Device information under iOS system: device identifier (SDK-generated random number, push DeviceToken, iOS advertising identifier), application information (application crash information, notification switch status, integrated SDK application information), device parameters and system information (device manufacturer information, device type, device model, operating system and hardware information (ROM/RAM, mobile phone time zone, screen size, mobile phone battery information, device language, device system version, mobile phone system version, country identification code).
+Network information includes: IP address, WiFi list
+Location information
+Version upgrade function bugly device model, application version
+2. Improve or enhance our products and/or services
+(a) We and our affiliated companies in providing Changan Mazda system, value-added services, automobile-related goods and services, and promotional materials and emails related to our activities, such as mass mailing promotional materials and emails.
+(b) We and our affiliated companies develop questionnaires or statistical analysis of personal information in order to improve the quality and customer satisfaction, grasp market trends, and optimize our products and/or services.
+(c) Communicate with you about your account or our services.
+(d) Provide you with our daily or new services and related services, including checking, maintenance, and updating the Changan Mazda system.
+(e) Install, change, and/or update software or systems.
+(f) Help you report the vehicle condition to your vehicle manufacturer and provide information about the use of the vehicle.
+(g) In order to optimize the use experience and improve our services, we may collect and use your feedback, comments, and suggestions.
+(b) Cases where we collect and use your personal information for specific purposes with your consentFor specific purposes that may involve the use of personal information beyond the scope agreed upon by you when obtaining personal information or beyond the scope stipulated by laws and regulations, we will seek your consent again.
+How we use Cookies and similar technologiesThe Changan Mazda "Changma Zhuyu" system uses Cookies and similar technologies to ensure the proper operation of the product and/or service, provide you with a personalized experience, improve service quality, and manage advertising. For more information about how we use Cookies and similar technologies, please refer to the Cookie Policy.
+How we share, transfer, and disclose your personal information(a) SharingWe will not share your personal information with any company, organization, or individual other than our affiliated companies, except in the following cases:
+With your explicit consent: After obtaining your explicit consent, we will share your personal information with other parties.
+Sharing with authorized partners: In order to provide you with a better experience and/or implement the functions you need, we may share your personal information with our authorized partners. However, we will only share necessary personal information, and we will require our partners to comply with this privacy policy and take appropriate confidentiality and security measures for personal information.
+Sharing in accordance with legal requirements: We may share your personal information with relevant authorities in accordance with laws and regulations or requirements of government authorities.
+(b) TransferWe will not transfer your personal information to any company, organization, or individual, except in the following cases:
+With your explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties.
+In the event of a merger, acquisition, or bankruptcy liquidation, if the transfer of personal information is involved, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to re-obtain your authorization and consent.

@@ -1,0 +1,115 @@
+BLUEDRIVER® REPAIR DATABASE TERMS OF USE AGREEMENT
+
+Revised June 11, 2012.
+
+BY ACCESSING OR USING THE BLUEDRIVER® REPAIR DATABASE, YOU AGREE TO BE BOUND BY THE PROVISIONS OF THIS TERMS OF USE AGREEMENT (THE "TERMS OF USE"). BEFORE ACCESSING OR USING THE BLUEDRIVER® REPAIR DATABASE, PLEASE READ THE TERMS AND CONDITIONS CONTAINED HEREIN. IF YOU DO NOT AGREE WITH ANY OF THE TERMS AND CONDITIONS OF USE SET FORTH HEREIN, DO NOT ACCESS OR USE THE BLUEDRIVER® REPAIR DATABASE.
+
+The BLUEDRIVER® REPAIR DATABASE is being made available to you by Root Four Imagination Inc., through and subject to a limited license provided by a third party provider (the "Data Provider"). Collectively, Root Four Imagination Inc. and the Data Provider are referred to herein as the "Providers." You, as a user of the BlueDriver® Repair Database are referred to herein as "you."
+
+Root Four Imagination Inc. reserves the right to update or change these Terms of Use at any time, with or without notice, and for any reason by posting the revised version on Root Four Imagination Inc.'s web site and/or making it available through its BlueDriver® Application ("BlueDriver® App"); therefore, it is recommended that you periodically print the latest version of the Terms of Use for your records. For your information, the date of the last update to these Terms of Use is stated at the top of this document. Your continued access or use of this site and any services contained therein as of the effective date of any such modification shall be deemed your continuing acceptance of these Terms of Use, as modified.
+
+The BlueDriver® Repair Database is for general informational purposes only, and is not intended to be a substitute for the professional judgment of a trained automotive repair expert. You should consult with a trained automotive repair expert prior to performing any work on a vehicle or determining not to address any potential problem or defect in a vehicle.
+
+1. INTELLECTUAL PROPERTY RIGHTS
+
+1.1 Copyrights. All of the content of the BlueDriver® Repair Database and any text, art, graphics, logos, button icons, images, pictures, audio clips, and software contained therein is the property of Root Four Imagination Inc., the Data Provider and/or their members, partners, or content providers and is protected by U.S. and international copyright laws. Except as granted in the limited license below, any other use of such content, including modification, transmission, presentation, distribution, or republication is prohibited without the express prior written consent of Root Four Imagination Inc.
+
+1.2 Trademarks. All trademarks, trade names, logos, brand names, and service marks of Root Four Imagination Inc., whether registered or unregistered, are the property of Root Four Imagination Inc., the Data Provider and/or their members, partners, or content providers and are protected by U.S. and international trademark laws. Except as granted in the limited license below, any use of these assets is prohibited without the express prior written consent of Root Four Imagination Inc. In no event may any such assets be used in connection with any product or service that is not provided by Root Four Imagination Inc., in any manner that is likely to cause confusion or in any manner that disparages or discredits Root Four Imagination Inc., its Data Provider and/or their members, partners, or content providers. All other trademarks, trade names, brand names, company names, and/or logos appearing on or in connection with the BlueDriver® Repair Database are the property of their respective owners.
+
+1.3 Limited License. Subject to these Terms of Use, the Providers grant you a limited, revocable, non-exclusive, and non-transferable license to access and make use of the material from the BlueDriver® Repair Database solely for your personal use. If you violate any provision of these Terms of Service, the Providers' remedies will include the right to immediately terminate the granted permission to access the BlueDriver® Repair Database and the destruction of any copies made of any portion of such materials from the BlueDriver® Repair Database.
+
+1.4 Restrictions on Use. As a condition to your use of the BlueDriver® Repair Database, you agree you will not: (i) use the BlueDriver® Repair Database except through the BlueDriver App and as a valid license holder of the BlueDriver App; (ii) use the BlueDriver® Repair Database to infringe the intellectual property rights of others in any way; (iii) use the BlueDriver® Repair Database or attempt to penetrate, modify, or manipulate the BlueDriver® Repair Database any of the hardware or software thereof, in order to: invade the privacy of, obtain the identity of, or obtain any personal information about any other user of the BlueDriver® Repair Database; (iv) attempt to access and/or access information that is not otherwise deliberately made available to you through the BlueDriver® Repair Database; (v) modify, erase, or damage any information contained on the computer of any user connected to the BlueDriver® Repair Database; and (vi) reverse engineer any portion of the BlueDriver® Repair Database; or retain any information downloaded, copied or printed from the BlueDriver® Repair Database for longer than thirty (30) days. The information received through the BlueDriver® Repair Database may not be reproduced, duplicated, copied, downloaded, sold, resold, or otherwise exploited for any purposes not expressly permitted in writing by Root Four Imagination Inc. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, layout and form) of the BlueDriver® Repair Database without the express written consent of Root Four Imagination Inc.
+
+1.5 Termination. Root Four Imagination Inc. reserves the right to refuse service and terminate accounts, for reasons including, but not limited to, a belief by Root Four Imagination Inc., that user conduct violates applicable law or is harmful to the interests of Root Four Imagination Inc., the Data Provider and/ or their members, partners, suppliers, or other users, or for any other reason, or for no reason at all, at Root Four Imagination Inc. sole unbridled discretion, with or without cause.
+
+2. ASSUMPTION OF RISK
+
+2.1 The BlueDriver® Repair Database is Not a Substitute for Professional Judgment. THE BLUEDRIVER® REPAIR DATABASE IS NOT DESIGNED TO, AND DOES NOT PROVIDE REPAIR ADVICE. All content, including text, graphics, images, and information available on or through the BlueDriver® Repair Database is for general informational purposes only, and is not intended to be a substitute for the professional judgment of a trained automotive repair expert.
+
+2.2 Providers Not Liable. THE PROVIDERS ARE NOT RESPONSIBLE OR LIABLE FOR ANY ADVICE, DIAGNOSIS OR ANY OTHER INFORMATION, SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THIS SITE.
+
+2.3 Confirm Information with Other Sources. You are encouraged to confirm the information you receive from the BlueDriver® Repair Database with other sources of information and with trained automotive repair experts.
+
+2.4 No Endorsements. The Providers do not recommend or endorse any products or services that may be advertised via the the BlueDriver® Repair Database or the BlueDriver® App.
+
+2.5 Rely At Your Own Risk. RELIANCE ON ANY INFORMATION FROM THE BLUEDRIVER® REPAIR DATABASE IS SOLELY AT YOUR OWN RISK. Your use of the BlueDriver® Repair Database will be deemed your consent to this disclaimer and a waiver of any claims you may have against the Providers for reliance on the materials contained therein.
+
+3. COOPERATION WITH LEGAL AUTHORITIES.
+
+The Providers cooperate with law enforcement inquiries as a matter of policy. We may use IP addresses and other available information to attempt to identify a user when we are legally compelled to do so or when we feel it is necessary to protect our services, sites, customers, or others.
+
+4. WARRANTY DISCLAIMERS; LIMITATION OF LIABILITY & LIQUIDATED DAMAGES
+
+4.1 The BlueDriver® Repair Database is only to be used only as a reference aid, and is not intended to be a substitute for the exercise of professional judgment. You should confirm the information received from the BlueDriver® Repair Database through independent sources and seek other professional guidance in making decisions regarding the diagnosis and repair of motor vehicles. The Providers do not warrant or guarantee any of the products, procedures, or fixes described, and do not perform any independent testing and analysis in connection with any of the foregoing. The Providers do not assume, and expressly disclaim, any obligation to obtain and include any information other than that provided to it by its third party sources. It should be understood that by making this content available, the Providers are not advocating the use of any products, procedures, or fixes described by the BlueDriver® Repair Database, nor are the Providers responsible for actions or omissions taken by users as a result of any typographical error.
+
+4.2 YOU AGREE THAT YOUR USE OF THE BLUEDRIVER® REPAIR DATABASE IS ENTIRELY AT YOUR OWN RISK AND THAT THE BLUEDRIVER® REPAIR DATABASE IS PROVIDED "AS AVAILABLE" AND "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES AS TO MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. THE PROVIDERS DO NOT WARRANT THAT ANY SERVICE PROVIDED THROUGH THE BLUEDRIVER® REPAIR DATABASE WILL BE UNINTERRUPTED OR ERROR FREE. NOR DO THE PROVIDERS WARRANT THAT ITS SERVICES WILL BE FREE FROM COMPUTER VIRUS STRAINS. THE BLUEDRIVER® REPAIR DATABASE MAY INCLUDE INFORMATION, PRODUCTS, MATERIALS, AND OTHER SERVICES CONTAINED ON OR PROVIDED THROUGH THE BLUEDRIVER® APP, INCLUDING ALL TEXT, GRAPHICS, LINKS, ANIMATION, JAVA SCRIPT, AND COOKIES.
+
+4.3 YOU EXPRESSLY AGREE THAT YOUR USE OF THE BLUEDRIVER® REPAIR DATABASE IS AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE PROVIDERS DISCLAIM ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE PROVIDERS WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE BLUEDRIVER® REPAIR DATABASE, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, AND PUNITIVE DAMAGES.
+
+4.4 THE PROVIDERS HEREBY DISCLAIMS ANY LIABILITY TO YOU OR ANY OTHER PARTY FOR ANY BREACH OF ANY ALLEGED WARRANTY OF THE PROVIDERS, EVEN IF THE PROVIDERS HAVE BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.
+
+4.5 THE PROVIDERS DO NOT REPRESENT OR WARRANT THAT THE INFORMATION, MATERIALS, AND SERVICES PROVIDED THROUGH THE BLUEDRIVER® REPAIR DATABASE ARE ACCURATE, RELIABLE, COMPLETE, OR CURRENT. THE PROVIDERS DO NOT ASSUME RESPONSIBILITY FOR THE ACCURACY OR APPROPRIATENESS OF ANY ADVICE, DIAGNOSIS, PROCEDURES, FIXES OR ANY OTHER INFORMATION, SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THE BLUEDRIVER® REPAIR DATABASE. YOUR USE OF OR RELIANCE ON ANY SUCH INFORMATION IS SOLELY AT YOUR OWN RISK.
+
+4.6 Limitation of Liability: THE PROVIDERS AND THEIR DIRECTORS, AFFILIATES, MANAGERS, OFFICERS AND EMPLOYEES HEREBY DISCLAIM ANY LIABILITY TO YOU FOR THE USE OF THE BLUEDRIVER® REPAIR DATABASE AND FOR ANY CLAIMS RELATING TO ALLEGATIONS OF PERSONAL INJURY, WRONGFUL DEATH, LOSS OF USE, LOSS OF PROFITS, INTERRUPTION OF SERVICE, OR LOSS OF DATA, WHETHER IN ANY ACTION IN WARRANTY, CONTRACT, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE OR FUNDAMENTAL BREACH), OR OTHERWISE ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF, OR THE INABILITY TO USE THE BLUEDRIVER® REPAIR DATABASE OR ANY MATERIAL OR INFORMATION CONTAINED IN, ACCESSED THROUGH THE BLUEDRIVER® REPAIR DATABASE EVEN IF AUTHORIZED REPRESENTATIVES OF THE PROVIDERS ARE ADVISED OF THE LIKELIHOOD OR POSSIBILITY OF THE SAME.
+
+4.7 AS ANY ALLEGATION OF DAMAGES WOULD BE DIFFICULT IF NOT IMPOSSIBLE TO DETERMINE, YOU AGREE THAT THE TOTAL LIABILITY OF THE PROVIDERS FOR ACTUAL DAMAGES SHALL NOT EXCEED ONE THOUSAND DOLLARS ($1,000). IN NO EVENT SHALL THE PROVIDERS, NOR ANY OF THEIR DIRECTORS, AFFILIATES, MANAGERS, OFFICERS, EMPLOYEES OR OTHER REPRESENTATIVES BE LIABLE FOR ANY SPECIAL, PUNITIVE, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OR ANY OTHER DAMAGES OF ANY KIND.
+
+4.8 ANY CLAIMS ARISING IN CONNECTION WITH YOUR USE OF THE BLUEDRIVER® REPAIR DATABASE MUST BE BROUGHT WITHIN ONE (1) YEAR OF THE DATE OF THE EVENT GIVING RISE TO SUCH ACTION.
+
+4.9 WHEN USING THE BLUEDRIVER® REPAIR DATABASE, INFORMATION WILL BE TRANSMITTED OVER A MEDIUM THAT IS BEYOND THE CONTROL AND JURISDICTION OF THE PROVIDERS. ACCORDINGLY, THE PROVIDERS ASSUME NO LIABILITY FOR OR RELATING TO THE DELAY, FAILURE, INTERRUPTION, OR CORRUPTION OF ANY DATA OR OTHER INFORMATION TRANSMITTED IN CONNECTION WITH USE OF THE BLUEDRIVER® REPAIR DATABASE.
+
+5. NOTICES OF ALLEGED INFRINGEMENT OF COPYRIGHT
+
+In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office web site), Root Four Imagination Inc. will respond expeditiously to claims of copyright infringement committed using the BlueDriver® Repair Database that are reported to Root Four Imagination Inc. (see contact information below). If you are a copyright owner, or authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, please report your notice of infringement by completing the following notice form and delivering it to Root Four Imagination Inc.:
+
+NOTICE OF ALLEGED INFRINGEMENT OF COPYRIGHT
+
+Identity of the copyrighted work that you claim has been infringed, or, if multiple copyrighted works are covered by this Notice, a representative list of the copyrighted works that you claim have been infringed using the BlueDriver® Repair Database:
+
+1. Identification of the material that you claim is infringing.
+2. Your street or mailing address, telephone number, and, if available, e-mail address.
+3. I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law, i.e., fair use.
+4. I hereby state that the above information in this Notice is accurate, and under penalty of perjury, that I am the copyright owner, or authorized to act on behalf of the owner of the copyright or of any exclusive right under the copyright.
+5. Electronic or physical signature of the copyright owner or of a person authorized to act on behalf of the owner of the copyright or of any exclusive right under the copyright.
+Full legal name:
+E-mail Address:
+Address:
+Phone Number:
+Fax Number:
+All claims of copyright infringement should be delivered to:
+
+Root Four Imagination Inc.
+510 Topsail Rd.
+St. John's, Newfoundland, A1E2C2
+Canada
+Phone: 647-723-2187
+Fax: 647-723-7540
+7. GOVERNING LEGAL PROVISIONS
+
+7.1 Governing Law and Jurisdiction. These Terms of Use shall be governed by and construed in accordance with the internal laws of the Province of Newfoundland applicable to the performance and enforcement of contracts made within such province, without giving effect to the law of conflicts of laws applied thereby. In the event that any dispute shall occur between the parties arising out of or resulting from the construction, interpretation, enforcement or any other aspect of these Terms of Use, the parties hereby agree to accept the exclusive jurisdiction of the Courts of the Province of Newfoundland sitting in the City of St. John's. In the event either party shall be forced to bring any legal action to protect or defend its rights hereunder, then the prevailing party in such proceeding shall be entitled to reimbursement from the non-prevailing party of all fees, costs and other expenses (including, without limitation, the reasonable expenses of its attorneys) in bringing or defending against such action.
+
+7.2. WAIVER OF JURY TRIAL. EACH PARTY HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT
+
+7.3 Indemnification. You agree to indemnify, defend, and hold harmless the Providers and their respective officers, directors, employees, agents, licensors, suppliers, and affiliates from and against any claims, actions or demands, liabilities, and settlements, including but not limited to, reasonable legal and accounting fees resulting from, or alleged to result from, your violation of these Terms of Use or any activity related to your account (including infringement of third parties' worldwide intellectual property rights or negligent or wrongful conduct) by you or any other person accessing the BlueDriver® Repair Database using your account.
+
+7.4 Injunctive Relief. In addition to any of the other remedies available to the Providers hereunder, you agrees that each of the Providers may be entitled to a decree of specific performance or an injunction restraining violations of a party's proprietary rights. No remedy provided herein is intended to be exclusive of any other remedy, and each and every remedy shall be cumulative and shall be in addition to every other remedy given hereunder or now or hereafter existing at law or equity.
+
+7.5 International Laws. The Providers make no claim that the content of the BlueDriver® Repair Database is appropriate or may be downloaded outside of the United States. Access to such content may not be legal by certain persons or in certain countries. If you access the the BlueDriver® Repair Database from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.
+
+7.6 Entire Agreement. These Terms of Use constitute the entire agreement between you and the Providers with respect to the use of the BlueDriver® Repair Database.
+
+7.7 Waiver. Our failure to exercise or enforce any right or provision of the Terms of Use shall not constitute a waiver of such right or provision. No waiver of any of these Terms of Use shall be deemed a further or continuing waiver of such term or condition or any other term or condition.
+
+7.8 Severability. If any provision of the Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Use should remain in full force and effect.
+
+7.9 Modification. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of these Terms of Use.
+
+7.10 Assignment. The Providers may assign their rights and duties under this Agreement to any party at any time without notice to you and/or your approval.
+
+7.11 Minors. The BlueDriver® Repair Database is intended for the use of adults only, and is not intended for the use of minors.
+
+7.12 Third Party Beneficiary. The Data Provider is a third party beneficiary to this Agreement.
+
+7.13 Headings. The headings used in these Terms of Use are for the purpose of organization only and are not intended to inform, alter or control the terms hereof.
+
+7.14 Notices. If you have questions or comments regarding the BlueDriver® Repair Database, please contact us at Root Four Imagination Inc., 510 Topsail Rd., St. John's, Newfoundland, A1E2C2, Canada; 647-723-2187.

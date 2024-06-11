@@ -1,0 +1,123 @@
+Privacy Policy of GAC Motor APP and GAC Motor WeChat Mini Program
+
+Updated and Effective Date: December 5, 2022
+
+GAC Motor Sales Co., Ltd. (hereinafter referred to as "GAC Motor" or "we") attaches great importance to the protection of personal information of consumers or potential consumers (hereinafter referred to as "you") . When you use our GAC Motor APP or GAC Motor WeChat Mini Program (hereinafter referred to as "GAC Motor WeChat Mini Program" as "Mini Program") and provide various products and services, we may collect and use your personal information. All collection and use activities of your personal information by us will be conducted in accordance with relevant laws and regulations and the provisions of this Privacy Policy (hereinafter referred to as "this Policy"), and corresponding security protection measures will be taken to do our best to protect the security and controllability of your personal information.
+
+Before you register as a user of GAC Motor APP or Mini Program, please read and fully understand the entire content of this Privacy Policy carefully, and start using it after confirming your full understanding and agreement. Your registration, login, and use of other behaviors shall be deemed as acceptance of this Policy and agreement to be bound by the terms of this Policy. This Policy stipulates the rights and obligations between us and you. If you have any questions about the content of this Privacy Policy, please do not proceed with the next operation. You can consult GAC Motor APP or Mini Program customer service through the contact information listed in this Policy so that we can explain and clarify it for you.
+
+It should be noted that this Policy does not apply to the products or services provided by third parties on the basis of this client, nor does it apply to products or services in this client that have set up independent privacy policies.
+
+This Privacy Policy will help you understand the following:
+
+1. How we collect and use your personal information
+
+2. How we use cookies and similar technologies
+
+3. How we share, transfer, and disclose your personal information
+
+4. How we store and protect your personal information
+
+5. Your rights
+
+6. Protection of minors' information
+
+7. How this Policy is updated
+
+8. How to contact us
+
+I. How we collect and use your personal information
+
+(I) Personal information refers to various information recorded electronically or by other means that can identify the identity of a specific natural person individually or in combination with other information, or reflect the specific activities of a specific natural person. Once leaked, provided illegally, or abused, it may endanger personal and property security, easily cause personal reputation, mental and physical health damage, or discriminatory treatment. Personal sensitive information. For personal sensitive information, we will mark it significantly in this Privacy Policy. Please read it carefully.
+
+(II) We will only collect and use your personal information for the following purposes as described in this Policy:
+
+1. User registration or login
+If you only need to use browsing and search services, you do not need to register as our user or provide other information. If you need to use services provided by us for yourself, you need to provide your mobile phone number, SMS verification code, third-party login credentials integrated in GAC Motor APP (including but not limited to WeChat, Weibo, operator number authentication login, etc. SDK) or the account identification credentials provided by WeChat to GAC Motor WeChat Mini Program for creating or logging in to GAC Motor APP or Mini Program account, and also need to obtain your device identification code to enhance the security of your account. Multiple services within GAC Motor APP or Mini Program need to identify users through APP accounts, such as maintenance appointments, roadside assistance, exclusive consultants, QX intelligence, online engineers, owner services, vehicle certification, store attention, community communication, lottery participation, online car ordering in showrooms, vehicle networking services, score acquisition and query, score mall, and my page, etc., to ensure that we are providing services for you personally.
+
+After you fully understand and agree to this Policy, you can register and log in through GAC Motor APP or Mini Program. GAC Motor APP and Mini Program are operated exclusively by us. When you register or log in to any of these products (for example, you can use GAC Motor APP or register an account and log in to GAC Motor WeChat Mini Program), we will synchronize your account information to other products so that you can use the same account to log in to the other products mentioned above without registering again (for example, after registering through GAC Motor WeChat Mini Program, you can use the same account to log in to GAC Motor APP without registering the same account again in GAC Motor APP).
+
+If you first submit registration information to us through GAC Motor WeChat Mini Program, when you authorize WeChat to provide us with account identification credentials and user information, we will record the association between your WeChat account and GAC Motor WeChat Mini Program account, and record the binding relationship between your GAC Motor WeChat Mini Program account and WeChat account identification credentials (the correspondence between WeChat account identification credentials and real WeChat accounts is managed by WeChat. If you change your WeChat account or switch WeChat account identification credentials, we will be unable to correctly identify the account binding relationship, and the above restrictions depend on the relevant agreements of WeChat. Please refer to the updated announcement released by WeChat for subsequent adjustments).
+
+2. Additional information enhancement
+On the "My-Personal Information" page, you can choose to provide avatar, nickname, real name, gender, date of birth, vehicle usage location, personal profile information. If you provide the above information, we can provide you with a convenient experience of automatically filling in personal information and personalized services in appointment, rescue and other services. At the same time, to ensure the identification in community communication, your nickname and avatar will be displayed publicly. If you do not provide the above information, the nickname and avatar will be displayed as default values assigned by the system, and other information needs to be manually filled in according to the specific requirements of the service.
+When you register or log in to GAC Motor WeChat Mini Program through WeChat account authorization, we will judge whether to use your information on the third-party platform as user additional information storage based on the improvement of the attachment information according to the degree of improvement. The additional information here includes but is not limited to the following: user avatar, user nickname.
+
+3. Vehicle binding and unbinding
+When you bind your vehicle to complete vehicle owner authentication, you need to provide information on the driving license of the vehicle to be bound, including VIN code, engine number, license plate number, etc. Binding the basic information of the vehicle is a prerequisite for authenticating you as a GAC Motor vehicle owner and enjoying the functions related to vehicle binding. If you do not provide the above information, we will not be able to verify whether the vehicle belongs to you personally, and you may not be able to use the functions related to vehicle binding normally. However, it does not affect your use of other functions unrelated to the vehicle.
+
+4. Sales store query and selection
+When you inquire about sales store information or choose sales stores for services such as appointment and rescue, we need to obtain your location information in order to automatically provide you with the nearest sales store information. If you do not provide your location information, you can still manually select the city where you are located, but the distance between the sales stores and you will not be correctly displayed. In addition, it does not affect the use of other services.
+
+5. Appointment for in-store and home services
+Before you make an appointment for in-store maintenance or home services, you need to complete vehicle binding first so that the sales store can obtain your vehicle information. If you do not provide the above information, we will not be able to verify whether the vehicle belongs to you personally, and thus, we will be unable to provide services for you. At the same time, you need to provide your name, contact number, vehicle license plate, vehicle mileage, appointment sales store, appointment type, service items, appointment time, home service address, etc. (subject to the specific display on the appointment interface) in order to provide accurate home services to you. In addition, we will collect and follow up on the relevant information of this appointment order to provide a better activity experience. If you do not provide the above information, we and the sales store will be unable to contact you accurately and provide you with this service, but it does not affect the use of other services.
+
+6. Roadside assistance
+Before you request roadside assistance, you need to complete vehicle binding first so that the sales store can obtain your vehicle information. If you do not provide the above information, we will not be able to verify whether the vehicle belongs to you personally, and thus, we will be unable to provide services for you. At the same time, you need to provide your name, contact number, vehicle location, choose between sales store or rescue party, whether it is a traffic accident, etc. (subject to the specific display on the appointment interface) in order to provide accurate roadside assistance services. In addition, to ensure the timeliness and effectiveness of your assistance, if our system recognizes that the distance between the rescuer and you is greater than a certain value, you may need to provide your rescue code to the rescuer. In addition, we will collect and follow up on the relevant information of this assistance order to provide a better activity experience. If you do not provide the above information, we and the sales store will be unable to contact you quickly and timely and provide you with this service, but it does not affect the use of other services.
+
+7. Maintenance history
+To provide you with the maintenance history of your vehicle, you need to register and log in and complete vehicle binding, so that we can provide you with the recent maintenance history of your vehicle. If you have not completed the above steps, we will not be able to 8. Vehicle certification
+In order to verify the authenticity and ownership of the vehicle, you can choose to provide vehicle certification information. This includes uploading pictures or scanning relevant documents, such as vehicle registration certificates, purchase invoices, and insurance policies. The purpose of collecting this information is to ensure the accuracy and reliability of the vehicle-related services provided to you, such as warranty claims and vehicle resale assistance. If you choose not to provide vehicle certification information, it may affect your eligibility for certain services or benefits.
+
+9. Vehicle networking services
+If your vehicle is equipped with vehicle networking functions, you can choose to enable these functions and provide your consent for us to collect and use certain vehicle-related data. This data may include vehicle location, driving behavior, vehicle status, and diagnostic information. The purpose of collecting this data is to provide you with personalized services, such as remote vehicle control and maintenance reminders, as well as to improve the overall performance and safety of our vehicles. Your vehicle data will be treated with the utmost care and will only be used in accordance with applicable laws and regulations.
+
+10. Customer feedback and surveys
+If you choose to provide feedback or participate in customer surveys, we may collect and use your opinions and preferences to improve our products and services. Your feedback is valuable to us and helps us understand your needs and preferences.
+
+11. Other purposes
+In addition to the above-mentioned purposes, we may also collect and use your personal information for other purposes that are reasonably related to the provision of our products and services. We will inform you in advance and obtain your consent if we intend to use your information for purposes other than those specified in this Privacy Policy.
+
+II. How we use cookies and similar technologies
+
+Cookies are small text files that are placed on your device when you visit a website or use an app. They are used to store information about your preferences, improve your browsing experience, and provide customized content and ads.
+
+We may use cookies and similar technologies, such as web beacons and pixel tags, to collect information about how you interact with our websites and apps. This information may include your IP address, browser type, operating system, and browsing behavior. We use this information to analyze trends, administer our websites and apps, track users' movements, and gather demographic information.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. However, this may prevent you from taking full advantage of our websites and apps.
+
+III. How we share, transfer, and disclose your personal information
+
+We will not share, transfer, or disclose your personal information to any third party without your consent, except in the following circumstances:
+
+1. Affiliated companies and service providers
+We may share your personal information with our affiliated companies and service providers who assist us in providing our products and services. These companies may include IT service providers, data analytics providers, customer support providers, and marketing partners. We require these companies to comply with strict confidentiality obligations and use your personal information only for the purposes specified by us.
+
+2. Legal compliance and protection of rights
+We may disclose your personal information if we believe it is necessary to comply with applicable laws and regulations, enforce our user agreements, protect the rights, property, or safety of GAC Motor, our users, or others, or respond to government requests or legal process.
+
+3. Business transactions
+In the event of a merger, acquisition, or sale of all or a portion of our business or assets, your personal information may be transferred as part of the transaction. We will notify you and obtain your consent if your personal information will be used differently from what is stated in this Privacy Policy.
+
+IV. How we store and protect your personal information
+
+We take appropriate security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. These measures include physical, technical, and administrative safeguards.
+
+Your personal information is stored on secure servers located in controlled facilities. We restrict access to your personal information to authorized personnel only, who need to know the information for the purposes described in this Privacy Policy.
+
+While we strive to protect your personal information, we cannot guarantee the security of the information transmitted to and from our websites and apps over the Internet. Therefore, you acknowledge and accept the inherent risks of providing information online.
+
+V. Your rights
+
+You have certain rights regarding your personal information, including the right to access, correct, or delete your personal information. You also have the right to withdraw your consent to the collection and use of your personal information.
+
+If you would like to exercise any of these rights, please contact us using the contact information provided in this Privacy Policy. We will process your request in accordance with applicable laws and regulations.
+
+VI. Protection of minors' information
+
+Our products and services are not intended for minors under the age of 18. We do not knowingly collect personal information from minors. If we become aware that we have inadvertently collected personal information from a minor, we will take steps to delete the information as soon as possible.
+
+VII. How this Policy is updated
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or applicable laws and regulations. We will notify you of any material changes by posting the updated Privacy Policy on our websites and apps or sending you a notification. We encourage you to review this Privacy Policy periodically for the latest information on our privacy practices.
+
+VIII. How to contact us
+
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
+
+GAC Motor Sales Co., Ltd.
+Address: No. 598 Jiangling East Road, Baiyun District, Guangzhou, China
+Email: privacy@gacmotor.com
+Phone: +86-20-8768-9999
+
+Thank you for reading our Privacy Policy. We value your privacy and will continue to make every effort to protect and safeguard your personal information.

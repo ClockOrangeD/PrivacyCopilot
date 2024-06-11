@@ -1,0 +1,239 @@
+Sihao New Energy APP Privacy Statement
+
+The release date: [2023] [7] 19
+
+Effective date: July 2023, 7
+
+JAC attaches great importance to the privacy and protection of personal information of users. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide such information to third parties without your prior permission. This Privacy Policy may be updated by the App from time to time. When you agree to the Terms of Use of this application service, you are deemed to have agreed to all the contents of this Privacy Policy. This Privacy Policy is an integral part of the Terms of Use of Sihao New Energy APP Service.
+
+1. Scope of Application
+
+(a) When you use the services of this application, the information on your mobile phone automatically received and recorded by this application, including but not limited to your location address, mobile phone type, album pictures, Data such as the language used, the date and time of access, software and hardware feature information, and the usage records you request;
+
+You understand and agree that this Privacy Policy does not apply to the following information:
+
+(a) Information and data collected by the Application that you publish on the Application, including but not limited to participation in activities, transaction information and evaluation details;
+
+(b) Violations of laws and regulations or the rules of this application and the measures that this application has taken against you.
+
+2. Use of Information
+
+(a) This Application will not provide, sell, share or trade your personal information to any unrelated third party, unless you have obtained your permission in advance, or the third party and this Application (including the affiliates of this Application) Individually or jointly to provide you with the Services, and after the end of the Services, they will be denied access to all of these materials, including those to which they were previously accessed.
+
+(b) This application does not allow any third party to collect, edit, sell or disseminate your personal information for free by any means. Any user of the application platform who engages in the above activities, Once discovered, this application has the right to immediately terminate the service agreement with the user.
+
+3. Disclosure of Information
+
+Under the following circumstances, this application will disclose your personal information in whole or in part according to your personal wishes or the provisions of the law:
+
+(a) to third parties with your prior consent;
+
+(b) it is necessary to share your personal information with third parties in order to provide the products and services you have requested;
+
+(c) Disclosure to third parties or administrative or judicial authorities in accordance with the relevant provisions of the law or the requirements of administrative or judicial authorities;
+
+(d) If you violate the relevant laws and regulations of the People's Republic of China or this Application Service Agreement or relevant rules, you need to disclose it to a third party;
+
+(e) if you are a qualified complainant of intellectual property rights and have filed a complaint, disclose it to the respondent at the request of the respondent so that the parties can deal with possible rights disputes;
+
+(f) Other disclosures deemed appropriate by the Application in accordance with laws, regulations or website policies.
+
+4. Information storage and exchange
+
+The information and data collected about you by this application will be stored on the servers of this application and/or its affiliates, and such information and data may be transmitted to your country, The region or the territory where the information and data are collected and accessed, stored and displayed outside the country.
+
+5. Instructions for the use of private information
+
+(a) If you accept the use of private information by the Application, the Application will obtain the corresponding device information:
+
+Account registration: When you register as a user or log in, you need to provide your mobile phone number and password to create a platform account. If you only need to use basic services such as browsing, you do not need to register as a member and provide the above information. If you have purchased a passenger car from JAC, you need to provide your name, ID card/military ID/passport, driver's license, driving license, motor vehicle registration certificate, and mobile phone number to purchase the carIf you do not provide the above information, you may not be able to use the service and enjoy the rights and interests of the certified car owner, such as service reservation, pick-up and delivery service, service progress inquiry, etc., opening cloud services, etc., but it will not affect the use of other services provided by us. If you do not need to use the relevant services of the car owner, you do not need to complete the identity verification of the car owner and provide the above information. When you use the services provided in the APP, we may call the above information provided by you to provide you with high-quality services more conveniently.
+
+Authorize logins. You can choose the authorized login service provided by us, and we will obtain your third-party account information from a third party according to your authorization, which may include your avatar, nickname, gender, birthday, region, etc., subject to your authorization, and we will bind the aforementioned information with your account in Sihao New Energy, so that you can directly log in and use our products and services through your third-party account.
+
+Internet of Vehicles service: In order to meet the basic needs of providing you with products and services and realize the purpose of remote control/viewing of vehicle status, we will collect your basic vehicle information, including your license plate number, frame number, vehicle model, owner, mileage, nickname, phone number, and vehicle information on vehicle operation, performance, and status remotely collected in real time through the vehicle's on-board sensing device. This information is also used to identify and resolve potential problems and to continuously improve your vehicle and the products and services we provide to you.
+
+Book a test drive: In order to facilitate you to book a test drive service, we have set up a [Test Drive Appointment] service, which requires obtaining your location information (the app integrates AutoNavi SDK), name, phone number, and the store where you made an appointment. If you do not provide the details, you may not be able to use the relevant features.
+
+Car reservation: In order to facilitate your car reservation, we have set up a [Vehicle Reservation] service, which requires obtaining your location information (the application integrates AutoNavi SDK), name, gender, ID number, phone number, address, email address, and reservation store. If you do not provide the details, you may not be able to use the relevant features.
+
+Discovery: In order to facilitate you to browse the information published by this application and communicate with other riders, you can communicate through our [Discover] column, and you can use behaviors such as following others, liking, and commenting. When you post on this module, we need to obtain your location information (the app integrates AutoNavi SDK), mobile phone model, mobile phone storage permissions, SD card permissions, and camera permissions to facilitate you to post photos and share your location. If you do not provide the details, you may not be able to use the relevant features.
+
+DDPai: In order to facilitate users to use the functions provided by the "DDPai SDK" to connect and control the recorder, our server will collect information about the user's mobile communication device, such as the model, device ID, Internet Protocol address, time and location of your visit, routing data packets, message sender and received data (but not the message itself), and other similar characteristic records. We will use cookies and navigational data similar to the Uniform Resource Locator (URL) to collect information about the time and date of your visit, searches, and views.
+
+Networking function: To help you achieve the networking function, you can enable the call status and mobile network information permission to allow the app to obtain the call status and device network status (2G/3G/4G/5G/WiFi). In order to realize the car SIM card service, we will collect your name, ID card number, frame number, SIM card ICCID, and data usage (including the traffic usage of each application system) through the car SIM card provided to you.
+
+Log Information: refers to the technical information that may be automatically collected by the system through cookies and other technologies or other means when you use our Services, including: device or software information, such as configuration information provided by your mobile device, web browser or other programs used to access our Services, your IP address, and the version and device identifier used by your mobile device.
+
+Owner authorization: In order to facilitate you to use the vehicle with your family, you can authorize your family members to use the keys and service-related functions of the vehicle through My [Vehicle Authorization], you may need to obtain your address book permissions, if you do not provide the aforementioned authorization, you can also use the authorization function by entering their mobile phone number.
+
+Digital key: If you are the owner of Yttrium and the car model contains a digital key function, you can use this service, the module needs to use your device's location information, Bluetooth permissions, network permissions, mobile phone model, MAC address, Android ID, if you do not allow application permissions, you may not be able to use the relevant functions.
+
+Digital key authorization. If you need to authorize others to use the digital key function, you need to provide the mobile phone number of the authorized person to complete the authorization. We collect the above information based on the need to perform the service agreement with you and provide you with the digital key authorization function. If you do not provide the above information, your authorized person may not be able to use the smart key normally.
+
+Customized me: This function provides users with the functions of beautifying, dressing, and customizing the image, and this function needs to obtain your camera, microphone, and phone permissions; This function integrates with the FaceChip SDK, which will automatically collect and use your information internally, including: mobile phone model, unique device number, APP package name, IP address, SD card data, for storage Store and access your custom image data. Click here to view
+
+Custom Voice: The second level page of the "Custom ME" module above contains a custom voice function, which requires you to grant microphone permission, if you refuse this permission, you may not be able to use the voice customization function
+
+Scan the QR code to log in: You can use the app to scan the QR code of the car machine to realize the account login of the car machine MP5, we need to obtain your camera permission and SD card storage permission. If you don't allow app permissions, you may not be able to use the features.
+
+Mall service: You can browse and purchase the products we provide you with in the [Haowu] module of this application, in which product sharing needs to obtain your device's SD card storage permission, order submission page needs to obtain your device's camera permission, purchase goods and submit orders need to obtain your location information, mobile phone number, name, address information, real-name authentication needs to obtain your name, mobile phone number, ID card information
+
+Application self-start and associated start: 1.
+This application has a self-starting function, the purpose is to provide users with non-inductive car control services, such as the model you purchased has a non-inductive car control function, and the application is in the start-up state, you can use the non-inductive car control car service;
+Background running: You can use the app to scan the QR code of the car machine to realize the account login of the car machine MP5, we need to obtain your camera permission and SD card storage permission. If you don't allow app permissions, you may not be able to use the features.
+
+Device information: refers to the need to collect your device unique identification code (IMEI/android ID/DEVICE_ID/IDFA, device serial number, SIM card IMSI information) during the operation of the application when you use our services, and your BSSID and SSID personal information will be obtained in the "background state" to provide statistical analysis services, and improve performance and user experience through application startup data and abnormal error log analysis. Provide better service to users.
+
+Security control: In order to ensure the safe and stable operation of providing services to you, we need to record your device model, IP address, MAC address, Android_ID, pasteboard information, device software version information, device identification code (IMEI), SIM serial number, IMSI, device identifier, region, network Xi usage habits, log information uploaded by you, and other service-related log information and software installation lists. We collect the above information based on the performance of the service agreement with you, to comprehensively judge the risk of your account and transactions, conduct identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis and disposal measures in accordance with the law. If you do not agree to us recording the aforesaid information, you may not be able to complete the risk control verification.
+
+Device permission call: We may call some device permissions of your mobile smart terminal in order to provide you with more convenient and high-quality services. Please be aware that we will not enable the permission of your device by default, and we may collect your information through the permission of the device only if you actively confirm that it is enabled. The following describes the business functions corresponding to the device permissions, the purpose of the call, and the information that you are asked before calling the permissions. If you refuse us to call the following device permissions, you may not be able to use the corresponding business functions normally. If you wish to turn off the permission after the first authorization, you can choose to turn off the permission in the settings function of your device to refuse our collection of the corresponding personal information. However, please be aware that the services we provide may require the opening of some permissions and the collection of necessary personal information in order to be realized. If you turn off some device permissions, we will no longer be able to provide you with the corresponding services.
+
+(b) You have the right to choose whether to accept or decline to accept. You can refuse to accept it through your phone's privacy settings. However, if you choose not to receive location-private information, You may not be able to use the services or functions of the App that rely on location and time information.
+
+(c) This Policy shall apply to information obtained through the privacy settings set by the Application.
+
+6. Information Security
+
+(a) This application account has security protection functions, please keep your username and password information properly. This application will ensure that your information is not lost through security measures such as encrypting the user's password. Not to be abused or altered. Notwithstanding the above-mentioned security measures, please note that there are no "perfect security measures" on the information network.
+
+(b) When using the web services of this application to conduct online transactions, you will inevitably have to pay counterparties or potential trading pairs
+
+7. Third-Party SDKs
+
+SDK Name: Umeng Statistical Analysis SDK Purpose
+of use: to carry out APP operation statistics and analysis
+Operator: Umeng Tongxin (Beijing) Technology Co., Ltd. Type of personal information
+collected: Device information (IMEI/MAC/Android ID/IDFA/OAID/OpenUDID/GUID/SIM card, IMSI/ICCID) , location information, network information
+Privacy Policy Link: https://www.umeng.com/page/policy
+SDK Name: Umeng Share SDK Purpose
+of use: Support users to share APP content on mainstream applications
+Operator: Umeng Tongxin (Beijing) Technology Co., Ltd. Type of personal information
+collected: Device information (IMEI/MAC/Android ID/IDFA/OAID/OpenUDID/GUID/SIM card IMSI/ ICCID), location information, network information
+Link to Privacy Policy: https://www.umeng.com/page/policy
+AutoNavi Open Platform Positioning SDK: a) Third party name: AutoNavi Software Co., Ltd.
+b) Purpose of use:
+to obtain your location information to facilitate your use in the APP to find gas stations, roadside assistance, publish your location in the current section, obtain nearby maintenance stations, locate the distance between you and your vehicle, and participate in activities
+released by our company c) Collection of personal information: location information (latitude and longitude, precise location, rough location) [through IP address, GNSS information, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, signal strength information, Bluetooth information, sensor information (vector, acceleration, pressure), device signal strength information acquisition, external storage directory], device identification information (IMEI, IDFA, IDFV, Android ID, MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), current application information (application name, application version number), device parameters, and system information (system attributes, device model, operating system, and carrier information).
+d) See https://lbs.amap.com/pages/privacy/
+
+AutoNavi Open Platform Map SDK: a) Third party name: AutoNavi Software Co., Ltd.
+b) Purpose of use:
+to achieve map display, positioning, and search services
+c) Collection of personal information: location information (latitude and longitude, precise location, coarse location) [through IP address, GNSS information, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, signal strength information, Bluetooth information, sensor information (vector, acceleration, pressure, direction, geomagnetism), device signal strength information acquisition, external storage directory], device identification information (IMEI, IDFA, IDFV, Android ID). , MEID, MAC address, OAID, IMSI, ICCID, hardware serial number), current application information (application name, application version number), device parameters, and system information (system attributes, device model, operating system, and carrier information).
+d) See https://lbs.amap.com/pages/privacy/
+
+Phase Core SDK: a) Third party name: Hangzhou Phase Core Technology Co., Ltd.
+b) Purpose of use: For the beautification, dress-up, custom image and other functions of the customized me function
+in this application c) Collect personal information:
+mobile phone model, unique device number, APP package name, IP address, SD card data, sensor information (acceleration, direction).
+d) See https://lbs.amap.com/pages/privacy/
+
+Tencent buglySDK: a) Third party name: Shenzhen Tencent Computer System Co., Ltd.
+b) Purpose of use:
+Determine the ANR status of the current process, troubleshoot crash problems, and help improve the stability
+of the APP c) Collect personal information: mobile phone model, mobile phone brand, Android system version, Android system api level, manufacturer system version, CPU architecture type, whether the device is rooted, disk space occupancy, sdcard space occupancy, memory space occupancy, network type, process name and PID that the application is currently running.
+d) See https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+
+Aurora Security Authentication SDK Service Type: Security Authentication
+Service
+SDK Personal Information Processing Type:
+Device information (IMEI/MAC address/Android ID/IDFA/OAID/OpenUDID/GUID/ICCID/SIM card IMSI information): used to detect and prevent fraudulent activities, verify whether user behavior provides relevant basis for batch automatic operation judgment of machine programs, and is used to establish abnormal traffic identification models after information desensitization to implement traffic anti-fraud technology.
+Network information and location information (IP address, Wi-Fi information, base station information): Optimize the network connection request between the SDK and the Jiguang server to ensure the stability and continuity of the service; After the information is desensitized, it is used to establish an abnormal and virtual device identification model to implement traffic anti-fraud technology.
+User biometric trajectory information: the trajectory information of the user's sliding, clicking, and mouse movements generated during the operation verification process; After desensitization, this information is used to establish simulation, brute-force, and forgery trajectory recognition models to implement traffic anti-fraud technology.
+APP installation list information: In order to provide you with intelligent authentication services, we need to identify the user's application environment through this information, and help your website and APP identify and intercept batch automated operations of machine programs.
+Link to Aurora Privacy Policy: AURORA Privacy Policy
+China Mobile Authentication Type of personal information
+processed: network type, network address, operator type, local number, mobile phone device type, mobile phone operating system, hardware manufacturer
+Purpose and use: Identify the user's mobile phone number Quick login/number verification, problem inquiry, analysis, risk control
+Information processing method: SDK self-collection
+Third Party Entity: China Mobile Internet Co., Ltd.
+Privacy Policy: See https://wap.cmpassport.com/resources/html/contract.html
+China Unicom Authentication Type of personal information
+processed: network type, network address, operator type, local mobile phone number, mobile phone device type, mobile phone operating system, hardware manufacturer
+Purpose and use: Identify the user's mobile phone number Quick login/number verification
+Information processing method: SDK self-collection
+Third Party Entity: China United Network Communications Co., Ltd.
+Privacy Policy: See https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true
+China Telecom Certification Types of personal information
+processed: network IP address, network type, registered mobile phone number, local number, international mobile subscriber identification code, application process information, network connection type, network status information, network address, operator type, mobile device type, mobile device manufacturer, mobile phone operating system type and version
+Purpose and use: Identify the user's mobile phone number for quick login/ Number Verification and Business Risk Control Information processing method: SDK self-collection
+Third-party entity: Century Dragon
+Information Network Co., Ltd.
+Privacy Policy: See https://e.189.cn/sdk/agreement/detail.do?hidetop=true&appKey=
+Polar test; Types of personal information
+processed by the Non-Sense Native Authentication SDK: network IP address, network type, registered mobile phone number, local number, international mobile user identification code, application process information, network connection type, network status information, network address, carrier type, mobile device type, mobile device manufacturer, mobile phone operating system type and version
+Purpose and use: Identify the user's mobile phone number for quick login/ Number Verification and Business Risk Control
+Information processing: SDK self-collection
+Third-party entity: Wuhan Jiyi Network Technology Co., Ltd.
+Privacy Policy: See https://www.geetest.com/Private
+Types of personal information processed by Volcano Engine API: Mobile phone number, IP
+Purpose and use: To provide end-user risk identification services
+Third-party entity: Beijing Volcano Engine Technology Co., Ltd.
+Processing method: API
+interface
+Privacy Policy: Seehttps://www.volcengine.com/docs/6256/64902
+Weibo SDK
+Third-party company name: Beijing Weimeng Chuangke Network Technology Co., Ltd. Name of
+shared information: Device identification information (MAC address, DeviceID, IMEI, Open UDID, IDFA, IDFV) Purpose
+of use: third-party authorized login, content sharing
+Usage scenario: When a user uses a Weibo account to authorize login; When a user shares content to the Weibo client
+Permission call: not involved
+Sharing method: SDK native collection
+Third-party privacy link: See https://m.weibo.cn/c/privacy
+Alipay SDK
+Third-party company name: Alipay (China) Network Technology Co., Ltd
+Name of shared information: device identification information (IMEI, IMSI, SIM card serial number, Mac address, ICCID), WLAN access point (SSID, BSSID), device parameters and system information (hardware serial number, device name, device model, operating system, operating system version, system language), transaction amount, order time, order merchant, order number, payment method, payment account number, payment status information
+Purpose of use: Help users complete payment within the app
+Usage scenario: When users use Alipay to pay
+Permission call: not involved
+Sharing method: SDK native collection
+Third-party privacy link: https://opendocs.alipay.com/open/54/01g6qm
+QQ SDK
+Third-party company name: Tencent Technology (Shenzhen) Co., Ltd. Name of
+shared information: None Purpose
+of use: third-party authorized login, content sharing
+Usage scenario: Users use QQ account authorization to log in; When a user shares content to the QQ client
+Permission call: not involved
+Sharing method: do not share data
+Third-party privacy link: https://wiki.connect.qq.com/qq Internet SDK privacy protection statement
+WeChat SDK
+Third-party company name: Shenzhen Tencent Computer System Co., Ltd. Name of
+shared information: None Purpose
+of use: third-party authorized login, content sharing
+Usage scenario: When the user uses a WeChat account to authorize login; When a user shares content to the Weixin client
+Permission call: not involved
+Sharing method: do not share data
+Third-party privacy link: https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8
+Qiniu SDK
+Third-party company name: Shanghai Qiniu Information Technology Co., Ltd. Name of
+shared information: Device identification information (MAC address, DeviceID, IMEI, etc
+.) Purpose of use: video content storage, shooting short videos, live broadcast
+Usage scenario: Used when users shoot videos, download or upload videos
+Permission call: camera permission, storage permission
+Sharing method: SDK native capture
+Third-party privacy link: See https://www.qiniu.com/company
+TBS Tencent Browsing Service, Tencent Browsing Service, Tencent X5 Browser, Tencent Browser SDK
+Third Party Company Name: Shenzhen Tencent Computer System Co., Ltd. Name of
+Shared Information: IMSI, MAC, Location Information, Nearby Wi-Fi, CellID, Device Model, Operating System, CPU Type, Wi-Fi Status and Parameters
+Purpose of use: The purpose of collecting information is to provide users with better services, improve technology and enhance user experience
+Usage scenario: When users browse information, discovery, and mall modules in the APP, use
+permission call: network permission, storage permission, clipboard, geographic location, sensor permission, camera permission, microphone permission, installed support file Open application list
+Sharing method: SDK native collection
+Third-party privacy links: See https://rule.tencent.com/rule/1c4e2b4b-d0f6-4a75-a5c6-1cfce00a390d?pst=7
+8. Account Deletion
+
+(a) You can log out of your user information online by going to "My - Settings (top left) - Cancel Account".
+
+(b) When you choose to cancel your account, we will delete or anonymize your personal information and recover other rights and interests that have not been consumed.
+
+9. Changes to this Privacy Policy
+
+(a) If we decide to change the Privacy Policy, we will post those changes in this Policy and as we deem appropriate so that you are aware of how we collect, How we use your personal information, who has access to it, and under what circumstances we disclose it.
+
+(b) The Company reserves the right to modify this Policy at any time, so please check back frequently. If there is any material change to this policy, the Company will notify you in the form of an announcement notice.
+
+Please protect your personal information properly and provide it to others only when necessary. If you find that your personal information has been leaked, especially your username and password, please contact customer service immediately. so that the app can take appropriate action.
+
+10. How to Contact Us
+
+If you are interested in any of JAC's products, or would like to receive more detailed product details and customer support, including any related ideas and concerns, please feel free to contact us. Address: No. 001, Wanjiang Avenue, Economic Development Zone, Anqing City, Anhui Province For more information, please call 4008889933

@@ -1,0 +1,274 @@
+"Smart Guide Cloud Key Privacy Policy"
+
+Updated Date: February 21, 2023
+
+Effective Date: February 21, 2023
+
+The "Smart Guide Cloud Key Privacy Policy" (hereinafter referred to as "this Privacy Policy") applies only to the Honda CONNECT Smart Guide Interconnected Service (hereinafter referred to as "this Service"). With regards to this service:
+
+Beijing Jiuyi Zhijia Information Technology Co., Ltd. (hereinafter referred to as "Jiuyi Zhijia") is the operator and provider of this service;
+Haina Xin Thinking Mobility Service Co., Ltd. (hereinafter referred to as "Haina Xin Thinking" or "we") is the intellectual property owner and technical solution designer of this service.
+We are well aware of the importance of protecting your personal information security. Therefore, in accordance with the relevant laws and regulations on personal information protection, we have formulated this privacy policy and take it as the basic principle of personal information protection. We strive to protect personal information. We hope to use this privacy policy to explain to you how we collect, use, store, share, and transfer your personal information when you use this service, as well as the way we provide you with access, update, delete, and protect your personal information.
+
+Before using our products or services, please read and understand this privacy policy carefully. If you have any questions about the terms of this privacy policy, please contact our customer service for clarification. Once you or anyone authorized to use the vehicle begins to use our products or services, it means that you have understood and fully agreed to this privacy policy. This privacy policy constitutes a legally binding document between you and us, and it immediately binds both parties. At that time, you should not claim the invalidity of this privacy policy due to not reading the content of this privacy policy or not getting our answers to your inquiries, or request to repeal or modify this privacy policy.
+
+This privacy policy will help you understand the following:
+
+1. What personal information do we collect from you?
+
+2. How do we use your personal information?
+
+3. How do we entrust the processing, sharing, transfer, and public disclosure of your personal information?
+
+4. How do we store and protect your personal information?
+
+5. Your rights
+
+6. How do we handle the personal information of minors?
+
+7. How is your personal information shared and transferred globally?
+
+8. How is this privacy policy updated?
+
+9. How to contact us?
+
+What personal information do we collect from you?
+Personal information refers to various information recorded electronically or by other means that is related to identified or identifiable natural persons, excluding anonymized information. The personal information mentioned in this privacy policy includes: your name, title, mobile number, personal image, mobile device information, service record information.
+
+Personal sensitive information refers to personal information that, once leaked, unlawfully provided or abused, may endanger personal and property safety, easily cause damage to personal reputation, physical and mental health, or discriminatory treatment. The personal sensitive information collected in this privacy policy includes geographical location information and images.
+
+We default not to collect personal sensitive information. If it is necessary to collect, we will obtain your separate authorized consent at the time of collection, and you can independently set the consent period by contacting us through the customer service phone number provided in the mobile app or by email.
+
+When you register our "Connected Car Platform" / "Smart Guide Interconnected APP" / "Smart Guide Cloud Key" account, we will collect, store, and use the following personal information: including but not limited to your name, title, mobile number, language. The above information provided by you will be obtained once when you submit the registration and will continue to authorize our use during your use of this service. We will keep your information until you cancel your account. When you cancel your account, we will stop using and delete the above information.
+
+When you use our "Connected Car Platform" / "Smart Guide Interconnected APP" / "Smart Guide Cloud Key" products or services, we will collect, store, and use the following personal information: including but not limited to your name, title, mobile number.
+In order to ensure the safe operation of software products and services, and to provide you with a secure and trustworthy product and user environment, we may collect your device information, including device model, unique device identifier (such as IMEI/Android ID/IDFA/OPENUDID/GUID/IMSI information), device MAC address, operating system type and model, screen resolution, telecom operator, software installation list, software version number, system language. The application collects your device MAC address information, installed application list in silent/background state, for the purpose of network requests and identification of malicious applications. To prevent malicious programs and ensure safe operation, we collect information about installed applications or running processes, overall application operation and installation usage, usage and frequency, application crash information, application source, performance data. In order to ensure timely response when using the Bluetooth key, we will regularly start this app to ensure communication between the Bluetooth key and the vehicle.
+
+Purposes of obtaining mobile phone permissions:
+Permissions obtained
+
+Purposes
+
+Access to Bluetooth permissions (Android & iOS)
+
+For your use of Bluetooth key for remote control
+
+Access to internal storage permissions (Android & iOS)
+
+For analyzing abnormal usage logs
+
+Access to notification permissions (Android & iOS)
+
+For timely reminders of messages in the app
+
+Access to camera permissions (Android & iOS)
+
+For scanning QR codes when binding smart devices
+
+Access to location permissions (Android & iOS)
+
+Used to determine your location when using Bluetooth control
+
+Read external storage permissions (Android)
+
+Used to send photos from external storage albums when binding smart devices
+
+Start on boot (Android)
+
+For the push function of vehicle theft reminder when the app is not started
+
+Near-field communication operation (Android)
+
+Used for remote control of vehicles with Bluetooth keys
+
+View WLAN connection (Android)
+
+For analyzing abnormal usage logs
+
+Access to device information permissions (Android)
+
+Used for application crash statistics and analysis
+
+Allow the application to read and write system settings (Android)
+
+Modify the status bar color to provide a better immersive experience for users
+
+Auto-start (Android)
+
+For maintaining communication functions between the Bluetooth key and the vehicle
+
+In addition to the personal (sensitive) information you actively provide to us and the information we actively collect, we will also obtain your personal information from other third parties, such as business partners, suppliers, automobile manufacturers and dealers, financial companies, etc. These information include but are not limited to: information provided by you for offline services, information provided when you follow us on social media, information provided when you use our website, information collected by surveillance cameras at dealers, information collected when providing maintenance and repair services.
+
+If you do not provide the above personal (sensitive) information or the information provided is incorrect, you may be unable to obtain relevant services or functions, or may not achieve the intended effect of the relevant services. The above-mentioned information provided by you, except for personal sensitive information, will continue to authorize us to use during your use of our services.
+
+How do we use your personal information?
+The personal information we collect is only used for business activities and purposes within the scope mentioned below. Unless otherwise stated when we collect, we can use personal information for other purposes that have been explicitly stated or notified to you and can be used for this purpose if the purpose of using your personal information changes or the third party changes the purpose of using personal information, we will seek your authorized consent again. Unless otherwise stated, these third parties do not represent us in collecting, using, or transferring personal information, etc. We are not responsible for the collection, use, or transfer of personal information by these third parties. Currently, we will share your personal information with the following third parties, and at that time, we will seek your separate consent:
+
+To ensure timely communication with you and provide you with high-quality services and a better user experience, your personal information may be shared with [Honda Motor (China) Investment Co., Ltd.], [Honda Technology Research (China) Co., Ltd.], [GAC Honda Automobile Co., Ltd.], [authorized dealers, for example].
+To facilitate cooperation, launch high-quality and latest products and services, your personal information may be shared with third-party partners [such as financial companies, vehicle insurance-related companies, used car companies, product extended warranty operating companies, suppliers, service outsourcing companies, wireless telecommunications and data service providers, automotive leasing companies].
+Currently, the third-party SDKs accessed by this service are:
+
+Bugly (Android & iOS)
+Purpose: Collect crash logs.
+
+Content collected: Log information (including third-party developers' custom logs, Logcat logs, and app crash stack information), device ID (including Android ID and IDFA), network information, system name, system version, and country code. For more details, please refer to the "Bugly Privacy Protection Statement."
+
+Mainland Bluetooth key (Android & iOS)
+Purpose: Bluetooth key control function
+
+Content collected: Installed application list for identifying malicious applications and ensuring the security of Bluetooth key functions.
+
+OkHttp (Android & iOS)
+Purpose: Network request framework
+
+Content collected: IP address, used to ensure the stability of network communication.
+
+OPPO Watch SDK (Android)
+Purpose: Provide the function of controlling the vehicle through OPPO watch.
+
+Content collected: Hardware model, operating system version number, device name, device configuration, International Mobile Equipment Identity (IMEI), unique device identifier (such as IMEI/Android ID/IDFA/OPENUDID/GUID/IMSI information), network device hardware address, IP address, WLAN access point. For more details, please refer to the "Huan Tai Product Personal Information Protection Policy."
+
+HarmonyOS Watch SDK (Android)
+Purpose: Provide the function of controlling the vehicle through HarmonyOS watch.
+
+Content collected: Hardware model, operating system version number, device name, device configuration, International Mobile Equipment Identity (IMEI), unique device identifier (such as IMEI/Android ID/IDFA/OPENUDID/GUID/IMSI information), network device hardware address, IP address, WLAN access point.
+
+Google FireBase (Android)
+Purpose: Use the Samsung watch to control the vehicle through voice commands.
+
+Content collected: Detection of running programs to ensure normal communication between the Samsung watch and the phone app.
+
+Transfer
+We will not transfer your personal information to any company, organization, or individual unless we have obtained your explicit consent.
+In the event of mergers, acquisitions, or bankruptcy liquidation, if personal information transfer is involved, we will require the new entity holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek your consent again.
+Public Disclosure
+We will only disclose your personal information in the following situations:
+
+With your separate consent;
+Based on legal disclosure: when required by law, statutory procedures, litigation, or government authorities' mandatory requests, we may disclose your personal information.
+Exceptions to obtaining prior consent for sharing, transferring, and public disclosure of personal information
+The sharing, transfer, and public disclosure of personal information in the following situations do not require your prior consent:
+
+Related to our performance of legal obligations;
+Directly related to national security and defense security;
+Necessary to protect the life, health, and property safety of individuals urgently;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+Necessary for protecting the vital interests of individuals or others, and it is difficult to obtain the individual's consent;
+Personal information is voluntarily disclosed by individuals themselves to the public;
+Collected personal information from lawful public disclosures, such as lawful news reports, government information disclosure, etc.;
+Necessary for ensuring the safe and stable operation of the provided products and/or services, such as discovering and handling product and/or service malfunctions, including vehicle recalls, etc.;
+Lawful requirements for public interest, such as news reporting, public opinion supervision, etc., within a reasonable range of personal information processing;
+Necessary for academic research institutions to carry out mandatory statistics or academic research in the public interest and when providing research or description results to the outside world, the included personal information is deidentified;
+Other situations as stipulated by laws, regulations, and administrative rules.
+Please be aware that according to applicable laws and regulations, if we use technical means to process personal information and make it unable to identify you, and the processed information cannot be restored, sharing, transferring, or public disclosure of such information does not require separate notification and obtaining your consent.
+
+How do we store and protect your personal information?
+We will only keep your personal information for the period required by the purposes stated in this privacy policy, subject to the legal requirements for the shortest retention period (not less than the shortest retention period specified by laws, regulations, and regulatory requirements), and not exceeding the longest retention period required by laws, regulations, and regulatory requirements. After the expiration of the retention period, we will delete or anonymize your personal information.
+We have used industry-standard security measures to protect the personal information you provide, and to prevent unauthorized access, disclosure, use, modification, damage, or loss of your personal information. We will take all reasonable and feasible measures to protect your personal information.
+We guarantee the security capabilities of personal information: HTTPS, NIST algorithm. Our data security capabilities: [SSL, NIST algorithm].
+We will take all reasonable and feasible measures to ensure that irrelevant personal information is not collected. We will only collect your personal information within the scope of purposes stated in this privacy policy and will retain your personal information within the required period, unless the retention period needs to be extended or there are special circumstances allowed by laws.
+We will regularly update and disclose data security risk reports, personal information security impact assessment reports, and other related contents.
+The internet environment is not 100% secure. We will do our best to ensure or guarantee the security of any information you provide to us. However, please understand that due to technical limitations and various malicious means that may exist, the system and communication networks you use to access our products and services may encounter problems due to factors beyond our control. If our physical, technical, or managerial protective facilities are compromised, resulting in unauthorized access, public disclosure, alteration, or destruction of information, resulting in damage to your legitimate rights and interests, we will assume corresponding legal responsibilities.
+In the event of a personal information security incident, we will promptly notify you in accordance with legal and regulatory requirements: the basic information and possible impacts of the incident, the disposal measures we have taken or will take, suggestions for you to take preventive measures and reduce risks, and your remedial measures, etc. We will inform you of the event-related information through email, letter, phone call, push notification, etc. If it is difficult to inform each individual information subject one by one, we will adopt reasonable and effective methods to make announcements. At the same time, we will actively report to the regulatory authorities on the disposal of personal information security incidents as required.
+Your rights
+In accordance with relevant laws, regulations, standards in China, and common practices in other countries and regions, we guarantee your exercise of the following rights over your personal information:
+
+Access to your personal information
+You have the right to access your personal information, except for the exceptions stipulated by laws and regulations. If you want to exercise your right to access data, you can contact us through the customer service phone number provided in the mobile app or by email ([hcservice@hynex.com.cn]), and we will reply to your access request within 15 days.
+
+For other personal information generated during your use of our products or services, as long as it does not require excessive investment from us, we will provide it to you upon request. If you want to exercise the right of data access, please send an email to [hcservice@hynex.com.cn].
+
+Correction of your personal information
+When you discover errors in the personal information we process about you, you have the right to request correction.
+
+You can submit a correction request through the methods listed in "Access to your personal information."
+
+If you are unable to correct this personal information through the above link, please contact us through the customer service phone number provided in the mobile app.
+
+Deletion of your personal information
+You can request us to delete the collected personal information by requesting account cancellation through the following methods: [My -> Cancel Account].
+
+In the following situations, you can request us to delete the personal information stored in the vehicle or provided to parties outside the vehicle:
+
+The purpose of processing has been achieved, is no longer achievable, or is no longer necessary to achieve the processing purpose;
+If our processing of personal information violates laws and regulations;
+If we collect and use your personal information without your consent or continue to collect and use your personal information after you revoke your consent;
+If our processing of personal information violates the agreement with you;
+If you no longer use our products or services, or if you cancel your account;
+If we no longer provide products or services to you;
+If the retention period specified in Article 4 has expired.
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete them in a timely manner, unless there are legal requirements or these entities have obtained your independent authorization. After you delete information from our service, we may not immediately delete the corresponding information from backup systems, but we will delete this information when the backup is updated. For personal sensitive information, we promise to delete it within ten working days from the date we receive your deletion request.
+
+Change the scope of your authorized consent
+Each business function requires some basic personal information to be completed. For additional personal information collected and used, you can give or withdraw your consent at any time.
+
+You can operate as follows:
+
+1. Get Bluetooth permission: Choose to refuse in the system application permission management.
+
+2. Get internal storage permission: Choose to refuse in the system application permission management.
+
+3. Get notification permission: Choose not to display notifications in the system application management.
+
+Account cancellation
+You can cancel the account information you previously registered at any time through the following methods: [My -> Cancel Account].
+
+After canceling the account, we will stop providing products or services to you and delete your personal information or anonymize it as required by your request, except as otherwise provided by laws and regulations.
+
+Obtain a copy of personal information
+You have the right to obtain a copy of your personal basic information, personal identity information, and vehicle information. You can contact us through the customer service phone number provided in the mobile app.
+
+If technically feasible, such as matching data interfaces, we can also directly transfer a copy of your personal information to a third party designated by you, according to your request.
+
+Constraints on information system automated decision-making
+In certain business functions, we may make decisions only based on non-human automatic decision-making mechanisms such as information systems and algorithms. If these decisions significantly affect your legitimate rights and interests, you have the right to ask us for an explanation, and we will provide appropriate remedies.
+
+Respond to your above-mentioned requests
+To ensure security, you may need to provide a written request or prove your identity in other ways. We may ask you to verify your identity before processing your request. We will respond within 15 days. If you are not satisfied, you can also complain through the customer service phone number provided in the mobile app.
+
+For your reasonable requests, we generally do not charge fees, but for multiple repeated requests or requests that exceed reasonable limits, we will charge a certain cost. We may refuse requests that are groundless, require excessive technical means (such as requiring the development of new systems or fundamentally changing current practices), bring risks to the legitimate rights and interests of others, or are impractical (such as involving information stored on backup tapes).
+
+We will be unable to respond to your requests in the following situations:
+
+Related to our performance of legal obligations;
+Directly related to national security and defense security;
+Necessary to protect the life, health, and property safety of individuals urgently;
+Directly related to criminal investigation, prosecution, trial,How do we store and protect your personal information?
+
+We will only keep your personal information for the period required by the purposes stated in this privacy policy, subject to the legal requirements for the shortest retention period (not less than the shortest retention period specified by laws, regulations, and regulatory requirements), and not exceeding the longest retention period required by laws, regulations, and regulatory requirements. After the expiration of the retention period, we will delete or anonymize your personal information.
+
+We have implemented industry-standard security measures to protect the personal information you provide and to prevent unauthorized access, disclosure, use, modification, damage, or loss of your personal information. We will take all reasonable and feasible measures to protect your personal information.
+
+We guarantee the security capabilities of personal information: HTTPS, NIST algorithm. Our data security capabilities include SSL and the NIST algorithm.
+
+We will take all reasonable and feasible measures to ensure that irrelevant personal information is not collected. We will only collect your personal information within the scope of purposes stated in this privacy policy and will retain your personal information within the required period unless the retention period needs to be extended or there are special circumstances allowed by laws.
+
+We regularly update and disclose data security risk reports, personal information security impact assessment reports, and other related contents.
+
+While we strive to ensure the security of any information you provide to us, please be aware that the internet environment is not 100% secure. Due to technical limitations and various malicious means that may exist, the system and communication networks used to access our products and services may encounter problems beyond our control. If our physical, technical, or managerial protective facilities are compromised, resulting in unauthorized access, disclosure, alteration, or destruction of information that leads to damage to your legitimate rights and interests, we will assume corresponding legal responsibilities.
+
+In the event of a personal information security incident, we will promptly notify you in accordance with legal and regulatory requirements. We will provide you with information about the incident, the possible impacts, the measures we have taken or will take, suggestions to reduce risks and take preventive measures, and your remedial measures. We will use email, letters, phone calls, push notifications, or other reasonable and effective methods to inform you about the incident. If it is difficult to inform each individual information subject individually, we will make announcements through reasonable and effective methods. We will also report the incident to the regulatory authorities as required.
+
+Your rights
+
+In accordance with relevant laws, regulations, standards in China, and common practices in other countries and regions, you have the following rights over your personal information:
+
+Access to your personal information: You have the right to access your personal information, except for the exceptions stipulated by laws and regulations. If you want to exercise your right to access your data, you can contact us through the customer service phone number provided in the mobile app or by email ([hcservice@hynex.com.cn]), and we will respond to your access request within 15 days. For other personal information generated during your use of our products or services, we will provide it to you upon request, as long as it does not require excessive investment from us. Please send an email to [hcservice@hynex.com.cn] to exercise the right of data access.
+
+Correction of your personal information: If you discover errors in the personal information we process about you, you have the right to request correction. You can submit a correction request through the methods listed in the "Access to your personal information" section. If you are unable to correct the personal information through the provided link, please contact us through the customer service phone number provided in the mobile app.
+
+Deletion of your personal information: You can request us to delete the personal information we have collected by canceling your account. To request account cancellation, you can follow the steps provided in "[My -> Cancel Account]". In certain situations, you can also request the deletion of personal information stored in the vehicle or provided to parties outside the vehicle. If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete it in a timely manner. After you delete information from our service, we may not immediately delete the corresponding information from backup systems, but we will delete it when the backup is updated. For personal sensitive information, we promise to delete it within ten working days from the date we receive your deletion request.
+
+Change the scope of your authorized consent: You have the right to give or withdraw your consent for the collection and use of your personal information. Each business function requires some basic personal information to be completed. Additional personal information collected and used can be consented to or withdrawn at any time. To change your authorized consent, you can follow the instructions provided in the mobile app.
+
+Account cancellation: You can cancel the account information you previously registered at any time. To cancel your account, you can follow the steps provided in "[My -> Cancel Account]". After canceling your account, we will stop providing products or services to you and delete or anonymize your personal information, except as otherwise provided by laws and regulations.
+
+Obtain a copy of personal information: You have the right to obtain a copy of your personal basic information, personal identity information, and vehicle information. To obtain a copy of your personal information, you can contact us through the customer service phone number provided in the mobile app.
+
+Constraints on information system automated decision-making: In certain business functions, we may make decisions based on non-human automatic decision-making mechanisms, such as information systems and algorithms. If such decisions significantly affect your legitimate rights and interests, you have the right to ask us for an explanation, and we will provide appropriate remedies.
+
+We will respond to your requests as mentioned above. To ensure security, we may require a written request or other forms of identity verification. We may also ask you to verify your identity before processing your request. We will respond to your requests within 15 days. If you are not satisfied, you can file a complaint through the customer service phone number provided in the mobile app.
+
+For reasonable requests, we generally do not charge fees. However, for multiple repeated requests or requests that exceed reasonable limits, we may charge a certain cost. We may also refuse requests that are groundless, require excessive technical means, bring risks to the legitimate rights and interests of others, or are impractical.
+
+Please note that there are certain situations where we may be unable to fulfill your requests. These include situations related to our legal obligations, national security and defense security, protection of life, health, and property safety, criminal investigation, and other lawful requirements.

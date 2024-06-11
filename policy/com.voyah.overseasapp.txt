@@ -1,0 +1,66 @@
+
+1 GENERAL
+Electric Way AS, with business address Kinogata 4, 2850 Lena and organization number 928 602 796 (hereinafter referred to as "Electric Way" or "we") is committed to processing your personal data in accordance with the Personal Data Act and the General Data Protection Regulation (GDPR). Personal information is all information that can be linked to a specific person.
+Electric Way is responsible for the processing of personal data we process in connection with the VOYAH app. This privacy policy applies to users of the VOYAH app and provides you with more information about how we collect, use, share, store and protect your personal information when you use our app. Note that you can also control and manage parts of our processing of personal information in VOYAH app settings.
+
+2 WHICH PERSONAL INFORMATION DO WE PROCESS? 
+We process the following personal data that we receive from you:
+• Contact and user information, such as name, telephone number and VIN number (vehicle identification number);
+• Purchase and payment information, such as order history for Electric Way products, membership services or other services you have purchased, and payment information;
+• User data, which says something about when and how you use the app;
+• User communication, including information we receive from you when you communicate with us via the app, contact our customer service representatives or order services, for example booking service with workshop teams; and
+• Other information, i.e. information you enter in the app yourself, nickname, gender, birthday and profile picture, in addition to information we obtain from your user's "My page" on voyah.no, for example information you share with us when you participates in workshops or test trips.
+
+In addition to this, there are certain additional functions in the app that we can only offer you if you consent to our processing of your personal data. You will still be able to use the App with its basic features even if you do not agree to use such additional features.
+
+3 HOW DO WE PROCESS PERSONAL INFORMATION ABOUT YOU (PROCESSING ACTIVITIES)?
+3.1 Creation of a user account
+When you create a user account in the VOYAH app, you must provide your name, username, password and phone number.
+3.2 Ordering, payment and delivery of products and services
+When you use the app to make or plan a car reservation, order, payment or delivery of a product or service, we collect your phone number, address and payment information.
+3.3 Customer Service
+We process your personal data when you chat with us via the app. We must process information about you to verify that you are who you say you are. Furthermore, we also have an overview of when and what type of communication you have had with customer service, whether it concerns a complaint, purchase, visit to our stores or participation in test drives, workshops or other activities.
+
+4 WHICH PURPOSES AND PROCESSING BASIS DO WE HAVE WHEN WE PROCESS YOUR PERSONAL DATA?
+We process your personal data for the following purposes and based on the following grounds for processing:
+• Provision of the VOYAH App and Services. In order for us to be able to offer and provide services to you through the VOYAH app, we process contact information such as name, address, telephone number etc. about you, in addition to information about ordering products and services, including payment information. Our processing basis for processing your personal data for this purpose is that the processing is necessary to fulfill an agreement between you as a customer and us as a provider of a service;
+• Communication with you. In the case of communication between you and Electric Way through the VOYAH app, we will process your contact details and the content of the communication. This personal data is processed either to fulfill an agreement with you, or because we have a legitimate interest in handling and taking care of information about inquiries that come to us, in order to provide you with good customer service; and
+• Marketing. If you have registered as a recipient of newsletters, we may contact you for marketing purposes, usually by e-mail, to present information about advertisements, campaigns, news and events that we think you will be interested in. The processing basis for such direct marketing is that you give us your expressed consent. You can opt out of receiving such messages at any time, e.g. via the Voyah app or by clicking on the link at the bottom of the email.
+You can change the settings in the app at any time or contact us to adjust the scope of your consent. You can also delete your user account if you want us to stop collecting and processing your personal data. However, we emphasize that without your consent there may be several functions in the app that you cannot access.
+
+5 WHO DO WE SHARE YOUR PERSONAL INFORMATION WITH?
+In principle, we will not share personal data with parties other than those we use to trusted third party suppliers (e.g. data processors that we use to handle customer data, including CRM and IT suppliers), unless otherwise stated in this privacy policy or we are legally obliged to do so (e.g. tax authorities, courts or other public authorities to the extent this is required by law). If we use suppliers who process personal data on our behalf, we will always ensure that we enter into data processing agreements that safeguard privacy. If necessary, we will be able to share your personal data with the following parties:
+• Parties who contribute to booking and reserving cars in the app, carrying out such purchases and booking additional services. With these we share information such as ID card, passport or other valid identification, telephone number, address and payment information. In order to make a purchase, we must share your personal data with your bank or other such institution when you make a purchase or a reservation in the app. The personal information this applies to includes name, username, national ID number, mobile phone number, address and payment information such as order number and amount;
+• Delivery companies. In order to deliver an order, we must share your personal data with postal and logistics companies. The personal information shared with these third parties is name, mobile phone number, address and order information; and
+• Other cooperation parties. We also share your information with relevant partners if you register to receive offers in the Voyah app. The same applies if you choose to participate in a competition, campaign or similar. In such cases, we will be able to share your personal data with sponsors, suppliers and other relevant third parties who help arrange the activity. This may include, for example, suppliers of prizes, judges in competitions or data analysts.
+
+6 TRANSFER OF PERSONAL INFORMATION TO COUNTRIES OUTSIDE THE EU/EEA
+All personal data processed in the Voyah app is stored in data centers within the EU/EEA. We do not transfer personal data to VOYAH in China. To the extent that your personal data is transferred to countries outside the EU/EEA, we will ensure that your personal data is subject to a satisfactory level of protection.
+
+7 HOW LONG DO WE STORE YOUR PERSONAL DATA?
+We delete your personal data when it is no longer necessary to process it for the purpose for which it was collected, unless we are required to store the data by law or regulation. For example, we will delete your personal data when you choose to delete the user and close your account, which you have the option to do at any time.
+
+8 YOUR RIGHTS
+When we process personal data about you, you are a data subject. As registered, you basically have these rights:
+• Transparency. You have the right to know which personal data we process about you;
+• Correction. You can ask us to correct incorrect information about you;
+• Deletion (the right to be forgotten). You can ask us to delete your personal data;
+• Limitation. You can ask us to limit the processing of your personal data;
+• Data portability. You can ask us to hand over the personal data to you or others in a structured, commonly used and machine-readable format; and
+• Protest. You can object to our processing of your personal data.
+
+We point out that exceptions and limitations to these rights may apply. An example of such a case could be if we are legally obliged to store the information. For example, it will be absolutely necessary to process certain personal data in order to offer the Voyah app according to its purpose.
+
+To exercise your rights, you can contact us by e-mail.
+
+If you are dissatisfied with our processing of your personal data, you can complain to the Norwegian Data Protection Authority. We hope that you contact us first, so that we can clear up any misunderstandings. You can call the Norwegian Data Protection Authority on tel. +47 22 39 69 00, send an email or complain directly to them on their website.
+
+9 UPDATE OF THIS PRIVACY STATEMENT
+We may update our privacy policy due to changes in the law or changes in our practices, or when necessary for other reasons. You should therefore familiarize yourself with the content of the privacy policy at regular intervals.
+In the event of major changes to the privacy policy, we will notify you or otherwise communicate the change to you, so that you are aware at all times of how and on what basis we process your personal data.
+
+10 HOW CAN YOU CONTACT US?
+If you would like more information about how we process your personal data or wish to exercise your rights, you can contact us by e-mail or telephone.
+Our email address is hello@electricway.no.
+Our telephone number is +47 90 40 80 30
+  

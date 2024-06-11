@@ -1,0 +1,120 @@
+Kaiyang Motors User Privacy Policy
+
+Updated: September 15, 2022
+
+Effective Date: June 15, 2022
+
+(hereinafter referred to as "we" or "us", please see the end of this document for contact details), we understand the importance of personal information to our users (hereinafter referred to as "you") and we respect and protect your privacy. We understand the importance of personal information to the user (hereinafter referred to as "you"), and we respect and protect your privacy. In view of this, we have developed this Privacy Policy in accordance with relevant laws and regulations to help you understand how we will collect, store, protect, use and provide your personal information to the public, and to explain your rights.
+
+
+Please read and confirm that you fully understand this privacy policy before using this product so that you can make appropriate choices. By using this product, you acknowledge that you have read all of the terms of this Privacy Policy and agree that we collect, use and protect your personal information in accordance with this Privacy Policy. If you do not agree with some or all of the contents of this Privacy Policy, or if you have any questions about the contents of this Privacy Policy, you have the right to immediately stop using the Product and to contact us (see contact details at the end of this document). Please note that the terms of this Privacy Policy that are or may be materially related to your rights and interests, and those that are or may be exempt from or limit our liability, are marked in bold type and underlined.
+
+
+Please note that the terms of this Privacy Policy that have or may have a material relationship to your rights and interests, and those that have or may have the effect of disclaiming or limiting our liability, are bolded and underlined.
+
+
+I. How we collect and use your personal information
+
+Personal information refers to a variety of information recorded electronically or otherwise that can identify a specific natural person, either alone or in combination with other information. To alert you to sensitive personal information such as that listed in this Privacy Policy, we will draw your attention to it by highlighting it in bold, underlined, or separately in this Privacy Policy.
+
+When you use this product, we will collect personal information from you for the purposes necessary to achieve the specific product or service scenario described below. You are not required to provide us with personal information, but if you choose not to do so, we may not be able to provide you with the appropriate services or respond to or resolve the problems you encounter.
+
+1. To complete registration for a user account
+
+When you register to become our user, you need to provide your cell phone number and enter the verification code to complete the login after obtaining the verification code. Cell phone number is sensitive information, if you do not provide such information, you may not be able to become our user. If you only need to use the basic browsing service, you can choose not to register and provide such information.
+
+2、In order to book or purchase products/services
+
+If you book or purchase our products and services in our online shopping mall through Kayi Auto App, we may collect your personal identification information, personal account information and other information required for transaction, including name, address, gender, contact information, document type, document number, third party payment account, member account information, etc.
+
+3. For more convenient login
+
+In order for you to use the login service more safely and conveniently, you can use the account of the third-party account platform to login and use our products and services, you will authorize our information (avatar, nickname) in the third-party platform, the user is bound to the Cayenne account, so that you can directly login and use our products.
+
+4、 In order to facilitate the provision of customer service and message feedback function to you, you need to fill in and submit the cell phone number information, so that we can contact you and help you solve the problem as soon as possible or record the relevant issues of the processing plan and results.
+
+5、 In order to verify whether the information and data you submit is accurate and sufficient, so as to avoid unnecessary losses caused to you by others' fraudulent use of your identity, you agree and authorize us to verify and validate the user information you submit or we collect by ourselves or through our partners, and to view, collect, use and retain the verification and validation results obtained.
+
+Our [Device Single Sign-On] function needs to obtain the IMEI of users for account mutual kick, to ensure that the same account can only be logged in one device to improve security.
+
+Our [Dealer Navigation] function needs to get whether the software installation list has mapping software.
+
+In order to ensure the safe operation of software and services, quality and efficiency of operations, we will collect your device's hardware model, OS version number, device identifier (Android such as IMEI, AndroidID, OAID, IMSI, ICCID, MEID, hardware serial number), network device hardware address (MAC address), IP address, WLAN access point (such as SSID, BSSID), Bluetooth (Bluetooth), base station, software version number, network access method, type, status, network quality data, operation, usage, service log, device sensor data.
+
+6. In order to show you more relevant information and provide services that better meet your needs, we may automatically calculate through computer algorithm models based on your behavior and other information to which you have expressly authorized your consent, in order to push you products, services or commercial advertising information that may be sensible. If you do not want to be recommended personalized content, you can turn off the personalized recommendation through "My->Settings" in the Kaiye Auto App.
+
+Please know that the above personalized recommendation algorithm does not identify the real identity of a specific natural person, but only provides higher relevance and better information based on user behavior and characteristics.
+
+7. In an effort to enhance your experience, we may collect and use your personal information in the following additional services we provide to you. If you do not provide this information, it will not affect your use of core business functions, but you may not be able to access these additional services to bring you the user experience. These additional services include:
+
+(1) Camera-based (camera) features: You can turn on the camera to take pictures and upload them for operation as well as use video services;
+
+(2) Album-based features: You can select images from local albums to upload, and you can also use avatar uploading and posting services on the platform by enabling access to albums;
+
+(3) Geolocation-based features: You can enable location-based services to check the charging service stations near your vehicle, locate your vehicle and receive our emergency assistance services, etc;
+
+(4) Phone based function: You can call the customer phone number when you encounter difficult problems in the process of using the service, so you can turn on this function to avoid filling in the customer service phone number manually;
+
+Please note that if you turn on any permission, it means you authorize us to collect and use the relevant personal information to provide you with the corresponding services, and once you turn off any permission, it means you cancel the authorization, and we will no longer collect and use the relevant personal information based on the corresponding permission, nor can we provide you with the services corresponding to that permission. However, your decision to turn off your permission will not affect the previous collection and use of information based on your authorization.
+
+Please understand that the services we provide to you are constantly being updated and developed. If you choose to use other services that are not covered in the preceding description, and we need to collect your information based on such services, we will separately explain the scope and purpose of information collection to you through page prompts, communication interaction or agreement, and obtain your consent.
+
+8. According to the relevant laws and regulations, we do not need to obtain your authorization or consent to collect and use personal information in the following cases:
+
+(1) directly related to national security and national defense security
+
+(2) directly related to public safety, public health, and significant public interests
+
+(3) directly related to crime investigation, prosecution, trial and execution of judgments, etc;
+
+(4) For the purpose of safeguarding your life, property and other important legitimate rights and interests or those of others, but it is difficult to obtain your consent.
+
+(5) The personal information collected is disclosed by you to the public on your own
+
+(6) Personal information is collected from information that has been lawfully and publicly disclosed
+
+(7) Necessary for the conclusion and performance of a contract at your request
+
+(8) Necessary for the maintenance of the safe and stable operation of the services provided, for example: the detection and disposal of product or service failures
+
+(9) Other circumstances stipulated by laws and regulations.
+
+9, you know and agree that after collecting your personal information, we may desensitize your personal information through technical means. We have the right to use the desensitized information without disclosing your personal information.
+
+10. In order to understand your preferences, conduct data analysis, improve product services and user experience, detect and prevent security risks in a timely manner, and provide better services to our users and partners, you agree that we have the right to use information and data such as "cookies" to collect and track relevant information. We will not use "cookies" for any purposes other than those described in this Privacy Policy, and you may retain or delete "cookies" according to your own preferences.
+
+11. Third Party SDK Directory
+
+We will conduct strict testing of access to third-party SDKs and provide you with a timely public update on the status of access to the SDKs.
+
+SDK name: AU+SDK
+Purpose of use: Used to capture and locate crash information in APP
+Personal information involved: Device information
+Privacy policy/official website link:
+https://www.umeng.com/page/policy
+
+SDK name: WeChat SDK
+Purpose of use: sharing, payment
+Personal information involved: network information, device information
+Privacy policy/link to official website:
+https://www.wechat.com/zh_CN/privacy_policy.html
+
+SDK name: Weibo SDK
+Purpose of use: Sharing
+Personal information involved: network information
+Privacy policy/link to official website:
+https://open.weibo.com/wiki/%E5%BC%80%E5%8F%91%E8%80%85%E5%8D%8F%E8%AE%AE
+
+SDK name: Alipay SDK
+Purpose of use: Payment
+Personal information involved: device information, network information
+Privacy policy/link to official website:
+https://render.alipay.com/p/c/k2cx0tg8
+
+SDK name: Tencent Cloud SDK
+Purpose of use: Instant messaging IM, video playback
+Personal information involved: device information, network information
+Privacy policy/link to official website:
+https://cloud.tencent.com/document/sdk
+
+

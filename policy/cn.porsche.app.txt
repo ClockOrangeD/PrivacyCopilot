@@ -1,0 +1,781 @@
+Porsche (China) Motors Sales Co., Ltd. (hereinafter referred to as "Porsche" or "Porsche China" or "we", "us, ourWe are well aware of the importance of your personal information and would like to inform you through this Personal Information Protection Policy (hereinafter referred to as "this Policy") how we process and protect your personal information, as well as how you can exercise your rights.
+
+This Policy applies to the products and services provided to you by Porsche China through the Porsche App, website, mobile client, Mini Program, Official Account and new forms that have emerged with the development of technology ("Porsche Platform").services"). This Policy will be displayed on the Porsche Platform, please read and understand this Policy carefully before you use the Porsche Platform, and make the choice you think is appropriate. If Porsche China has made an additional or special agreement with you on the processing of your information in relation to the relevant services, the application of the aforesaid agreement shall take precedence over this Policy; Matters not covered in the foregoing agreement shall still be subject to this Policy. Please be aware that agreeing to this Policy does not mean that all personal information listed in this Policy will be collected at one time, and we will collect your information in accordance with this Policy when you use specific business functions.
+
+Porsche App is an application developed by Porsche China to provide Porsche vehicle services for Porsche owners and potential customers, the basic business functions are intelligent interconnection and car owner services, and the necessary personal information required under the relevant functions is: personal basic information, digital account information, and vehicle service information. We will prominently mark the terms that may have a significant relationship with your rights and interests and the sensitive personal information involved in bold font to remind you to focus on reading. If you have any questions, comments or suggestions about this Privacy Policy, you may contact us through the contact information provided in the "Contact Us" section of this Privacy Policy.
+
+Note: Our Apps and Services may contain links to third-party websites (collectively, "Linked Sites"). Porsche is not responsible for the personal information protection policies or practices of linked websites. We recommend that you carefully read the personal information protection policy of each linked website you visit.
+ 
+
+This policy will help you understand the following:
+
+·       How We Collect and Use Your Personal Information
+
+·       How we protect minors' personal information
+
+·       How we entrust the processing, sharing, transfer, and public disclosure of your personal information
+
+·       How we store your personal information
+
+·       How Your Personal Information Is Transferred Globally
+
+·       How we protect your personal information
+
+·       Your Rights
+
+·       Contact us
+
+·       Changes to the Personal Information Protection Policy
+
+ 
+
+1. How We Collect and Use Your Personal Information
+The "personal information" mentioned in this Policy refers to all kinds of information recorded electronically or otherwise that can be used to identify a natural person, either alone or in combination with other information. "Sensitive personal information" refers to personal information that, once leaked or illegally used, is likely to cause the personal dignity of a natural person to be violated or the personal or property safety to be endangered. We will reflect the sensitive personal information involved in this Policy in bold. Personal information and other information that cannot be used to identify a specific individual is collectively referred to as "Information". The types of information we collect depend on your activities and interactions with Porsche China. Porsche China collects the following information and the information set out in Section 1.1 of this Policy:
+
+Categories of Information
+
+Specific information content
+
+Basic Personal Information
+
+Name, title, nickname, gender, date of birth, age, language, nationality, company name, personal postal address, country, city, mobile phone number, address, complaint application, Porsche user identity (e.g. Porsche "Favorite" user), club membership information.
+
+Personally Identifiable Information
+
+ID number, passport number, driver's license number, ID photo.
+
+Vehicle service information
+
+Motor vehicle driving license, vehicle identification code (VIN), vehicle specific configuration, relevant vehicle information, license plate plate, vehicle location information, charging service information, vehicle order information, delivery ceremony appointment information。
+
+Digital account information
+
+IP address, Porsche ID, social media platform/account, e-mail address and password associated with the foregoing.
+
+Personal Property Information
+
+Transaction and consumption records, virtual property information.
+
+Personal Internet access history
+
+Browsing and usage records, click records, information posting, and interaction records.
+
+Personal commonly used device information
+
+Information that describes the basic information of a person's commonly used devices, including the hardware model, device MAC address, operating system type, application software version, and unique device identifier of the software list
+
+Personal Location Information
+
+Vehicle and/or mobile device location information, trip information, precise location information, latitude and longitude data.
+
+Personal Communication Information
+
+Records and content of communications
+
+Additional Information
+
+Family members, occupation, industry, employer, marital status, event participation details and records.
+
+ 
+
+·        Statutory information: If you have purchased a Porsche vehicle, we will also collect and process regulated vehicle information and personal information in relation to the Porsche vehicle you have purchased in accordance with applicable legal and regulatory requirements and/or Porsche's technical requirements (please refer to the "List of Statutory Information"). You are obliged to cooperate with Porsche's collection of such statutory information in order to comply with applicable legal and regulatory requirements.
+
+If you resell your purchased Porsche vehicle to a third party, you are obliged to inform the third party and contact Porsche (China) Motors Co., Ltd. within 30 working days after the completion of the vehicle change registration and provide the relevant statutory information.
+
+ 
+
+1.1. In order to provide you with the following services, we must collect the following personal information from you and call the relevant device permissions. If you refuse to provide relevant information or enable relevant permissions, we will not be able to provide you with the service. In addition, depending on the features you choose to use, you may choose to provide us with additional personal information to support us in better understanding your needs. However, if you refuse to provide such additional information, you can still use the basic functions of the service. If the service requires you to provide your personal information and is sensitive personal information, we will also obtain your separate consent as required by applicable law.
+Purposes of Processing
+The categories of necessary information required
+Sensitive permissions
+Use third-party SDKs
+Account registration and login
+In order for you to use the various services and functions offered by the Porsche App, you need to register or obtain a Porsche ID from an authorized Porsche dealer.
+ 
+When you register, the personal information you will be asked to provide includes:
+·        Basic Personal Information
+·        Personally Identifiable Information
+·        Digital account information
+ 
+ 
+·  Chromium SDK
+Real-name authentication
+After you complete the account registration, we will assist you in completing real-name authentication in accordance with relevant legal requirements, and we will collect the following personal information for this purpose:
+·        Basic Personal Information
+ 
+ 
+ 
+Account and service information synchronization
+In order to provide you with consistent services, after you complete account registration and login or real-name authentication with your mobile phone number, we will link and synchronously display your account and service usage information between different Porsche platforms (including the Porsche App, Porsche Service Account, Porsche Mini Program and Porsche Club Mini Program)., including your nickname, profile picture, recipient information (recipient's name, mobile phone number, detailed address), Porsche user identity (e.g. "Loved One"); Club membership information; posted dynamic content and interactive recordings; details and records of events participated; and your browsing and use of our Services.
+ 
+Please be aware that your modifications to the above information on the Porsche Platform may be automatically synchronized to other Porsche Platforms. If you do not wish to be synchronized, you can contact us through the contact information set out in this Policy, and we will respect your choice and do our best to respond to your request.
+ 
+ 
+Follow the new journey (optional).
+ 
+When you use the TraceTraceTrip function, you first need to provide your mobile phone number to complete real-name authentication and vehicle order information matching. After completion, we will query your vehicle order status information (including the order model and model name, dealer name, order status node, and order status update time) based on your mobile phone number and corresponding vehicle order number, so as to show you and notify you of your vehicle order status in a timely manner. If you do not agree to our collection of the above information, we will not be able to provide you with the TraceNew Journey service, but it will not affect your use of our other services.
+ 
+ 
+Delivery reservation (optional)
+When you use the delivery reservation function, you first need to provide your mobile phone number to complete real-name authentication and match the delivery ceremony reservation form. After completion, we will collect the ceremony package you selected, the ceremony time, the number of people accompanying you, and other information you fill in or provide in the remarks column for confirmation of the reservation and the inquiry and modification of the reservation information. After the handover ceremony is completed, you can also choose to give feedback on your evaluation of the handover ceremony by rating and leaving a message (but your failure to comment will not affect your use of this feature.)
+ 
+Please be aware that we will provide you with the reservation information, ratings and feedback of the ceremony package you fill in, and the feedback you have left for the delivery of the car to the authorized dealer you choose to deliver, so that they can provide you with your preferred delivery ceremony and optimize the delivery service. If you do not consent to us collecting and processing your information in the manner described above, we will not be able to provide you with the delivery reservation service, but it will not affect your use of our other services.
+ 
+ 
+Home charger installation service (optional)
+To provide you with the service of evaluating the installation service, checking the list of work orders for the home charging station, and the progress of the installation service, we will collect the following personal information:
+·        Basic Personal Information
+·        Digital account information
+ 
+ 
+ 
+Charging services
+When using the charging service, we collect the following personal information:
+·        Basic Personal Information
+·        Personal location information (optional)
+·        Vehicle service information
+·        Digital account information
+ 
+ 
+·  camera
+·  Photo
+·  Storage space
+·  Huawei Unified QR Code Scanner SDK
+·  Huawei HMS-Core SDK
+Remote control services
+The remote control service allows you to view some vehicle status information (mileage, trip data, lock status) and control some vehicle functions (unlocking, air conditioning, charging, etc.) through the app. When using the Remote Control Service, we collect the following personal information:
+·        Basic Personal Information
+·        Vehicle service information
+·        Personal location information (optional)
+·        Digital account information
+ 
+·  Bluetooth
+·  location
+·  Touch ID
+·  Face ID
+·  Phone
+ 
+·  AutoNavi Map SDK
+·  AutoNavi Positioning SDK
+Vehicle Communication Management System (PCM) (optional).
+When you synchronize your phone's calendar information or address book information to the vehicle communication management system, we will collect the following personal information:
+·        Personal Location Information
+ 
+ 
+·  Calendar
+·  Contacts
+·  Phone
+·   
+After-sales maintenance and repair service appointment (optional)
+When you make an appointment with us for after-sales maintenance and repair services, we collect the following personal information:
+·        Basic Personal Information
+·        Personal Location Information
+·        Vehicle service information
+ 
+·  location
+·  Calendar
+·  AutoNavi Map SDK
+·  AutoNavi Positioning SDK
+Book a test drive (optional)
+When you book a test drive with us, we collect the following personal information:
+·        Basic Personal Information
+·        Personal Location Information
+ 
+ 
+·  location
+·  AutoNavi Positioning SDK
+Valuation Engine (optional)
+When you use our Valuation Engine services, we collect the following personal information:
+·        Basic Personal Information
+·        Personal Location Information
+·        Vehicle service information
+ 
+ 
+·  location
+·  Photo
+·  Storage space
+·  AutoNavi Map SDK
+·  AutoNavi Positioning SDK
+E-map and route planning
+We will collect the following personal information from you and transmit it to the third-party service provider in a de-identified way, and process the data in accordance with the corresponding privacy policy or personal information protection policy of the third-party service provider to achieve the above functions:
+·        Basic Personal Information
+·        Personal location information (optional.))
+ 
+ 
+·  location
+ 
+
+ 
+
+ 
+Porsche Community (optional)
+When you use Porsche Community features, we collect personal information necessary to provide the following related services:
+ 
+·        Information release and interaction: When you post and interact with information in the Porsche Community, we will collect your nickname, profile picture, Porsche user identity (such as "Favorite Person" user identity) and record the region of your IP address and your participation in information publishing and interaction (posting, favorites and sharing content, as well as your browsing, Like, like, share record). After you authorize the Camera, Albums/Storage, or Location permissions, you can upload an image (optional) or mark your location (optional) in the content you post.
+ 
+·        Regional Clubs: When you join a Regional Club membership, we will record your nickname, profile picture, club membership information (name, membership number, membership status, membership start date, club you joined, city and hobby information) and record your browsing, Clicking on and using regional club services.
+ 
+Please be aware that in the process of information release and interaction, your profile picture, nickname, IP address region and the content you publish will be publicly displayed on the Porsche platform. The information you publicly release may involve your or others' personal information or even sensitive personal information, so please consider more carefully whether to publicly release relevant information when using our services. If the information you provide to us or publish involves the personal information of others, you need to obtain the consent of others before publishing. At the same time, in order to facilitate the management of the members by the regional club president, your nickname, avatar and membership information will be displayed to the regional club president you have chosen to join.
+ 
+If you do not agree to our collection and processing of your information in the manner described above, we will not be able to provide you with the corresponding Porsche Community services, but it will not affect your use of our other services.
+·  camera
+·  Photos/Storage
+·  location
+·  Growingio SDK
+·  WeChat Open SDK
+·  Alibaba Cloud Content Moderation SDK
+·  AutoNavi Map SDK
+Event Participation (Optional)
+When you register for an online or offline event held by us, you need to provide your name, title, mobile phone number, and record the name of the event you choose to participate in, the date and time of the event, the location of the event, and other information that you need to provide on the event registration page (the information required by you varies from event to event, which may include your ID information, clothing size, group preference, itinerary information, accommodation information, intended vehicle type, Intended dealers) for event registration, information confirmation, and to display and query event participation records for you.
+ 
+When you participate in an event (e.g. "Companion Golf"), we will also collect details and records of the event you participated in (including the name, location and start time of the event you participated in, your event results, ranking, likes, event pictures and videos), and display them publicly on the corresponding leaderboard details page on the Porsche Platform. You can save the event pictures or videos after authorizing the storage permission. However, if you do not enable it, it will not affect your use of the above services.
+ 
+If you do not agree to our collection of the above information, we will not be able to provide you with the corresponding activity participation services, but it will not affect your use of our other services.
+·  Photos/Storage
+·  Growingio SDK
+·  Tencent Cloud VOD SDK
+ 
+ 
+Featured Marketplace (optional)
+When you use the featured marketplace features, we collect the personal information necessary to provide the following related services:
+ 
+·        Product browsing and searching: In the process of browsing and searching for products, we will record your clicks, browsing, searching, favorites, and add-on purchase records, as well as the receipt and use of preferential benefits, which will be used to provide you with the basic services of the online mall and show you relevant operation records.
+ 
+·        Product order and delivery: When you choose to settle for your product, we will generate the order number of the product you purchased, the product you purchased, the time the order was placed, the order amount, the order status, and the payment method. At the same time, you need to fill in the name and mobile phone number of the consignee, and to help you quickly fill in the delivery address, we will obtain your current location information (optional) with your authorization of location permission, or you can choose to manually fill in the delivery address. If you purchase vehicle-related rights and services (such as roadside assistance services), we need to use your bound vehicle information (vehicle identification number (VIN), vehicle type, vehicle warranty period). We collect the above order information for the purpose of verifying the security of the transaction, confirming the transaction, making payment and settlement, completing the delivery, querying the order for you, and providing customer service consultation and after-sales services. Please be aware that in order to provide and deliver the purchased goods to you, we will provide part of your order information to our suppliers or delivery companies based on the needs of business scenarios, so that they can provide you with corresponding services.
+ 
+
+Please be aware that if the information you provide or publish to us involves the personal information of others (such as the recipient who is not you), you need to obtain the consent of others before providing or publishing.
+ 
+If you do not agree to our collection of the above information, we will not be able to provide you with the corresponding selected mall services, but it will not affect your use of our other services.
+·  location
+ 
+ 
+Payment (optional)
+You will use the payment services provided by the payment service providers that Porsche China has partnered with. We need to collect the following personal information and share it with payment service providers to enable payment functions:
+·        Personal Property Information
+·        Digital account information
+ 
+If you need to issue an invoice, you need to fill in your invoice title information and the email address or mobile phone number to receive the invoice as prompted on the page.
+*Since the invoicing service is provided by a third-party service provider, we need to provide the above-mentioned information to the third-party service provider and provide you with the invoicing service.
+ 
+·        Alipay SDK
+·        WeChat Pay SDK
+ 
+Customer service and online consultation (optional)
+When you get in touch with our customer service or conduct online consultation (including providing you with after-sales service), our system will collect the communication records and content between you and the customer service and the following personal information:
+·        Identity verification: basic personal information; Digital account information
+·        To provide customer service in connection with your order: Personal property information (transaction information).
+·        Other information (including images and videos you upload)
+ 
+·  Phone
+·  camera
+·  Photos/Storage
+·  Growingio SDK
+·  Alibaba Cloud SDK
+·  Huawei Push SDK
+·  Bugly SDK
+ 
+User reviews (optional)
+When you evaluate our products/services, we will collect the information you voluntarily provide as well as the following personal information:
+·        Basic Personal Information
+·        Digital account information
+ 
+Please be aware that if your public evaluation involves your or others' personal information or even sensitive personal information, please consider more carefully whether to disclose relevant information in your evaluation. If the information you provide to us or publish involves the personal information of others, you need to obtain the consent of others before providing or publishing it.
+ 
+ 
+Bind the vehicle
+When you use our Smart Connect service, we will collect the following personal information to realize the function of binding the car and machine:
+·        Digital account information
+·        Vehicle service information
+·  camera
+ 
+ 
+Enjoy an outing (optional).
+We will collect the following personal information from you, transfer it to the third-party service provider in a de-identified manner, and process the data in accordance with the corresponding privacy policy or personal information protection policy of the third-party service provider to achieve the above functions:
+
+·        Digital account information
+ 
+ 
+Account linking (optional)
+When you log out of the service using a remote third-party application linked to your account, we will collect the following personal information to display the status of your in-vehicle account and third-party account:
+
+
+·        Digital account information
+ 
+ 
+ 
+PCM Application Center (optional).
+When you manage the application in your vehicle's PCM through the App, we collect the following personal information:
+
+·        Digital account information
+ 
+ 
+Safe operation
+In order to ensure the safe operation of applications and services, prevent your personal information from being illegally obtained, and more accurately protect account security, we will collect the following personal information from you:
+·        Digital account information
+·        Personal commonly used device information
+·        Personal location information (optional)
+ 
+·  location
+·  notice
+·  Phone
+ 
+Product analysis and improvement
+In order to improve the App, fix bugs, optimize performance, enhance features, and develop new features, we need to process the following personal information about you:
+·        Digital account information
+·        Personal Device Information
+·        Personal Internet access history
+ 
+ 
+ 
+ 
+·        Growingio SDK
+ 
+ 
+1.2. Device permission calling
+In the process of providing services to you through the App, we will call your main device permissions, please refer to the Device Permission List。 You can choose to disable some or all permissions in the settings of the device, which may cause the corresponding business functions to be unable to be implemented or not achieve the expected results. Permissions may be displayed and disabled differently on different devices, please refer to the instructions or guidelines of the device and system developer.
+
+1.3. Information We Obtain from Third Parties
+From time to time, we may also collect information about you from a third-party partner (e.g. an authorized dealer) or direct the third-party partner to provide information about you to other recipients so that we can provide you with suitable products, services and activities, either directly or through an authorized Porsche dealer or such third party. For example, if you access Porsche-related content through a third party, that third party may provide us with information about you. You must allow a third party to share the information held about you directly or indirectly by the third party with Porsche China, and we will obtain your corresponding personal information from the third party for the purpose of providing you with the corresponding products or services. We will do our best to protect the security of your personal information, but we have no control over the privacy or personal information protection policies of third parties, and such third parties are not bound by this Policy, we recommend that you carefully read the privacy or personal information protection policies of third parties before providing personal information to third parties and authorizing them to share your personal information.
+
+ 
+
+2. How We Protect the Personal Information of Minors
+Our apps and services are only available to adults who have obtained a national motor vehicle driver's license. We do not actively collect personal information from minors and do not intend to collect personal information from any minors. You should be clear and understand that if we find or have reasonable grounds to believe that you are a minor during the course of the service, we may suspend or terminate the provision of this service to you at any time.
+If we find that we have collected the personal information of minors without the prior consent of a verifiable guardian, we will take the initiative to delete the relevant data.
+If the guardian finds that we have collected the personal information of minors without the consent of the guardian, please contact us through the contact information described in this Policy, and we will delete the relevant data as soon as possible after review.
+ 
+3. How we entrust the processing, sharing, transfer, and public disclosure of your personal information
+3.1. Entrusted Processing
+Some specific modules or functions in the Service may be provided by our third-party partners, so we will entrust the third-party partners to process some of your personal information. We will only share your information for the legitimate, legitimate, necessary, specific and explicit purposes of this Policy.
+We will sign strict confidentiality agreements with companies, organizations and individuals that we entrust to process personal information, requiring them to process personal information in accordance with our requirements, this Policy and any other relevant confidentiality and security measures.
+3.2. Sharing
+We will not share your personal information with any company, organization or individual outside the Company unless we have your explicit consent. At present, we will ask you for your authorization and consent to share personal information under the following circumstances:
+l With our affiliates. To the extent permitted by laws and regulations, your personal information may be shared with Porsche China's affiliates.
+l Sharing with third-party service providers: Some of our service modules will be assisted by authorized third-party service providers, so we may share some of your personal information with such third-party service providers so that you can provide corresponding services, including but not limited to information technology maintenance, security and support service providers, data hosting providers, payment service providers, logistics providers, Marketing and advertising partners, data analytics companies, event service providers, digital service providers, or customer service centers.
+In order to ensure the realization of relevant services and the safe and stable operation of applications, we will use software development kits (SDKs) or similar technologies provided by third parties to achieve this purpose, please refer to the "Third-Party Information Sharing List" for details.
+In addition, we may share your personal information externally in accordance with laws and regulations, or in accordance with the mandatory requirements of government authorities.
+
+l With authorized dealers and their affiliates. For the purposes stated in this Policy, we will share your personal information with our authorized dealers and their affiliates to provide better services and user experience. Our authorized dealers can be found at the following website: https://www.porsche.cn/china/zh/dealersearch/
+3.3. Transfers
+We will not transfer your personal information to any company, organization or individual, except in the following circumstances:
+·  After obtaining your explicit consent, we will transfer your personal information to other parties;
+
+·  In the event of a merger, division, dissolution, or bankruptcy liquidation, if the transfer of personal information is involved, we will inform you of the name and contact information of the recipient in accordance with the law, and require the new company or organization that holds your personal information to continue to be bound by this Policy, otherwise we will require the company or organization to seek your authorization and consent again.
+
+3.4. Public Disclosure
+We will only publicly disclose your personal information in the following circumstances:
+·  With your explicit consent;
+
+·  Disclosure based on law: We may publicly disclose your personal information when required by law, legal procedure, litigation or mandatory requirements of government authorities.
+
+ 
+
+4. How we store your personal information
+4.1. Storage Region
+Your personal information collected by us in the People's Republic of China ("China") in accordance with this Policy will be primarily stored in China.
+4.2. Duration of storage
+Generally speaking, we will only retain your personal information for the shortest period necessary to achieve the purpose of this service, unless otherwise provided by laws and regulations or otherwise authorized and agreed by the personal information subject.
+After the above retention period of personal information is exceeded, we will delete or anonymize your personal information.
+ 
+5. How Your Personal Information Is Transferred Globally
+Since we provide products or services through resources and servers all over the world, this means that after obtaining your authorization and consent, your personal information may be transferred to or accessed from outside the country/region where you use the products or services. We will fulfill our obligations for cross-border transfer of personal information in accordance with the requirements of applicable laws to ensure that your personal information is adequately protected.
+For the purposes described in this Policy, we may transfer your personal information (including basic personal information, personal identity information, digital account information, and vehicle service information) to overseas recipients. In such cases, the overseas recipients of personal information are:
+·  Name: Dr. Ing. h.c.F. Porsche AG
+
+·  Address: Porscheplatz 1, 70435 Stuttgart, Germany
+
+·  Contact: datenschutz.personal@porsche.de
+
+6. How We Protect Your Personal Information
+We provide reasonable technical, administrative, and physical safeguards to keep your personal information secure. We also require our third-party service providers to use industry-standard security measures to protect your personal information from unauthorized access or use.
+6.1. Technical measures for data protection
+·       Porsche China's internal important systems have passed the evaluation and filing of the National Information Security Classified Protection (Level 3), and adopted the international framework to carry out the construction of information security and privacy system, and actively passed the relevant security and privacy protection certifications.
+
+·       We will take reasonable and feasible security measures that comply with industry standards to protect your personal information and prevent unauthorized access, public disclosure, use, modification, damage or loss of personal information. For example, ensure that the data exchanged between the browser and the server during the transmission of personal information is protected by SSL encryption, and only provide HTTPS protocol for secure browsing; Adopt necessary encryption and desensitization measures to ensure the security of personal information; Adopt access control mechanisms and conduct regular audits to ensure that only authorized personnel have access to personal information; Regularly conduct security assessments of important assets, scan systems and codes for vulnerabilities, and patch security vulnerabilities and configuration inconsistencies in a timely manner.
+
+6.2. Organizational measures for data protection management
+·       We will take all reasonably practicable steps to ensure that no irrelevant personal information is collected. We will only retain your personal information for as long as is necessary to achieve the purposes stated in this Policy, unless it is necessary to extend the retention period or permitted by law.
+
+·       Within Porsche China, access to your personal information is restricted to those who need access to and use of your personal information in order to achieve the specific purposes described.
+
+·       We will strictly screen our business partners, service providers, and content providers, clarify their responsibilities for personal information protection through data security assessments, data audits, contractual constraints, etc., and require them to process personal information in accordance with our instructions, applicable laws and the provisions of this Policy.
+
+·       From time to time, we will hold security and privacy protection training courses, data protection security tests and publicity activities to enhance the awareness of employees and business partners on the importance of protecting personal information.
+
+·       You acknowledge and understand that although we have taken the above reasonable and effective measures and have complied with the standards required by relevant laws and regulations, the Internet environment is not 100% secure due to technical limitations and various malicious means that may exist, and we will try our best to ensure or guarantee the security of any information you send to us.
+
+·       In the unfortunate event of a personal information security incident, we will, in accordance with the requirements of laws and regulations, promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, suggestions for you to prevent and reduce risks on your own, and remedial measures for you. We will promptly inform you of the relevant circumstances of the incident by email, letter, telephone, push notification, etc., and if it is difficult to inform the Personal Data Subject one by one, we will take reasonable and effective measures to make an announcement. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
+
+ 
+
+7. Your Rights
+7.1. Right of access and reproduction of personal information
+·      Porsche China may use your personal information in the following ways:
+
+Phone, mail, SMS, post.
+
+·      You can obtain a copy of your personal information stored by Porsche China directly by logging in to the Porsche App, in the "My" interface or through the contact information provided in this Policy, unless it should be kept confidential or not required to be notified in accordance with applicable laws.
+
+ 
+
+7.2. The right to correct and supplement personal information
+
+If you find that the personal information we process about you is incorrect or incomplete, you can directly modify or supplement the editable personal information in the "My" interface by logging in to the Porsche App, or request us to correct or supplement it through the contact information provided in this Policy. We will correct and supplement your personal information in a timely manner after verifying that it is correct.
+
+ 
+
+7.3. Right to deletion of personal information
+In the following circumstances, we will take the initiative to delete your personal information; If you find that we have not deleted your personal information in a timely manner, you have the right to request us to delete your personal information:
+·      If our processing of personal information violates laws, regulations or this Policy;
+
+·      If we collect or use your personal information and obtain your consent as needed, we do not obtain your consent, or you withdraw your consent;
+
+·      if you no longer use our products or services;
+
+·      if we no longer provide you with a product or service, or the retention period has expired;
+
+·      the purpose of the processing has been achieved or is no longer necessary to achieve the purpose of the processing;
+
+·      Other circumstances provided for by laws and administrative regulations.
+
+If the retention period stipulated by laws and administrative regulations has not expired, or it is technically difficult to delete personal information, we will immediately stop processing other than storage and taking necessary security protection measures.
+ 
+
+7.4. Right to cancel personal account
+You can cancel your registered app account in the Porsche app via the methods provided in the Porsche app. If you encounter any problems during the cancellation process, you can contact us through the contact information provided in this Policy or in the Porsche App.
+
+After your account is cancelled, the relevant data will not be recovered, and if there are any virtual assets on the platform, they will also be emptied with the account cancellation and cannot be recovered.
+
+ 
+
+7.5. Right to withdraw consent to personal information
+Even if you have given your consent to our processing of your personal information, that consent can be withdrawn at any time. You may withdraw your consent by contacting us using the contact details in Section 8. Once the consent is withdrawn, we will no longer process the corresponding personal information, and such withdrawal will take effect thereafter. The lawfulness of our processing of your personal information remains unaffected until consent is formally withdrawn. You should be aware that once you withdraw your consent, you may not be able to use certain services.
+
+If you have granted us device permissions in a specific feature scenario, you can view and manage the permissions you have made through the following path: Me-Settings-Permissions Management.
+
+ 
+
+7.6. Right to Transfer
+You have the right to request the transfer of your personal information from Porsche China to your designated personal information processor, and you can contact us through the contact information provided in this Policy. We will review your request, and if the relevant request meets the conditions stipulated by the CAC, and on the premise that it is technically feasible, we will provide you with a way to transfer it in accordance with the law.
+ 
+
+8. Contact us
+If you need to exercise your above rights, or have any questions or comments about this Policy, please contact our Personal Information Protection Department at the following means:
+·       Email: privacy_support@porsche.cn
+
+·       Customer Service Hotline: 400 820 5911
+
+·       Letters should be sent to: 17th Floor, No. 826 Century Avenue, China (Shanghai) Pilot Free Trade Zone (Zip code: 200127; Attn: Porsche (China) Automobile Sales Co., Ltd.).
+
+Our Personal Information Protection Officer will endeavour to respond to you within 15 working days or as otherwise required by law.
+
+ 
+
+9. Changes to the Personal Information Protection Policy             
+We reserve the right to revise the content of this Policy from time to time, and we will publish the revised content through this App for your convenience.
+Such revisions form part of this Policy and are effective as of the date of the updates contained at the top of this document. Without your express consent, we will not reduce your rights under this Privacy Policy.
+For major changes, we will issue an announcement and notify you in a conspicuous manner (such as pop-up windows, direct push notifications, emails, text messages, etc.) through this application, so that you can keep abreast of the specific changes. If you require any information about the changes, please contact us in accordance with the "Contact Us" section.
+                                                                               
+
+ 
+
+ 
+
+ 
+
+
+Annex I List of statutory information
+ 
+
+·        Vehicle data
+
+·        Vehicle identification data and vehicle identification numbers, such as VIN codes, SIM card ICCID numbers, and other identification marks tied to the vehicle
+
+·        Vehicle condition, status, and analytics data
+
+·        vehicle location and movement data; and/or
+
+·        Vehicle motor, battery, engine data
+
+·        Vehicle alarm data and fault code data
+
+·        Vehicle production information
+
+·        Vehicle sales information
+
+·        Vehicle repair and replacement information
+
+·        Vehicle battery swap inventory information
+
+·        Vehicle battery swap information
+
+·        Battery recycling information
+
+·        Battery retirement information
+
+·        Basic Personal Information
+
+·        Personal mailing address
+
+·        Identification number
+
+·        License plate number
+
+·        Company name (in the case of business purchases)
+
+·        Unified social credit code for enterprises (applicable to enterprise purchases)
+
+·        Business address (for business purchases)
+
+·        Vehicle Usage
+
+·        Date of sale
+
+·        Sales region
+
+
+ 
+
+Appendix 2 List of Device Permissions
+1. List of iOS app permissions
+
+ 
+
+Device permissions
+
+Purpose of use
+
+Whether it can be turned off and how it will impact
+
+notice
+
+Used to push up-to-date notifications for vehicle service-related content in real-time.
+
+ 
+
+can be turned off
+
+·        After turning it off, you can't get real-time reminders to receive notification messages
+
+ 
+
+Microphone
+
+Voice search and intelligent input functions are realized through voice technology.
+
+ 
+
+can be turned off
+
+·        When turned off, you can't use the Voice Smart Input feature
+
+ 
+
+camera
+
+·        By scanning the QR code of the charging pile, the charging station is unlocked and the charging cable is activated.
+
+·        Implement the in-app photo upload function.
+
+·        Vehicle binding by scanning a barcode.
+
+can be turned off.
+
+·        After it is turned off, users will not be able to use the charging service through the QR code scanning function.
+
+·        When turned off, users will not be able to use the photo upload function in the Porsche app.
+
+·        After it is turned off, users cannot use the QR code binding function in the Porsche App.
+
+ 
+
+Calendar
+
+The Porsche Communication Management (PCM) synchronizes the user's calendar to the vehicle.
+
+can be turned off
+
+·        Some PCM functions will not be available when turned off.
+
+ 
+
+location
+
+·        It is used to realize navigation to the car, charging map, charging station ground lock unlocking, and setting location alarm function.
+
+·        When using after-sales maintenance and repair service appointments, test drive appointments, and valuation services, we recommend authorized dealers in your vicinity.
+
+·        Used to annotate and display placement information in postings.
+
+ 
+
+ 
+
+can be turned off
+
+·        When turned off, some charging services and some remote control services will be unavailable
+
+·        After closing, we will not be able to recommend authorized dealers in the vicinity
+
+·        When you turn it off, you won't be able to feature your location in posted posts
+
+ 
+
+Photo
+
+·        For the completion of the parking fee reduction procedure for charging users (only supported by some Porsche Premium charging stations): After charging, the user needs to save the parking fee reduction voucher to the mobile phone album through the Porsche App.
+
+·        Used to save pictures or videos to your phone's album.
+
+can be turned off
+
+·        It is not possible to save the parking fee reduction voucher to the mobile phone album after it is closed. (However, users can take a screenshot of the exemption slip page to save the slip.)
+
+·        Used to save pictures or videos to your phone's album.
+
+ 
+
+Bluetooth
+
+After the Porsche App pairs with the vehicle via Bluetooth, the Porsche App interacts with the vehicle's data via Bluetooth to realize the remote parking assist function.
+
+ 
+
+can be turned off
+
+·        Remote Parking Assist will not be available when turned off
+
+Contacts
+
+It is used for online service appointments, test drive appointments, and valuation service business functions.
+
+ 
+
+can be turned off
+
+·        After turning it off, you can't quickly read the contact information in your address book
+
+ 
+
+ 
+
+ 
+
+2. List of Android app permissions
+
+Device permissions
+
+Purpose of use
+
+Whether it can be turned off and how it will impact
+
+notice
+
+Used to push up-to-date notifications for vehicle service-related content in real-time.
+
+ 
+
+can be turned off
+
+·        After turning it off, you can't get real-time reminders to receive notification messages
+
+ 
+
+Microphone
+
+Voice search and intelligent input functions are realized through voice technology.
+
+ 
+
+can be turned off
+
+·        When turned off, you can't use the Voice Smart Input feature
+
+ 
+
+camera
+
+·        By scanning the QR code of the charging pile, the charging station is unlocked and the charging cable is activated.
+
+·        Implement the in-app photo upload function.
+
+·        Vehicle binding by scanning a barcode.
+
+can be turned off.
+
+·        After it is turned off, users will not be able to use the charging service through the QR code scanning function.
+
+·        When turned off, users will not be able to use the photo upload function in the Porsche app.
+
+·        After it is turned off, users cannot use the QR code binding function in the Porsche App.
+
+ 
+
+ 
+
+Calendar
+
+The Porsche Communication Management (PCM) synchronizes the user's calendar to the vehicle.
+
+can be turned off
+
+·        Some PCM functions will not be available when turned off.
+
+ 
+
+location
+
+·        It is used to realize the functions of navigating to the car, charging map, unlocking the ground lock of the charging station, and setting the location alarm.
+
+·        When using after-sales maintenance and repair service appointments, test drive appointments, and valuation services, we recommend authorized dealers in your vicinity.
+
+·        Used to label and display placement information in published content.
+
+ 
+
+ 
+
+can be turned off
+
+·        When turned off, some charging services and some remote control services will be unavailable
+
+·        After closing, we will not be able to recommend authorized dealers in the vicinity
+
+·        When turned off, you won't be able to feature your location in content posting
+
+ 
+
+Storage space
+
+·        For the completion of the parking fee reduction procedure for charging users (only supported by some Porsche Premium charging stations): After charging, the user needs to save the parking fee reduction voucher to the mobile phone album through the Porsche App.
+
+·        Used to save pictures or videos to your phone's album.
+
+can be turned off
+
+·        It is not possible to save the parking fee reduction voucher to the mobile phone album after it is closed. (However, users can take a screenshot of the exemption slip page to save the slip.)
+
+·        You can't save pictures or videos to your phone's gallery after you turn them off.
+
+ 
+
+Phone
+
+Roadside assistance available: Users can use the Porsche App to get in touch with the Porsche Assistance Center.
+
+ 
+
+can be turned off
+
+·        After it is closed, it is not possible to call the roadside assistance number directly via the Porsche App
+
+Contacts
+
+It is used for online service appointments, test drive appointments, and valuation service business functions.
+
+ 
+
+can be turned off
+
+·        After turning it off, you can't quickly read the contact information in your address book

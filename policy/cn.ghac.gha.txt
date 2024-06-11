@@ -1,0 +1,829 @@
+Guangqi Honda Automobile Co., Ltd. (registered address: registered address is No. 1, Guangben Road, Huangpu District, Guangzhou, hereinafter referred to as "we", "us" or "our") attaches great importance to the privacy and personal information protection of users. When you use our products or services, we may collect and use information about you. We hope to explain to you how we collect, use, store, share and transfer this information when you use our products or services, as well as the ways we provide you to access, correct, supplement, delete and protect this information.
+
+It should be noted that the GAC Honda APP may contain links or guidelines to other Internet platforms, including but not limited to websites, applications, mini programs, WeChat public platforms, quick applications, etc. When you are redirected to other Internet platforms to enjoy products and services through the GAC Honda APP, the platforms may have separate privacy policies or instructions to inform you of how your personal information will be collected and used on the platforms, and it is recommended that you carefully read the privacy policies or instructions of the corresponding platforms when accessing and using other Internet platforms. If the content agreed under this Privacy Policy is not specified in the aforesaid separate privacy policy or description, the provisions of this Privacy Policy shall apply.
+
+By using or continuing to use our products or services after we have updated this Privacy Policy (we will remind you of the updated information in a timely manner), it means that you agree to the content of this Privacy Policy (including the updated version), and agree that we collect, use, store and share your relevant information in accordance with this Privacy Policy, and this Privacy Policy constitutes a legally binding legal document between you and us, and this Privacy Policy shall immediately bind both parties. At that time, you should not claim that this Privacy Policy is invalid, or request to revoke or change this Privacy Policy, on the grounds that you have not read the content of this Privacy Policy or have not received answers from us. If you have any questions during the reading process, please contact our customer service. If you do not agree to any of the terms of the Agreement, please stop submitting your information.
+
+This Privacy Policy will help you understand the following:
+
+One. How We Collect and Use Your Personal Information
+
+Two. How we use cookies and similar technologies
+
+Three. How we share, transfer, and publicly disclose your personal information
+
+Four. How we protect and store your personal information
+
+Five. Your Rights
+
+Six. Protection of Children's Information
+
+Seven. How your personal information is transferred globally
+
+Eight. How this Policy is Updated
+
+Nine. How to contact us
+
+Guangqi Honda is well aware of the importance of personal information to you and will do its best to protect your personal information safe and secure. We are committed to maintaining your trust in us and abiding by the following principles to protect your personal information: the principle of consistency of rights and responsibilities, the principle of clear purpose, the principle of opt-in and consent, the principle of minimum necessity, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. At the same time, Guangqi Honda promises that we will take corresponding security protection measures to protect your personal information in accordance with mature security standards in the industry.
+
+This Privacy Policy is closely related to the various products and services provided by Guangqi Honda (hereinafter collectively referred to as "our products or services") that you use, please read and understand this "Guangqi Honda APP Privacy Policy" carefully before using our products or services.
+
+1. How we collect and use your personal information
+Personal information is a variety of information related to an identified or identifiable natural person recorded electronically or otherwise, excluding anonymized information, and the personal information involved in this Privacy Policy includes: user profile picture, nickname, region, gender, date of birth, frame number, engine number, mobile phone number, license plate number, vehicle brand, model, version, mileage, license date, location information of vehicle stopping, vehicle status information, unique device identification (IMEI, Android ID, MAC address, OAID, IDFA), contact address, purchase invoice, billing information, website browsing history, ID number, real name.
+
+Sensitive personal information refers to personal information that, once leaked or illegally used, is likely to lead to the infringement of the personal dignity of natural persons or the endangerment of personal and property safety, including biometrics, religious beliefs, specific identities, medical and health care, financial accounts, whereabouts and other information, as well as the personal information of minors under the age of 14, and the sensitive personal information involved in this Privacy Policy includes: contact address, website browsing history, location information where the vehicle stops, and ID number.
+
+We will follow the principles of legitimacy, legality and necessity, and collect and use your personal information voluntarily provided by you in the process of using products or services, as well as your relevant personal information obtained from third parties, for the following purposes described in this Policy. If we want to use your personal information for other purposes not specified in this Policy, or use the information collected for specific purposes for other purposes, we will inform you in a reasonable manner and obtain your consent again before using it.
+
+We will only collect and use your personal information for the following purposes as described in this Policy to complete the business functions of the GAC Honda APP:
+
+(1) You must authorize us to collect and use your personal information
+In order to realize the core functions of the Guangqi Honda APP and provide you with products or services, we may collect, store and use the following information related to you. If you do not provide the relevant information, you will not be able to enjoy the products or services we provide. These features include:
+
+1. User Registration/Login
+You can use the Guangqi Honda APP to register as a Guangqi Honda member. When you register, you need to provide us with your mobile phone number, we will send an SMS verification code to verify whether your identity is valid, and you need to set your account password according to the password rules we require. You can also bind your WeChat account to register/log in, and we will collect your WeChat profile picture, nickname, region, and gender information.
+
+You can modify or supplement your member avatar, nickname, mobile phone number, ID number, personalized signature, model icon, gender, date of birth, address, and interest tag on the "My"-"Personal Information" interface of the APP function page, all of which belong to your "Member Account Information". The additional account information you provide will help us provide you with more services, including gift delivery and personalized content recommendations, but if you do not provide these supplementary information, it will not affect your use of the basic functions of the Guangqi Honda APP.
+
+In order to improve your shopping experience when using Guangqi Honda Mall in the Guangqi Honda APP, under the premise of complying with relevant laws and regulations, when you successfully register as a Guangqi Honda member, we will use your registered mobile phone number to help you register/log in to the Guangqi Honda Mall account, and you will enjoy the same account data and shopping experience when you use the Guangqi Honda Mall in the Guangqi Honda APP, or use the WeChat Mini Program Guangqi Honda and the PC Guangqi Honda Mall.
+
+In order to improve the relevant functions of your use of Odyssey Club in the GAC Honda APP, under the premise of complying with relevant laws and regulations, when you successfully register as a member of Guangqi Honda and use the Odyssey Club in the GAC Honda APP, we will use your registered mobile phone number to help you register/log in to the Odyssey Club, and you will enjoy the same account data and experience when you use the Odyssey Club in the GAC Honda APP or use the H5 Odyssey Club.
+
+2. Book a test drive
+You can use the Guangqi Honda APP (Discovery-Book a Test Drive or Car-Showroom-Book a Test Drive) to make an appointment for a test drive. When you use this feature, you need to reserve your real name, mobile phone number, test drive type, reservation city, reservation store, desired test drive time (weekdays/weekends), and optionally provide us with your planned purchase time. We will provide you with a test drive service after collecting your test drive reservation information.
+
+When you choose a franchised store that offers test drive services, we will collect your location information to show you how close you are to the franchised store so that you can choose the appropriate franchised store.
+
+3. Order the product
+When you use the Guangqi Honda APP to order or "redeem points" for goods and settle the payment, you need to fill in your name, mobile phone number, license plate number, and delivery address (subject to the function page) in the order to verify your real identity with the franchised store and ensure that you can smoothly obtain the goods you purchased. When you purchase cross-border goods or other requirements of national laws and regulations/merchants, you need to provide your real-name information, which may include your name and ID card. If you refuse to provide such information, we will not be able to complete the relevant delivery service. If you are ordering or "redeeming" items for someone else, you will need to provide the aforementioned information of the actual person who ordered it. Before providing us with the aforesaid information of the actual orderer, you need to ensure that you have obtained their authorization and consent.
+
+When you purchase specific goods (such as placing an order for a vehicle), you can additionally fill in the mobile phone number of the car purchase recommender, but not filling in this information will not affect the generation of your order.
+
+l When you purchase a specific product, you will jump to the "Guangqi Honda" WeChat mini-program and complete the product ordering service. Specifically, the collection and use of personal information in the WeChat Mini Program shall prevail.
+
+l When you choose a service store in the process of purchasing goods, we will collect your location-related information (GPS location information, WLAN access point, Bluetooth and base station sensor information) to show you the distance between you and the franchise store, so that you can choose the appropriate franchise store.
+
+4. Payment Function
+We will not collect your personal information when you make payment for an order after you have completed your order, but we need to share your order information such as your order number and transaction amount with a third-party payment institution to confirm your payment instruction and complete the payment.
+
+5. To complete the delivery of products or services to you
+In order to ensure the smooth, safe and accurate delivery of the goods or services you purchased, we will provide your order information and necessary real-name information to the merchant/logistics service provider.
+
+In order for us to be informed and confirm the delivery progress and status in a timely manner, and to provide you with after-sales and dispute resolution services, you agree that we may collect information related to the delivery progress from merchants/logistics service providers.
+
+6. Bind your car
+You can bind your vehicle information to obtain the vehicle services we provide.
+
+When you bind your car, you need to provide us with your name, frame number, engine number, mobile phone number, ID card, car purchase agency, and you can optionally provide your nickname and email address.
+
+l After completing the binding of your car, you can use the Guangqi Honda APP to enjoy the following services provided by us:
+
+n View vehicle details: You can view the bound vehicle model, frame number, and vehicle cover image, and optionally fill in or modify the vehicle nickname and license plate number.
+
+n Appointment maintenance: When you use this function, we will display the license plate number of your bound vehicle and the bound special store, you need to select the appointment type, appointment time and service consultant, and optionally fill in the remarks information. We will provide you with maintenance appointment service after collecting your scheduled maintenance information, which is mainly based on the function page.
+
+nReservation record: When you use this function, we need to obtain your membership number and frame number information in order to query your maintenance appointment record, and we will provide you with the query result of maintenance appointment record after you click, which is mainly based on the function page.
+
+n Maintenance history inquiry: When you use this function, we need to obtain your membership number, frame number and license plate number information, you can query the corresponding next maintenance mileage and next maintenance content by selecting the license plate number, and query your maintenance history (including vehicle information, license plate number, maintenance time, mileage, maintenance type, maintenance project), specifically on the function page.
+
+n Maintenance progress inquiry: When you use this function, we need to obtain your membership number, frame number and license plate number information, and you can view the vehicle's service consultant, estimated delivery time and service progress details, which are mainly based on the function page.
+
+n Door-to-door pick-up and delivery: When you use this function, we need to obtain your membership number, frame number, you can choose your location and special store to make an appointment service, when you choose a location, the APP will obtain your location information so that you can choose the current location, which is mainly based on the function page.
+
+n Car Insurance Inquiry: When you use this function, we need to obtain your membership number, mobile phone number, name, frame number, license plate number information, you can choose to fill in the naked car price and insurance type, and modify your name and mobile phone number to get car insurance quotation information.
+
+nSafe Intelligent Inspection: When you use this function, we need to obtain your frame number and license plate number information, and you can view the license plate number, model, vehicle age, maintenance level, exclusive consultant and maintenance advice information of the bound vehicle.
+
+7. Real-name authentication of Internet of Vehicles card
+According to the Ministry of Industry and Information Technology's "Implementation Rules for Real-Name Registration of the Internet of Vehicles (Trial)", road motor vehicle manufacturers and telecommunications companies need to truthfully register the user's real identity information when selling the Internet of Vehicles card to users and going through the procedures for network access (including transfer, etc.). You can register the vehicle's Internet of Vehicles card with your real name on the Guangqi Honda APP. When you use this function, we may collect and use your basic personal information, including the ID number and photo of the vehicle frame number, ID card, Hong Kong, Macao and Taiwan residence permit, passport (choose one of the three), mobile phone number, and ICCID information, and conduct active verification to ensure the accuracy of the information. We will ask you to read and agree to the "Guangqi Honda Face Recognition Privacy Policy", and we will collect and use your personal information in strict accordance with its content and scope.
+
+8. Connected car service
+When you use the IoV function provided by us through the Guangqi Honda APP, you need to provide us with your name, ID number, mobile phone number, frame number, engine number, user nickname, avatar, vehicle stop location information, and vehicle status information according to the different vehicle networking systems of your model. We will provide you with the Connected Car service after collecting your information.
+
+When you use the IoV function provided by us through the Guangqi Honda APP, you need to provide us with your name, ID number, mobile phone number, frame number, engine number, emergency contact mobile phone number, vehicle stop location information, and vehicle status information according to the different vehicle networking systems of your model. We will provide you with the Connected Car service after collecting your information.
+
+l Concept VE-1 Connected Car Service, when you use the Internet of Vehicles function provided by us through the Guangqi Honda APP, you need to provide us with your name, ID number, mobile phone number, frame number, engine number, and vehicle status information according to the different Internet of Vehicles system equipped with your model. We will provide you with the Connected Car service after collecting your information.
+
+lHonda Connect 3.0/4.0, when you use the Honda Connect function provided by us through the Guangqi Honda APP, we will ask you to read and agree to the "Honda CONNECT Privacy Policy" according to the different Honda Connect systems installed in your vehicle, and we will collect and use your personal information in strict accordance with its content and scope.
+
+9. Used car appraisal
+If you need to use the second-hand car appraisal service, you can choose to fill in your car series, model, year, province and city, license date, and mileage information, which is mainly based on the function page, please read the "Guangqi Honda Privacy Policy" / "Guangqi Honda Platform Service Agreement" for details.
+
+10. Charging service
+You can use the charging service through the Guangqi Honda APP, and when you use this function, we will collect and use your basic personal information, including mobile phone number, charging equipment number, location information and other information necessary to provide services (subject to the business function page); After you use the charging service, if you need to issue an invoice, you need to provide the billing information (company name or personal name, taxpayer identification number), billing mobile phone number, and billing email information, and we will send the electronic invoice to your designated email address.
+
+11. Customer Charging Rights
+If you purchase a bound vehicle and enjoy charging rights, you can use the customer charging rights service through the Guangqi Honda APP. When you use this function, you need to provide us with your name, mobile phone number, frame number, contact address, and car purchase invoice information, and we will provide you with customer charging rights and interests after collecting your information.
+
+12. Hui driving service
+You can use the Huidai driving service through the Guangqi Honda APP. When you use this function, we need to use the mobile phone number you registered when you registered, your departure address, and arrival address to provide you with Huidai driving services. When you call a driver for a friend, you can re-enter the mobile phone number of the driver contact person to make it easier to contact the user who uses the driving service.
+
+13. Hui refueling service
+You can use the Hui refueling service through the Guangqi Honda APP. When you use this function, we need to use the mobile phone number you registered at the time of registration to provide you with preferential refueling services.
+
+When you choose a gas station, we will collect your location information to show you how close you are to the gas station so that you can choose the right gas station.
+
+14. Event Participation
+You can participate in relevant exclusive activities through the Guangqi Honda APP, and you need to provide your membership number and mobile phone number to participate in such activities. When you obtain the corresponding rights and interests in the relevant activities of the Odyssey Club, you need to provide us with your member profile picture, nickname, mobile phone number and contact address in order to verify the situation and the need for us to issue the corresponding rights and benefits to you.
+
+15. Mobility Services
+When you use the Guangben Travel service, you will jump to the "Guangben Travel" WeChat Mini Program, and use the WeChat Mini Program to carry out short-term rental, in-depth test drive and other services. Specifically, the collection and use of personal information in the WeChat Mini Program shall prevail.
+
+16. Nearby franchise store service
+When you use the service of nearby franchise stores, we will collect your location information and display the information of nearby franchised stores. You can click on the store you want to go to and use a third-party navigation service to go to the target store.
+
+17. Chat about cars online
+When you use the online chatting service, you will jump to the "Guangben Honda Cloud Chat+" WeChat Mini Program, and use the WeChat Mini Program to carry out services such as Cloud Chat. Specifically, the collection and use of personal information in the WeChat Mini Program shall prevail.
+
+18. Content Browsing
+In order to ensure the quality of the content you browse in the GAC Honda APP and recommend graphic content that may be of interest to you, the GAC Honda APP will collect relevant necessary log information, including: the number of times your GAC Honda APP is launched, page interaction events, and the time spent on the page. We may use the log information and other personal information you provide to analyze your interests and vehicle needs in order to show you personalized ads.
+
+In order to provide you with a better experience, improve our services, or other purposes with your consent, we may use the information collected through certain services for our other services, subject to relevant laws and regulations. For example, the information when you use one of the services of GAC Honda or GAC Honda's related parties will be used to show you personalized content or advertisements in another service, and for user research, analysis and statistics, etc.
+
+19. Functions necessary to ensure network security and operational security
+In order to improve the security of your use of the Guangqi Honda APP, more accurately prevent phishing website fraud and protect account security, we will determine the risk of your account by obtaining the unique identification of your device; At the same time, we will analyze the system problems of Guangqi Honda, collect traffic statistics and check possible risks, and troubleshoot when you choose to send us abnormal information.
+
+20. Customer Service and Dispute Resolution
+We will keep a record of your correspondence/call in the form of recordings or texts, and may also use the contact information you provide to proactively contact you to obtain your suggestions and comments, or to provide you with assistance.
+
+21. Market research and marketing promotion
+In order to ensure the safety of your vehicle, we will regularly push you information related to the safety of vehicle use (such as regular maintenance, insurance renewal and other related vehicle maintenance information). In order to facilitate the identification of your identity and contact with you, we will collect and record your mobile phone number, APPID, WeChat ID, frame number, and other necessary personal information provided by you with your consent or on your own initiative (subject to the actual function page). If you refuse to provide the above information, we will not be able to push you the relevant information about vehicle safety, but it will not affect your use of other products and services that are not related to the above information. If you do not wish to receive vehicle safety-related information push, you can unsubscribe or turn off the relevant information push service through SMS unsubscription or other methods provided by us.
+
+In order to provide you with and optimize the vehicle-related services you need, we will collect and record your mobile phone number, APPID, WeChat ID, and other necessary personal information provided by you with your consent or on your own initiative (subject to the actual function page) for the purpose of inviting you to participate in market research activities or regularly pushing you information about vehicle supplies or services (such as package recommendations, new car launches and other related marketing information). If you refuse to provide the above information, we will not be able to invite you to participate in market research activities or push marketing information to you, but it will not affect your use of other products and services that are not related to the above information. If you do not wish to participate in market research or receive marketing information, you can unsubscribe or turn off the relevant information push service through SMS or other methods provided by us.
+
+22. In-store service
+You can use the Guangqi Honda APP to make an appointment service for after-sales service. When you use this function, you need to reserve your name, mobile phone number, license plate number, frame number, reservation store, appointment date and time, matters that need to be handled at the store, and the time and place of handover for door-to-door pick-up and delivery service. We will provide you with an appointment service after collecting your appointment information.
+
+When you choose a franchise store for reservation service, we will collect your location information to predict the distance to the store so that you can choose a suitable franchise store.
+
+(2) You may choose whether or not to authorize us to collect and use your personal information
+In order to improve your service experience, we may collect and use your personal information in the following additional functions. If you do not provide such personal information, you can still use the basic functions of the GAC Honda APP. These additional features include:
+
+1. Additional functions based on the camera (camera).
+
+We access your camera so that you can use your camera to take photos and upload custom avatars or other image files on your page.
+
+2. Additional features based on image uploads
+
+Our access to your photo album can help you access and upload photos and pictures from your phone, so that you can change your profile picture, etc.
+
+3. Additional features based on making calls
+
+Our access to your phone can help you achieve one-click rescue, contact us, and facilitate you to initiate vehicle rescue or solve other problems.
+
+4. Additional features based on location information
+
+We collect your location information (we only collect your geographical location at that time, but will not combine your location information at various times to determine your whereabouts) is to help you locate your location when you find vehicles, special stores, gas stations, charging piles, electronic fences, appointment test drives, refueling, substitute driving, rescue, appointment maintenance, repair, door-to-door pick-up and delivery, and other after-sales related services.
+
+5. Additional features based on device information (get IMEI, software installation list, MAC address, Android ID, OAID, IDFA).
+
+We collect your mobile device information, which is required by third-party SDKs (Aurora Push and Sensor) in order to provide you with precise targeting services. When you install the app, a pop-up window will appear, and you can choose to enable or not to enable this feature permission.
+
+The above-mentioned additional functions may require you to enable access to your geographic location (location information), device model information, camera (camera), photo album (photo gallery), and phone to us in your device to realize the collection and use of the information involved in these functions. You can decide to turn these permissions on or off at any time (we'll guide you through the setup on your device). Please note that if you turn on these permissions, you authorize us to collect and use these personal information to achieve the above functions, and if you turn off the permissions, you cancel these authorizations, and we will no longer continue to collect and use your personal information, nor can we provide you with the functions corresponding to these authorizations. Your decision to turn off the permission will not affect the processing of personal information previously based on your authorization.
+
+(3) You are fully aware that we do not need to obtain your authorization and consent to collect and use personal information under the following circumstances:
+1. It is necessary for the conclusion and performance of a contract to which an individual is a party, or for the implementation of human resources management in accordance with the labor rules and regulations formulated in accordance with the law and the collective contract signed in accordance with the law;
+
+2. It is necessary for the performance of statutory duties or obligations;
+
+3. Where it is necessary to respond to a public health emergency, or to protect the life, health, and property safety of natural persons in an emergency;
+
+4. Carrying out news reporting, public opinion supervision, and other acts for the public interest, and handling personal information within a reasonable scope;
+
+5. In accordance with the provisions of the Personal Information Protection Law of the People's Republic of China, handle personal information disclosed by individuals themselves or other personal information that has been lawfully disclosed within a reasonable scope;
+
+6. Other circumstances provided for by laws and administrative regulations.
+
+(4) Where we obtain your personal information from a third party
+We may obtain information that you generate or share when you use third-party services. For example, we obtain your personal information (including openID, unionID, WeChat avatar, WeChat nickname, region, gender) from Weixin, and bind your Weixin account with your Guangqi Honda member account after you agree to this Privacy Policy, so that you can directly log in and use our services and products through your Weixin account.
+
+(5) Rules for the use of your personal information
+1. We will use the collected personal information in accordance with the provisions of this Privacy Policy and to realize the functions of our products or services.
+
+2. After collecting your personal information, we will de-identify the data through technical means.
+
+3. Please note that all personal information provided by you when using our products or services, or sensitive personal information collected based on your consent, will continue to be authorized for us to use during your use of our products or services, unless you delete, revoke your consent or refuse our collection through system settings. When you revoke your consent or cancel your account, we will stop collecting and using your personal information, and delete or anonymize your personal information within a reasonable period of time (except as otherwise provided by laws and regulations).
+
+4. We will make statistics on the use of our products or services, and may share these statistics with the public or third parties to show the overall usage trend of our products or services. However, these statistics do not contain any identifying information about you.
+
+5. When we display your personal information, we will desensitize your information by means of content replacement and de-identification to protect your information security.
+
+6. When we want to use your personal information for other purposes not specified in this Policy, or collect additional information for specific purposes, we will ask for your consent in advance by actively checking the box.
+
+2. How we use cookies and similar technologies
+We will use "cookies" when you visit the Guangqi Honda APP. Cookies are small text files that are stored on your device's hard drive by a web server. We may use cookies and similar technologies, such as web beacons that store user preferences and settings, to monitor website performance and prevent violations such as suspicious activity and fraudulent traffic. You can refuse or manage cookies by changing the settings of the add-on program on your browser. However, please note that if you disable cookies, you may not be able to enjoy the best service experience, and some services may not work properly.
+
+III. How We Share, Transfer, and Publicly Disclose Your Personal Information
+(1) Sharing
+Without your consent, we will not share your personal information with any company, organization or individual other than Guangqi Honda, except in the following circumstances:
+
+1. Obtain your explicit consent or authorization in advance;
+
+2. To deal with your disputes or controversies with others at your request;
+
+3. Comply with the relevant agreements signed with you (including the electronic agreements signed online and the corresponding platform rules) or other legal documents;
+
+4. We may share your personal information externally in accordance with the provisions of laws and regulations, the needs of litigation and dispute resolution, or the requirements of administrative and judicial authorities in accordance with the law;
+
+5. To the extent permitted by laws and regulations, it is necessary to protect the interests, property or safety of GAC Honda, GAC Honda, GAC Honda's affiliates or partners, you or other GAC Honda users or the public;
+
+6. Use based on academic research;
+
+7. We may share your personal information with our affiliates. However, we will only share personal information that is necessary and is subject to the purposes stated in this Privacy Policy. If our affiliates want to change the purpose of processing personal information, they will ask for your authorization and consent again;
+
+8. Sharing with Authorized Partners: Some of our services will be jointly provided by us and our authorized partners for the purposes stated in this Privacy Policy only. We will only share your personal information for legal, legitimate, necessary, specific and explicit purposes, and will only share the personal information necessary to provide services. Our partners do not have the right to use the shared personal information for purposes other than those unrelated to the product or service. We will carefully evaluate the purpose of the third party's use of the shared information, conduct a comprehensive assessment of the security and security capabilities of these partners, and require them to comply with the cooperation legal agreement. We will strictly monitor the security of the software tool development kit (SDK) and application programming interface (API) of the partner to obtain information to protect data security.
+
+Currently, our authorized partners include the following types:
+
+(1) IT service and operation support service providers: We may share your personal information with third parties who support our business functions. These supports include providing us with system operation and maintenance, system operation services, online customer service, etc. We share this information in order to fulfill the core functionality of our products or services.
+
+(2) Media advertising services and data service providers: We may share your personal information with third parties who provide advertising and data services. We share this information for the purpose of analyzing your browsing data and information, for example, we share your browsing history with data service providers to analyze your interests and car purchase needs, so as to show you advertising content that is relevant to you.
+
+(3) Financial and insurance services: We may share your personal information with third parties who provide financial and insurance services. We share this information for the purpose of providing you with services such as auto credit consultation, used car inquiry, insurance inquiry, etc.
+
+(4) Internet of Vehicles services: We may share your personal information with Internet of Vehicles service providers. The purpose of our sharing of this information is to provide you with map navigation, dynamic traffic, communication services, emergency rescue and other services related to the Internet of Vehicles.
+
+(5) Customer charging rights and interests service: We may share your personal information with charging rights service providers. We share this information for the purpose of providing you with services such as charging station installation or charging card issuance.
+
+(6) Driver service: We may share your personal information with Driver service providers. We share this information for the purpose of providing you with chauffeur and coupon payment services.
+
+(7) Hui Fuel service: We may share your personal information with Hui Fuel service providers. We share this information for the purpose of providing you with refueling and coupon payment services.
+
+(8) Charging services: We may share your personal information with charging suppliers. We share this information for the purpose of providing you with power-up services.
+
+9. Third-Party Application Kits (SDKs)
+
+In order to complete our product development more efficiently and provide users with more diversified services, we use software development kits provided by third parties in our products. This type of toolkit, commonly referred to as an SDK (Software Development Kit), refers to a collection of development tools used to create application software for specific software packages, software frameworks, hardware platforms, operating systems, etc. The third-party SDKs involved in the use of user information in the Guangqi Honda APP provided by us are listed as follows:
+
+The name of the feature
+
+SDK type
+
+What personal information is collected
+
+Method of collection
+
+Use business scenarios
+
+objective
+
+Name of Third Party and Privacy Policy
+
+Gaode map
+
+Locate the SDK
+
+Maps SDK
+
+Longitude and latitude, device information (such as IP address, GNSS information, network type, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, sensor information (vector, acceleration, pressure), device signal strength information], device identification information (IDFA, OAID), current application information (application name, application version number), device parameters and system information (device brand and model, operating system, carrier information). , screen resolution)
+
+SDK native collection
+
+Background interface transfer
+
+Find nearby facilities, find vehicle locations, set routes, search for charging stations
+
+Help users find vehicles, franchise stores, gas stations, charging piles, and locate locations in the event of rescue
+
+AutoNavi Software Co., Ltd
+. https://lbs.amap.com/pages/privacy/
+
+Tencent Maps
+
+Locate the SDK
+
+Maps SDK
+
+geographical location
+
+Device information
+
+SDK native collection
+
+Internal data sharing
+
+Background interface transfer
+
+When using the Honda Connect model
+
+Enables users to use functions such as navigation to the car on the Honda Connect connected platform
+
+Shenzhen Tencent Computer System Co., Ltd
+
+https://lbs.qq.com/userAgreements/agreements/privacy
+
+Baidu Maps
+
+Locate the SDK
+
+Maps SDK
+
+geographical location
+
+Device information
+
+SDK native collection
+
+Internal data sharing
+
+Background interface transfer
+
+When using the Honda Connect model
+
+Enables users to use functions such as navigation to the car on the Honda Connect connected platform
+
+Beijing Baidu Netcom Technology Co., Ltd
+
+https://lbsyun.baidu.com/index.php?title=openprivacy
+
+Aurora Push
+
+Message Push SDK
+
+Device information
+
+Network information and location information (IP address, WiFi information, base station information)
+
+SDK native collection
+
+Background interface transfer
+
+Push messages to users;
+
+The push of prompt messages is completed through the device information, and the network connection request between the SDK and the Aurora server is optimized through the new network and location information to ensure the stability and continuity of the service
+
+Shenzhen Hexun Huagu Information Technology Co., Ltd.
+https://www.jiguang.cn/license/privacy
+
+MobTech shares:
+
+Share the SDK
+
+Device information
+
+SDK native collection
+
+Background interface transfer
+
+iOS users are registering on WeChat, logging in for authorization, and sharing on WeChat
+
+Help users share information and event content to third-party applications, as well as register on WeChat, and authorize official WeChat and store micro retweets
+
+Yuanbo Technology
+
+https://www.mob.com/about/policy
+
+HUAWEI CLOUD OCR
+
+OCR recognition SDK
+
+Read and write photos and files
+on your device, take photos or record videos
+
+SDK native collection
+
+Enter your personal information for vehicle authentication
+
+Quickly enter information when the vehicle is authenticated
+
+Huawei Cloud Computing Technology Co., Ltd.
+https://www.huaweicloud.com/declaration/sa_prp.html#
+
+Tencent Bugly
+
+Bug collection SDK
+
+Device information
+
+APP package name
+
+APP VERSION
+
+The name of the process to which it belongs
+
+SDK native collection
+
+Crash log collection
+
+OBTAIN THE BUGS GENERATED BY PRODUCTION TO FACILITATE THE REPAIR OF PROBLEMS
+
+Shenzhen Tencent Computer System Co., Ltd
+. https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+
+Sensors data
+
+Data collection SDK
+
+Device information
+
+IP address
+
+Network Information
+
+APP package name
+
+APP VERSION
+
+SDK native collection
+
+Background interface transfer
+
+Click the button on the APP or open the screen
+
+Analyze user usage data for analysis and statistical purposes
+
+https://manual.sensorsdata.cn/sa/latest/tech_sdk_client_privacy_policy-22255998.html of Sensors Network Technology (Beijing) Co., Ltd
+
+Huawei push
+
+The vendor pushes the SDK
+
+Device identifiers (e.g., Android ID, OAID, GAID)
+
+Device information
+
+SDK native collection
+
+Background interface transfer
+
+Push messages to users
+
+Use the device information to push the prompt message
+
+Huawei Device Co., Ltd
+. https://consumer.huawei.com/cn/privacy/privacy-policy/
+
+Xiaomi push
+
+The vendor pushes the SDK
+
+Device identifiers (e.g., Android ID, OAID, GAID)
+
+Device information
+
+SDK native collection
+
+Background interface transfer
+
+Push messages to users
+
+Use the device information to push the prompt message
+
+Beijing Xiaomi Mobile Software Co., Ltd
+. https://dev.mi.com/console/doc/detail?pId=1822
+
+OPPO push
+
+The vendor pushes the SDK
+
+Device identifiers (e.g., Android ID, OAID, GAID)
+
+Device information
+
+SDK native collection
+
+Background interface transfer
+
+Push messages to users
+
+Use the device information to push the prompt message
+
+Guangdong HeyTap Technology Co., Ltd
+. https://open.oppomobile.com/new/developmentDoc/info?id=10288
+
+Live800
+
+Online customer service SDK
+
+Read photos and files on your device
+
+SDK native collection
+
+Background interface transfer
+
+When the user chats with online customer service in the APP
+
+For instant communication with live customer service
+
+Chengdu Golden Armor Technology Co., Ltd
+. https://www.live800.com/mobile/privacy.html
+
+WeChat SDK
+
+WeChat login and share SDK
+
+Device information
+
+SDK native collection
+
+Background interface transfer
+
+When Android users are registering on WeChat, logging in for authorization, and sharing on WeChat
+
+Help users share information and event content to third-party applications, as well as register on WeChat, and authorize official WeChat and store micro retweets
+
+Shenzhen Tencent Computer System Co., Ltd
+. https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy
+
+OpenInstall
+
+Channel Distribution Statistics SDK
+
+IP address (to determine the city)
+
+The brand of the device
+
+Device model
+
+Device OS version Android ID
+
+SerialNumber
+
+SDK native collection
+
+Background interface transfer
+
+When a user downloads an app using a recommended business card and a shared landing page
+
+It is used to analyze and count the usage data of users visiting the landing page and scanning the QR code and landing page
+
+Shenzhen Fenmiao Network Technology Co., Ltd
+. https://www.openinstall.io/privacy.html
+
+Honda CONNECT
+
+Vehicle control SDK
+
+Device information
+
+App listing information
+
+SDK native collection
+
+Internal data sharing
+
+Background interface transfer
+
+When using the remote vehicle control function for Honda Connect models
+
+It allows users to use functions such as remote control on the Honda Connect connected car platform
+
+Haina Xinxzhi Service Co., Ltd
+. https://agreement.hynex.com.cn:16001/GHprivacy.html
+
+Tencent X5 browser
+
+Browser SDK
+
+Device InformationApplication Information (Application Package Name, Version Number)
+
+SDK native collection
+
+When the user browses documents and front-end web pages in the APP
+
+Loading the document engine helps users to open files such as PDFs better
+
+Shenzhen Tencent Computer System Co., Ltd
+
+https://rule.tencent.com/rule/preview/b01dde7c-2c5b-487a-9bdd-3275dc716a83
+
+Alipay
+
+Alipay SDK
+
+IMEI, IMSI, MAC address, device serial number, hardware serial number, SIM card serial number, ICCID, ; Android ID、OAID、SSID、BSSID； system settings, system attributes, device model, device brand, operating system; IP address, network type, carrier information, Wi-Fi status, Wi-Fi parameters, Wi-Fi list; Software installation list
+
+SDK native collection
+
+The user purchases value-added services
+
+Pay for purchases via Alipay
+
+Alipay (China) Network Technology Co., Ltd
+
+https://opendocs.alipay.com/common/02kiq3
+
+China Mobile Certification
+
+Authenticate SDKs
+
+Network type, network address, carrier type, local mobile phone number, mobile device type, mobile phone operating system, hardware manufacturer
+
+SDK native collection
+
+When a user logs in with a one-click with a mobile phone number
+
+Identify the user's mobile phone number for quick login/number verification
+
+China Mobile Internet Co., Ltd
+
+https://wap.cmpassport.com/resources/html/contract.html
+
+China Unicom certification
+
+Authenticate SDKs
+
+Network type, network address, carrier type, local mobile phone number, mobile device type, mobile phone operating system, hardware manufacturer
+
+SDK native collection
+
+When a user logs in with a one-click with a mobile phone number
+
+Identify the user's mobile phone number for quick login/number verification
+
+China United Network Communications Co., Ltd
+
+https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true
+
+China Telecom certification
+
+Authenticate SDKs
+
+Network IP address, network type, registered mobile phone number, local number, international mobile user identification code, application process information, network connection type, network status information, network address, carrier type, mobile device type, mobile device manufacturer, mobile phone operating system type and version
+
+SDK native collection
+
+When a user logs in with a one-click with a mobile phone number
+
+Identify the user's mobile phone number for quick login/number verification
+
+Century Dragon Information Network Co., Ltd
+
+https://e.189.cn/sdk/agreement/detail.do?hidetop=true&appKey=
+
+Borui Data SDK
+
+Data collection SDK
+
+App Information
+
+Device information
+
+Device status information
+
+Traffic information
+
+Network status information
+
+Page performance information
+
+App launch event
+
+Crash events
+
+SDK native collection
+
+Click the button on the APP or open the screen
+
+Analyze user usage data to troubleshoot user usage anomalies and other situations, so as to facilitate the provision of anomaly resolution services to users
+
+Beijing Borui Hongyuan Data Technology Co., Ltd
+
+https://docs.bonree.com/view/documents/105
+
+(2) Transfer
+We will not transfer your personal information to any company, organization or individual, except in the following circumstances:
+
+1. Transfer personal information to the personal information processor designated by you at your request (except as otherwise provided by laws and regulations);
+
+2. It is necessary to provide it in accordance with the laws and regulations of use, legal process requirements, and mandatory administrative or judicial requirements;
+
+3. Comply with the relevant agreements signed with you (including the electronic agreements signed online and the corresponding platform rules) or other legal documents;
+
+4. If it is necessary to transfer your personal information due to merger, division, dissolution, declaration of bankruptcy, etc., we will inform you of the name or name and contact information of the recipient. We will require the new company or organization that holds your personal information to continue to be bound by this Privacy Policy. If the company or organization changes the original processing purpose and processing method, we will require the company or organization to obtain your consent again.
+
+(3) Public disclosure
+We will only publicly disclose your personal information under the following circumstances and on the premise that we take security measures that comply with industry standards:
+
+1. Obtain your separate consent (e.g., disclose your designated personal information in the manner of disclosure with your explicit consent according to your needs);
+
+2. If it is necessary to provide your personal information in accordance with the requirements of laws and regulations, mandatory administrative law enforcement or judicial requirements, we may publicly disclose your personal information according to the type of personal information required and the method of disclosure. Subject to laws and regulations, when we receive a request for disclosure of information described above, we will require that we must issue corresponding legal documents, such as subpoenas or investigation letters. We will be as transparent as possible with respect to the information requested from us, to the extent permitted by law. All requests are carefully reviewed to ensure that they have a lawful basis and are limited to data that law enforcement has a legitimate right to obtain for the purposes of a particular investigation.
+
+IV. How We Protect and Store Your Personal Information
+(1) Our technologies and measures to protect your personal information
+We attach great importance to the security of personal information and take all reasonable and feasible measures to protect your personal information:
+
+1. We have used industry-standard security measures to protect your personal information from unauthorized access, public disclosure, use, modification, damage or loss of your personal information. Guangqi Honda will take all reasonable and feasible measures to protect your personal information.
+
+2. Our core business systems have passed the People's Republic of China Cybersecurity Graded Protection Certification and ISO 27001 Information Security Management System Certification, and we will also hold security and privacy protection training courses to strengthen employees' awareness of the importance of protecting personal information.
+
+3. We take corresponding encryption, de-identification and other security technical measures and related reasonable and feasible means to protect your personal information, and use security protection mechanisms to prevent your personal information from being maliciously attacked.
+
+4. We will establish a special security department, security management system, and data security process to ensure the security of your personal information. We have strict access rights for the use of data and the appropriate handling of personal information, and only allow employees and partners who have the necessary knowledge of such information to access personal information, and have set up strict access control and monitoring mechanisms for this purpose. At the same time, we require all personnel who may have access to your personal information to fulfill the corresponding confidentiality obligations, and conduct security audits of data and technology in a timely manner.
+
+5. Although the above reasonable and effective measures have been taken and the standards required by relevant laws and regulations have been complied with, please understand that the Internet environment is not 100% secure, and we will do our best to ensure or guarantee the security of any information you send to us. If our physical, technical, or management protection facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, resulting in damage to your legitimate rights and interests, we will bear corresponding legal responsibilities.
+
+6. In order to deal with possible risks such as leakage, damage and loss of personal information, we have formulated emergency measures for personal information leakage, established incident reporting and corresponding disposal procedures for leakage incidents, and established a special emergency response team. In the unfortunate event of a personal information security incident, we will, in accordance with the requirements of laws and regulations, promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, suggestions for you to prevent and reduce risks on your own, and remedial measures for you. We will promptly inform you of the relevant circumstances of the incident by email, letter, telephone, push notification, etc., and when it is difficult to inform the Personal Data Subject one by one, we will take reasonable and effective measures to make an announcement. If you find that your personal information is leaked, please contact us immediately through the contact information agreed in [9. How to Contact Us] in this Privacy Policy, so that we can take corresponding measures. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
+
+(2) Retention of your personal information
+1. Storage location
+
+In accordance with the provisions of laws and regulations, we will store your personal information collected and generated within the territory of the People's Republic of China. If we need to transfer your personal information overseas, we will comply with the relevant national regulations, obtain your authorization and consent separately, and require the recipient to process your personal information in accordance with the data protection agreement signed by both parties, this Privacy Policy and the requirements of relevant laws and regulations.
+
+2. Duration of storage
+
+Unless otherwise provided by laws and administrative regulations, we will only retain your personal information for the shortest time necessary for the purpose of providing Guangqi Honda APP services. For example, the E-Commerce Law of the People's Republic of China requires that the retention time of goods and services information and transaction information shall not be less than three years from the date of completion of the transaction, and we will retain the relevant information during the period when you do not delete it, revoke your consent or refuse our collection through system settings. After the necessary period is exceeded, we will delete or anonymize your personal information, unless otherwise provided by laws and regulations. Our criteria for judging the above deadlines include:
+
+Special requirements of laws, regulations or regulations regarding data retention periods;
+
+To fulfill the purpose of the transaction related to you, maintain the corresponding transaction and business records, and respond to any inquiries or complaints you may have;
+
+To ensure the safety and quality of the services we provide to you;
+
+Whether you agree to a longer retention period;
+
+Whether there are other special agreements on retention periods.
+
+If we terminate our services or operations, we will notify you at least 30 days in advance and delete or anonymize your personal information after terminating the services or operations.
+
+V. Your Rights
+We attach great importance to your concerns about your personal information, and do our best to protect your rights to inquire, correct, supplement, delete and withdraw your consent to your personal information, so that you have the full ability to protect your privacy and security. Your rights include:
+
+1. Access, correct and supplement your personal information
+In addition to the provisions of laws and regulations, you have the right to inquire and correct your profile picture, nickname, mobile phone number, gender, date of birth, delivery address and other member account information at any time, and you can access and correct it in the [My] - [Personal Information] interface of the Guangqi Honda APP.
+
+2. Delete your personal information
+You can erase or delete your personal information directly on our product or service pages. In the following circumstances, you can request us to delete your personal information through the contact information agreed in [9. How to Contact Us] in this Privacy Policy:
+
+(1) you have withdrawn your consent;
+
+(2) If we collect and use your personal information without your consent;
+
+(3) If we process your personal information in violation of laws, administrative regulations or agreements;
+
+(4) if the purpose of the processing has been achieved, cannot be achieved, or is no longer necessary to achieve the purpose of the processing;
+
+(5) If you no longer use our products or services, or you cancel your account;
+
+(6) If we terminate the service and operation, or the retention period has expired.
+
+(7) Other circumstances stipulated by laws and administrative regulations.
+
+If we decide to respond to your deletion request, we will also notify the entity that obtained your personal information from us and request it to delete it in a timely manner (unless otherwise provided by laws and regulations, or these entities have obtained your independent authorization). When you delete information from our Services, we may not immediately delete the information from our backup systems, but we will delete it when the backup is updated.
+
+3. Change the scope of your authorization and consent or withdraw your authorization
+You can change the scope of your authorization for us to continue to collect personal information or withdraw your authorization by deleting the information, turning off the device function, etc. You can also withdraw all authorization for us to continue to collect your personal information by canceling your account.
+
+Please understand that each business function requires some basic personal information to be completed, and after you withdraw your consent or authorization, we will not be able to continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the validity of the personal information processing activities that have been carried out based on your consent before the withdrawal.
+
+4. Cancel Account
+You can cancel your account in the Guangqi Honda APP [My] - [System Settings] - [Account and Security], or you can contact us through the contact information agreed in this Privacy Policy [9. How to Contact Us] to cancel your account. In order to protect your legitimate rights and interests, we will verify your personal identity, security status, device information, etc. before you cancel your account. After the account is cancelled, we will stop providing you with relevant products or services, temporarily freeze your membership rights, and delete or anonymize your relevant information according to your request (except as otherwise provided by laws and regulations).
+
+5. Respond to your above requests
+您可以通过本隐私政策【九、如何联系我们】中约定的联系方式向我们提交上述权利请求。我们核查后会在15个工作日内作出答复。
+
+如您提出删除敏感个人信息，我们会在收到您请求后开展删除或匿名化处理，但以下情形除外：
+
+（1）遵从法律法规有关信息留存的要求（例如：《电子商务法》规定：商品和服务信息、交易信息保存时间自交易完成之日起不少于三年）；
+
+（2）出于财务、审计、争议解决等目的需要留存数据的；
+
+（3）法律法规另有规定或与您另有约定的。
+
+6.投诉举报
+如果您认为您的个人信息权利可能受到侵害，或者发现侵害个人信息权利的线索，您可以通过本隐私政策【九、如何联系我们】中约定的联系方式与我们联系。我们核查后会在15个工作日内反馈您的投诉与举报。
+
+7. Obtain a copy of your personal information
+You have the right to obtain a copy of your personal information. If you need to obtain a copy of your personal information collected by us, you can contact us through the contact information agreed in [IX. How to Contact Us], and the relevant personnel will conduct the necessary identity verification on you, and we will provide you with a copy of your personal information under the premise that it complies with relevant laws and regulations and is technically feasible.
+
+VI. Protection of Children's Information
+1. We attach great importance to the protection of children's personal information, and our products, websites and services are mainly intended for adults. Without the consent of their parents or guardians, children should not create their own personal information subject accounts.
+
+2. For the collection of children's personal information with parental consent, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when it is necessary to protect children.
+
+3. Although local laws and customs define a child differently, we consider anyone under the age of 14 to be a child.
+
+4. If we find that we have collected personal information from a child without prior verifiable parental consent, we will try to delete the relevant data as soon as possible.
+
+7. How your personal information is transferred globally
+In principle, the personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China.
+
+Because we provide products or services through resources and servers located around the world, this means that your personal information may be transferred to, or accessed from, jurisdictions outside of the country in which you use the products or services.
+
+Such jurisdictions may have different data protection laws. In such cases, we will ensure that your personal information is adequately protected in the People's Republic of China. We will also enter into a contract with the overseas recipient to stipulate the rights and obligations of both parties, and before providing your personal information overseas, we will inform you of the name or contact information, processing purpose, processing method, type of personal information and other matters of the overseas recipient, and obtain your separate consent, or implement security measures such as data de-identification before cross-border data transfer.
+
+8. How this Policy is Updated
+1. In order to provide you with better services and with the development of Guangqi Honda's business, this Privacy Policy will also be updated accordingly. Without your express consent, we will not reduce your rights under this Privacy Policy. We will announce the updated version on the GAC Honda APP, and remind you of the update of the relevant content through the APP Privacy Policy Update pop-up window or other appropriate means before it takes effect.
+
+2. For major changes, we will also provide more prominent notices (we will explain the specific changes to the Privacy Policy by means including but not limited to email, text message or special reminder on the browsing page). The material changes referred to in this Policy include, but are not limited to:
+
+(1) There has been a significant change in our service model. Such as the purpose of processing personal information, the types of personal information processed, and the way in which personal information is used;
+
+(2) We have undergone significant changes in our ownership structure, organizational structure, etc. Such as business adjustment, bankruptcy mergers and acquisitions, etc.
+
+(3) changes in the main objects of personal information sharing, transfer or public disclosure;
+
+(4) There are significant changes in your rights to participate in the processing of personal information and the way in which they are exercised;
+
+(5) changes in the contact information and complaint channels for which we are responsible;
+
+(6) The personal information security impact assessment report indicates that there is a high risk.
+
+9. How to contact us
+If you have any questions, comments or suggestions about this Privacy Policy or matters related to your personal information, you can contact us through the following methods, and we will reply within 15 working days:
+
+400 Hotline (Cellular): 400-830-8999
+
+800 Hotline (landline): 800-830-8999
+
+If you need to resolve external disputes and disputes, you can contact the Huangpu District Court of Guangzhou City, Guangdong Province to resolve your problems by telephone: 020-83009658 / 020-83009659.

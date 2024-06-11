@@ -1,0 +1,1214 @@
+Privacy Policy
+– Garage Pro 
+:root {
+    --color-text: #3a3a3a;
+    --color-text-rgb: 58, 58, 58;
+    --color-body-text: #333232;
+    --color-sale-text: #EA0606;
+    --color-small-button-text-border: #3a3a3a;
+    --color-text-field: #ffffff;
+    --color-text-field-text: #000000;
+    --color-text-field-text-rgb: 0, 0, 0;
+
+    --color-btn-primary: #3a3a3a;
+    --color-btn-primary-darker: #212121;
+    --color-btn-primary-text: #ffffff;
+
+    --color-blankstate: rgba(51, 50, 50, 0.35);
+    --color-blankstate-border: rgba(51, 50, 50, 0.2);
+    --color-blankstate-background: rgba(51, 50, 50, 0.1);
+
+    --color-text-focus:#606060;
+    --color-overlay-text-focus:#e6e6e6;
+    --color-btn-primary-focus:#606060;
+    --color-btn-social-focus:#d2d2d2;
+    --color-small-button-text-border-focus:#606060;
+    --predictive-search-focus:#f2f2f2;
+
+    --color-body: #ffffff;
+    --color-bg: #ffffff;
+    --color-bg-rgb: 255, 255, 255;
+    --color-bg-alt: rgba(51, 50, 50, 0.05);
+    --color-bg-currency-selector: rgba(51, 50, 50, 0.2);
+
+    --color-overlay-title-text: #ffffff;
+    --color-image-overlay: #685858;
+    --color-image-overlay-rgb: 104, 88, 88;--opacity-image-overlay: 0.4;--hover-overlay-opacity: 0.8;
+
+    --color-border: #ebebeb;
+    --color-border-form: #cccccc;
+    --color-border-form-darker: #b3b3b3;
+
+    --svg-select-icon: url(//cdn.shopify.com/s/files/1/0076/4972/2481/t/8/assets/ico-select.svg?v=29003672709104678581628855713);
+    --slick-img-url: url(//cdn.shopify.com/s/files/1/0076/4972/2481/t/8/assets/ajax-loader.gif?v=41356863302472015721628855694);
+
+    --font-weight-body--bold: 700;
+    --font-weight-body--bolder: 700;
+
+    --font-stack-header: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+    --font-style-header: normal;
+    --font-weight-header: 700;
+
+    --font-stack-body: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+    --font-style-body: normal;
+    --font-weight-body: 400;
+
+    --font-size-header: 26;
+
+    --font-size-base: 15;
+
+    --font-h1-desktop: 35;
+    --font-h1-mobile: 32;
+    --font-h2-desktop: 20;
+    --font-h2-mobile: 18;
+    --font-h3-mobile: 20;
+    --font-h4-desktop: 17;
+    --font-h4-mobile: 15;
+    --font-h5-desktop: 15;
+    --font-h5-mobile: 13;
+    --font-h6-desktop: 14;
+    --font-h6-mobile: 12;
+
+    --font-mega-title-large-desktop: 65;
+
+    --font-rich-text-large: 17;
+    --font-rich-text-small: 13;
+
+    
+--color-video-bg: #f2f2f2;
+
+    
+    --global-color-image-loader-primary: rgba(58, 58, 58, 0.06);
+    --global-color-image-loader-secondary: rgba(58, 58, 58, 0.12);
+  }
+ *,::after,::before{box-sizing:border-box}body{margin:0}body,html{background-color:var(--color-body)}body,button{font-size:calc(var(--font-size-base) * 1px);font-family:var(--font-stack-body);font-style:var(--font-style-body);font-weight:var(--font-weight-body);color:var(--color-text);line-height:1.5}body,button{-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}.border-bottom{border-bottom:1px solid var(--color-border)}.btn--link{background-color:transparent;border:0;margin:0;color:var(--color-text);text-align:left}.text-right{text-align:right}.icon{display:inline-block;width:20px;height:20px;vertical-align:middle;fill:currentColor}.icon__fallback-text,.visually-hidden{position:absolute!important;overflow:hidden;clip:rect(0 0 0 0);height:1px;width:1px;margin:-1px;padding:0;border:0}svg.icon:not(.icon--full-color) circle,svg.icon:not(.icon--full-color) ellipse,svg.icon:not(.icon--full-color) g,svg.icon:not(.icon--full-color) line,svg.icon:not(.icon--full-color) path,svg.icon:not(.icon--full-color) polygon,svg.icon:not(.icon--full-color) polyline,svg.icon:not(.icon--full-color) rect,symbol.icon:not(.icon--full-color) circle,symbol.icon:not(.icon--full-color) ellipse,symbol.icon:not(.icon--full-color) g,symbol.icon:not(.icon--full-color) line,symbol.icon:not(.icon--full-color) path,symbol.icon:not(.icon--full-color) polygon,symbol.icon:not(.icon--full-color) polyline,symbol.icon:not(.icon--full-color) rect{fill:inherit;stroke:inherit}li{list-style:none}.list--inline{padding:0;margin:0}.list--inline>li{display:inline-block;margin-bottom:0;vertical-align:middle}a{color:var(--color-text);text-decoration:none}.h1,.h2,h1,h2{margin:0 0 17.5px;font-family:var(--font-stack-header);font-style:var(--font-style-header);font-weight:var(--font-weight-header);line-height:1.2;overflow-wrap:break-word;word-wrap:break-word}.h1 a,.h2 a,h1 a,h2 a{color:inherit;text-decoration:none;font-weight:inherit}.h1,h1{font-size:calc(((var(--font-h1-desktop))/ (var(--font-size-base))) * 1em);text-transform:none;letter-spacing:0}@media only screen and (max-width:749px){.h1,h1{font-size:calc(((var(--font-h1-mobile))/ (var(--font-size-base))) * 1em)}}.h2,h2{font-size:calc(((var(--font-h2-desktop))/ (var(--font-size-base))) * 1em);text-transform:uppercase;letter-spacing:.1em}@media only screen and (max-width:749px){.h2,h2{font-size:calc(((var(--font-h2-mobile))/ (var(--font-size-base))) * 1em)}}p{color:var(--color-body-text);margin:0 0 19.44444px}@media only screen and (max-width:749px){p{font-size:calc(((var(--font-size-base) - 1)/ (var(--font-size-base))) * 1em)}}p:last-child{margin-bottom:0}@media only screen and (max-width:749px){.small--hide{display:none!important}}.grid{list-style:none;margin:0;padding:0;margin-left:-30px}.grid::after{content:'';display:table;clear:both}@media only screen and (max-width:749px){.grid{margin-left:-22px}}.grid::after{content:'';display:table;clear:both}.grid--no-gutters{margin-left:0}.grid--no-gutters .grid__item{padding-left:0}.grid--table{display:table;table-layout:fixed;width:100%}.grid--table>.grid__item{float:none;display:table-cell;vertical-align:middle}.grid__item{float:left;padding-left:30px;width:100%}@media only screen and (max-width:749px){.grid__item{padding-left:22px}}.grid__item[class*="--push"]{position:relative}@media only screen and (min-width:750px){.medium-up--one-quarter{width:25%}.medium-up--push-one-third{width:33.33%}.medium-up--one-half{width:50%}.medium-up--push-one-third{left:33.33%;position:relative}}.site-header{position:relative;background-color:var(--color-body)}@media only screen and (max-width:749px){.site-header{border-bottom:1px solid var(--color-border)}}@media only screen and (min-width:750px){.site-header{padding:0 55px}.site-header.logo--center{padding-top:30px}}.site-header__logo{margin:15px 0}.logo-align--center .site-header__logo{text-align:center;margin:0 auto}@media only screen and (max-width:749px){.logo-align--center .site-header__logo{text-align:left;margin:15px 0}}@media only screen and (max-width:749px){.site-header__logo{padding-left:22px;text-align:left}.site-header__logo img{margin:0}}.site-header__logo-link{display:inline-block;word-break:break-word}@media only screen and (min-width:750px){.logo-align--center .site-header__logo-link{margin:0 auto}}.site-header__logo-image{display:block}@media only screen and (min-width:750px){.site-header__logo-image{margin:0 auto}}.site-header__logo-image img{width:100%}.site-header__logo-image--centered img{margin:0 auto}.site-header__logo img{display:block}.site-header__icons{position:relative;white-space:nowrap}@media only screen and (max-width:749px){.site-header__icons{width:auto;padding-right:13px}.site-header__icons .btn--link,.site-header__icons .site-header__cart{font-size:calc(((var(--font-size-base))/ (var(--font-size-base))) * 1em)}}.site-header__icons-wrapper{position:relative;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;-ms-align-items:center;-o-align-items:center;align-items:center;-webkit-justify-content:flex-end;-ms-justify-content:flex-end;justify-content:flex-end}.site-header__account,.site-header__cart,.site-header__search{position:relative}.site-header__search.site-header__icon{display:none}@media only screen and (min-width:1400px){.site-header__search.site-header__icon{display:block}}.site-header__search-toggle{display:block}@media only screen and (min-width:750px){.site-header__account,.site-header__cart{padding:10px 11px}}.site-header__cart-title,.site-header__search-title{position:absolute!important;overflow:hidden;clip:rect(0 0 0 0);height:1px;width:1px;margin:-1px;padding:0;border:0;display:block;vertical-align:middle}.site-header__cart-title{margin-right:3px}.site-header__cart-count{display:flex;align-items:center;justify-content:center;position:absolute;right:.4rem;top:.2rem;font-weight:700;background-color:var(--color-btn-primary);color:var(--color-btn-primary-text);border-radius:50%;min-width:1em;height:1em}.site-header__cart-count span{font-family:HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:calc(11em / 16);line-height:1}@media only screen and (max-width:749px){.site-header__cart-count{top:calc(7em / 16);right:0;border-radius:50%;min-width:calc(19em / 16);height:calc(19em / 16)}}@media only screen and (max-width:749px){.site-header__cart-count span{padding:.25em calc(6em / 16);font-size:12px}}.site-header__menu{display:none}@media only screen and (max-width:749px){.site-header__icon{display:inline-block;vertical-align:middle;padding:10px 11px;margin:0}}@media only screen and (min-width:750px){.site-header__icon .icon-search{margin-right:3px}}.announcement-bar{z-index:10;position:relative;text-align:center;border-bottom:1px solid transparent;padding:2px}.announcement-bar__link{display:block}.announcement-bar__message{display:block;padding:11px 22px;font-size:calc(((16)/ (var(--font-size-base))) * 1em);font-weight:var(--font-weight-header)}@media only screen and (min-width:750px){.announcement-bar__message{padding-left:55px;padding-right:55px}}.site-nav{position:relative;padding:0;text-align:center;margin:25px 0}.site-nav a{padding:3px 10px}.site-nav__link{display:block;white-space:nowrap}.site-nav--centered .site-nav__link{padding-top:0}.site-nav__link .icon-chevron-down{width:calc(8em / 16);height:calc(8em / 16);margin-left:.5rem}.site-nav__label{border-bottom:1px solid transparent}.site-nav__link--active .site-nav__label{border-bottom-color:var(--color-text)}.site-nav__link--button{border:none;background-color:transparent;padding:3px 10px}.site-header__mobile-nav{z-index:11;position:relative;background-color:var(--color-body)}@media only screen and (max-width:749px){.site-header__mobile-nav{display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;-ms-align-items:center;-o-align-items:center;align-items:center}}.mobile-nav--open .icon-close{display:none}.main-content{opacity:0}.main-content .shopify-section{display:none}.main-content .shopify-section:first-child{display:inherit}.critical-hidden{display:none} 
+    @font-face {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/helvetica/helvetica_n7.39bee04bd277a9c4e94e2fd42d53f4e3c0afb8a5.woff2?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=65f0b9824b01347a80c38a2cca91b6402398887220f7d8817798f8bbba983c7c") format("woff2"),
+       url("https://fonts.shopifycdn.com/helvetica/helvetica_n7.b95359461a6788d5549e702cb2123bc40c227e49.woff?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=97dec7c9fe2420ac6864619d0831fcaff897ad2c95bf1e79fdd973b2e9d16388") format("woff");
+}
+
+    @font-face {
+  font-family: Helvetica;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/helvetica/helvetica_n4.fe093fe9ca22a15354813c912484945a36b79146.woff2?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=4ce10d1689b3d5ef10839c7c9ec0ff9d103320ace917b60d3a74886a9ad83f37") format("woff2"),
+       url("https://fonts.shopifycdn.com/helvetica/helvetica_n4.8bddb85c18a0094c427a9bf65dee963ad88de4e8.woff?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=bd2437cb6c64e0ce8ffe8651a8b37a5877ba2f022e6397cc256eda599118b376") format("woff");
+}
+
+    @font-face {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/helvetica/helvetica_n7.39bee04bd277a9c4e94e2fd42d53f4e3c0afb8a5.woff2?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=65f0b9824b01347a80c38a2cca91b6402398887220f7d8817798f8bbba983c7c") format("woff2"),
+       url("https://fonts.shopifycdn.com/helvetica/helvetica_n7.b95359461a6788d5549e702cb2123bc40c227e49.woff?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=97dec7c9fe2420ac6864619d0831fcaff897ad2c95bf1e79fdd973b2e9d16388") format("woff");
+}
+
+    @font-face {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/helvetica/helvetica_n7.39bee04bd277a9c4e94e2fd42d53f4e3c0afb8a5.woff2?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=65f0b9824b01347a80c38a2cca91b6402398887220f7d8817798f8bbba983c7c") format("woff2"),
+       url("https://fonts.shopifycdn.com/helvetica/helvetica_n7.b95359461a6788d5549e702cb2123bc40c227e49.woff?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=97dec7c9fe2420ac6864619d0831fcaff897ad2c95bf1e79fdd973b2e9d16388") format("woff");
+}
+
+    @font-face {
+  font-family: Helvetica;
+  font-weight: 400;
+  font-style: oblique;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/helvetica/helvetica_o4.f9832a0fc1ee8fc5a359636e410d6941e1e4ca03.woff2?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=536acdbe3cc28270b3955405e8b80c72495a6e6979f66599d1109acf61b7c9a8") format("woff2"),
+       url("https://fonts.shopifycdn.com/helvetica/helvetica_o4.0063286aec443697ebae04eeb9c78b820f9f7805.woff?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=8dbcb0947e1ae7316f73ea3c6f4a4fdd48235f1b9903baa930b35fb134e5c84b") format("woff");
+}
+
+    @font-face {
+  font-family: Helvetica;
+  font-weight: 700;
+  font-style: oblique;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/helvetica/helvetica_o7.215fd4ca1a06214fa01e44328a1992c977700ea2.woff2?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=fadf4d257f008078f876da07f38dfb84bf01e50ee50732541dbf4a04f5551eb2") format("woff2"),
+       url("https://fonts.shopifycdn.com/helvetica/helvetica_o7.b0a2026ae2aa64d060f9ce0ee1b3c3c1aa21bf88.woff?h1=Z2FyYWdlcHJvLmlu&h2=Y2FycG0uYWNjb3VudC5teXNob3BpZnkuY29t&hmac=6c4575e94508c0380d7f2076382aa3a535cab50b574c550db967dda157ab6fd1") format("woff");
+}
+
+   
+ Skip to content 
+
+  .cart-popup {
+    box-shadow: 1px 1px 10px 2px rgba(235, 235, 235, 0.5);
+  } 
+ 
+ 
+ Just added to your cart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Qty: 
+ 
+ 
+ 
+ 
+ 
+      View cart ( )
+     
+ 
+ 
+        Continue shopping
+       
+ 
+ 
+ 
+ 
+ 
+    
+      .site-header__logo-image {
+        max-width: 50px;
+      }
+    
+
+    
+      .site-header__logo-image {
+        margin: 0;
+      }
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+ 
+ 
+ Close search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        .announcement-bar {
+          background-color: #1878b9;
+        }
+
+        .announcement-bar__link:hover {
+          
+
+          
+            
+            background-color: #2194e2;
+          
+        }
+
+        .announcement-bar__message {
+          color: #ffffff;
+        }
+       
+ 15% OFF on all products. Buy now to avail the offer! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ Catalog 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ Log in 
+ 
+ 
+ 
+ Cart 
+ 
+ 0 
+ items 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ Catalog 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Zymbia Interactive Technologies Private Limited (“ Zymbia ”, “ we ”, “ us ”, or “ our ”) takes the security of your personal information very seriously. We understand and respect your right to privacy and value the trust you place in us. This Privacy Policy describes Zymbia’s privacy practices in relation to how we collect, use, store, disclose and protect your personal information, as well as your choices regarding use, access and correction of your personal information. 
+ 1. SCOPE OF THIS PRIVACY POLICY 
+ This Privacy Policy applies to information we may collect from visitors through our websites which link to this Privacy Policy (“ Visitors ”) or from users or purchasers of our devices and apps, including GaragePro, CaRPM, CaRPM Inspection(“ Customers ”). (Any reference to “ Users ”, “ you ” or “ your ” in this Privacy Policy refers to both Visitors and Customers, as the case may be.) 
+ Zymbia may change all or part of this Privacy Policy from time to time. An up-to-date version of our Privacy Policy will be posted on  www.garagepro.in  . Your continued use of any of our apps, devices, software, websites or other services after the date of any such revision or replacement constitutes your consent to our collection, use and disclosure of your personal information in accordance with the revised or replaced Privacy Policy. 
+ 2. OUR COLLECTION AND USE OF INFORMATION 
+ This Privacy Policy distinguishes between “personal information” and “non-personal information”. Personal information is information that can be used to identify an individual person. Non-personal information means data in a form that does not, on its own, permit direct association with any specific individual. The types of information we collect and for which purposes are set out below. 
+ Personal Information  – When you contact us, order or download one of our apps, products,   or register or use our services, we collect personal information. This personal information may include your name, shipping address, email address, phone number, payment information, contact preferences, credit card information, and, if you provide it to us, your age and gender. 
+ We use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes. Some of the specific types of purposes for which we may use your personal information are as follows: 
+ (a)  When expressing an interest in obtaining additional information about our products and services, or downloading our apps or software updates, or purchasing a product or contacting us, Zymbia may collect and use personal information, such as your contact information (including but not limited to email id, phone number) and billing information, to assist us in performing the requested services (i.e. to ship you our product, to respond to your requests, to inform you about our products and to process payments). 
+ (b)  We may use your personal information, including date of birth, to assist with verifying your identity when you contact us. 
+ (c)  From time to time, we may use your personal information to inform you of our products, offers and updates, to send you notices about products and services that you have purchased, to advise you of changes to our terms, conditions, and policies, and to advise you of enhancements to our products. Because this information is important to your interaction with Zymbia, you may not opt out of receiving these communications. 
+ (d)  We may contact you to survey you with respect to your use and views on our products or to send you promotional material, including but not limited to emails, smses & push notifications. If you do not wish to receive such communications, you may opt out anytime by emailing  fix@carpm.in   
+ Vehicle Information  – When you use our devices and apps, we may collect and retain information from the vehicle's onboard computer such as its vehicle identification number (VIN), diagnostic trouble codes, and other vehicle system data including records of the vehicle’s behavior right before the problem started. All of this information helps us to determine what might be wrong with your vehicle – so that we can help get you on the road again faster. 
+ When vehicle information is linked to an identifiable User or a specific VIN, we consider this information as your personal information subject to the protections set forth in this Privacy Policy. When vehicle information is anonymized and aggregated so that it cannot be linked to an identifiable User or specific VIN, we treat this information as non-personal information (see below under “ Anonymized and Aggregated Data” ). 
+ Online Navigational Information – Our websites, emails and advertisements may use "cookies" and other similar technologies to collect online navigational information, such as information about your web browser, your Internet Protocol (IP) address, your Internet Service Provider, your operating system, referring and exit web sites and applications, date/time stamps, clickstream data and the actions you take on our websites. Cookies and similar technologies may also be placed by third-party analytic services, such as Google analytics, or third-party marketing services. 
+ In some of our email or other electronic communications, we may use a "click-through URL" linked to content on our website. When the email reader clicks one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in our electronic communication. 
+ Online Navigational Information is aggregated and used to help us understand and analyze trends, to understand and analyze the effectiveness of our marketing, to administer the website and apps, to learn about user behavior on the site, to gather demographic information about our User base as a whole, and to improve our products and services to better help you. 
+ Aggregated data with respect to online navigational information is considered non-personal information for the purposes of this Privacy Policy. If we do combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined. To the extent that IP addresses or similar identifiers are considered personal information, we also treat these identifiers as personal information for the purposes of this Privacy Policy. 
+ 3. DISCLOSURE OF PERSONAL INFORMATION TO OTHERS 
+ Business Partners and Solution Providers -  With your express consent (and only with your express consent), we may provide your personal information to trusted business partners and solution providers that work with us to provide you with additional or enhanced products and services. 
+ Third Party Offers -  We may present you with offers from trusted third parties to provide an offer or solution to you that may enhance your ownership or driving experience. If we present you with such offers or solutions, it will be on an “opt-in” basis only. 
+ Service Providers  -  We may contract with third party service providers to assist us in performing business-related functions such as information processing, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. To the extent a service provider has access to your personal information for such a purpose, we will ensure that they are obligated to use your personal information only for such purpose and that they are obligated to protect your information to standards at least as protective as those set out in this Privacy Policy. 
+ Legal Process  – It may be necessary by law, litigation or other legal process for us to disclose your personal information. Our policy is to notify you of any such legal process seeking access to your personal information unless we are prohibited by law from doing so or when the request is an emergency. We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. 
+ Business Transitions  – If we are involved in a reorganization, merger, or the actual or prospective sale of our business or company (or a unit or division) we may disclose personal information to the relevant third party as part of the transaction. In that event, we will ensure that your personal information remains protected in accordance with the principles set out in this Privacy Policy. 
+ 4. ANONYMIZED AND AGGREGATED DATA 
+ We may anonymize and aggregate the data we collect across many users, including vehicle information, and may provide this anonymized, aggregated data to third parties. Such data will not identify you or be able to identify you personally and, specifically, this anonymized and aggregated information will never include your specific vehicle identification number (VIN). 
+ 5. PROTECTION OF PERSONAL INFORMATION 
+ We take the security of your personal information very seriously. We use technical, administrative, and physical controls to maintain the security of your data. While we use industry-recognized security protocols to protect personal information, we cannot guarantee the safety of personal information from hacking or theft. If you have a security-related concern, please contact us at  fix@carpm.in 
+ 6. RETENTION OF PERSONAL INFORMATION 
+ We will retain your personal information for the period consistent with the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
+ 7. ACCESS TO YOUR PERSONAL INFORMATION 
+ We will provide you with access to your personal information that we retain for any purpose including requesting that we correct the data if it is inaccurate or delete the data if we are not required to retain it by law or for legitimate business purposes. We may decline to process requests that are frivolous, that jeopardize the privacy of others, are impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through  fix@carpm.in . 
+ 8. THIRD PARTY SITES AND SERVICES 
+ Our websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties, such as vehicle repair reports. The information collected by third parties, including location data or contact details, is governed by their privacy policies. Zymbia is not responsible for these third-party websites, products or services and encourages you to review the privacy policies of such third party web sites, products and services to understand their information practices. 
+ 9. PRIVACY QUESTIONS 
+ If you have any questions or concerns about our Privacy Policy or associated practices, please contact us at fix@carpm.in. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .site-footer__hr {
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .site-footer p,
+  .site-footer__linklist-item a,
+  .site-footer__rte a,
+  .site-footer h4,
+  .site-footer small,
+  .site-footer__copyright-content a,
+  .site-footer__newsletter-error,
+  .site-footer__social-icons .social-icons__link {
+    color: #333232;
+  }
+
+  .site-footer {
+    color: #333232;
+    background-color: #f6f6f6;
+  }
+
+  .site-footer__rte a {
+    border-bottom: 1px solid #333232;
+  }
+
+  .site-footer__rte a:hover,
+  .site-footer__linklist-item a:hover,
+  .site-footer__copyright-content a:hover {
+    color: #5a5858;
+    border-bottom: 1px solid #5a5858;
+  }
+
+  .site-footer__social-icons .social-icons__link:hover {
+    color: #5a5858;
+  }
+ 
+ 
+ 
+ Contact Us 
+ 604, Paras Trinity Sector 63 Gurgaon Haryana, 122011 Ph: +91-7353007699 
+ 
+ 
+ Pages 
+ 
+                          Privacy Policy
+                         
+ 
+ 
+                          Terms and Conditions
+                         
+ 
+ 
+ Want to stay updated about our products? Subscribe below. 
+ 
+ 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                  Country/region
+                 
+ India (INR ₹) 
+ 
+ 
+ Afghanistan (INR ₹) 
+ 
+ 
+ Åland Islands (INR ₹) 
+ 
+ 
+ Albania (INR ₹) 
+ 
+ 
+ Algeria (INR ₹) 
+ 
+ 
+ Andorra (INR ₹) 
+ 
+ 
+ Angola (INR ₹) 
+ 
+ 
+ Anguilla (INR ₹) 
+ 
+ 
+ Antigua & Barbuda (INR ₹) 
+ 
+ 
+ Argentina (INR ₹) 
+ 
+ 
+ Armenia (INR ₹) 
+ 
+ 
+ Aruba (INR ₹) 
+ 
+ 
+ Australia (INR ₹) 
+ 
+ 
+ Austria (INR ₹) 
+ 
+ 
+ Azerbaijan (INR ₹) 
+ 
+ 
+ Bahamas (INR ₹) 
+ 
+ 
+ Bahrain (INR ₹) 
+ 
+ 
+ Bangladesh (INR ₹) 
+ 
+ 
+ Barbados (INR ₹) 
+ 
+ 
+ Belarus (INR ₹) 
+ 
+ 
+ Belgium (INR ₹) 
+ 
+ 
+ Belize (INR ₹) 
+ 
+ 
+ Benin (INR ₹) 
+ 
+ 
+ Bermuda (INR ₹) 
+ 
+ 
+ Bhutan (INR ₹) 
+ 
+ 
+ Bolivia (INR ₹) 
+ 
+ 
+ Bosnia & Herzegovina (INR ₹) 
+ 
+ 
+ Botswana (INR ₹) 
+ 
+ 
+ Bouvet Island (INR ₹) 
+ 
+ 
+ Brazil (INR ₹) 
+ 
+ 
+ British Indian Ocean Territory (INR ₹) 
+ 
+ 
+ British Virgin Islands (INR ₹) 
+ 
+ 
+ Brunei (INR ₹) 
+ 
+ 
+ Bulgaria (INR ₹) 
+ 
+ 
+ Burkina Faso (INR ₹) 
+ 
+ 
+ Burundi (INR ₹) 
+ 
+ 
+ Cambodia (INR ₹) 
+ 
+ 
+ Cameroon (INR ₹) 
+ 
+ 
+ Canada (INR ₹) 
+ 
+ 
+ Cape Verde (INR ₹) 
+ 
+ 
+ Caribbean Netherlands (INR ₹) 
+ 
+ 
+ Cayman Islands (INR ₹) 
+ 
+ 
+ Central African Republic (INR ₹) 
+ 
+ 
+ Chad (INR ₹) 
+ 
+ 
+ Chile (INR ₹) 
+ 
+ 
+ China (INR ₹) 
+ 
+ 
+ Christmas Island (INR ₹) 
+ 
+ 
+ Cocos (Keeling) Islands (INR ₹) 
+ 
+ 
+ Colombia (INR ₹) 
+ 
+ 
+ Comoros (INR ₹) 
+ 
+ 
+ Congo - Brazzaville (INR ₹) 
+ 
+ 
+ Congo - Kinshasa (INR ₹) 
+ 
+ 
+ Cook Islands (INR ₹) 
+ 
+ 
+ Costa Rica (INR ₹) 
+ 
+ 
+ Côte d’Ivoire (INR ₹) 
+ 
+ 
+ Croatia (INR ₹) 
+ 
+ 
+ Cuba (INR ₹) 
+ 
+ 
+ Curaçao (INR ₹) 
+ 
+ 
+ Cyprus (INR ₹) 
+ 
+ 
+ Czechia (INR ₹) 
+ 
+ 
+ Denmark (INR ₹) 
+ 
+ 
+ Djibouti (INR ₹) 
+ 
+ 
+ Dominica (INR ₹) 
+ 
+ 
+ Dominican Republic (INR ₹) 
+ 
+ 
+ Ecuador (INR ₹) 
+ 
+ 
+ Egypt (INR ₹) 
+ 
+ 
+ El Salvador (INR ₹) 
+ 
+ 
+ Equatorial Guinea (INR ₹) 
+ 
+ 
+ Eritrea (INR ₹) 
+ 
+ 
+ Estonia (INR ₹) 
+ 
+ 
+ Eswatini (INR ₹) 
+ 
+ 
+ Ethiopia (INR ₹) 
+ 
+ 
+ Falkland Islands (INR ₹) 
+ 
+ 
+ Faroe Islands (INR ₹) 
+ 
+ 
+ Fiji (INR ₹) 
+ 
+ 
+ Finland (INR ₹) 
+ 
+ 
+ France (INR ₹) 
+ 
+ 
+ French Guiana (INR ₹) 
+ 
+ 
+ French Polynesia (INR ₹) 
+ 
+ 
+ Gabon (INR ₹) 
+ 
+ 
+ Gambia (INR ₹) 
+ 
+ 
+ Georgia (INR ₹) 
+ 
+ 
+ Germany (INR ₹) 
+ 
+ 
+ Ghana (INR ₹) 
+ 
+ 
+ Gibraltar (INR ₹) 
+ 
+ 
+ Greece (INR ₹) 
+ 
+ 
+ Greenland (INR ₹) 
+ 
+ 
+ Grenada (INR ₹) 
+ 
+ 
+ Guadeloupe (INR ₹) 
+ 
+ 
+ Guatemala (INR ₹) 
+ 
+ 
+ Guernsey (INR ₹) 
+ 
+ 
+ Guinea (INR ₹) 
+ 
+ 
+ Guinea-Bissau (INR ₹) 
+ 
+ 
+ Guyana (INR ₹) 
+ 
+ 
+ Haiti (INR ₹) 
+ 
+ 
+ Honduras (INR ₹) 
+ 
+ 
+ Hong Kong SAR (INR ₹) 
+ 
+ 
+ Hungary (INR ₹) 
+ 
+ 
+ Iceland (INR ₹) 
+ 
+ 
+ India (INR ₹) 
+ 
+ 
+ Indonesia (INR ₹) 
+ 
+ 
+ Iran (INR ₹) 
+ 
+ 
+ Iraq (INR ₹) 
+ 
+ 
+ Ireland (INR ₹) 
+ 
+ 
+ Isle of Man (INR ₹) 
+ 
+ 
+ Israel (INR ₹) 
+ 
+ 
+ Italy (INR ₹) 
+ 
+ 
+ Jamaica (INR ₹) 
+ 
+ 
+ Japan (INR ₹) 
+ 
+ 
+ Jersey (INR ₹) 
+ 
+ 
+ Jordan (INR ₹) 
+ 
+ 
+ Kazakhstan (INR ₹) 
+ 
+ 
+ Kenya (INR ₹) 
+ 
+ 
+ Kiribati (INR ₹) 
+ 
+ 
+ Kosovo (INR ₹) 
+ 
+ 
+ Kuwait (INR ₹) 
+ 
+ 
+ Kyrgyzstan (INR ₹) 
+ 
+ 
+ Laos (INR ₹) 
+ 
+ 
+ Latvia (INR ₹) 
+ 
+ 
+ Lebanon (INR ₹) 
+ 
+ 
+ Lesotho (INR ₹) 
+ 
+ 
+ Liberia (INR ₹) 
+ 
+ 
+ Libya (INR ₹) 
+ 
+ 
+ Liechtenstein (INR ₹) 
+ 
+ 
+ Lithuania (INR ₹) 
+ 
+ 
+ Luxembourg (INR ₹) 
+ 
+ 
+ Macao SAR (INR ₹) 
+ 
+ 
+ Madagascar (INR ₹) 
+ 
+ 
+ Malawi (INR ₹) 
+ 
+ 
+ Malaysia (INR ₹) 
+ 
+ 
+ Maldives (INR ₹) 
+ 
+ 
+ Mali (INR ₹) 
+ 
+ 
+ Malta (INR ₹) 
+ 
+ 
+ Martinique (INR ₹) 
+ 
+ 
+ Mauritania (INR ₹) 
+ 
+ 
+ Mauritius (INR ₹) 
+ 
+ 
+ Mayotte (INR ₹) 
+ 
+ 
+ Mexico (INR ₹) 
+ 
+ 
+ Moldova (INR ₹) 
+ 
+ 
+ Monaco (INR ₹) 
+ 
+ 
+ Mongolia (INR ₹) 
+ 
+ 
+ Montenegro (INR ₹) 
+ 
+ 
+ Montserrat (INR ₹) 
+ 
+ 
+ Morocco (INR ₹) 
+ 
+ 
+ Mozambique (INR ₹) 
+ 
+ 
+ Myanmar (Burma) (INR ₹) 
+ 
+ 
+ Namibia (INR ₹) 
+ 
+ 
+ Nauru (INR ₹) 
+ 
+ 
+ Nepal (INR ₹) 
+ 
+ 
+ Netherlands (INR ₹) 
+ 
+ 
+ Netherlands Antilles (INR ₹) 
+ 
+ 
+ New Caledonia (INR ₹) 
+ 
+ 
+ New Zealand (INR ₹) 
+ 
+ 
+ Nicaragua (INR ₹) 
+ 
+ 
+ Niger (INR ₹) 
+ 
+ 
+ Nigeria (INR ₹) 
+ 
+ 
+ Niue (INR ₹) 
+ 
+ 
+ Norfolk Island (INR ₹) 
+ 
+ 
+ North Korea (INR ₹) 
+ 
+ 
+ North Macedonia (INR ₹) 
+ 
+ 
+ Norway (INR ₹) 
+ 
+ 
+ Oman (INR ₹) 
+ 
+ 
+ Pakistan (INR ₹) 
+ 
+ 
+ Palestinian Territories (INR ₹) 
+ 
+ 
+ Panama (INR ₹) 
+ 
+ 
+ Papua New Guinea (INR ₹) 
+ 
+ 
+ Paraguay (INR ₹) 
+ 
+ 
+ Peru (INR ₹) 
+ 
+ 
+ Philippines (INR ₹) 
+ 
+ 
+ Pitcairn Islands (INR ₹) 
+ 
+ 
+ Poland (INR ₹) 
+ 
+ 
+ Portugal (INR ₹) 
+ 
+ 
+ Qatar (INR ₹) 
+ 
+ 
+ Réunion (INR ₹) 
+ 
+ 
+ Romania (INR ₹) 
+ 
+ 
+ Russia (INR ₹) 
+ 
+ 
+ Rwanda (INR ₹) 
+ 
+ 
+ Samoa (INR ₹) 
+ 
+ 
+ San Marino (INR ₹) 
+ 
+ 
+ São Tomé & Príncipe (INR ₹) 
+ 
+ 
+ Saudi Arabia (INR ₹) 
+ 
+ 
+ Senegal (INR ₹) 
+ 
+ 
+ Serbia (INR ₹) 
+ 
+ 
+ Seychelles (INR ₹) 
+ 
+ 
+ Sierra Leone (INR ₹) 
+ 
+ 
+ Singapore (INR ₹) 
+ 
+ 
+ Sint Maarten (INR ₹) 
+ 
+ 
+ Slovakia (INR ₹) 
+ 
+ 
+ Slovenia (INR ₹) 
+ 
+ 
+ Solomon Islands (INR ₹) 
+ 
+ 
+ Somalia (INR ₹) 
+ 
+ 
+ South Africa (INR ₹) 
+ 
+ 
+ South Korea (INR ₹) 
+ 
+ 
+ South Sudan (INR ₹) 
+ 
+ 
+ Spain (INR ₹) 
+ 
+ 
+ Sri Lanka (INR ₹) 
+ 
+ 
+ St. Barthélemy (INR ₹) 
+ 
+ 
+ St. Helena (INR ₹) 
+ 
+ 
+ St. Kitts & Nevis (INR ₹) 
+ 
+ 
+ St. Lucia (INR ₹) 
+ 
+ 
+ St. Martin (INR ₹) 
+ 
+ 
+ St. Pierre & Miquelon (INR ₹) 
+ 
+ 
+ St. Vincent & Grenadines (INR ₹) 
+ 
+ 
+ Sudan (INR ₹) 
+ 
+ 
+ Suriname (INR ₹) 
+ 
+ 
+ Svalbard & Jan Mayen (INR ₹) 
+ 
+ 
+ Sweden (INR ₹) 
+ 
+ 
+ Switzerland (INR ₹) 
+ 
+ 
+ Syria (INR ₹) 
+ 
+ 
+ Taiwan (INR ₹) 
+ 
+ 
+ Tajikistan (INR ₹) 
+ 
+ 
+ Tanzania (INR ₹) 
+ 
+ 
+ Thailand (INR ₹) 
+ 
+ 
+ Timor-Leste (INR ₹) 
+ 
+ 
+ Togo (INR ₹) 
+ 
+ 
+ Tokelau (INR ₹) 
+ 
+ 
+ Tonga (INR ₹) 
+ 
+ 
+ Trinidad & Tobago (INR ₹) 
+ 
+ 
+ Tunisia (INR ₹) 
+ 
+ 
+ Turkey (INR ₹) 
+ 
+ 
+ Turkmenistan (INR ₹) 
+ 
+ 
+ Turks & Caicos Islands (INR ₹) 
+ 
+ 
+ Tuvalu (INR ₹) 
+ 
+ 
+ U.S. Outlying Islands (INR ₹) 
+ 
+ 
+ Uganda (INR ₹) 
+ 
+ 
+ Ukraine (INR ₹) 
+ 
+ 
+ United Arab Emirates (INR ₹) 
+ 
+ 
+ United Kingdom (INR ₹) 
+ 
+ 
+ United States (INR ₹) 
+ 
+ 
+ Uruguay (INR ₹) 
+ 
+ 
+ Uzbekistan (INR ₹) 
+ 
+ 
+ Vanuatu (INR ₹) 
+ 
+ 
+ Vatican City (INR ₹) 
+ 
+ 
+ Venezuela (INR ₹) 
+ 
+ 
+ Vietnam (INR ₹) 
+ 
+ 
+ Wallis & Futuna (INR ₹) 
+ 
+ 
+ Western Sahara (INR ₹) 
+ 
+ 
+ Yemen (INR ₹) 
+ 
+ 
+ Zambia (INR ₹) 
+ 
+ 
+ Zimbabwe (INR ₹) 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ Instagram 
+ 
+ 
+ YouTube 
+ 
+ 
+ © 2023,  Garage Pro 
+ Powered by Shopify 
+ 
+ © 2023,  Garage Pro 
+ Powered by Shopify 
+ 
+ 
+ 
+ 
+ 
+ Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device 
+ 
+ 
+ 
+ Choosing a selection results in a full page refresh. 
+ Press the space key then arrow keys to make a selection. 
+ 
+ 
+ 
+  #occ2-mobile{position:fixed;top:0;z-index:10000;height:100%;overflow-y:scroll;-webkit-overflow-scrolling:touch}#occ2-mobile .spurit-occ2-product-delete [data-editable=product-delete-button]{width:22px;height:22px}#occ2-desktop .spurit-occ2-modal{left:0;width:100%;overflow:auto;position:fixed;z-index:9999;display:flex;height:100%;top:0}#occ2-desktop .spurit-occ2-content{margin:auto;position:relative;padding:30px 0;outline:0;display:flex;justify-content:center;max-width:650px;width:100%}.occ2-display-shown{display:block}.occ2-display-hidden{display:none}body.overflow-hidden{overflow:hidden!important;position:fixed;width:100%}@media (max-width:768px){#occ2-desktop,.occ2-desktop,.occ2-desktop.spurit-cloned{display:none}.buy-now-wrapper [data-editable=buy-now-button]{margin-left:0;margin-right:0;width:100%;padding-left:0;padding-right:0}}@media (min-width:769px){#occ2-mobile,.occ2-mobile,.occ2-mobile.spurit-cloned{display:none}body:not(.template-product) .buy-now-wrapper [data-editable=buy-now-button]{margin-left:0;margin-right:0;width:100%;padding-left:0;padding-right:0}}@media (-ms-high-contrast:active),(-ms-high-contrast:none){.spurit-occ2-modal{height:auto!important}}.occ2_buy_now{outline:none;font-size:18px;color:#fff;cursor:pointer;padding:10px 25px;border:0 solid;box-shadow:none;border-radius:0;text-align:center;white-space:nowrap}.occ2_buy_now span{line-height:1.2}.occ2_buy_now_0{background-color:#e31313}.occ2_buy_now_1{background-color:#084e8a;font-weight:700}.occ2_buy_now_2{background-color:#136857;font-weight:700;border-radius:3px}.occ2_buy_now_3{background-color:#f4ad42;font-size:20px}.occ2_buy_now_4{background-color:#52aaef;font-size:16px;border-radius:5px}.occ2_buy_now_5{background-color:#00848e;font-weight:700}.design-buy-now-template-wrapper{position:relative;z-index:10;width:100%;cursor:auto!important}.design-buy-now-template-wrapper button{margin-top:15px;margin-bottom:15px}.spurit-design{margin-top:0}.spurit-design .browse-templates .occ2_buy_now{margin:0!important}.spurit-occ2-popup{display:block;width:100%;overflow:hidden;color:#000;background-color:#fff;border-radius:6px;border:1px solid #d7d7d7;box-shadow:0 3px 20px rgba(0,0,0,.2)}.spurit-occ2-popup a,.spurit-occ2-popup abbr,.spurit-occ2-popup acronym,.spurit-occ2-popup address,.spurit-occ2-popup applet,.spurit-occ2-popup article,.spurit-occ2-popup aside,.spurit-occ2-popup audio,.spurit-occ2-popup b,.spurit-occ2-popup big,.spurit-occ2-popup blockquote,.spurit-occ2-popup body,.spurit-occ2-popup canvas,.spurit-occ2-popup caption,.spurit-occ2-popup center,.spurit-occ2-popup cite,.spurit-occ2-popup code,.spurit-occ2-popup dd,.spurit-occ2-popup del,.spurit-occ2-popup details,.spurit-occ2-popup dfn,.spurit-occ2-popup div,.spurit-occ2-popup dl,.spurit-occ2-popup dt,.spurit-occ2-popup em,.spurit-occ2-popup embed,.spurit-occ2-popup fieldset,.spurit-occ2-popup figcaption,.spurit-occ2-popup figure,.spurit-occ2-popup footer,.spurit-occ2-popup form,.spurit-occ2-popup h1,.spurit-occ2-popup h2,.spurit-occ2-popup h3,.spurit-occ2-popup h4,.spurit-occ2-popup h5,.spurit-occ2-popup h6,.spurit-occ2-popup header,.spurit-occ2-popup hgroup,.spurit-occ2-popup html,.spurit-occ2-popup i,.spurit-occ2-popup iframe,.spurit-occ2-popup img,.spurit-occ2-popup ins,.spurit-occ2-popup kbd,.spurit-occ2-popup label,.spurit-occ2-popup legend,.spurit-occ2-popup li,.spurit-occ2-popup main,.spurit-occ2-popup mark,.spurit-occ2-popup menu,.spurit-occ2-popup nav,.spurit-occ2-popup object,.spurit-occ2-popup ol,.spurit-occ2-popup output,.spurit-occ2-popup p,.spurit-occ2-popup pre,.spurit-occ2-popup q,.spurit-occ2-popup ruby,.spurit-occ2-popup s,.spurit-occ2-popup samp,.spurit-occ2-popup section,.spurit-occ2-popup small,.spurit-occ2-popup span,.spurit-occ2-popup strike,.spurit-occ2-popup strong,.spurit-occ2-popup sub,.spurit-occ2-popup summary,.spurit-occ2-popup sup,.spurit-occ2-popup table,.spurit-occ2-popup tbody,.spurit-occ2-popup td,.spurit-occ2-popup tfoot,.spurit-occ2-popup th,.spurit-occ2-popup thead,.spurit-occ2-popup time,.spurit-occ2-popup tr,.spurit-occ2-popup tt,.spurit-occ2-popup u,.spurit-occ2-popup ul,.spurit-occ2-popup var,.spurit-occ2-popup video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}.spurit-occ2-popup article,.spurit-occ2-popup aside,.spurit-occ2-popup details,.spurit-occ2-popup figcaption,.spurit-occ2-popup figure,.spurit-occ2-popup footer,.spurit-occ2-popup header,.spurit-occ2-popup hgroup,.spurit-occ2-popup main,.spurit-occ2-popup menu,.spurit-occ2-popup nav,.spurit-occ2-popup section,.spurit-occ2-popup summary{display:block}.spurit-occ2-popup *,.spurit-occ2-popup :after,.spurit-occ2-popup :before{box-sizing:inherit}.spurit-occ2-popup html{box-sizing:border-box;touch-action:manipulation;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:rgba(0,0,0,0)}.spurit-occ2-popup body{line-height:1;font-family:sans-serif}.spurit-occ2-popup ol,.spurit-occ2-popup ul{list-style:none}.spurit-occ2-popup blockquote,.spurit-occ2-popup q{quotes:none}.spurit-occ2-popup blockquote:after,.spurit-occ2-popup blockquote:before,.spurit-occ2-popup q:after,.spurit-occ2-popup q:before{content:"";content:none}.spurit-occ2-popup table{border-collapse:collapse;border-spacing:0}.spurit-occ2-popup hr{box-sizing:content-box;height:0;overflow:visible}.spurit-occ2-popup code,.spurit-occ2-popup kbd,.spurit-occ2-popup pre,.spurit-occ2-popup samp{font-family:monospace,monospace}.spurit-occ2-popup pre{overflow:auto;-ms-overflow-style:scrollbar}.spurit-occ2-popup a{background-color:transparent;-webkit-text-decoration-skip:objects}.spurit-occ2-popup abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}.spurit-occ2-popup b,.spurit-occ2-popup strong{font-weight:bolder}.spurit-occ2-popup small{font-size:80%}.spurit-occ2-popup sub,.spurit-occ2-popup sup{font-size:75%;line-height:0;position:relative}.spurit-occ2-popup sub{bottom:-.25em}.spurit-occ2-popup sup{top:-.5em}.spurit-occ2-popup img{border-style:none}.spurit-occ2-popup svg:not(:root){overflow:hidden}.spurit-occ2-popup button{border-radius:0}.spurit-occ2-popup button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}.spurit-occ2-popup button,.spurit-occ2-popup input,.spurit-occ2-popup optgroup,.spurit-occ2-popup select,.spurit-occ2-popup textarea{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}.spurit-occ2-popup [type=reset],.spurit-occ2-popup [type=submit],.spurit-occ2-popup button,.spurit-occ2-popup html [type=button]{-webkit-appearance:button}.spurit-occ2-popup input[type=date],.spurit-occ2-popup input[type=datetime-local],.spurit-occ2-popup input[type=month],.spurit-occ2-popup input[type=time]{-webkit-appearance:listbox}.spurit-occ2-popup textarea{resize:vertical}.spurit-occ2-popup button,.spurit-occ2-popup input{overflow:visible}.spurit-occ2-popup button,.spurit-occ2-popup select{text-transform:none}.spurit-occ2-popup [type=button]::-moz-focus-inner,.spurit-occ2-popup [type=reset]::-moz-focus-inner,.spurit-occ2-popup [type=submit]::-moz-focus-inner,.spurit-occ2-popup button::-moz-focus-inner{border-style:none;padding:0}.spurit-occ2-popup [type=button]:-moz-focusring,.spurit-occ2-popup [type=reset]:-moz-focusring,.spurit-occ2-popup [type=submit]:-moz-focusring,.spurit-occ2-popup button:-moz-focusring{outline:1px dotted ButtonText}.spurit-occ2-popup [tabindex="-1"]:focus{outline:0!important}.spurit-occ2-popup fieldset{min-width:0}.spurit-occ2-popup legend{max-width:100%;white-space:normal;color:inherit;display:block}.spurit-occ2-popup progress{vertical-align:baseline}.spurit-occ2-popup textarea{overflow:auto}.spurit-occ2-popup [type=checkbox],.spurit-occ2-popup [type=radio]{box-sizing:border-box;padding:0}.spurit-occ2-popup [type=number]::-webkit-inner-spin-button,.spurit-occ2-popup [type=number]::-webkit-outer-spin-button{height:auto}.spurit-occ2-popup [type=search]{-webkit-appearance:textfield;outline-offset:-2px}.spurit-occ2-popup [type=search]::-webkit-search-cancel-button,.spurit-occ2-popup [type=search]::-webkit-search-decoration{-webkit-appearance:none}.spurit-occ2-popup ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}.spurit-occ2-popup [hidden],.spurit-occ2-popup template,.spurit-occ2-popup tr:first-child td:after,.spurit-occ2-popup tr:first-child th:after{display:none}.spurit-occ2-popup .spurit-occ2-header{display:block;position:relative;background:#fff;text-align:center;line-height:1.2}.spurit-occ2-popup .spurit-occ2-header .spurit-occ2-title{display:flex;justify-content:center}.spurit-occ2-popup .spurit-occ2-header .spurit-occ2-title>*{line-height:1.2;font-size:18px}.spurit-occ2-popup .spurit-occ2-header .spurit-occ2-desc{display:flex;justify-content:center}.spurit-occ2-popup .spurit-occ2-header .spurit-occ2-desc>*{line-height:1.2;font-size:12px}.spurit-occ2-popup .spurit-occ2-header .spurit-occ2-close-popup-button{position:absolute;display:block;width:14px;right:15px;top:15px;fill:#a7a7a7;cursor:pointer}.spurit-occ2-popup .spurit-occ2-header .spurit-occ2-close-popup-button:hover{opacity:.7}.spurit-occ2-popup .spurit-occ2-body{display:block;padding:0 25px}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list{display:table;background:transparent;table-layout:auto!important;width:100%;text-shadow:none}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row{display:table-row;background:transparent}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{display:table-cell!important;background:transparent;box-sizing:border-box;vertical-align:middle;border-bottom:1px solid #d0d0d0;padding:19px 0}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell.spurit-occ2-product-image{width:1%}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell.spurit-occ2-product-image a{display:block;margin-right:16px}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell.spurit-occ2-product-image img{display:block;width:75px;max-width:none;-o-object-fit:cover;object-fit:cover}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell.spurit-occ2-product-quantity{width:9.5%;padding-left:15px}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell.spurit-occ2-product-price{width:12%;text-align:right;padding-left:15px}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell.spurit-occ2-product-delete{width:1.5%;text-align:right;padding-left:15px}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-name>*{font-size:13px;line-height:1.2}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-price>*{display:inline-block;white-space:nowrap;font-size:16px;line-height:1.2}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-delete>svg{width:15px;cursor:pointer}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-delete>svg:hover{opacity:.7}.spurit-occ2-popup .spurit-occ2-body .spurit-occ2-cart-empty{display:flex;flex-direction:column;align-items:center;justify-content:space-evenly;height:120px}.spurit-occ2-popup .spurit-occ2-footer{padding:19px 25px 25px}.spurit-occ2-popup .spurit-occ2-continue-shopping{display:block}.spurit-occ2-popup .spurit-occ2-continue-shopping>div{cursor:pointer}.spurit-occ2-popup .spurit-occ2-continue-shopping>div>*{display:inline-block;vertical-align:middle;line-height:1.2}.spurit-occ2-popup .spurit-occ2-continue-shopping>div>svg{margin-right:2px}.spurit-occ2-popup .spurit-occ2-continue-shopping>div:hover{opacity:.7}.spurit-occ2-popup .spurit-occ2-subtotal-row{display:flex;justify-content:flex-end;align-items:center;padding:0 0 15px}.spurit-occ2-popup .spurit-occ2-subtotal-row>*{line-height:1.2}.spurit-occ2-popup .spurit-occ2-subtotal-row .spurit-occ2-subtotal-label{margin-right:30px}.spurit-occ2-popup .spurit-occ2-subtotal-row .spurit-occ2-subtotal-price{min-width:90px}.spurit-occ2-popup .spurit-occ2-subtotal-row .spurit-occ2-subtotal-price>div{display:inline-block}.spurit-occ2-popup .spurit-occ2-actions-row{display:flex;align-items:center}.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-continue-shopping{margin-right:auto}.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-checkout,.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-go-to-cart{display:block;margin-left:15px}.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-checkout .spurit-occ2-button,.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-go-to-cart .spurit-occ2-button{display:inline-block;white-space:nowrap;line-height:1.2;cursor:pointer;text-align:center;padding:10px 25px;border:0 solid}.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-checkout:hover,.spurit-occ2-popup .spurit-occ2-actions-row .spurit-occ2-go-to-cart:hover{opacity:.7}.spurit-occ2-popup.spurit-occ2-popup-desktop{height:auto}.spurit-occ2-popup.spurit-occ2-popup-desktop .spurit-occ2-body{overflow:auto;max-height:calc(100vh - 250px)}.spurit-occ2-popup.spurit-occ2-popup-mobile{display:flex;flex-direction:column;width:100vw;height:100vh;max-width:800px;border-radius:0;border:none}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-subheader{padding:19px 25px 0}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body{overflow:auto;margin-bottom:auto}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{vertical-align:top;padding-bottom:13px}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:not(:first-child){border-bottom:0 solid;padding-bottom:0}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell .spurit-occ2-product-cell-flex{display:flex;align-items:center}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell .spurit-occ2-product-cell-flex .spurit-occ2-product-name,.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell .spurit-occ2-product-cell-flex .spurit-occ2-product-quantity{margin-right:auto}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell .spurit-occ2-product-cell-flex .spurit-occ2-product-delete,.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell .spurit-occ2-product-cell-flex .spurit-occ2-product-price{padding-left:15px}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-footer{display:flex;flex-direction:column;justify-content:flex-end}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-footer>*{width:100%}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-footer .spurit-occ2-subtotal-row{justify-content:flex-start}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-footer .spurit-occ2-subtotal-row .spurit-occ2-subtotal-label{margin-right:auto}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-subtotal-row .spurit-occ2-subtotal-price{text-align:right}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-actions-row{margin-left:-5px;margin-right:-5px}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-actions-row .spurit-occ2-checkout,.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-actions-row .spurit-occ2-go-to-cart{box-sizing:border-box;margin:0;width:50%;padding-left:5px;padding-right:5px}.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-actions-row .spurit-occ2-checkout .spurit-occ2-button,.spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-actions-row .spurit-occ2-go-to-cart .spurit-occ2-button{display:block;width:auto;padding-left:0;padding-right:0}.spurit-occ2-popup.spurit-occ2-template-0 .spurit-occ2-header{border-bottom:0 solid}.spurit-occ2-popup.spurit-occ2-template-0 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{border-color:#d0d0d0}.spurit-occ2-popup.spurit-occ2-template-1 .spurit-occ2-header{border-bottom:1px solid #a7a7a7}.spurit-occ2-popup.spurit-occ2-template-1 .spurit-occ2-body{padding-left:0;padding-right:0}.spurit-occ2-popup.spurit-occ2-template-1 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{border-color:#a7a7a7}.spurit-occ2-popup.spurit-occ2-template-1 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:first-child{padding-left:25px}.spurit-occ2-popup.spurit-occ2-template-1 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:last-child{padding-right:25px}.spurit-occ2-popup.spurit-occ2-template-2 .spurit-occ2-header{border-bottom:1px solid #e5e5e5}.spurit-occ2-popup.spurit-occ2-template-2 .spurit-occ2-body{padding-left:0;padding-right:0}.spurit-occ2-popup.spurit-occ2-template-2 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{border-color:#d0d0d0}.spurit-occ2-popup.spurit-occ2-template-2 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:first-child{padding-left:25px}.spurit-occ2-popup.spurit-occ2-template-2 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:last-child{padding-right:25px}.spurit-occ2-popup.spurit-occ2-template-3 .spurit-occ2-header{border-bottom:1px solid transparent}.spurit-occ2-popup.spurit-occ2-template-3 .spurit-occ2-header:after{content:"";display:block;position:absolute;height:1px;bottom:-1px;left:25px;right:25px;background-color:#a7a7a7}.spurit-occ2-popup.spurit-occ2-template-3 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{border-color:#a7a7a7}.spurit-occ2-popup.spurit-occ2-template-4 .spurit-occ2-header{border-bottom:1px solid #e3e3e3}.spurit-occ2-popup.spurit-occ2-template-4 .spurit-occ2-body{padding-left:0;padding-right:0}.spurit-occ2-popup.spurit-occ2-template-4 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{border-color:#e3e3e3}.spurit-occ2-popup.spurit-occ2-template-4 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:first-child{padding-left:25px}.spurit-occ2-popup.spurit-occ2-template-4 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:last-child{padding-right:25px}.spurit-occ2-popup.spurit-occ2-template-5 .spurit-occ2-header{border-bottom:1px solid #e3e3e3}.spurit-occ2-popup.spurit-occ2-template-5 .spurit-occ2-body{padding-left:0;padding-right:0}.spurit-occ2-popup.spurit-occ2-template-5 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell{border-color:#e3e3e3}.spurit-occ2-popup.spurit-occ2-template-5 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:first-child{padding-left:25px}.spurit-occ2-popup.spurit-occ2-template-5 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell:last-child{padding-right:25px}.spurit-num-input{display:flex;color:#848484;font-size:11px}.spurit-num-input .spurit-ni-button,.spurit-num-input input{height:20px}.spurit-num-input .spurit-ni-button{border:1px solid #c6d3e4;width:20px;display:flex;justify-content:center;align-items:center;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;text-decoration:none}.spurit-num-input .spurit-ni-button-left{border-radius:2px;border-bottom-right-radius:0!important;border-top-right-radius:0!important}.spurit-num-input .spurit-ni-button-right{border-radius:2px;border-bottom-left-radius:0!important;border-top-left-radius:0!important}.spurit-num-input input[type=number]{border-top:1px solid #c6d3e4;border-bottom:1px solid #c6d3e4;border-left:0;border-right:0;border-radius:0;text-align:center;font-size:11px;color:#000;width:32px;min-height:0!important;padding:0;background-color:inherit;-moz-appearance:textfield;-webkit-appearance:textfield;appearance:textfield;margin:0}.spurit-num-input input[type=number]::-webkit-inner-spin-button,.spurit-num-input input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}[data-occ2-preloader] .loader{margin:0 auto}.spurit-design .browse-templates .spurit-occ2-popup{width:450px}.spurit-design .spurit-occ2-popup.spurit-occ2-popup-mobile{height:auto;max-height:600px;max-width:376px}.spurit-design .spurit-occ2-popup.spurit-occ2-popup-mobile .spurit-occ2-footer{height:150px}.occ2-properties{font-style:italic!important}.occ2-hidden{display:none!important}.occ2-cart{cursor:pointer}.spurit-occ2-popup div.loader{position:relative;margin:0 auto;width:100px;height:auto}.spurit-occ2-popup div.loader:before{content:"";display:block;padding-top:100%}.circular{-webkit-animation:rotate 2s linear infinite;animation:rotate 2s linear infinite;height:100%;transform-origin:center center;width:100%;position:absolute;top:0;bottom:0;left:0;right:0;margin:auto}.path{stroke-dasharray:1,200;stroke-dashoffset:0;-webkit-animation:dash 1.5s ease-in-out infinite,color 6s ease-in-out infinite;animation:dash 1.5s ease-in-out infinite,color 6s ease-in-out infinite;stroke-linecap:round}@-webkit-keyframes rotate{to{transform:rotate(1turn)}}@keyframes rotate{to{transform:rotate(1turn)}}@-webkit-keyframes dash{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35px}to{stroke-dasharray:89,200;stroke-dashoffset:-124px}}@keyframes dash{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35px}to{stroke-dasharray:89,200;stroke-dashoffset:-124px}}@-webkit-keyframes color{0%,to{stroke:#d62d20}40%{stroke:#0057e7}66%{stroke:#008744}80%,90%{stroke:#ffa700}}@keyframes color{0%,to{stroke:#d62d20}40%{stroke:#0057e7}66%{stroke:#008744}80%,90%{stroke:#ffa700}}.showbox{top:0;bottom:0;left:0;right:0;display:none}
+
+
+.buy-now-wrapper [data-editable="buy-now-button"] {
+	background-color: #E31313;
+	border-color: rgb(255, 255, 255);
+	border-width: 0;
+	border-radius: 0;
+	color: rgb(255, 255, 255);
+	font-size: 18px;
+	font-family: inherit;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	padding-top: 10px;
+	margin-top: 15px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+
+
+
+ 
+ 
+ 
+  **BEGIN** Hextom CTB Integration // Main Include - DO NOT MODIFY  
+  **BEGIN** Hextom CTB Integration // Main - DO NOT MODIFY  
+ 
+  **END** Hextom CTB Integration // Main - DO NOT MODIFY  
+  **END** Hextom CTB Integration // Main Include - DO NOT MODIFY  
+ 
+ 

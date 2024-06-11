@@ -1,0 +1,140 @@
+{
+    "Identifier Information": [
+        "Vehicle Chassis Number",
+        "Vehicle Frame Number",
+        "Vehicle Engine Number",
+        "Unique Vehicle Identifier",
+        "Vehicle Registration Number",
+        "Vehicle Series",
+        "Vehicle Identification Number",
+        "Driver Identification Number",
+        "License Plate Number" 
+    ],
+    "Driver Information": [
+        "Driver Biometric Information",
+        "Authentication Information",
+        "Physiological Information" 
+    ],
+    "Passenger Information": [
+        "Passenger Seat Count",
+        "Passenger Occupy Information" 
+    ],
+    "Vehicle Wheel Information": [
+        "Tire Temperature",
+        "Tire Pressure",
+        "Wheel Speed",
+        "Wheel Angle" 
+    ],
+    "Vehicle Windows and Sunroof": [
+        "Driver Window Status",
+        "Passenger Window Status",
+        "Rear Window Status",
+        "Sunroof Status",
+        "Vehicle Window" 
+    ],
+    "Vehicle Lights and Indicators": [
+        "Headlight",
+        "Brake Light",
+        "Turn Signal",
+        "Hazard Light",
+        "High Beam Light",
+        "Low Beam Light",
+        "Ambient Light" 
+    ],
+    "Vehicle Doors and Trunk": [
+        "Driver Door",
+        "Passenger Door",
+        "Vehicle Door",
+        "Rear Door",
+        "Door Lock",
+        "Trunk Lock",
+        "Trunk Open/Close Status" 
+    ],
+    "Vehicle Information": [
+        "Vehicle Make",
+        "Vehicle Model",
+        "New Energy Sign",
+        "Vehicle Fuel Type",
+        "Gasoline Model",
+        "Vehicle Registration Date" 
+    ],
+    "Driving Behavior": [
+        "Vehicle Speed",
+        "Vehicle Fuel",
+        "Vehicle Acceleration",
+        "Braking Data",
+        "Steering Data",
+        "Anti-locked Braking system",
+        "Odometer Readings",
+        "Vehicle Mileage",
+        "Trip",
+        "Horn Honking",
+        "Gear Position",
+        "Motor Speed",
+        "Accelerator Pedal",
+        "Brake Pedal Status",
+        "Seat Belt Use",
+        "Vehicle Track",
+        "Geolocation Data",
+        "Vehicle Location",
+        "Latitude",
+        "Longitude",
+        "Altitude" 
+    ],
+    "Vehicle Usage Information": [
+        "Seat Adjustment",
+        "Headrest Position",
+        "Air Conditioner",
+        "Steering Wheel",
+        "Mirror Position",
+        "Remote Control Information"
+    ],
+    "Vehicle Maintenance & Diagnostic Data": [
+        "OBD Information",
+        "vehicle Repair",
+        "Check Engine Light",
+        "Fluid Levels",
+        "Maintenance History",
+        "Maintenance Logs",
+        "Vehicle CAN Logs"
+    ],
+    "Battery Information": [
+        "Battery",
+        "Battery Level",
+        "Battery Capacity",
+        "Battery Health",
+        "Battery Voltage"
+    ],
+    "Charging Information": [
+        "Charging Voltage",
+        "Charging Mode",
+        "Charging Time",
+        "Amount Charged",
+        "Charging Station",
+        "Charging Pile",
+        "Charging Status"
+    ],
+    "Insurance Information": [
+        "Insurance Company",
+        "Credit Information",
+        "Insurance City",
+        "Insurance Start Time",
+        "Insurance Name"
+    ],
+    "Environment data": [
+        "Road Condition",
+        "Traffic",
+        "Parking"
+    ],
+    "Emergency data": [
+        "Collision Information",
+        "Lane Departure Warning",
+        "Blind Spot Warning",
+        "Rescue Information",
+        "Vehicle Theft Information",
+        "Emergency Brake Activation",
+        "Airbag Status",
+        "Thermal Runaway",
+        "E-CALL"
+    ]
+}
